@@ -71,11 +71,11 @@
                                         "techniques": [
                                             {
                                                 "id": "TECH:ARIA6",
-                                                "title": "Using aria-label to provide labels for objects"
+                                                "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                             },
                                             {
                                                 "id": "TECH:ARIA10",
-                                                "title": "Using aria-labelledby to provide a text alternative for non-text content"
+                                                "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                             },
                                             {
                                                 "id": "TECH:G196",
@@ -136,11 +136,11 @@
                                             "techniques": [
                                                 {
                                                     "id": "TECH:ARIA6",
-                                                    "title": "Using aria-label to provide labels for objects"
+                                                    "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                                 },
                                                 {
                                                     "id": "TECH:ARIA10",
-                                                    "title": "Using aria-labelledby to provide a text alternative for non-text content"
+                                                    "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                                 },
                                                 {
                                                     "id": "TECH:G196",
@@ -193,7 +193,7 @@
                                             "techniques": [
                                                 {
                                                     "id": "TECH:ARIA15",
-                                                    "title": "Using aria-describedby to provide descriptions of images"
+                                                    "title": "Używanie atrybutu aria-describedby, aby zapewnić odpowiedniki tekstowe dla obrazów"
                                                 },
                                                 {
                                                     "id": "TECH:G73",
@@ -242,11 +242,11 @@
                                         "techniques": [
                                             {
                                                 "id": "TECH:ARIA6",
-                                                "title": "Using aria-label to provide labels for objects"
+                                                "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                             },
                                             {
                                                 "id": "TECH:ARIA9",
-                                                "title": "Using aria-labelledby to concatenate a label from several text nodes"
+                                                "title": "Używanie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
                                             },
                                             {
                                                 "id": "TECH:FLASH6",
@@ -319,11 +319,11 @@
                                             "techniques": [
                                                 {
                                                     "id": "TECH:ARIA6",
-                                                    "title": "Using aria-label to provide labels for objects"
+                                                    "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                                 },
                                                 {
                                                     "id": "TECH:ARIA10",
-                                                    "title": "Using aria-labelledby to provide a text alternative for non-text content"
+                                                    "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                                 },
                                                 {
                                                     "id": "TECH:G196",
@@ -374,11 +374,11 @@
                                     },
                                     {
                                         "id": "TECH:ARIA6",
-                                        "title": "Using aria-label to provide labels for objects"
+                                        "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                     },
                                     {
                                         "id": "TECH:ARIA10",
-                                        "title": "Using aria-labelledby to provide a text alternative for non-text content"
+                                        "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                     },
                                     {
                                         "id": "TECH:G68",
@@ -388,11 +388,11 @@
                                             "techniques": [
                                                 {
                                                     "id": "TECH:ARIA6",
-                                                    "title": "Using aria-label to provide labels for objects"
+                                                    "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                                 },
                                                 {
                                                     "id": "TECH:ARIA10",
-                                                    "title": "Using aria-labelledby to provide a text alternative for non-text content"
+                                                    "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                                 },
                                                 {
                                                     "id": "TECH:G196",
@@ -449,11 +449,11 @@
                                             "techniques": [
                                                 {
                                                     "id": "TECH:ARIA6",
-                                                    "title": "Using aria-label to provide labels for objects"
+                                                    "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                                 },
                                                 {
                                                     "id": "TECH:ARIA10",
-                                                    "title": "Using aria-labelledby to provide a text alternative for non-text content"
+                                                    "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                                 },
                                                 {
                                                     "id": "TECH:G196",
@@ -1216,27 +1216,27 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA11",
-                                            "title": "Using ARIA landmarks to identify regions of a page"
+                                            "title": "Używanie punktów orientacyjnych ARIA do określenia istotnych obszarów strony"
                                         },
                                         {
                                             "id": "TECH:ARIA12",
-                                            "title": "Using role=heading to identify headings"
+                                            "title": "Używanie atrybutu role=heading do identyfikacji nagłówków"
                                         },
                                         {
                                             "id": "TECH:ARIA13",
-                                            "title": "Using aria-labelledby to name regions and landmarks"
+                                            "title": "Używanie atrybutu aria-labelledby do nazywania obszarów i punktów orientacyjnych na stronie"
                                         },
                                         {
                                             "id": "TECH:ARIA16",
-                                            "title": "Using aria-labelledby to provide a name for user interface controls"
+                                            "title": "Używanie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
                                         },
                                         {
                                             "id": "TECH:ARIA17",
-                                            "title": "Using grouping roles to identify related form controls"
+                                            "title": "Używanie ról grupowania do identyfikowania powiązanych formantów formularzy"
                                         },
                                         {
                                             "id": "TECH:ARIA20",
-                                            "title": "Using the region role to identify a region of the page"
+                                            "title": "Używanie atrybutu role=region do określania obszarów na stronie"
                                         },
                                         {"and": [
                                             {
@@ -1258,7 +1258,7 @@
                                         },
                                         {
                                             "id": "TECH:ARIA24",
-                                            "title": "Semantically identifying a font icon with role=\"img\""
+                                            "title": "Semantyczna identyfikacja ikony czcionki za pomocą atrybutu role=\"img\""
                                         },
                                         {
                                             "id": "TECH:text",
@@ -1431,11 +1431,11 @@
                                 },
                                 {
                                     "id": "TECH:ARIA1",
-                                    "title": "Using the aria-describedby property to provide a descriptive label for user interface controls"
+                                    "title": "Używanie dostępnej bogatej aplikacji internetowej, opisanej jako właściwość, aby zapewnić opisową etykietę określaną programowo"
                                 },
                                 {
                                     "id": "TECH:ARIA2",
-                                    "title": "Identifying a required field with the aria-required property"
+                                    "title": "Identyfikacja wymaganych pól za pomocą właściwości aria-required"
                                 },
                                 {
                                     "id": "TECH:G141",
@@ -1665,7 +1665,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:ARIA11",
-                                    "title": "Using ARIA landmarks to identify regions of a page"
+                                    "title": "Używanie punktów orientacyjnych ARIA do określenia istotnych obszarów strony"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -3524,7 +3524,7 @@
                                     "using": [
                                         {
                                             "id": "TECH:ARIA11",
-                                            "title": "Using ARIA landmarks to identify regions of a page"
+                                            "title": "Używanie punktów orientacyjnych ARIA do określenia istotnych obszarów strony"
                                         },
                                         {
                                             "id": "TECH:H69",
@@ -3744,11 +3744,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:ARIA7",
-                                            "title": "Using aria-labelledby for link purpose"
+                                            "title": "Używanie atrybutu aria-labelledby, aby wskazać cel linku"
                                         },
                                         {
                                             "id": "TECH:ARIA8",
-                                            "title": "Using aria-label for link purpose"
+                                            "title": "Używanie atrybutu aria-label, aby wskazać cel linku"
                                         },
                                         {
                                             "id": "TECH:H77",
@@ -4017,7 +4017,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:ARIA8",
-                                    "title": "Using aria-label for link purpose"
+                                    "title": "Używanie atrybutu aria-label, aby wskazać cel linku"
                                 },
                                 {
                                     "id": "TECH:G91",
@@ -5088,7 +5088,7 @@
                                         },
                                         {
                                             "id": "TECH:ARIA21",
-                                            "title": "Using Aria-Invalid to Indicate An Error Field"
+                                            "title": "Używanie atrybutu aria-invalid do wskazania pola z błędem"
                                         },
                                         {
                                             "id": "TECH:SCR18",
@@ -5109,15 +5109,15 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA18",
-                                            "title": "Using aria-alertdialog to Identify Errors"
+                                            "title": "Używanie atrybutu aria-alertdialog do identyfikacji błędów"
                                         },
                                         {
                                             "id": "TECH:ARIA19",
-                                            "title": "Using ARIA role=alert or Live Regions to Identify Errors"
+                                            "title": "Używanie atrybutu role=alert lub role=live do identyfikacji błędów"
                                         },
                                         {
                                             "id": "TECH:ARIA21",
-                                            "title": "Using Aria-Invalid to Indicate An Error Field"
+                                            "title": "Używanie atrybutu aria-invalid do wskazania pola z błędem"
                                         },
                                         {
                                             "id": "TECH:G84",
@@ -5183,11 +5183,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:ARIA1",
-                                            "title": "Using the aria-describedby property to provide a descriptive label for user interface controls"
+                                            "title": "Używanie dostępnej bogatej aplikacji internetowej, opisanej jako właściwość, aby zapewnić opisową etykietę określaną programowo"
                                         },
                                         {
                                             "id": "TECH:ARIA9",
-                                            "title": "Using aria-labelledby to concatenate a label from several text nodes"
+                                            "title": "Używanie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
                                         },
                                         {
                                             "id": "TECH:ARIA17",
@@ -5302,7 +5302,7 @@
                                         },
                                         {
                                             "id": "TECH:ARIA2",
-                                            "title": "Identifying a required field with the aria-required property"
+                                            "title": "Identyfikacja wymaganych pól za pomocą właściwości aria-required"
                                         },
                                         {
                                             "id": "TECH:PDF5",
@@ -5319,7 +5319,7 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA18",
-                                            "title": "Using aria-alertdialog to Identify Errors"
+                                            "title": "Używanie atrybutu aria-alertdialog do identyfikacji błędów"
                                         },
                                         {
                                             "id": "TECH:G85",
@@ -5352,7 +5352,7 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA18",
-                                            "title": "Using aria-alertdialog to Identify Errors"
+                                            "title": "Używanie atrybutu aria-alertdialog do identyfikacji błędów"
                                         },
                                         {
                                             "id": "TECH:G84",
@@ -5702,11 +5702,11 @@
                                 "techniques": [
                                     {
                                         "id": "TECH:ARIA14",
-                                        "title": "Using aria-label to provide an invisible label where a visible label cannot be used"
+                                        "title": "Używanie atrybutu aria-label, aby zapewnić niewidoczną etykietę, gdy nie można użyć widocznej etykiety"
                                     },
                                     {
                                         "id": "TECH:ARIA16",
-                                        "title": "Using aria-labelledby to provide a name for user interface controls"
+                                        "title": "Używanie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
                                     },
                                     {
                                         "id": "TECH:G108",
@@ -5743,7 +5743,7 @@
                                     "title": "Exposing the names and roles, allowing user-settable properties to be directly set, and providing notification of changes using one of the following techniques:",
                                     "using": [{
                                         "id": "TECH:ARIA16",
-                                        "title": "Using aria-labelledby to provide a name for user interface controls"
+                                        "title": "Używanie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
                                     }]
                                 }]
                             },
@@ -5792,15 +5792,15 @@
                                     "using": [
                                         {
                                             "id": "TECH:ARIA4",
-                                            "title": "Using a WAI-ARIA role to expose the role of a user interface component"
+                                            "title": "Używanie atrybutu &bdquo;role&rdquo;, aby wyeksponować rolę komponentu interfejsu użytkownika"
                                         },
                                         {
                                             "id": "TECH:ARIA5",
-                                            "title": "Using WAI-ARIA state and property attributes to expose the state of a user interface component"
+                                            "title": "Użycie atrybutów stanu i właściwości WAI-ARIA do ujawnienia stanu komponentu interfejsu użytkownika"
                                         },
                                         {
                                             "id": "TECH:ARIA16",
-                                            "title": "Using aria-labelledby to provide a name for user interface controls"
+                                            "title": "Używanie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
                                         },
                                         {
                                             "id": "TECH:SL6",
@@ -5869,7 +5869,7 @@
                                 "title": "Situation A: If a status message advises on the success or results of an action, or the state of an application:",
                                 "techniques": [{
                                     "id": "TECH:ARIA22",
-                                    "title": "Using role=status to present status messages",
+                                    "title": "Używanie atrybutu role=status do prezentacji statusu komunikatu błędu",
                                     "using": [{
                                         "id": "TECH:G199",
                                         "title": "Zapewnienie komunikatu o powodzeniu po pomyślnym przesłaniu danych"
@@ -5880,7 +5880,7 @@
                                 "title": "Situation B: If a status message conveys a suggestion, or a warning on the existence of an error:",
                                 "techniques": [{
                                     "id": "TECH:ARIA19",
-                                    "title": "Using ARIA role=alert or Live Regions to Identify Errors",
+                                    "title": "Używanie atrybutu role=alert lub role=live do identyfikacji błędów",
                                     "using": [
                                         {
                                             "id": "TECH:G83",
@@ -5910,7 +5910,7 @@
                                 "techniques": [
                                     {
                                         "id": "TECH:ARIA23",
-                                        "title": "Using role=log to identify sequential information updates"
+                                        "title": "Używanie atrybutu role=log do identyfikowania sekwencyjnych aktualizacji informacji"
                                     },
                                     {
                                         "id": "TECH:text",
@@ -5919,7 +5919,7 @@
                                     {"and": [
                                         {
                                             "id": "TECH:ARIA22",
-                                            "title": "Using role=status to present status messages"
+                                            "title": "Używanie atrybutu role=status do prezentacji statusu komunikatu błędu"
                                         },
                                         {
                                             "id": "TECH:G193",
@@ -5944,7 +5944,7 @@
                             },
                             {
                                 "id": "TECH:ARIA18",
-                                "title": "Using aria-alertdialog to Identify Errors"
+                                "title": "Używanie atrybutu aria-alertdialog do identyfikacji błędów"
                             },
                             {
                                 "id": "TECH:SCR14",
