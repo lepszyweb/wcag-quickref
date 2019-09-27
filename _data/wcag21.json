@@ -79,7 +79,7 @@
                                             },
                                             {
                                                 "id": "TECH:G196",
-                                                "title": "Using a text alternative on one item within a group of images that describes all items in the group"
+                                                "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                             },
                                             {
                                                 "id": "TECH:FLASH1",
@@ -95,23 +95,23 @@
                                             },
                                             {
                                                 "id": "TECH:H2",
-                                                "title": "Combining adjacent image and text links for the same resource"
+                                                "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
                                             },
                                             {
                                                 "id": "TECH:H35",
-                                                "title": "Providing text alternatives on applet elements"
+                                                "title": "Zapewnienie alternatyw tekstowych w elementach apletu"
                                             },
                                             {
                                                 "id": "TECH:H37",
-                                                "title": "Using alt attributes on img elements"
+                                                "title": "Używanie atrybutów alt na elementach img"
                                             },
                                             {
                                                 "id": "TECH:H53",
-                                                "title": "Using the body of the object element"
+                                                "title": "Używanie ciała (zawartości) elementu object"
                                             },
                                             {
                                                 "id": "TECH:H86",
-                                                "title": "Providing text alternatives for ASCII art, emoticons, and leetspeak"
+                                                "title": "Zapewnienie tekstowych alternatyw dla sztuki ASCII, emotikonów i tekstu szyfrowanego (leetspeak)"
                                             },
                                             {
                                                 "id": "TECH:PDF1",
@@ -144,7 +144,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:G196",
-                                                    "title": "Using a text alternative on one item within a group of images that describes all items in the group"
+                                                    "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH1",
@@ -160,19 +160,19 @@
                                                 },
                                                 {
                                                     "id": "TECH:H2",
-                                                    "title": "Combining adjacent image and text links for the same resource"
+                                                    "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
                                                 },
                                                 {
                                                     "id": "TECH:H35",
-                                                    "title": "Providing text alternatives on applet elements"
+                                                    "title": "Zapewnienie alternatyw tekstowych w elementach apletu"
                                                 },
                                                 {
                                                     "id": "TECH:H37",
-                                                    "title": "Using alt attributes on img elements"
+                                                    "title": "Używanie atrybutów alt na elementach img"
                                                 },
                                                 {
                                                     "id": "TECH:H53",
-                                                    "title": "Using the body of the object element"
+                                                    "title": "Używanie ciała (zawartości) elementu object"
                                                 },
                                                 {
                                                     "id": "TECH:H86",
@@ -217,11 +217,11 @@
                                                 },
                                                 {
                                                     "id": "TECH:H45",
-                                                    "title": "Using longdesc"
+                                                    "title": "Używanie longdesc"
                                                 },
                                                 {
                                                     "id": "TECH:H53",
-                                                    "title": "Using the body of the object element"
+                                                    "title": "Używanie ciała (zawartości) elementu object"
                                                 },
                                                 {
                                                     "id": "TECH:SL8",
@@ -274,23 +274,23 @@
                                             },
                                             {
                                                 "id": "TECH:H24",
-                                                "title": "Providing text alternatives for the area elements of image maps"
+                                                "title": "Zapewnienie alternatyw tekstowych dla elementów obszaru map obrazów"
                                             },
                                             {
                                                 "id": "TECH:H30",
-                                                "title": "Providing link text that describes the purpose of a link for anchor elements"
+                                                "title": "Zapewnienie tekstu linku opisującego cel linku dla elementów kotwiących"
                                             },
                                             {
                                                 "id": "TECH:H36",
-                                                "title": "Using alt attributes on images used as submit buttons"
+                                                "title": "Używanie atrybutów alt na obrazach używanych jako przyciski przesyłania"
                                             },
                                             {
                                                 "id": "TECH:H44",
-                                                "title": "Using label elements to associate text labels with form controls"
+                                                "title": "Używanie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
                                             },
                                             {
                                                 "id": "TECH:H65",
-                                                "title": "Using the title attribute to identify form controls when the label element cannot be used"
+                                                "title": "Używanie atrybutu title do identyfikacji formantów formularzy, gdy nie można użyć elementu label"
                                             },
                                             {
                                                 "id": "TECH:SL18",
@@ -327,7 +327,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:G196",
-                                                    "title": "Using a text alternative on one item within a group of images that describes all items in the group"
+                                                    "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH1",
@@ -343,19 +343,19 @@
                                                 },
                                                 {
                                                     "id": "TECH:H2",
-                                                    "title": "Combining adjacent image and text links for the same resource"
+                                                    "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
                                                 },
                                                 {
                                                     "id": "TECH:H35",
-                                                    "title": "Providing text alternatives on applet elements"
+                                                    "title": "Zapewnienie alternatyw tekstowych w elementach apletu"
                                                 },
                                                 {
                                                     "id": "TECH:H37",
-                                                    "title": "Using alt attributes on img elements"
+                                                    "title": "Używanie atrybutów alt na elementach img"
                                                 },
                                                 {
                                                     "id": "TECH:H53",
-                                                    "title": "Using the body of the object element"
+                                                    "title": "Używanie ciała (zawartości) elementu object"
                                                 },
                                                 {
                                                     "id": "TECH:H86",
@@ -396,7 +396,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:G196",
-                                                    "title": "Using a text alternative on one item within a group of images that describes all items in the group"
+                                                    "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH1",
@@ -412,19 +412,19 @@
                                                 },
                                                 {
                                                     "id": "TECH:H2",
-                                                    "title": "Combining adjacent image and text links for the same resource"
+                                                    "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
                                                 },
                                                 {
                                                     "id": "TECH:H35",
-                                                    "title": "Providing text alternatives on applet elements"
+                                                    "title": "Zapewnienie alternatyw tekstowych w elementach apletu"
                                                 },
                                                 {
                                                     "id": "TECH:H37",
-                                                    "title": "Using alt attributes on img elements"
+                                                    "title": "Używanie atrybutów alt na elementach img"
                                                 },
                                                 {
                                                     "id": "TECH:H53",
-                                                    "title": "Using the body of the object element"
+                                                    "title": "Używanie ciała (zawartości) elementu object"
                                                 },
                                                 {
                                                     "id": "TECH:H86",
@@ -457,7 +457,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:G196",
-                                                    "title": "Using a text alternative on one item within a group of images that describes all items in the group"
+                                                    "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH1",
@@ -473,19 +473,19 @@
                                                 },
                                                 {
                                                     "id": "TECH:H2",
-                                                    "title": "Combining adjacent image and text links for the same resource"
+                                                    "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
                                                 },
                                                 {
                                                     "id": "TECH:H35",
-                                                    "title": "Providing text alternatives on applet elements"
+                                                    "title": "Zapewnienie alternatyw tekstowych w elementach apletu"
                                                 },
                                                 {
                                                     "id": "TECH:H37",
-                                                    "title": "Using alt attributes on img elements"
+                                                    "title": "Używanie atrybutów alt na elementach img"
                                                 },
                                                 {
                                                     "id": "TECH:H53",
-                                                    "title": "Using the body of the object element"
+                                                    "title": "Używanie ciała (zawartości) elementu object"
                                                 },
                                                 {
                                                     "id": "TECH:H86",
@@ -535,7 +535,7 @@
                                             },
                                             {
                                                 "id": "TECH:H67",
-                                                "title": "Using null alt text and no title attribute on img elements for images that AT should ignore"
+                                                "title": "Używanie pustego tekstu alternatywnego i nieużywanie atrybutu title w elementach img dla obrazów, które powinny być zignorowane przez technologię asystującą"
                                             },
                                             {
                                                 "id": "TECH:PDF4",
@@ -549,7 +549,7 @@
                         {"advisory": [
                             {
                                 "id": "TECH:H46",
-                                "title": "Using noembed with embed"
+                                "title": "Używanie noembed z elementami osadzonymi znacznikiem embed"
                             },
                             {
                                 "id": "TECH:C18",
@@ -676,7 +676,7 @@
                             ]}]},
                             {"advisory": [{
                                 "id": "TECH:H96",
-                                "title": "Using the track element to provide audio descriptions"
+                                "title": "Używanie elementu track, aby zapewnić audiodeskrypcję"
                             }]},
                             {"failure": [
                                 {
@@ -725,7 +725,7 @@
                                         },
                                         {
                                             "id": "TECH:H95",
-                                            "title": "Using the track element to provide captions"
+                                            "title": "Używanie elementu track do tworzenia napisów"
                                         },
                                         {
                                             "id": "TECH:FLASH9",
@@ -791,7 +791,7 @@
                                     "title": "Linking to the alternative for time-based media using one of the following techniques",
                                     "using": [{
                                         "id": "TECH:H53",
-                                        "title": "Using the body of the object element"
+                                        "title": "Używanie ciała (zawartości) elementu object"
                                     }]
                                 },
                                 {
@@ -862,12 +862,12 @@
                                 },
                                 {
                                     "id": "TECH:G203",
-                                    "title": "Using a static text alternative to describe a talking head video"
+                                    "title": "Użycie statycznego tekstu alternatywnego do opisu nagrania wideo z &bdquo;gadającą głową&rdquo;"
                                 }
                             ]},
                             {"advisory": [{
                                 "id": "TECH:H96",
-                                "title": "Using the track element to provide audio descriptions"
+                                "title": "Używanie elementu track, aby zapewnić audiodeskrypcję"
                             }]},
                             {"failure": []}
                         ]
@@ -1013,12 +1013,12 @@
                                 },
                                 {
                                     "id": "TECH:G203",
-                                    "title": "Using a static text alternative to describe a talking head video"
+                                    "title": "Użycie statycznego tekstu alternatywnego do opisu nagrania wideo z &bdquo;gadającą głową&rdquo;"
                                 }
                             ]},
                             {"advisory": [{
                                 "id": "TECH:H96",
-                                "title": "Using the track element to provide audio descriptions"
+                                "title": "Używanie elementu track, aby zapewnić audiodeskrypcję"
                             }]},
                             {"failure": []}
                         ]
@@ -1091,7 +1091,7 @@
                             }]},
                             {"advisory": [{
                                 "id": "TECH:H96",
-                                "title": "Using the track element to provide audio descriptions"
+                                "title": "Używanie elementu track, aby zapewnić audiodeskrypcję"
                             }]},
                             {"failure": []}
                         ]
@@ -1131,7 +1131,7 @@
                                             "title": "Linking to the alternative for time-based media using one of the following techniques",
                                             "using": [{
                                                 "id": "TECH:H53",
-                                                "title": "Using the body of the object element"
+                                                "title": "Używanie ciała (zawartości) elementu object"
                                             }]
                                         }
                                     ]
@@ -1146,7 +1146,7 @@
                             ]}]},
                             {"advisory": [{
                                 "id": "TECH:H46",
-                                "title": "Using noembed with embed"
+                                "title": "Używanie noembed z elementami osadzonymi znacznikiem embed"
                             }]},
                             {"failure": [{
                                 "id": "TECH:F74",
@@ -1245,7 +1245,7 @@
                                             },
                                             {
                                                 "id": "TECH:H49",
-                                                "title": "Using semantic markup to mark emphasized or special text"
+                                                "title": "Używanie semantycznych znaczników do oznaczenia tekstu wyróznionegoo lub specjalnego"
                                             }
                                         ]},
                                         {
@@ -1270,7 +1270,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:H51",
-                                                    "title": "Using table markup to present tabular information"
+                                                    "title": "Używanie znaczników tabel do prezentacji danych tabelarycznych"
                                                 },
                                                 {
                                                     "id": "TECH:PDF6",
@@ -1282,7 +1282,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:H39",
-                                                    "title": "Using caption elements to associate data table captions with data tables"
+                                                    "title": "Używanie elementu caption do kojarzenia podpisów tabel danych z tabelami danych"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH31",
@@ -1290,7 +1290,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:H73",
-                                                    "title": "Using the summary attribute of the table element to give an overview of data tables"
+                                                    "title": "Używanie atrybutu summary w celu opisu sposobu zorganizowania danych w tabelach danych"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH23",
@@ -1298,11 +1298,11 @@
                                                 },
                                                 {
                                                     "id": "TECH:H63",
-                                                    "title": "Using the scope attribute to associate header cells and data cells in data tables"
+                                                    "title": "Używanie atrybutu scope do kojarzenia komórek nagłówka i komórek danych w tabelach danych"
                                                 },
                                                 {
                                                     "id": "TECH:H43",
-                                                    "title": "Using id and headers attributes to associate data cells with header cells in data tables"
+                                                    "title": "Używanie atrybutów id i headers do kojarzenia komórek danych z komórkami nagłówków w tabelach danych"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH21",
@@ -1310,11 +1310,11 @@
                                                 },
                                                 {
                                                     "id": "TECH:H44",
-                                                    "title": "Using label elements to associate text labels with form controls"
+                                                    "title": "Używanie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
                                                 },
                                                 {
                                                     "id": "TECH:H65",
-                                                    "title": "Using the title attribute to identify form controls when the label element cannot be used"
+                                                    "title": "Używanie atrybutu title do identyfikacji formantów formularzy, gdy nie można użyć elementu label"
                                                 },
                                                 {
                                                     "id": "TECH:PDF10",
@@ -1350,15 +1350,15 @@
                                                 },
                                                 {
                                                     "id": "TECH:H85",
-                                                    "title": "Using OPTGROUP to group OPTION elements inside a SELECT"
+                                                    "title": "Używanie OPTGROUP do grupowania elementów OPTION wewnątrz SELECT"
                                                 },
                                                 {
                                                     "id": "TECH:H48",
-                                                    "title": "Using ol, ul and dl for lists or groups of links"
+                                                    "title": "Używanie ol, ul i dl dla list lub grup łączy"
                                                 },
                                                 {
                                                     "id": "TECH:H42",
-                                                    "title": "Using h1-h6 to identify headings"
+                                                    "title": "Używanie znaczników h1-h6 do identyfikacji nagłówków"
                                                 },
                                                 {
                                                     "id": "TECH:PDF9",
@@ -1382,7 +1382,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:H97",
-                                                    "title": "Grouping related links using the nav element"
+                                                    "title": "Grupowanie powiązanych linkow za pomocą elementu nav"
                                                 }
                                             ]
                                         }
@@ -1518,11 +1518,11 @@
                                         "using": [
                                             {
                                                 "id": "TECH:H34",
-                                                "title": "Using a Unicode right-to-left mark (RLM) or left-to-right mark (LRM) to mix text direction inline"
+                                                "title": "Używanie znaku Unicode od-prawej-do-lewej (RLM) lub znaku od-lewej-do-prawej (LRM) do mieszanych kierunków tekstu w wierszu"
                                             },
                                             {
                                                 "id": "TECH:H56",
-                                                "title": "Using the dir attribute on an inline element to resolve problems with nested directional runs"
+                                                "title": "Używanie atrybutu dir na elementach śródwierszowych do rozwiązywania problemów z zagnieżdżonymi zmianami kierunku tekstu"
                                             },
                                             {
                                                 "id": "TECH:C6",
@@ -1730,15 +1730,15 @@
                                         },
                                         {
                                             "id": "TECH:G205",
-                                            "title": "Including a text cue for colored form control labels"
+                                            "title": "Dołączanie wskazówek tekstowych, gdy kontrolki formularzy komunikują swoje znaczenie tylko kolorem"
                                         },
                                         {
                                             "id": "TECH:G182",
-                                            "title": "Ensuring that additional visual cues are available when text color differences are used to convey information"
+                                            "title": "Zapewnienie dodatkowych wskazówek wizualnych, gdy różnice koloru tekstu są używane do przekazywania informacji"
                                         },
                                         {
                                             "id": "TECH:G183",
-                                            "title": "Using a contrast ratio of 3:1 with surrounding text and providing additional visual cues on focus for links or controls where color alone is used to identify them"
+                                            "title": "Stosowanie współczynnika kontrastu 3:1 i dostarczanie dodatkowych wskazówek wizualnych dla fokusu łączy lub kontrolek, w których do ich identyfikacji stosowany jest sam kolor"
                                         }
                                     ]
                                 },
@@ -1994,11 +1994,11 @@
                                 },
                                 {
                                     "id": "TECH:G178",
-                                    "title": "Providing controls on the Web page that allow users to incrementally change the size of all text on the page up to 200 percent"
+                                    "title": "Zapewnienie na stronie internetowej przełączników, która pozwalają użytkownikom na przyrostową zmianę rozmiaru całego tekstu na stronie do 200 procent"
                                 },
                                 {
                                     "id": "TECH:G179",
-                                    "title": "Ensuring that there is no loss of content or functionality when the text resizes and text containers do not change their width"
+                                    "title": "Zapewnienie, że nie dojdzie do utraty treści lub funkcjonalności, gdy zmianie ulegnie rozmiar tekstu albo obszar przeznaczony na tekst"
                                 }
                             ]},
                             {"advisory": [
@@ -2309,7 +2309,7 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:G204",
-                                            "title": "Not interfering with the user agent's reflow of text as the viewing window is narrowed",
+                                            "title": "Niezakłócanie przepływu tekstu w programach klienckich, gdy okno podglądu jest zwężane",
                                             "append": "OR"
                                         },
                                         {
@@ -2342,7 +2342,7 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:G188",
-                                            "title": "Providing a button on the page to increase line spaces and paragraph spaces",
+                                            "title": "Udostępnienie na stronie przycisku w celu zwiększenia odstępów między wierszami i akapitami",
                                             "append": "OR"
                                         },
                                         {
@@ -2397,7 +2397,7 @@
                                         },
                                         {
                                             "id": "TECH:G206",
-                                            "title": "Providing options within the content to switch to a layout that does not require the user to scroll horizontally to read a line of text"
+                                            "title": "Zapewnienie opcji przełączania się na układ, który nie wymaga od użytkownika przewijania poziomo w celu odczytania wiersza tekstu"
                                         }
                                     ]
                                 }
@@ -2524,7 +2524,7 @@
                                 },
                                 {
                                     "id": "TECH:G206",
-                                    "title": "Providing options within the content to switch to a layout that does not require the user to scroll horizontally to read a line of text"
+                                    "title": "Zapewnienie opcji przełączania się na układ, który nie wymaga od użytkownika przewijania poziomo w celu odczytania wiersza tekstu"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -2592,7 +2592,7 @@
                                     "title": "User Interface Component contrast",
                                     "techniques": [{
                                         "id": "TECH:G195",
-                                        "title": "Using an author-supplied, highly visible focus indicator"
+                                        "title": "Korzystanie z dobrze widocznego wskaźnika fokusa dostarczonego przez autora"
                                     }]
                                 },
                                 {
@@ -2600,11 +2600,11 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:G207",
-                                            "title": "Ensuring that a contrast ratio of 3:1 is provided for icons"
+                                            "title": "Zapewnienie współczynnika kontrastu 3:1 dla ikon"
                                         },
                                         {
                                             "id": "TECH:G209",
-                                            "title": "Provide sufficient contrast at the boundaries between adjoining colors"
+                                            "title": "Zapewnienie wystarczającego kontrastu na granicach między sąsiednimi kolorami"
                                         }
                                     ]
                                 },
@@ -2632,7 +2632,7 @@
                             ]}]},
                             {"advisory": [{
                                 "id": "TECH:G183",
-                                "title": "Using a contrast ratio of 3:1 with surrounding text and providing additional visual cues on focus for links or controls where color alone is used to identify them"
+                                "title": "Stosowanie współczynnika kontrastu 3:1 i dostarczanie dodatkowych wskazówek wizualnych dla fokusu łączy lub kontrolek, w których do ich identyfikacji stosowany jest sam kolor"
                             }]},
                             {"failure": [{
                                 "id": "TECH:F78",
@@ -2806,7 +2806,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:G202",
-                                    "title": "Ensuring keyboard control for all functionality"
+                                    "title": "Zapewnienie sterowania klawiaturą dla wszystkich funkcji"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -2814,7 +2814,7 @@
                                     "using": [
                                         {
                                             "id": "TECH:H91",
-                                            "title": "Using HTML form controls and links"
+                                            "title": "Korzystanie z formantów formularzy HTML i linków"
                                         },
                                         {
                                             "id": "TECH:PDF3",
@@ -3058,7 +3058,7 @@
                                         },
                                         {
                                             "id": "TECH:G198",
-                                            "title": "Providing a way for the user to turn the time limit off"
+                                            "title": "Zapewnienie użytkownikowi możliwości wyłączenia limitu czasu"
                                         }
                                     ]
                                 },
@@ -3067,11 +3067,11 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:G198",
-                                            "title": "Providing a way for the user to turn the time limit off"
+                                            "title": "Zapewnienie użytkownikowi możliwości wyłączenia limitu czasu"
                                         },
                                         {
                                             "id": "TECH:G180",
-                                            "title": "Providing the user with a means to set the time limit to 10 times the default time limit"
+                                            "title": "Zapewnienie użytkownikowi możliwości ustawienia limitu czasu na 10-krotność domyślnego limitu czasowego"
                                         },
                                         {"and": [
                                             {
@@ -3106,7 +3106,7 @@
                                         },
                                         {
                                             "id": "TECH:G198",
-                                            "title": "Providing a way for the user to turn the time limit off"
+                                            "title": "Zapewnienie użytkownikowi możliwości wyłączenia limitu czasu"
                                         },
                                         {
                                             "id": "TECH:SCR33",
@@ -3209,7 +3209,7 @@
                                 },
                                 {
                                     "id": "TECH:G187",
-                                    "title": "Using a technology to include blinking content that can be turned off via the user agent"
+                                    "title": "Używanie technologii włączającej migające treści, które można wyłączyć za pomocą aplikacji klienckiej"
                                 },
                                 {
                                     "id": "TECH:G152",
@@ -3225,11 +3225,11 @@
                                 },
                                 {
                                     "id": "TECH:G186",
-                                    "title": "Using a control in the Web page that stops moving, blinking, or auto-updating content"
+                                    "title": "Zapewnienie na stronie internetowej kontrolki, umożliwia zatrzymanie przesuwania, migania lub automatyczej aktualizacji treści"
                                 },
                                 {
                                     "id": "TECH:G191",
-                                    "title": "Providing a link, button, or other mechanism that reloads the page without any blinking content"
+                                    "title": "Zapewnienie linku, przycisku lub innego mechanizmu, który odświeża stronę bez migania treści"
                                 },
                                 {
                                     "id": "TECH:SL24",
@@ -3342,7 +3342,7 @@
                                     },
                                     {
                                         "id": "TECH:G181",
-                                        "title": "Encoding user data as hidden or encrypted data in a re-authorization page"
+                                        "title": "Kodowanie danych użytkownika jako ukrytych lub zaszyfrowanych na stronie ponownej autoryzacji"
                                     }
                                 ]
                             }]},
@@ -3528,7 +3528,7 @@
                                         },
                                         {
                                             "id": "TECH:H69",
-                                            "title": "Providing heading elements at the beginning of each section of content"
+                                            "title": "Zapewnienie nagłówków na początku każdej sekcji treści"
                                         },
                                         {
                                             "id": "TECH:PDF9",
@@ -3537,11 +3537,11 @@
                                         {"and": [
                                             {
                                                 "id": "TECH:H70",
-                                                "title": "Using frame elements to group blocks of repeated material"
+                                                "title": "Używanie elementów ramek do grupowania bloków powtarzanego materiału"
                                             },
                                             {
                                                 "id": "TECH:H64",
-                                                "title": "Using the title attribute of the frame and iframe elements"
+                                                "title": "Używanie atrybutu title do tytułowania elementów frame i iframe"
                                             }
                                         ]},
                                         {
@@ -3580,7 +3580,7 @@
                                 "using": [
                                     {
                                         "id": "TECH:H25",
-                                        "title": "Providing a title using the title element"
+                                        "title": "Zapewnienie tytułu za pomocą elementu title"
                                     },
                                     {
                                         "id": "TECH:PDF18",
@@ -3621,7 +3621,7 @@
                                     "using": [
                                         {
                                             "id": "TECH:H4",
-                                            "title": "Creating a logical tab order through links, form controls, and objects"
+                                            "title": "Tworzenie logicznej kolejności tabulacji poprzez łącza, formanty formularzy i obiekty"
                                         },
                                         {
                                             "id": "TECH:FLASH15",
@@ -3692,11 +3692,11 @@
                                 },
                                 {
                                     "id": "TECH:H30",
-                                    "title": "Providing link text that describes the purpose of a link for anchor elements"
+                                    "title": "Zapewnienie tekstu linku opisującego cel linku dla elementów kotwiących"
                                 },
                                 {
                                     "id": "TECH:H24",
-                                    "title": "Providing text alternatives for the area elements of image maps"
+                                    "title": "Zapewnienie alternatyw tekstowych dla elementów obszaru map obrazów"
                                 },
                                 {
                                     "id": "TECH:FLASH27",
@@ -3708,7 +3708,7 @@
                                     "using": [
                                         {
                                             "id": "TECH:G189",
-                                            "title": "Providing a control near the beginning of the Web page that changes the link text"
+                                            "title": "Zapewnienie w pobliżu początku strony internetowej kontrolki, która przenosi użytkownika na alternatywną wersję strony z tekstami linków zrozumiałymi bez kontekstu"
                                         },
                                         {
                                             "id": "TECH:SCR30",
@@ -3730,7 +3730,7 @@
                                     "using": [
                                         {
                                             "id": "TECH:H33",
-                                            "title": "Supplementing link text with the title attribute"
+                                            "title": "Uzupełnianie tekstu linku za pomocą atrybutu title"
                                         },
                                         {
                                             "id": "TECH:C7",
@@ -3752,19 +3752,19 @@
                                         },
                                         {
                                             "id": "TECH:H77",
-                                            "title": "Identifying the purpose of a link using link text combined with its enclosing list item"
+                                            "title": "Identyfikacja celu łącza za pomocą tekstu linku w połączeniu z jego pozycją na liście"
                                         },
                                         {
                                             "id": "TECH:H78",
-                                            "title": "Identifying the purpose of a link using link text combined with its enclosing paragraph"
+                                            "title": "Identyfikacja celu łącza za pomocą tekstu linku w połączeniu z akapitem, w którym znajduje się łącze"
                                         },
                                         {
                                             "id": "TECH:H79",
-                                            "title": "Identifying the purpose of a link in a data table using the link text combined with its enclosing table cell and associated table header cells"
+                                            "title": "Identyfikacja celu łącza za pomocą tekstu linku w połączeniu z otaczającą go komórką tabeli i powiązanymi nagłówkami tabeli"
                                         },
                                         {
                                             "id": "TECH:H81",
-                                            "title": "Identifying the purpose of a link in a nested list using link text combined with the parent list item under which the list is nested"
+                                            "title": "Identyfikacja celu łącza w zagnieżdżonej liście przy użyciu tekstu linku połączonego z elementem listy nadrzędnej, w którym lista jest zagnieżdżona"
                                         }
                                     ]
                                 },
@@ -3790,7 +3790,7 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:H2",
-                                    "title": "Combining adjacent image and text links for the same resource"
+                                    "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
                                 },
                                 {
                                     "id": "TECH:FLASH5",
@@ -3798,7 +3798,7 @@
                                 },
                                 {
                                     "id": "TECH:H80",
-                                    "title": "Identifying the purpose of a link using link text combined with the preceding heading element"
+                                    "title": "Identyfikacja celu łącza za pomocą tekstu linku w połączeniu z poprzedzającym go nagłówkiem"
                                 }
                             ]},
                             {"failure": [
@@ -3855,13 +3855,13 @@
                                     },
                                     {
                                         "id": "TECH:G185",
-                                        "title": "Linking to all of the pages on the site from the home page"
+                                        "title": "Łączenie do wszystkich stron witryny ze strony głównej"
                                     }
                                 ]
                             }]},
                             {"advisory": [{
                                 "id": "TECH:H59",
-                                "title": "Using the link element and navigation tools"
+                                "title": "Używanie elementu link i narzędzi nawigacyjnych"
                             }]},
                             {"failure": []}
                         ]
@@ -3919,7 +3919,7 @@
                                 },
                                 {
                                     "id": "TECH:G195",
-                                    "title": "Using an author-supplied, highly visible focus indicator"
+                                    "title": "Korzystanie z dobrze widocznego wskaźnika fokusa dostarczonego przez autora"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -3985,7 +3985,7 @@
                                     "title": "Określenie relacji strony internetowej z większym zbiorem stron internetowych",
                                     "using": [{
                                         "id": "TECH:H59",
-                                        "title": "Using the link element and navigation tools"
+                                        "title": "Używanie elementu link i narzędzi nawigacyjnych"
                                     }]
                                 }
                             ]},
@@ -4025,11 +4025,11 @@
                                 },
                                 {
                                     "id": "TECH:H30",
-                                    "title": "Providing link text that describes the purpose of a link for anchor elements"
+                                    "title": "Zapewnienie tekstu linku opisującego cel linku dla elementów kotwiących"
                                 },
                                 {
                                     "id": "TECH:H24",
-                                    "title": "Providing text alternatives for the area elements of image maps"
+                                    "title": "Zapewnienie alternatyw tekstowych dla elementów obszaru map obrazów"
                                 },
                                 {
                                     "id": "TECH:FLASH27",
@@ -4041,7 +4041,7 @@
                                     "using": [
                                         {
                                             "id": "TECH:G189",
-                                            "title": "Providing a control near the beginning of the Web page that changes the link text"
+                                            "title": "Zapewnienie w pobliżu początku strony internetowej kontrolki, która przenosi użytkownika na alternatywną wersję strony z tekstami linków zrozumiałymi bez kontekstu"
                                         },
                                         {
                                             "id": "TECH:SCR30",
@@ -4083,7 +4083,7 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:H2",
-                                    "title": "Combining adjacent image and text links for the same resource"
+                                    "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
                                 },
                                 {
                                     "id": "TECH:FLASH5",
@@ -4091,7 +4091,7 @@
                                 },
                                 {
                                     "id": "TECH:H33",
-                                    "title": "Supplementing link text with the title attribute"
+                                    "title": "Uzupełnianie tekstu linku za pomocą atrybutu title"
                                 }
                             ]},
                             {"failure": [
@@ -4167,19 +4167,19 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "GXXX: Do not rely on path-based gestures"
+                                    "title": "GXXX: Nie polegaj na gestach opartych na ścieżce"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "GXXX: Do not rely on multipoint gestures"
+                                    "title": "GXXX: Nie polegaj na gestach wielopunktowych"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "GXXX: Provide controls that do not require complex gestures and perform the same function as complex gestures"
+                                    "title": "GXXX: Zapewnienie elementów sterujących, które nie wymagają złożonych gestów i pełnią tę samą funkcję, co złożone gesty"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "GXXX: Single-point activation for spatial positioning and manipulation"
+                                    "title": "GXXX: Aktywacja jednopunktowa do pozycjonowania i manipulacji przestrzennej"
                                 }
                             ]},
                             {"advisory": []},
@@ -4222,11 +4222,11 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:G210",
-                                    "title": "Ensuring that drag-and-drop actions can be cancelled"
+                                    "title": "Zapewnienie możliwości anulowania działań typu &bdquo;przeciągnij i upuść&rdquo;"
                                 },
                                 {
                                     "id": "TECH:G211",
-                                    "title": "Matching the accessible name to the visible label"
+                                    "title": "Dopasowanie dostępnej nazwy do widocznej etykiety "
                                 },
                                 {
                                     "id": "TECH:text",
@@ -4252,11 +4252,11 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:G208",
-                                    "title": "Including the text of the visible label as part of the accessible name"
+                                    "title": "Dołączenie do tekstu widocznej etykiety jako części dostępnej nazwy"
                                 },
                                 {
                                     "id": "TECH:G211",
-                                    "title": "Matching the accessible name to the visible label"
+                                    "title": "Dopasowanie dostępnej nazwy do widocznej etykiety "
                                 }
                             ]},
                             {"advisory": [{
@@ -4304,11 +4304,11 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:G213",
-                                    "title": "Provide conventional controls and an application setting for motion activated input"
+                                    "title": "Zapewnienie konwencjonalnego sterowania i ustawienie aplikacji dla kontrolek aktywowanych ruchem"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "GXXX: Supporting system level features which allow the user to disable motion actuation"
+                                    "title": "GXXX: Obsługa na poziomie systemu funkcji, które pozwalają użytkownikowi wyłączyć"
                                 }
                             ]},
                             {"advisory": []},
@@ -4445,7 +4445,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:H57",
-                                    "title": "Using language attributes on the html element"
+                                    "title": "Używanie atrybutu języka dla elementu html"
                                 },
                                 {
                                     "id": "TECH:FLASH13",
@@ -4482,7 +4482,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:H58",
-                                    "title": "Using language attributes to identify changes in the human language"
+                                    "title": "Używanie atrybut lang do wskazywania zmian w języku naturalnym"
                                 },
                                 {
                                     "id": "TECH:FLASH13",
@@ -4530,11 +4530,11 @@
                                                     "using": [
                                                         {
                                                             "id": "TECH:H40",
-                                                            "title": "Using description lists"
+                                                            "title": "Używanie list definicji"
                                                         },
                                                         {
                                                             "id": "TECH:H60",
-                                                            "title": "Using the link element to link to a glossary"
+                                                            "title": "Używanie elementu link do połączeń ze słownikiem"
                                                         }
                                                     ]
                                                 },
@@ -4543,7 +4543,7 @@
                                                     "title": "Używanie definicji wbudowanych",
                                                     "using": [{
                                                         "id": "TECH:H54",
-                                                        "title": "Using the dfn element to identify the defining instance of a word"
+                                                        "title": "Używanie elementu dfn do oznaczania instancji definiującej słowo"
                                                     }]
                                                 }
                                             ]
@@ -4558,11 +4558,11 @@
                                                     "using": [
                                                         {
                                                             "id": "TECH:H40",
-                                                            "title": "Using description lists"
+                                                            "title": "Używanie list definicji"
                                                         },
                                                         {
                                                             "id": "TECH:H60",
-                                                            "title": "Using the link element to link to a glossary"
+                                                            "title": "Używanie elementu link do połączeń ze słownikiem"
                                                         }
                                                     ]
                                                 },
@@ -4590,11 +4590,11 @@
                                                 "using": [
                                                     {
                                                         "id": "TECH:H40",
-                                                        "title": "Using description lists"
+                                                        "title": "Używanie list definicji"
                                                     },
                                                     {
                                                         "id": "TECH:H60",
-                                                        "title": "Using the link element to link to a glossary"
+                                                        "title": "Używanie elementu link do połączeń ze słownikiem"
                                                     }
                                                 ]
                                             },
@@ -4603,7 +4603,7 @@
                                                 "title": "Używanie definicji wbudowanych",
                                                 "using": [{
                                                     "id": "TECH:H54",
-                                                    "title": "Using the dfn element to identify the defining instance of a word"
+                                                    "title": "Używanie elementu dfn do oznaczania instancji definiującej słowo"
                                                 }]
                                             }
                                         ]
@@ -4644,7 +4644,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:H28",
-                                                    "title": "Providing definitions for abbreviations by using the abbr element"
+                                                    "title": "Zapewnienie definicji skrótów za pomocą elementu abbr"
                                                 },
                                                 {
                                                     "id": "TECH:PDF8",
@@ -4666,7 +4666,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:H60",
-                                                    "title": "Using the link element to link to a glossary"
+                                                    "title": "Używanie elementu link do połączeń ze słownikiem"
                                                 },
                                                 {
                                                     "id": "TECH:G70",
@@ -4674,7 +4674,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:H28",
-                                                    "title": "Providing definitions for abbreviations by using the abbr element"
+                                                    "title": "Zapewnienie definicji skrótów za pomocą elementu abbr"
                                                 },
                                                 {
                                                     "id": "TECH:PDF8",
@@ -4696,7 +4696,7 @@
                                             },
                                             {
                                                 "id": "TECH:H28",
-                                                "title": "Providing definitions for abbreviations by using the abbr element"
+                                                "title": "Zapewnienie definicji skrótów za pomocą elementu abbr"
                                             },
                                             {
                                                 "id": "TECH:PDF8",
@@ -4779,7 +4779,7 @@
                                 },
                                 {
                                     "id": "TECH:H62",
-                                    "title": "Using the ruby element"
+                                    "title": "Używanie elementu ruby"
                                 }
                             ]},
                             {"advisory": []},
@@ -4820,11 +4820,11 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:G200",
-                                    "title": "Opening new windows and tabs from a link only when necessary"
+                                    "title": "Otwieranie nowych okien i kart tylko wtedy, gdy jest to konieczne"
                                 },
                                 {
                                     "id": "TECH:G201",
-                                    "title": "Giving users advanced warning when opening a new window"
+                                    "title": "Ostrzeganie użytkowników o otwieraniu nowego okna"
                                 }
                             ]},
                             {"failure": [{
@@ -4853,11 +4853,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:H32",
-                                            "title": "Providing submit buttons"
+                                            "title": "Zapewnienie przycisków przesyłania"
                                         },
                                         {
                                             "id": "TECH:H84",
-                                            "title": "Using a button with a select element to perform an action"
+                                            "title": "Używanie przycisku z wybranym elementem do wykonania akcji"
                                         },
                                         {
                                             "id": "TECH:FLASH4",
@@ -4884,7 +4884,7 @@
                             ]},
                             {"advisory": [{
                                 "id": "TECH:G201",
-                                "title": "Giving users advanced warning when opening a new window"
+                                "title": "Ostrzeganie użytkowników o otwieraniu nowego okna"
                             }]},
                             {"failure": [
                                 {
@@ -4949,7 +4949,7 @@
                         "techniques": [
                             {"sufficient": [{"and": [{
                                 "id": "TECH:G197",
-                                "title": "Using labels, names, and text alternatives consistently for content that has the same functionality"
+                                "title": "Używanie etykiet, nazw i alternatyw tekstowych w sposób spójny dla treści o takiej samej funkcjonalności"
                             }]}]},
                             {"advisory": []},
                             {"failure": [{
@@ -4990,7 +4990,7 @@
                                             "title": "Korzystanie z natychmiastowego przekierowania po stronie klienta",
                                             "using": [{
                                                 "id": "TECH:H76",
-                                                "title": "Using meta refresh to create an instant client-side redirect"
+                                                "title": "Korzystanie ze znacznika  meta refresh w celu utworzenia natychmiastowego przekierowania po stronie klienta"
                                             }]
                                         }
                                     ]
@@ -5003,7 +5003,7 @@
                                         "using": [
                                             {
                                                 "id": "TECH:H83",
-                                                "title": "Using the target attribute to open a new window on user request and indicating this in link text"
+                                                "title": "Używanie atrybutu target do otwarcia nowego okna na żądanie użytkownika i wskazanie tego w tekście łącza"
                                             },
                                             {
                                                 "id": "TECH:SCR24",
@@ -5022,7 +5022,7 @@
                             ]}]},
                             {"advisory": [{
                                 "id": "TECH:G200",
-                                "title": "Opening new windows and tabs from a link only when necessary"
+                                "title": "Otwieranie nowych okien i kart tylko wtedy, gdy jest to konieczne"
                             }]},
                             {"failure": [
                                 {
@@ -5157,7 +5157,7 @@
                                 },
                                 {
                                     "id": "TECH:G199",
-                                    "title": "Providing success feedback when data is submitted successfully"
+                                    "title": "Zapewnienie komunikatu o powodzeniu po pomyślnym przesłaniu danych"
                                 }
                             ]},
                             {"failure": []}
@@ -5199,7 +5199,7 @@
                                         },
                                         {
                                             "id": "TECH:G184",
-                                            "title": "Providing text instructions at the beginning of a form or set of fields that describes the necessary input"
+                                            "title": "Zapewnienie na początku formularza lub zestawu pól instrukcji tekstowych opisujących niezbędne dane wejściowe"
                                         },
                                         {
                                             "id": "TECH:G162",
@@ -5211,7 +5211,7 @@
                                         },
                                         {
                                             "id": "TECH:H90",
-                                            "title": "Indicating required form controls using label or legend"
+                                            "title": "Wskazanie wymaganych formantów formularza za pomocą elementów label i legend"
                                         },
                                         {
                                             "id": "TECH:FLASH10",
@@ -5225,7 +5225,7 @@
                                 },
                                 {
                                     "id": "TECH:H44",
-                                    "title": "Using label elements to associate text labels with form controls"
+                                    "title": "Używanie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
                                 },
                                 {
                                     "id": "TECH:FLASH32",
@@ -5249,7 +5249,7 @@
                                 },
                                 {
                                     "id": "TECH:H71",
-                                    "title": "Providing a description for groups of form controls using fieldset and legend elements"
+                                    "title": "Zapewnienie opisu dla grup formantów formularzy przy użyciu elementów fieldset i legend"
                                 },
                                 {
                                     "id": "TECH:FLASH8",
@@ -5327,7 +5327,7 @@
                                         },
                                         {
                                             "id": "TECH:G177",
-                                            "title": "Providing suggested correction text"
+                                            "title": "Zapewnienie tekstu sugerującego korektę"
                                         },
                                         {
                                             "id": "TECH:SCR18",
@@ -5360,7 +5360,7 @@
                                         },
                                         {
                                             "id": "TECH:G177",
-                                            "title": "Providing suggested correction text"
+                                            "title": "Zapewnienie tekstu sugerującego korektę"
                                         },
                                         {
                                             "id": "TECH:SCR18",
@@ -5388,7 +5388,7 @@
                                 },
                                 {
                                     "id": "TECH:G199",
-                                    "title": "Providing success feedback when data is submitted successfully"
+                                    "title": "Zapewnienie komunikatu o powodzeniu po pomyślnym przesłaniu danych"
                                 },
                                 {
                                     "id": "TECH:SCR18",
@@ -5487,7 +5487,7 @@
                                 },
                                 {
                                     "id": "TECH:G199",
-                                    "title": "Providing success feedback when data is submitted successfully"
+                                    "title": "Zapewnienie komunikatu o powodzeniu po pomyślnym przesłaniu danych"
                                 }
                             ]},
                             {"failure": []}
@@ -5515,15 +5515,15 @@
                                         },
                                         {
                                             "id": "TECH:G193",
-                                            "title": "Providing help by an assistant in the Web page"
+                                            "title": "Udzielanie pomocy na stronie internetowej przez asystenta"
                                         },
                                         {
                                             "id": "TECH:G194",
-                                            "title": "Providing spell checking and suggestions for text input"
+                                            "title": "Zapewnienie sprawdzania pisowni i sugestii dotyczących poprawnej pisowni"
                                         },
                                         {
                                             "id": "TECH:G184",
-                                            "title": "Providing text instructions at the beginning of a form or set of fields that describes the necessary input"
+                                            "title": "Zapewnienie na początku formularza lub zestawu pól instrukcji tekstowych opisujących niezbędne dane wejściowe"
                                         }
                                     ]
                                 },
@@ -5536,14 +5536,14 @@
                                         },
                                         {
                                             "id": "TECH:G184",
-                                            "title": "Providing text instructions at the beginning of a form or set of fields that describes the necessary input"
+                                            "title": "Zapewnienie na początku formularza lub zestawu pól instrukcji tekstowych opisujących niezbędne dane wejściowe"
                                         }
                                     ]
                                 }
                             ]}]},
                             {"advisory": [{
                                 "id": "TECH:H89",
-                                "title": "Using the title attribute to provide context-sensitive help"
+                                "title": "Używanie atrybutu title w celu zapewnienia pomocy kontekstowej"
                             }]},
                             {"failure": []}
                         ]
@@ -5631,11 +5631,11 @@
                             },
                             {
                                 "id": "TECH:G192",
-                                "title": "Fully conforming to specifications"
+                                "title": "Pełna zgodność ze specyfikacjami"
                             },
                             {
                                 "id": "TECH:H88",
-                                "title": "Using HTML according to spec"
+                                "title": "Używanie HTML zgodnie ze specyfikacją"
                             },
                             {
                                 "id": "TECH:text",
@@ -5644,20 +5644,20 @@
                                     {"and": [
                                         {
                                             "id": "TECH:H74",
-                                            "title": "Ensuring that opening and closing tags are used according to specification"
+                                            "title": "Zapewnienie, że znaczniki otwierające i zamykające są używane zgodnie ze specyfikacją"
                                         },
                                         {
                                             "id": "TECH:H93",
-                                            "title": "Ensuring that id attributes are unique on a Web page"
+                                            "title": "Zapewnienie, że atrybuty id są unikalne"
                                         },
                                         {
                                             "id": "TECH:H94",
-                                            "title": "Ensuring that elements do not contain duplicate attributes"
+                                            "title": "Zapewnienie, że elementy nie zawierają zduplikowanych atrybutów"
                                         }
                                     ]},
                                     {
                                         "id": "TECH:H75",
-                                        "title": "Ensuring that Web pages are well-formed"
+                                        "title": "Zapewnienie, że strony internetowe są dobrze uformowane"
                                     }
                                 ]
                             },
@@ -5714,23 +5714,23 @@
                                         "using": [
                                             {
                                                 "id": "TECH:H91",
-                                                "title": "Using HTML form controls and links"
+                                                "title": "Korzystanie z formantów formularzy HTML i linków"
                                             },
                                             {
                                                 "id": "TECH:H44",
-                                                "title": "Using label elements to associate text labels with form controls"
+                                                "title": "Używanie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
                                             },
                                             {
                                                 "id": "TECH:H64",
-                                                "title": "Using the title attribute of the frame and iframe elements"
+                                                "title": "Używanie atrybutu title do tytułowania elementów frame i iframe"
                                             },
                                             {
                                                 "id": "TECH:H65",
-                                                "title": "Using the title attribute to identify form controls when the label element cannot be used"
+                                                "title": "Używanie atrybutu title do identyfikacji formantów formularzy, gdy nie można użyć elementu label"
                                             },
                                             {
                                                 "id": "TECH:H88",
-                                                "title": "Using HTML according to spec"
+                                                "title": "Używanie HTML zgodnie ze specyfikacją"
                                             }
                                         ]
                                     }
@@ -5872,7 +5872,7 @@
                                     "title": "Using role=status to present status messages",
                                     "using": [{
                                         "id": "TECH:G199",
-                                        "title": "Providing success feedback when data is submitted successfully"
+                                        "title": "Zapewnienie komunikatu o powodzeniu po pomyślnym przesłaniu danych"
                                     }]
                                 }]
                             },
@@ -5896,11 +5896,11 @@
                                         },
                                         {
                                             "id": "TECH:G177",
-                                            "title": "Providing suggested correction text"
+                                            "title": "Zapewnienie tekstu sugerującego korektę"
                                         },
                                         {
                                             "id": "TECH:G194",
-                                            "title": "Providing spell checking and suggestions for text input"
+                                            "title": "Zapewnienie sprawdzania pisowni i sugestii dotyczących poprawnej pisowni"
                                         }
                                     ]
                                 }]
@@ -5923,7 +5923,7 @@
                                         },
                                         {
                                             "id": "TECH:G193",
-                                            "title": "Providing help by an assistant in the Web page"
+                                            "title": "Udzielanie pomocy na stronie internetowej przez asystenta"
                                         }
                                     ]}
                                 ]
