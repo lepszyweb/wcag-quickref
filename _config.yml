@@ -48,3 +48,5 @@ exclude:
   - npm-debug.log
   - package.json
   - questions.md
+
+theme: jekyll-theme-slate
