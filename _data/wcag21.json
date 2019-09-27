@@ -83,15 +83,15 @@
                                             },
                                             {
                                                 "id": "TECH:FLASH1",
-                                                "title": "Setting the name property for a non-text object"
+                                                "title": "Ustawianie właściwości name (nazwa) obiektu nietekstowego we Flashu"
                                             },
                                             {
                                                 "id": "TECH:FLASH5",
-                                                "title": "Combining adjacent image and text buttons for the same resource"
+                                                "title": "Łączenie sąsiadującego obrazu i przycisków tekstowych dla tego samego zasobu"
                                             },
                                             {
                                                 "id": "TECH:FLASH28",
-                                                "title": "Providing text alternatives for ASCII art, emoticons, and leetspeak in Flash"
+                                                "title": "Zapewnienie alternatyw tekstowych dla sztuki ASCII, emotikonów i tekstu szyfrowanego (leetspeak) we Flashu"
                                             },
                                             {
                                                 "id": "TECH:H2",
@@ -148,15 +148,15 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH1",
-                                                    "title": "Setting the name property for a non-text object"
+                                                    "title": "Ustawianie właściwości name (nazwa) obiektu nietekstowego we Flashu"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH5",
-                                                    "title": "Combining adjacent image and text buttons for the same resource"
+                                                    "title": "Łączenie sąsiadującego obrazu i przycisków tekstowych dla tego samego zasobu"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH28",
-                                                    "title": "Providing text alternatives for ASCII art, emoticons, and leetspeak in Flash"
+                                                    "title": "Zapewnienie alternatyw tekstowych dla sztuki ASCII, emotikonów i tekstu szyfrowanego (leetspeak) we Flashu"
                                                 },
                                                 {
                                                     "id": "TECH:H2",
@@ -209,11 +209,11 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH2",
-                                                    "title": "Setting the description property for a non-text object in Flash"
+                                                    "title": "Ustawianie właściwości description (opis) obiektu nietekstowego we Flashu"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH11",
-                                                    "title": "Providing a longer text description of an object"
+                                                    "title": "Podanie dłuższego opisu tekstowego obiektu"
                                                 },
                                                 {
                                                     "id": "TECH:H45",
@@ -250,27 +250,27 @@
                                             },
                                             {
                                                 "id": "TECH:FLASH6",
-                                                "title": "Creating accessible hotspots using invisible buttons"
+                                                "title": "Tworzenie dostępnych punktów dostępowych za pomocą niewidocznych przycisków"
                                             },
                                             {
                                                 "id": "TECH:FLASH25",
-                                                "title": "Labeling a form control by setting its accessible name"
+                                                "title": "Oznaczanie kontrolek formularza poprzez ustawienie dostępnej nazwy"
                                             },
                                             {
                                                 "id": "TECH:FLASH27",
-                                                "title": "Providing button labels that describe the purpose of a button"
+                                                "title": "Zapewnienie etykiet przycisków opisujących przeznaczenie przycisku"
                                             },
                                             {
                                                 "id": "TECH:FLASH29",
-                                                "title": "Setting the label property for form components"
+                                                "title": "Ustawianie właściwości label dla elementów formularza"
                                             },
                                             {
                                                 "id": "TECH:FLASH30",
-                                                "title": "Specifying accessible names for image buttons"
+                                                "title": "Określanie dostępnych nazw przycisków z obrazów"
                                             },
                                             {
                                                 "id": "TECH:FLASH32",
-                                                "title": "Using auto labeling to associate text labels with form controls"
+                                                "title": "Używanie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
                                             },
                                             {
                                                 "id": "TECH:H24",
@@ -331,15 +331,15 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH1",
-                                                    "title": "Setting the name property for a non-text object"
+                                                    "title": "Ustawianie właściwości name (nazwa) obiektu nietekstowego we Flashu"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH5",
-                                                    "title": "Combining adjacent image and text buttons for the same resource"
+                                                    "title": "Łączenie sąsiadującego obrazu i przycisków tekstowych dla tego samego zasobu"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH28",
-                                                    "title": "Providing text alternatives for ASCII art, emoticons, and leetspeak in Flash"
+                                                    "title": "Zapewnienie alternatyw tekstowych dla sztuki ASCII, emotikonów i tekstu szyfrowanego (leetspeak) we Flashu"
                                                 },
                                                 {
                                                     "id": "TECH:H2",
@@ -400,15 +400,15 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH1",
-                                                    "title": "Setting the name property for a non-text object"
+                                                    "title": "Ustawianie właściwości name (nazwa) obiektu nietekstowego we Flashu"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH5",
-                                                    "title": "Combining adjacent image and text buttons for the same resource"
+                                                    "title": "Łączenie sąsiadującego obrazu i przycisków tekstowych dla tego samego zasobu"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH28",
-                                                    "title": "Providing text alternatives for ASCII art, emoticons, and leetspeak in Flash"
+                                                    "title": "Zapewnienie alternatyw tekstowych dla sztuki ASCII, emotikonów i tekstu szyfrowanego (leetspeak) we Flashu"
                                                 },
                                                 {
                                                     "id": "TECH:H2",
@@ -461,15 +461,15 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH1",
-                                                    "title": "Setting the name property for a non-text object"
+                                                    "title": "Ustawianie właściwości name (nazwa) obiektu nietekstowego we Flashu"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH5",
-                                                    "title": "Combining adjacent image and text buttons for the same resource"
+                                                    "title": "Łączenie sąsiadującego obrazu i przycisków tekstowych dla tego samego zasobu"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH28",
-                                                    "title": "Providing text alternatives for ASCII art, emoticons, and leetspeak in Flash"
+                                                    "title": "Zapewnienie alternatyw tekstowych dla sztuki ASCII, emotikonów i tekstu szyfrowanego (leetspeak) we Flashu"
                                                 },
                                                 {
                                                     "id": "TECH:H2",
@@ -531,7 +531,7 @@
                                             },
                                             {
                                                 "id": "TECH:FLASH3",
-                                                "title": "Marking objects in Flash so that they can be ignored by AT"
+                                                "title": "Oznaczanie obiektów we Flashu tak, aby mogły być ignorowane przez technologie asystujące"
                                             },
                                             {
                                                 "id": "TECH:H67",
@@ -729,7 +729,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH9",
-                                            "title": "Applying captions to prerecorded synchronized media"
+                                            "title": "Stosowanie napisów w nagranych multimediach zsynchronizowanych"
                                         },
                                         {
                                             "id": "TECH:SL16",
@@ -822,7 +822,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH26",
-                                            "title": "Applying audio descriptions to Flash video"
+                                            "title": "Stosowanie narracji dźwiękowej (audiodeskrypcji) w filmach wideo we Flashu"
                                         },
                                         {
                                             "id": "TECH:SL1",
@@ -848,7 +848,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH26",
-                                            "title": "Applying audio descriptions to Flash video"
+                                            "title": "Stosowanie narracji dźwiękowej (audiodeskrypcji) w filmach wideo we Flashu"
                                         },
                                         {
                                             "id": "TECH:SL1",
@@ -981,7 +981,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH26",
-                                            "title": "Applying audio descriptions to Flash video"
+                                            "title": "Stosowanie narracji dźwiękowej (audiodeskrypcji) w filmach wideo we Flashu"
                                         },
                                         {
                                             "id": "TECH:text",
@@ -1003,7 +1003,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH26",
-                                            "title": "Applying audio descriptions to Flash video"
+                                            "title": "Stosowanie narracji dźwiękowej (audiodeskrypcji) w filmach wideo we Flashu"
                                         },
                                         {
                                             "id": "TECH:text",
@@ -1286,7 +1286,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH31",
-                                                    "title": "Specifying caption text for a DataGrid"
+                                                    "title": "Określanie tekstu podpisu dla siatki danych (DataGrid)"
                                                 },
                                                 {
                                                     "id": "TECH:H73",
@@ -1294,7 +1294,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH23",
-                                                    "title": "Adding summary information to a DataGrid"
+                                                    "title": "Dodawanie informacji podsumowujących do siatki danych (DataGrid)"
                                                 },
                                                 {
                                                     "id": "TECH:H63",
@@ -1306,7 +1306,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH21",
-                                                    "title": "Using the DataGrid component to associate column headers with cells"
+                                                    "title": "Wykorzystanie komponentu DataGrid do kojarzenia nagłówków kolumn z komórkami"
                                                 },
                                                 {
                                                     "id": "TECH:H44",
@@ -1326,15 +1326,15 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH32",
-                                                    "title": "Using auto labeling to associate text labels with form controls"
+                                                    "title": "Używanie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH29",
-                                                    "title": "Setting the label property for form components"
+                                                    "title": "Ustawianie właściwości label dla elementów formularza"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH25",
-                                                    "title": "Labeling a form control by setting its accessible name"
+                                                    "title": "Oznaczanie kontrolek formularza poprzez ustawienie dostępnej nazwy"
                                                 },
                                                 {
                                                     "id": "TECH:H71",
@@ -1397,7 +1397,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH8",
-                                            "title": "Adding a group name to the accessible name of a form control"
+                                            "title": "Dodanie nazwy grupy do dostępnej nazwy formantu formularza"
                                         },
                                         {
                                             "id": "TECH:text",
@@ -1541,7 +1541,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH15",
-                                    "title": "Using the tabIndex property to specify a logical reading order and a logical tab order in Flash"
+                                    "title": "Użycie właściwości tabindex w celu określenia logicznej kolejności odczytu i logicznej kolejności tabulacji we Flashu "
                                 },
                                 {
                                     "id": "TECH:PDF3",
@@ -1812,11 +1812,11 @@
                                 },
                                 {
                                     "id": "TECH:FLASH18",
-                                    "title": "Providing a control to turn off sounds that play automatically in Flash"
+                                    "title": "Zapewnienie kontroli nad wyłączaniem dźwięków odtwarzanych automatycznie we Flashu"
                                 },
                                 {
                                     "id": "TECH:FLASH34",
-                                    "title": "Turning off sounds that play automatically when an assistive technology is detected"
+                                    "title": "Wyłączanie dźwięków odtwarzanych automatycznie po wykryciu technologii asystującej"
                                 },
                                 {
                                     "id": "TECH:SL3",
@@ -2386,7 +2386,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:FLASH33",
-                                                    "title": "Using relative values for Flash object dimensions",
+                                                    "title": "Używanie wartości względnych dla wymiarów obiektu Flash",
                                                     "append": "OR"
                                                 },
                                                 {
@@ -2862,19 +2862,19 @@
                                 },
                                 {
                                     "id": "TECH:FLASH17",
-                                    "title": "Providing keyboard access to a Flash object and avoiding a keyboard trap",
+                                    "title": "Zapewnienie dostępu klawiatury do obiektu Flash i unikanie pułapki klawiatury",
                                     "using": [
                                         {
                                             "id": "TECH:FLASH22",
-                                            "title": "Adding keyboard-accessible actions to static elements"
+                                            "title": "Dodawanie do elementów statycznych działań dostępnych dla klawiatury"
                                         },
                                         {
                                             "id": "TECH:FLASH16",
-                                            "title": "Making actions keyboard accessible by using the click event on standard components"
+                                            "title": "Udostępnienie klawiatury akcji za pomocą zdarzenia click w standardowych komponentach"
                                         },
                                         {
                                             "id": "TECH:FLASH14",
-                                            "title": "Using redundant keyboard and mouse event handlers in Flash"
+                                            "title": "Korzystanie z redundantnych programów obsługi zdarzeń klawiatury i myszy we Flashu"
                                         }
                                     ]
                                 }
@@ -2923,7 +2923,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH17",
-                                    "title": "Providing keyboard access to a Flash object and avoiding a keyboard trap"
+                                    "title": "Zapewnienie dostępu klawiatury do obiektu Flash i unikanie pułapki klawiatury"
                                 }
                             ]},
                             {"advisory": []},
@@ -3085,11 +3085,11 @@
                                         ]},
                                         {
                                             "id": "TECH:FLASH19",
-                                            "title": "Providing a script that warns the user a time limit is about to expire and provides a way to extend it"
+                                            "title": "Zapewnienie skryptu ostrzegającego użytkownika o zbliżającym się wygaśnięciu limitu czasowego i umożliwiającego jego przedłużenie"
                                         },
                                         {
                                             "id": "TECH:FLASH24",
-                                            "title": "Allowing the user to extend the default time limit"
+                                            "title": "Umożliwienie użytkownikowi przedłużenia domyślnego limitu czasowego"
                                         },
                                         {
                                             "id": "TECH:SL21",
@@ -3201,7 +3201,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH35",
-                                    "title": "Using script to scroll Flash content, and providing a mechanism to pause it"
+                                    "title": "Używanie skryptu do przewijania zawartości Flash i zapewnienie mechanizmu do jej wstrzymania"
                                 },
                                 {
                                     "id": "TECH:G11",
@@ -3221,7 +3221,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH36",
-                                    "title": "Using scripts to control blinking and stop it in five seconds or less"
+                                    "title": "Używanie skryptów do kontrolowania migania i zatrzymywania go za pięć sekund lub krócej"
                                 },
                                 {
                                     "id": "TECH:G186",
@@ -3625,7 +3625,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH15",
-                                            "title": "Using the tabIndex property to specify a logical reading order and a logical tab order in Flash"
+                                            "title": "Użycie właściwości tabindex w celu określenia logicznej kolejności odczytu i logicznej kolejności tabulacji we Flashu "
                                         },
                                         {
                                             "id": "TECH:C27",
@@ -3700,7 +3700,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH27",
-                                    "title": "Providing button labels that describe the purpose of a button"
+                                    "title": "Zapewnienie etykiet przycisków opisujących przeznaczenie przycisku"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -3716,7 +3716,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH7",
-                                            "title": "Using scripting to change control labels"
+                                            "title": "Używanie skryptów do zmiany etykiet kontrolnych"
                                         }
                                     ]
                                 },
@@ -3794,7 +3794,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH5",
-                                    "title": "Combining adjacent image and text buttons for the same resource"
+                                    "title": "Łączenie sąsiadującego obrazu i przycisków tekstowych dla tego samego zasobu"
                                 },
                                 {
                                     "id": "TECH:H80",
@@ -3931,7 +3931,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH20",
-                                    "title": "Reskinning Flash components to provide highly visible focus indication"
+                                    "title": "Reskinning (zmiana stylistyki) komponentów Flash, aby zapewnić lepszą widoczność fokusa"
                                 },
                                 {
                                     "id": "TECH:SL2",
@@ -4033,7 +4033,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH27",
-                                    "title": "Providing button labels that describe the purpose of a button"
+                                    "title": "Zapewnienie etykiet przycisków opisujących przeznaczenie przycisku"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -4049,7 +4049,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH7",
-                                            "title": "Using scripting to change control labels"
+                                            "title": "Używanie skryptów do zmiany etykiet kontrolnych"
                                         }
                                     ]
                                 },
@@ -4087,7 +4087,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH5",
-                                    "title": "Combining adjacent image and text buttons for the same resource"
+                                    "title": "Łączenie sąsiadującego obrazu i przycisków tekstowych dla tego samego zasobu"
                                 },
                                 {
                                     "id": "TECH:H33",
@@ -4449,7 +4449,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH13",
-                                    "title": "Using HTML language attributes to specify language in Flash content"
+                                    "title": "Użycie atrybutów języka HTML w celu określenia języka treści we Flashu"
                                 },
                                 {
                                     "id": "TECH:PDF16",
@@ -4486,7 +4486,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH13",
-                                    "title": "Using HTML language attributes to specify language in Flash content"
+                                    "title": "Użycie atrybutów języka HTML w celu określenia języka treści we Flashu"
                                 },
                                 {
                                     "id": "TECH:PDF19",
@@ -4861,7 +4861,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH4",
-                                            "title": "Providing submit buttons in Flash"
+                                            "title": "Zapewnienie przycisków wysyłania we Flashu"
                                         },
                                         {
                                             "id": "TECH:PDF15",
@@ -5137,7 +5137,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH12",
-                                            "title": "Providing client-side validation and adding error text via the accessible description"
+                                            "title": "Zapewnienie walidacji po stronie klienta i dodawanie tekstu o błędach poprzez dostępny opis "
                                         },
                                         {
                                             "id": "TECH:PDF22",
@@ -5215,7 +5215,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH10",
-                                            "title": "Indicating required form controls in Flash"
+                                            "title": "Wskazanie wymaganych formantów formularza we Flashu"
                                         },
                                         {
                                             "id": "TECH:PDF5",
@@ -5229,15 +5229,15 @@
                                 },
                                 {
                                     "id": "TECH:FLASH32",
-                                    "title": "Using auto labeling to associate text labels with form controls"
+                                    "title": "Używanie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
                                 },
                                 {
                                     "id": "TECH:FLASH29",
-                                    "title": "Setting the label property for form components"
+                                    "title": "Ustawianie właściwości label dla elementów formularza"
                                 },
                                 {
                                     "id": "TECH:FLASH25",
-                                    "title": "Labeling a form control by setting its accessible name"
+                                    "title": "Oznaczanie kontrolek formularza poprzez ustawienie dostępnej nazwy"
                                 },
                                 {
                                     "id": "TECH:PDF10",
@@ -5253,7 +5253,7 @@
                                 },
                                 {
                                     "id": "TECH:FLASH8",
-                                    "title": "Adding a group name to the accessible name of a form control"
+                                    "title": "Dodanie nazwy grupy do dostępnej nazwy formantu formularza"
                                 },
                                 {
                                     "id": "TECH:SL8",
@@ -5339,7 +5339,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH12",
-                                            "title": "Providing client-side validation and adding error text via the accessible description"
+                                            "title": "Zapewnienie walidacji po stronie klienta i dodawanie tekstu o błędach poprzez dostępny opis "
                                         },
                                         {
                                             "id": "TECH:PDF22",
@@ -5372,7 +5372,7 @@
                                         },
                                         {
                                             "id": "TECH:FLASH12",
-                                            "title": "Providing client-side validation and adding error text via the accessible description"
+                                            "title": "Zapewnienie walidacji po stronie klienta i dodawanie tekstu o błędach poprzez dostępny opis "
                                         },
                                         {
                                             "id": "TECH:PDF22",
@@ -5755,15 +5755,15 @@
                                     "using": [
                                         {
                                             "id": "TECH:FLASH32",
-                                            "title": "Using auto labeling to associate text labels with form controls"
+                                            "title": "Używanie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
                                         },
                                         {
                                             "id": "TECH:FLASH29",
-                                            "title": "Setting the label property for form components"
+                                            "title": "Ustawianie właściwości label dla elementów formularza"
                                         },
                                         {
                                             "id": "TECH:FLASH30",
-                                            "title": "Specifying accessible names for image buttons"
+                                            "title": "Określanie dostępnych nazw przycisków z obrazów"
                                         },
                                         {
                                             "id": "TECH:PDF10",
