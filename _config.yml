@@ -1,8 +1,8 @@
 # Site settings
-title: "How to Meet WCAG (Quickref Reference)"
-email: ee@w3.org
+title: "Jak spełnić WCAG (Krótki poradnik)"
+email: kontakt@lepszyweb.pl
 description: ""
-baseurl: "/wai-wcag-quickref" # the subpath of your site, e.g. /blog
+baseurl: "/wcag-quickref" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: yatil
 github_username:  yatil
@@ -20,7 +20,7 @@ lsi: false
 # Build settings
 markdown: kramdown
 
-repository: 'w3c/wai-wcag-quickref'
+repository: 'lepszyweb/wcag-quickref'
 
 compress_html:
   clippings: all
