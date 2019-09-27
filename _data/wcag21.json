@@ -115,7 +115,7 @@
                                             },
                                             {
                                                 "id": "TECH:PDF1",
-                                                "title": "Applying text alternatives to images with the Alt entry in PDF documents"
+                                                "title": "Stosowanie alternatyw tekstowych do obrazów z wpisem Alt w dokumentach PDF"
                                             },
                                             {
                                                 "id": "TECH:SL5",
@@ -539,7 +539,7 @@
                                             },
                                             {
                                                 "id": "TECH:PDF4",
-                                                "title": "Hiding decorative images with the Artifact tag in PDF documents"
+                                                "title": "Ukrywanie obrazów dekoracyjnych za pomocą znacznika Artifact w dokumentach PDF"
                                             }
                                         ]
                                     }}]
@@ -1274,11 +1274,11 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF6",
-                                                    "title": "Using table elements for table markup in PDF Documents"
+                                                    "title": "Używanie elementów tabeli do oznaczania tabel w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:PDF20",
-                                                    "title": "Using Adobe Acrobat Pro's Table Editor to repair mistagged tables"
+                                                    "title": "Używanie edytora tabel Adobe Acrobat Pro do naprawiania tabel z błędami"
                                                 },
                                                 {
                                                     "id": "TECH:H39",
@@ -1318,11 +1318,11 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF10",
-                                                    "title": "Providing labels for interactive form controls in PDF documents"
+                                                    "title": "Zapewnianie etykiet dla interaktywnych kontrolek formularzy w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:PDF12",
-                                                    "title": "Providing name, role, value information for form fields in PDF documents"
+                                                    "title": "Zapewnianie informacji o nazwach, rolach i wartościach pól formularzy w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH32",
@@ -1362,7 +1362,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF9",
-                                                    "title": "Providing headings by marking content with heading tags in PDF documents"
+                                                    "title": "Zapewnianie nagłówków poprzez oznaczanie zawartości znacznikami nagłówków w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:SCR21",
@@ -1370,15 +1370,15 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF11",
-                                                    "title": "Providing links and link text using the Link annotation and the /Link structure element in PDF documents"
+                                                    "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury / Link w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:PDF17",
-                                                    "title": "Specifying consistent page numbering for PDF documents"
+                                                    "title": "Określanie jednolitej numeracji stron w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:PDF21",
-                                                    "title": "Using List tags for lists in PDF documents"
+                                                    "title": "Używanie znaczników List do wykazów w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:H97",
@@ -1545,7 +1545,7 @@
                                 },
                                 {
                                     "id": "TECH:PDF3",
-                                    "title": "Ensuring correct tab and reading order in PDF documents"
+                                    "title": "Zapewnienie prawidłowej kolejności tabulacji i czytania w dokumentach PDF"
                                 },
                                 {
                                     "id": "TECH:SL34",
@@ -2082,7 +2082,7 @@
                                 },
                                 {
                                     "id": "TECH:PDF7",
-                                    "title": "Performing OCR on a scanned PDF document to provide actual text"
+                                    "title": "Wykonywanie rozpoznawania OCR zeskanowanego dokumentu PDF w celu uzyskania rzeczywistego tekstu"
                                 }
                             ]},
                             {"advisory": [
@@ -2451,7 +2451,7 @@
                                 },
                                 {
                                     "id": "TECH:PDF7",
-                                    "title": "Performing OCR on a scanned PDF document to provide actual text"
+                                    "title": "Wykonywanie rozpoznawania OCR zeskanowanego dokumentu PDF w celu uzyskania rzeczywistego tekstu"
                                 }
                             ]},
                             {"advisory": [
@@ -2818,15 +2818,15 @@
                                         },
                                         {
                                             "id": "TECH:PDF3",
-                                            "title": "Ensuring correct tab and reading order in PDF documents"
+                                            "title": "Zapewnienie prawidłowej kolejności tabulacji i czytania w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:PDF11",
-                                            "title": "Providing links and link text using the Link annotation and the /Link structure element in PDF documents"
+                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury / Link w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:PDF23",
-                                            "title": "Providing interactive form controls in PDF documents"
+                                            "title": "Zapewnienie interaktywnych kontrolek formularzy w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:SL15",
@@ -3532,7 +3532,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF9",
-                                            "title": "Providing headings by marking content with heading tags in PDF documents"
+                                            "title": "Zapewnianie nagłówków poprzez oznaczanie zawartości znacznikami nagłówków w dokumentach PDF"
                                         },
                                         {"and": [
                                             {
@@ -3584,7 +3584,7 @@
                                     },
                                     {
                                         "id": "TECH:PDF18",
-                                        "title": "Specifying the document title using the Title entry in the document information dictionary of a PDF document"
+                                        "title": "Określanie tytułu dokumentu przy użyciu pozycji Tytuł w słowniku informacji o dokumencie we właściwościach dokumentu PDF"
                                     }
                                 ]
                             }]},
@@ -3633,7 +3633,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF3",
-                                            "title": "Ensuring correct tab and reading order in PDF documents"
+                                            "title": "Zapewnienie prawidłowej kolejności tabulacji i czytania w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:SL34",
@@ -3774,11 +3774,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:PDF11",
-                                            "title": "Providing links and link text using the Link annotation and the /Link structure element in PDF documents"
+                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury / Link w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:PDF13",
-                                            "title": "Providing replacement text using the /Alt entry for links in PDF documents"
+                                            "title": "Zapewnianie tekstu zastępczego za pomocą wpisu / Alt dla linków w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:SL18",
@@ -3839,7 +3839,7 @@
                                     },
                                     {
                                         "id": "TECH:PDF2",
-                                        "title": "Creating bookmarks in PDF documents"
+                                        "title": "Tworzenie zakładek w dokumentach PDF"
                                     },
                                     {
                                         "id": "TECH:G63",
@@ -3992,11 +3992,11 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:PDF14",
-                                    "title": "Providing running headers and footers in PDF documents"
+                                    "title": "Zapewnianie nagłówków i stopek w dokumentach PDF"
                                 },
                                 {
                                     "id": "TECH:PDF17",
-                                    "title": "Specifying consistent page numbering for PDF documents"
+                                    "title": "Określanie jednolitej numeracji stron w dokumentach PDF"
                                 }
                             ]},
                             {"failure": []}
@@ -4067,11 +4067,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:PDF11",
-                                            "title": "Providing links and link text using the Link annotation and the /Link structure element in PDF documents"
+                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury / Link w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:PDF13",
-                                            "title": "Providing replacement text using the /Alt entry for links in PDF documents"
+                                            "title": "Zapewnianie tekstu zastępczego za pomocą wpisu / Alt dla linków w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:SL18",
@@ -4453,11 +4453,11 @@
                                 },
                                 {
                                     "id": "TECH:PDF16",
-                                    "title": "Setting the default language using the /Lang entry in the document catalog of a PDF document"
+                                    "title": "Ustawienie domyślnego języka za pomocą wpisu / Lang w katalogu dokumentów dokumentu PDF"
                                 },
                                 {
                                     "id": "TECH:PDF19",
-                                    "title": "Specifying the language for a passage or phrase with the Lang entry in PDF documents"
+                                    "title": "Określanie języka fragmentu lub frazy za pomocą wpisu Lang w dokumentach PDF"
                                 }
                             ]},
                             {"advisory": [{
@@ -4648,7 +4648,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF8",
-                                                    "title": "Providing definitions for abbreviations via an E entry for a structure element"
+                                                    "title": "Zapewnianie definicji skrótów za pomocą wpisu E dla elementu struktury"
                                                 }
                                             ]
                                         },
@@ -4678,7 +4678,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF8",
-                                                    "title": "Providing definitions for abbreviations via an E entry for a structure element"
+                                                    "title": "Zapewnianie definicji skrótów za pomocą wpisu E dla elementu struktury"
                                                 }
                                             ]
                                         }
@@ -4700,7 +4700,7 @@
                                             },
                                             {
                                                 "id": "TECH:PDF8",
-                                                "title": "Providing definitions for abbreviations via an E entry for a structure element"
+                                                "title": "Zapewnianie definicji skrótów za pomocą wpisu E dla elementu struktury"
                                             }
                                         ]
                                     }]
@@ -4865,7 +4865,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF15",
-                                            "title": "Providing submit buttons with the submit-form action in PDF forms"
+                                            "title": "Zapewnianie przycisków Wyślij w przesyłanych formularzach PDF"
                                         },
                                         {
                                             "id": "TECH:SL10",
@@ -4917,11 +4917,11 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:PDF14",
-                                    "title": "Providing running headers and footers in PDF documents"
+                                    "title": "Zapewnianie nagłówków i stopek w dokumentach PDF"
                                 },
                                 {
                                     "id": "TECH:PDF17",
-                                    "title": "Specifying consistent page numbering for PDF documents"
+                                    "title": "Określanie jednolitej numeracji stron w dokumentach PDF"
                                 }
                             ]},
                             {"failure": [{
@@ -5096,7 +5096,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF5",
-                                            "title": "Indicating required form controls in PDF forms"
+                                            "title": "Wskazanie wymaganych formantów formularzy w formularzach PDF"
                                         },
                                         {
                                             "id": "TECH:SL35",
@@ -5141,7 +5141,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF22",
-                                            "title": "Indicating when user input falls outside the required format or values in PDF forms"
+                                            "title": "Wskazywanie, kiedy dane wprowadzone przez użytkownika nie mieszczą się w wymaganym formacie lub wartościach w formularzach PDF"
                                         },
                                         {
                                             "id": "TECH:SL35",
@@ -5219,7 +5219,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF5",
-                                            "title": "Indicating required form controls in PDF forms"
+                                            "title": "Wskazanie wymaganych formantów formularzy w formularzach PDF"
                                         }
                                     ]
                                 },
@@ -5241,7 +5241,7 @@
                                 },
                                 {
                                     "id": "TECH:PDF10",
-                                    "title": "Providing labels for interactive form controls in PDF documents"
+                                    "title": "Zapewnianie etykiet dla interaktywnych kontrolek formularzy w dokumentach PDF"
                                 },
                                 {
                                     "id": "TECH:SL26",
@@ -5306,7 +5306,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF5",
-                                            "title": "Indicating required form controls in PDF forms"
+                                            "title": "Wskazanie wymaganych formantów formularzy w formularzach PDF"
                                         },
                                         {
                                             "id": "TECH:SL35",
@@ -5343,7 +5343,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF22",
-                                            "title": "Indicating when user input falls outside the required format or values in PDF forms"
+                                            "title": "Wskazywanie, kiedy dane wprowadzone przez użytkownika nie mieszczą się w wymaganym formacie lub wartościach w formularzach PDF"
                                         }
                                     ]
                                 },
@@ -5376,7 +5376,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF22",
-                                            "title": "Indicating when user input falls outside the required format or values in PDF forms"
+                                            "title": "Wskazywanie, kiedy dane wprowadzone przez użytkownika nie mieszczą się w wymaganym formacie lub wartościach w formularzach PDF"
                                         }
                                     ]
                                 }
@@ -5767,11 +5767,11 @@
                                         },
                                         {
                                             "id": "TECH:PDF10",
-                                            "title": "Providing labels for interactive form controls in PDF documents"
+                                            "title": "Zapewnianie etykiet dla interaktywnych kontrolek formularzy w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:PDF12",
-                                            "title": "Providing name, role, value information for form fields in PDF documents"
+                                            "title": "Zapewnianie informacji o nazwach, rolach i wartościach pól formularzy w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:SL26",
