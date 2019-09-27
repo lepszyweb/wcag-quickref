@@ -34,7 +34,7 @@
 
 {% if include.technique.and %}
   {% for technique in include.technique.and %}
-    <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {{technique.append}} {% if forloop.last %}{% else %}<strong>AND</strong>{% endif %}</span>
+    <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {{technique.append}} {% if forloop.last %}{% else %}<strong>ORAZ</strong>{% endif %}</span>
   {% endfor %}
   {% if include.technique.using %}
     using one of the following techniques:
@@ -54,7 +54,7 @@
 {% else %}
   {% if include.technique.or %}
     {% for technique in include.technique.or %}
-      <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {{technique.append}} {% if forloop.last %}{% else %}<strong>OR</strong>{% endif %}</span>
+      <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {{technique.append}} {% if forloop.last %}{% else %}<strong>LUB</strong>{% endif %}</span>
     {% endfor %}
     {% if include.technique.using %}
       using one of the following techniques:

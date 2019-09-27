@@ -6,7 +6,7 @@
   </div>
   {% if include.ttype == 'sufficient' %}
     <div class="panel-body">
-      <p>Note: Other techniques may also be sufficient if they meet the success criterion. See <a href="https://www.w3.org/TR/2014/NOTE-UNDERSTANDING-WCAG20-20140916/understanding-techniques.html#understanding-techniques" class="abouttech">Understanding Techniques.</a></p>
+      <p>Uwaga: Inne techniki również mogą być wystarczające, jeżeli spełniają kryterium sukcesu. Zobacz <a href="https://www.w3.org/TR/2014/NOTE-UNDERSTANDING-WCAG20-20140916/understanding-techniques.html#understanding-techniques" class="abouttech">Zrozumieć techniki.</a></p>
     </div>
   {% endif %}
   <div class="panel-body">
@@ -25,12 +25,12 @@
                     {% if forloop.first %}<ul>{% endif %}
                       <li>
                         {% for technique in techn.and %}
-                          <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {{technique.append}} {% unless forloop.last %}<strong>AND</strong>{% endunless %}</span>
+                          <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {{technique.append}} {% unless forloop.last %}<strong>ORAZ</strong>{% endunless %}</span>
                         {% endfor %}
                         {% for note in techn.and.notes %}
                           {% if forloop.first %}<ul class="notes">{% endif %}
                             <li>
-                              <em>Note{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
+                              <em>Uwaga{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
                             </li>
                           {% if forloop.last %}</ul>{% endif %}
                         {% endfor %}
@@ -41,12 +41,12 @@
                       {% if forloop.first %}<ul>{% endif %}
                         <li>
                           {% for technique in techn.or %}
-                            <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {% unless forloop.last %}<strong>OR</strong>{% endunless %}</span>
+                            <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {% unless forloop.last %}<strong>LUB</strong>{% endunless %}</span>
                           {% endfor %}
                           {% for note in techn.or.notes %}
                             {% if forloop.first %}<ul class="notes">{% endif %}
                               <li>
-                                <em>Note{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
+                                <em>Uwaga{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
                               </li>
                             {% if forloop.last %}</ul>{% endif %}
                           {% endfor %}
@@ -62,7 +62,7 @@
                               {% for note in technique.notes %}
                                 {% if forloop.first %}<ul class="notes">{% endif %}
                                   <li>
-                                    <em>Note{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
+                                    <em>Uwaga{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
                                   </li>
                                 {% if forloop.last %}</ul>{% endif %}
                               {% endfor %}
@@ -78,7 +78,7 @@
                             {% for note in techn.notes %}
                               {% if forloop.first %}<ul class="notes">{% endif %}
                                 <li>
-                                  <em>Note{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
+                                  <em>Uwaga{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
                                 </li>
                               {% if forloop.last %}</ul>{% endif %}
                             {% endfor %}
@@ -99,7 +99,7 @@
           {% for note in tech.notes %}
             {% if forloop.first %}<ul class="notes">{% endif %}
               <li>
-                <em>Note{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
+                <em>Uwaga{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
               </li>
             {% if forloop.last %}</ul>{% endif %}
           {% endfor %}
@@ -112,7 +112,7 @@
     {% for note in include.notes %}
       {% if forloop.first %}<ul class="notes">{% endif %}
         <li>
-          <em>Note{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
+          <em>Uwaga{% if forloop.length > 1 %} {{forloop.index}}{% endif %}:</em> {{ note }}
         </li>
       {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
