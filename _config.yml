@@ -1,12 +1,12 @@
 # Site settings
 title: "Jak spełnić WCAG (Krótki poradnik)"
 email: kontakt@lepszyweb.pl
-description: ""
+description: "Polska wersja poradnika W3C - Jak spełnić WCAG"
 baseurl: "/wcag-quickref" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: yatil
-github_username:  yatil
-status: draft
+twitter_username: stefanwajda
+github_username:  zwiastunsw
+status: published
 version: "3.5.1"
 
 techniqueurl: https://www.w3.org/WAI/WCAG21/Techniques/
