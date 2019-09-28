@@ -62,7 +62,7 @@
                     "techniques": [
                         {"sufficient": [{"situations": [
                             {
-                                "title": "Situation A: If a short description can serve the same purpose and present the same information as the non-text content:",
+                                "title": "Sytuacja A: If a short description can serve the same purpose and present the same information as the non-text content:",
                                 "techniques": [{
                                     "id": "TECH:G94",
                                     "title": "Zapewnienie dla treści nietekstowych krótkiego tekstu alternatywnego, który wskazuje ten sam cel i prezentuje te same informacje, co treści nietekstowe",
@@ -119,14 +119,14 @@
                                             },
                                             {
                                                 "id": "TECH:SL5",
-                                                "title": "Defining a Focusable Image Class for Silverlight"
+                                                "title": "Definiowanie klasy fokusowanego obrazu w Silverlight"
                                             }
                                         ]
                                     }}]
                                 }]
                             },
                             {
-                                "title": "Situation B: If a short description can not serve the same purpose and present the same information as the non-text content (e.g., a chart or diagram):",
+                                "title": "Sytuacja B: If a short description can not serve the same purpose and present the same information as the non-text content (e.g., a chart or diagram):",
                                 "techniques": [{
                                     "id": "TECH:G95",
                                     "title": "Zapewnienie krótkich tekstów alternatywnych, które zawierają krótki opis treści nietekstowych",
@@ -225,7 +225,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:SL8",
-                                                    "title": "Displaying HelpText in Silverlight User Interfaces"
+                                                    "title": "Wyświetlanie tekstu pomocy w interfejsach użytkownika Silverlight"
                                                 }
                                             ]
                                         }}
@@ -233,7 +233,7 @@
                                 }]
                             },
                             {
-                                "title": "Situation C: If non-text content is a control or accepts user input:",
+                                "title": "Sytuacja C: If non-text content is a control or accepts user input:",
                                 "techniques": [{
                                     "id": "TECH:G82",
                                     "title": "Zapewnienie tekstu alternatywnego, który określa cel treści nietekstowej",
@@ -309,7 +309,7 @@
                                 }]
                             },
                             {
-                                "title": "Situation D: If non-text content is time-based media (including live video-only and live audio-only); a test or exercise that would be invalid if presented in text; or primarily intended to create a specific sensory experience:",
+                                "title": "Sytuacja D: If non-text content is time-based media (including live video-only and live audio-only); a test or exercise that would be invalid if presented in text; or primarily intended to create a specific sensory experience:",
                                 "techniques": [
                                     {
                                         "id": "TECH:text",
@@ -505,7 +505,7 @@
                                 ]
                             },
                             {
-                                "title": "Situation E: If non-text content is a CAPTCHA:",
+                                "title": "Sytuacja E: If non-text content is a CAPTCHA:",
                                 "techniques": [{"and": [
                                     {
                                         "id": "TECH:G143",
@@ -518,7 +518,7 @@
                                 ]}]
                             },
                             {
-                                "title": "Situation F: If the non-text content should be ignored by assistive technology:",
+                                "title": "Sytuacja F: If the non-text content should be ignored by assistive technology:",
                                 "techniques": [{
                                     "id": "TECH:text",
                                     "title": "Implementing or marking the non-text content so that it will be ignored by assistive technology",
@@ -527,7 +527,7 @@
                                         "techniques": [
                                             {
                                                 "id": "TECH:C9",
-                                                "title": "Using CSS to include decorative images"
+                                                "title": "Używanie CSS do dodawania obrazów dekoracyjnych"
                                             },
                                             {
                                                 "id": "TECH:FLASH3",
@@ -553,7 +553,7 @@
                             },
                             {
                                 "id": "TECH:C18",
-                                "title": "Using CSS margin and padding rules instead of spacer images for layout design"
+                                "title": "Używanie marginesów CSS i reguł dopełnienia zamiast obrazów odstępów w projektowaniu układu"
                             },
                             {
                                 "id": "TECH:SL19",
@@ -644,7 +644,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If the content is prerecorded audio-only:",
+                                    "title": "Sytuacja A: If the content is prerecorded audio-only:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G158",
@@ -657,7 +657,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If the content is prerecorded video-only:",
+                                    "title": "Sytuacja B: If the content is prerecorded video-only:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G159",
@@ -717,11 +717,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:SM11",
-                                            "title": "Providing captions through synchronized text streams in SMIL 1.0"
+                                            "title": "Zapewnienie podpisów przez zsynchronizowane strumienie tekstu w SMIL 1.0"
                                         },
                                         {
                                             "id": "TECH:SM12",
-                                            "title": "Providing captions through synchronized text streams in SMIL 2.0"
+                                            "title": "Zapewnienie podpisów przez zsynchronizowane strumienie tekstu w SMIL 2.0"
                                         },
                                         {
                                             "id": "TECH:H95",
@@ -805,7 +805,7 @@
                                     },
                                     {
                                         "id": "TECH:SL1",
-                                        "title": "Accessing Alternate Audio Tracks in Silverlight Media"
+                                        "title": "Dostęp do alternatywnych ścieżek audio w Silverlight"
                                     }
                                 ]},
                                 {
@@ -814,11 +814,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:SM6",
-                                            "title": "Providing audio description in SMIL 1.0"
+                                            "title": "Zapewnienie narracji dźwiękowej (audiodeskrypcji) w SMIL 1.0"
                                         },
                                         {
                                             "id": "TECH:SM7",
-                                            "title": "Providing audio description in SMIL 2.0"
+                                            "title": "Zapewnienie narracji dźwiękowej (audiodeskrypcji) w SMIL 2.0"
                                         },
                                         {
                                             "id": "TECH:FLASH26",
@@ -826,7 +826,7 @@
                                         },
                                         {
                                             "id": "TECH:SL1",
-                                            "title": "Accessing Alternate Audio Tracks in Silverlight Media"
+                                            "title": "Dostęp do alternatywnych ścieżek audio w Silverlight"
                                         },
                                         {
                                             "id": "TECH:text",
@@ -840,11 +840,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:SM1",
-                                            "title": "Adding extended audio description in SMIL 1.0"
+                                            "title": "Dodanie rozszerzonej narracji dźwiękowej (audiodeskrypcji) w SMIL 1.0"
                                         },
                                         {
                                             "id": "TECH:SM2",
-                                            "title": "Adding extended audio description in SMIL 2.0"
+                                            "title": "Dodanie rozszerzonej narracji dźwiękowej (audiodeskrypcji) w SMIL 2.0"
                                         },
                                         {
                                             "id": "TECH:FLASH26",
@@ -852,7 +852,7 @@
                                         },
                                         {
                                             "id": "TECH:SL1",
-                                            "title": "Accessing Alternate Audio Tracks in Silverlight Media"
+                                            "title": "Dostęp do alternatywnych ścieżek audio w Silverlight"
                                         },
                                         {
                                             "id": "TECH:text",
@@ -912,11 +912,11 @@
                                         "using": [
                                             {
                                                 "id": "TECH:SM11",
-                                                "title": "Providing captions through synchronized text streams in SMIL 1.0"
+                                                "title": "Zapewnienie podpisów przez zsynchronizowane strumienie tekstu w SMIL 1.0"
                                             },
                                             {
                                                 "id": "TECH:SM12",
-                                                "title": "Providing captions through synchronized text streams in SMIL 2.0"
+                                                "title": "Zapewnienie podpisów przez zsynchronizowane strumienie tekstu w SMIL 2.0"
                                             }
                                         ]
                                     },
@@ -926,11 +926,11 @@
                                         "using": [
                                             {
                                                 "id": "TECH:SM11",
-                                                "title": "Providing captions through synchronized text streams in SMIL 1.0"
+                                                "title": "Zapewnienie podpisów przez zsynchronizowane strumienie tekstu w SMIL 1.0"
                                             },
                                             {
                                                 "id": "TECH:SM12",
-                                                "title": "Providing captions through synchronized text streams in SMIL 2.0"
+                                                "title": "Zapewnienie podpisów przez zsynchronizowane strumienie tekstu w SMIL 2.0"
                                             }
                                         ]
                                     }
@@ -964,7 +964,7 @@
                                     },
                                     {
                                         "id": "TECH:SL1",
-                                        "title": "Accessing Alternate Audio Tracks in Silverlight Media"
+                                        "title": "Dostęp do alternatywnych ścieżek audio w Silverlight"
                                     }
                                 ]},
                                 {
@@ -973,11 +973,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:SM6",
-                                            "title": "Providing audio description in SMIL 1.0"
+                                            "title": "Zapewnienie narracji dźwiękowej (audiodeskrypcji) w SMIL 1.0"
                                         },
                                         {
                                             "id": "TECH:SM7",
-                                            "title": "Providing audio description in SMIL 2.0"
+                                            "title": "Zapewnienie narracji dźwiękowej (audiodeskrypcji) w SMIL 2.0"
                                         },
                                         {
                                             "id": "TECH:FLASH26",
@@ -995,11 +995,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:SM1",
-                                            "title": "Adding extended audio description in SMIL 1.0"
+                                            "title": "Dodanie rozszerzonej narracji dźwiękowej (audiodeskrypcji) w SMIL 1.0"
                                         },
                                         {
                                             "id": "TECH:SM2",
-                                            "title": "Adding extended audio description in SMIL 2.0"
+                                            "title": "Dodanie rozszerzonej narracji dźwiękowej (audiodeskrypcji) w SMIL 2.0"
                                         },
                                         {
                                             "id": "TECH:FLASH26",
@@ -1046,11 +1046,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:SM13",
-                                            "title": "Providing sign language interpretation through synchronized video streams in SMIL 1.0"
+                                            "title": "Zapewnianie interpretacji języka migowego przez zsynchronizowane strumienie wideo w SMIL 1.0"
                                         },
                                         {
                                             "id": "TECH:SM14",
-                                            "title": "Providing sign language interpretation through synchronized video streams in SMIL 2.0"
+                                            "title": "Zapewnienie interpretacji języka migowego przez zsynchronizowane strumienie wideo w SMIL 2.0"
                                         }
                                     ]
                                 }
@@ -1077,11 +1077,11 @@
                                 "using": [
                                     {
                                         "id": "TECH:SM1",
-                                        "title": "Adding extended audio description in SMIL 1.0"
+                                        "title": "Dodanie rozszerzonej narracji dźwiękowej (audiodeskrypcji) w SMIL 1.0"
                                     },
                                     {
                                         "id": "TECH:SM2",
-                                        "title": "Adding extended audio description in SMIL 2.0"
+                                        "title": "Dodanie rozszerzonej narracji dźwiękowej (audiodeskrypcji) w SMIL 2.0"
                                     },
                                     {
                                         "id": "TECH:text",
@@ -1110,7 +1110,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If the content is prerecorded synchronized media:",
+                                    "title": "Sytuacja A: If the content is prerecorded synchronized media:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G69",
@@ -1137,7 +1137,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If the content is prerecorded video-only:",
+                                    "title": "Sytuacja B: If the content is prerecorded video-only:",
                                     "techniques": [{
                                         "id": "TECH:G159",
                                         "title": "Zapewnienie alternatywy dla treści tylko wideo w mediach dynamicznych (zmiennych w czasie)"
@@ -1212,7 +1212,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: The technology provides semantic structure to make information and relationships conveyed through presentation programmatically determinable:",
+                                    "title": "Sytuacja A: The technology provides semantic structure to make information and relationships conveyed through presentation programmatically determinable:",
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA11",
@@ -1366,7 +1366,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:SCR21",
-                                                    "title": "Using functions of the Document Object Model (DOM) to add content to a page"
+                                                    "title": "Używanie funkcji modelu obiektów dokumentu (DOM) do dodawania treści do strony"
                                                 },
                                                 {
                                                     "id": "TECH:PDF11",
@@ -1389,7 +1389,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: The technology in use does NOT provide the semantic structure to make the information and relationships conveyed through presentation programmatically determinable:",
+                                    "title": "Sytuacja B: The technology in use does NOT provide the semantic structure to make the information and relationships conveyed through presentation programmatically determinable:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G117",
@@ -1405,15 +1405,15 @@
                                             "using": [
                                                 {
                                                     "id": "TECH:T1",
-                                                    "title": "Using standard text formatting conventions for paragraphs"
+                                                    "title": "Używanie standardowych konwencji formatowania tekstu dla akapitów"
                                                 },
                                                 {
                                                     "id": "TECH:T2",
-                                                    "title": "Using standard text formatting conventions for lists"
+                                                    "title": "Używanie standardowych konwencji formatowania tekstu dla list"
                                                 },
                                                 {
                                                     "id": "TECH:T3",
-                                                    "title": "Using standard text formatting conventions for headings"
+                                                    "title": "Używanie standardowych konwencji formatowania tekstu dla nagłówków"
                                                 }
                                             ]
                                         }
@@ -1423,7 +1423,7 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:C22",
-                                    "title": "Using CSS to control visual presentation of text"
+                                    "title": "Używanie CSS do kontrolowania wizualnej prezentacji tekstu"
                                 },
                                 {
                                     "id": "TECH:G162",
@@ -1526,18 +1526,18 @@
                                             },
                                             {
                                                 "id": "TECH:C6",
-                                                "title": "Positioning content based on structural markup"
+                                                "title": "Pozycjonowanie zawartości za pomocą znaczników strukturalnych"
                                             },
                                             {
                                                 "id": "TECH:C8",
-                                                "title": "Using CSS letter-spacing to control spacing within a word"
+                                                "title": "Używanie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
                                             }
                                         ]
                                     }
                                 ]},
                                 {
                                     "id": "TECH:C27",
-                                    "title": "Making the DOM order match the visual order"
+                                    "title": "Tworzenie kolejności elementów DOM zgodnie z porządkiem wizualnym"
                                 },
                                 {
                                     "id": "TECH:FLASH15",
@@ -1722,7 +1722,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If the color of particular words, backgrounds, or other content is used to indicate information:",
+                                    "title": "Sytuacja A: If the color of particular words, backgrounds, or other content is used to indicate information:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G14",
@@ -1743,7 +1743,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If color is used within an image to convey information:",
+                                    "title": "Sytuacja B: If color is used within an image to convey information:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G111",
@@ -1758,7 +1758,7 @@
                             ]}]},
                             {"advisory": [{
                                 "id": "TECH:C15",
-                                "title": "Using CSS to change the presentation of a user interface component when it receives focus"
+                                "title": "Używanie CSS do zmiany wyglądu składnika interfejsu użytkownika, gdy otrzymuje on fokus"
                             }]},
                             {"failure": [
                                 {
@@ -1820,7 +1820,7 @@
                                 },
                                 {
                                     "id": "TECH:SL3",
-                                    "title": "Controlling Silverlight MediaElement Audio Volume"
+                                    "title": "Sterowanie głośnością dźwięku w Silverlight"
                                 }
                             ]},
                             {"advisory": []},
@@ -1867,7 +1867,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: text is less than 18 point if not bold and less than 14 point if bold",
+                                    "title": "Sytuacja A: text is less than 18 point if not bold and less than 14 point if bold",
                                     "techniques": [
                                         {
                                             "id": "TECH:G18",
@@ -1888,7 +1888,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: text is at least 18 point if not bold and at least 14 point if bold",
+                                    "title": "Sytuacja B: text is at least 18 point if not bold and at least 14 point if bold",
                                     "techniques": [
                                         {
                                             "id": "TECH:G145",
@@ -1956,7 +1956,7 @@
                                     "using": [
                                         {
                                             "id": "TECH:C28",
-                                            "title": "Specifying the size of text containers using em units"
+                                            "title": "Określanie wielkości kontenerów tekstowych za pomocą jednostek em"
                                         },
                                         {
                                             "id": "TECH:text",
@@ -1964,15 +1964,15 @@
                                             "using": [
                                                 {
                                                     "id": "TECH:C12",
-                                                    "title": "Using percent for font sizes"
+                                                    "title": "Określanie rozmiarów czcionek za pomocą procentów"
                                                 },
                                                 {
                                                     "id": "TECH:C13",
-                                                    "title": "Using named font sizes"
+                                                    "title": "Określanie rozmiarów czcionek za pomocą nazw rozmiarów"
                                                 },
                                                 {
                                                     "id": "TECH:C14",
-                                                    "title": "Using em units for font sizes"
+                                                    "title": "Określanie rozmiarów czcionek za pomocą jednostek em"
                                                 }
                                             ]
                                         },
@@ -1982,7 +1982,7 @@
                                             "using": [
                                                 {
                                                     "id": "TECH:SCR34",
-                                                    "title": "Calculating size and position in a way that scales with text size"
+                                                    "title": "Obliczanie rozmiaru i pozycji w sposób skalujący się z rozmiarem tekstu"
                                                 },
                                                 {
                                                     "id": "TECH:G146",
@@ -2004,15 +2004,15 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:C17",
-                                    "title": "Scaling form elements which contain text"
+                                    "title": "Skalowanie elementów formularza zawierających tekst"
                                 },
                                 {
                                     "id": "TECH:C20",
-                                    "title": "Using relative measurements to set column widths so that lines can average 80 characters or less when the browser is resized"
+                                    "title": "Używanie względnych rozmiarów do ustawiania szerokości kolumn, aby linie mogły mieć średnio 80 znaków lub mniej, gdy zmieniana jest wielkość przeglądarki"
                                 },
                                 {
                                     "id": "TECH:C22",
-                                    "title": "Using CSS to control visual presentation of text"
+                                    "title": "Używanie CSS do kontrolowania wizualnej prezentacji tekstu"
                                 }
                             ]},
                             {"failure": [
@@ -2066,7 +2066,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:C22",
-                                    "title": "Using CSS to control visual presentation of text"
+                                    "title": "Używanie CSS do kontrolowania wizualnej prezentacji tekstu"
                                 },
                                 {
                                     "id": "TECH:SL31",
@@ -2074,7 +2074,7 @@
                                 },
                                 {
                                     "id": "TECH:C30",
-                                    "title": "Using CSS to replace text with images of text and providing user interface controls to switch"
+                                    "title": "Używanie CSS do zastępowania tekstu obrazami tekstu i zapewniania przełączników interfejsu użytkownika"
                                 },
                                 {
                                     "id": "TECH:G140",
@@ -2088,23 +2088,23 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:C12",
-                                    "title": "Using percent for font sizes"
+                                    "title": "Określanie rozmiarów czcionek za pomocą procentów"
                                 },
                                 {
                                     "id": "TECH:C13",
-                                    "title": "Using named font sizes"
+                                    "title": "Określanie rozmiarów czcionek za pomocą nazw rozmiarów"
                                 },
                                 {
                                     "id": "TECH:C14",
-                                    "title": "Using em units for font sizes"
+                                    "title": "Określanie rozmiarów czcionek za pomocą jednostek em"
                                 },
                                 {
                                     "id": "TECH:C8",
-                                    "title": "Using CSS letter-spacing to control spacing within a word"
+                                    "title": "Używanie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
                                 },
                                 {
                                     "id": "TECH:C6",
-                                    "title": "Positioning content based on structural markup"
+                                    "title": "Pozycjonowanie zawartości za pomocą znaczników strukturalnych"
                                 }
                             ]},
                             {"failure": []}
@@ -2141,7 +2141,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: text is less than 18 point if not bold and less than 14 point if bold",
+                                    "title": "Sytuacja A: text is less than 18 point if not bold and less than 14 point if bold",
                                     "techniques": [
                                         {
                                             "id": "TECH:G17",
@@ -2162,7 +2162,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: text is as least 18 point if not bold and at least 14 point if bold",
+                                    "title": "Sytuacja B: text is as least 18 point if not bold and at least 14 point if bold",
                                     "techniques": [
                                         {
                                             "id": "TECH:G18",
@@ -2279,28 +2279,28 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:C23",
-                                            "title": "Specifying text and background colors of secondary content such as banners, features and navigation in CSS while not specifying text and background colors of the main content",
-                                            "append": "OR"
+                                            "title": "Określanie kolorów tekstu i tła treści drugorzędnych, takich jak banery, funkcje i nawigacja w CSS, gdy nie określono kolorów  tekstu i  tła głównej treści",
+                                            "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:C25",
-                                            "title": "Specifying borders and layout in CSS to delineate areas of a Web page while not specifying text and text-background colors",
-                                            "append": "OR"
+                                            "title": "Określanie obramowań i układu w CSS w celu wyznaczania obszarów strony sieci Web bez określania kolorów tekstu i tła tekstu",
+                                            "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:G156",
                                             "title": "Korzystanie z technologii powszechnie dostępnych programów klienckich, które mogą zmieniać pierwszy plan i tło bloków tekstu",
-                                            "append": "OR"
+                                            "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:G148",
                                             "title": "Nieokreślanie koloru tła, nieokreślanie koloru tekstu i nieużywanie funkcji technologii, które zmieniają wartości domyślne",
-                                            "append": "OR"
+                                            "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:G175",
                                             "title": "Zapewnienie na stronie narzędzia do selekcji o wyboru wielu kolorów dla pierwszego planu i tła",
-                                            "append": "OR"
+                                            "append": "LUB"
                                         }
                                     ]
                                 },
@@ -2310,11 +2310,11 @@
                                         {
                                             "id": "TECH:G204",
                                             "title": "Niezakłócanie przepływu tekstu w programach klienckich, gdy okno podglądu jest zwężane",
-                                            "append": "OR"
+                                            "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:C20",
-                                            "title": "Using relative measurements to set column widths so that lines can average 80 characters or less when the browser is resized"
+                                            "title": "Używanie względnych rozmiarów do ustawiania szerokości kolumn, aby linie mogły mieć średnio 80 znaków lub mniej, gdy zmieniana jest wielkość przeglądarki"
                                         }
                                     ]
                                 },
@@ -2323,13 +2323,13 @@
                                     "techniques": [
                                         {
                                             "id": "TECH:C19",
-                                            "title": "Specifying alignment either to the left OR right in CSS",
-                                            "append": "OR"
+                                            "title": "Określanie wyrównania do lewej lub prawej strony w CSS",
+                                            "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:G172",
                                             "title": "Zapewnienie mechanizmu usuwania obustronnego wyrównania tekstu",
-                                            "append": "OR"
+                                            "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:G169",
@@ -2343,11 +2343,11 @@
                                         {
                                             "id": "TECH:G188",
                                             "title": "Udostępnienie na stronie przycisku w celu zwiększenia odstępów między wierszami i akapitami",
-                                            "append": "OR"
+                                            "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:C21",
-                                            "title": "Specifying line spacing in CSS"
+                                            "title": "Określanie odstępów między wierszami w CSS"
                                         }
                                     ]
                                 },
@@ -2357,7 +2357,7 @@
                                         {
                                             "id": "TECH:text",
                                             "title": "Not interfering with the user agent's reflow of text as the viewing window is narrowed",
-                                            "append": "OR"
+                                            "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:G146",
@@ -2366,32 +2366,32 @@
                                             "using": [
                                                 {
                                                     "id": "TECH:C12",
-                                                    "title": "Using percent for font sizes",
-                                                    "append": "OR"
+                                                    "title": "Określanie rozmiarów czcionek za pomocą procentów",
+                                                    "append": "LUB"
                                                 },
                                                 {
                                                     "id": "TECH:C13",
-                                                    "title": "Using named font sizes",
-                                                    "append": "OR"
+                                                    "title": "Określanie rozmiarów czcionek za pomocą nazw rozmiarów",
+                                                    "append": "LUB"
                                                 },
                                                 {
                                                     "id": "TECH:C14",
-                                                    "title": "Using em units for font sizes",
-                                                    "append": "OR"
+                                                    "title": "Określanie rozmiarów czcionek za pomocą jednostek em",
+                                                    "append": "LUB"
                                                 },
                                                 {
                                                     "id": "TECH:C24",
-                                                    "title": "Using percentage values in CSS for container sizes",
-                                                    "append": "OR"
+                                                    "title": "Używanie wartości procentowych w CSS dla rozmiarów kontenerów",
+                                                    "append": "LUB"
                                                 },
                                                 {
                                                     "id": "TECH:FLASH33",
                                                     "title": "Używanie wartości względnych dla wymiarów obiektu Flash",
-                                                    "append": "OR"
+                                                    "append": "LUB"
                                                 },
                                                 {
                                                     "id": "TECH:SCR34",
-                                                    "title": "Calculating size and position in a way that scales with text size"
+                                                    "title": "Obliczanie rozmiaru i pozycji w sposób skalujący się z rozmiarem tekstu"
                                                 }
                                             ]
                                         },
@@ -2435,7 +2435,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:C22",
-                                    "title": "Using CSS to control visual presentation of text"
+                                    "title": "Używanie CSS do kontrolowania wizualnej prezentacji tekstu"
                                 },
                                 {
                                     "id": "TECH:SL31",
@@ -2443,7 +2443,7 @@
                                 },
                                 {
                                     "id": "TECH:C30",
-                                    "title": "Using CSS to replace text with images of text and providing user interface controls to switch"
+                                    "title": "Używanie CSS do zastępowania tekstu obrazami tekstu i zapewniania przełączników interfejsu użytkownika"
                                 },
                                 {
                                     "id": "TECH:G140",
@@ -2457,23 +2457,23 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:C12",
-                                    "title": "Using percent for font sizes"
+                                    "title": "Określanie rozmiarów czcionek za pomocą procentów"
                                 },
                                 {
                                     "id": "TECH:C13",
-                                    "title": "Using named font sizes"
+                                    "title": "Określanie rozmiarów czcionek za pomocą nazw rozmiarów"
                                 },
                                 {
                                     "id": "TECH:C14",
-                                    "title": "Using em units for font sizes"
+                                    "title": "Określanie rozmiarów czcionek za pomocą jednostek em"
                                 },
                                 {
                                     "id": "TECH:C8",
-                                    "title": "Using CSS letter-spacing to control spacing within a word"
+                                    "title": "Używanie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
                                 },
                                 {
                                     "id": "TECH:C6",
-                                    "title": "Positioning content based on structural markup"
+                                    "title": "Pozycjonowanie zawartości za pomocą znaczników strukturalnych"
                                 }
                             ]},
                             {"failure": []}
@@ -2504,23 +2504,23 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:C32",
-                                    "title": "Using media queries and grid CSS to reflow columns"
+                                    "title": "Używanie zapytań medialnych i siatki CSS do ponownego wlewania kolumn"
                                 },
                                 {
                                     "id": "TECH:C31",
-                                    "title": "Using CSS Flexbox to reflow content"
+                                    "title": "Używanie technologii CSS flexbox do ponownego wlewania treści"
                                 },
                                 {
                                     "id": "TECH:C33",
-                                    "title": "Allowing for Reflow with Long URLs and Strings of Text"
+                                    "title": "Umożliwienie ponownego wlewania z długimi adresami URL i ciągami tekstu"
                                 },
                                 {
                                     "id": "TECH:C38",
-                                    "title": "Using CSS width, max-width and flexbox to fit labels and inputs"
+                                    "title": "Używanie własności CSS width, max-width and flexbox, aby dopasować etykiety i pola formularzy"
                                 },
                                 {
                                     "id": "TECH:SCR34",
-                                    "title": "Calculating size and position in a way that scales with text size"
+                                    "title": "Obliczanie rozmiaru i pozycji w sposób skalujący się z rozmiarem tekstu"
                                 },
                                 {
                                     "id": "TECH:G206",
@@ -2534,11 +2534,11 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:C34",
-                                    "title": "Using media queries to un-fixing sticky headers / footers"
+                                    "title": "Używanie zapytań medialnych do usuwania 'przypięcia' nagłówków/stopek"
                                 },
                                 {
                                     "id": "TECH:C37",
-                                    "title": "Using CSS max-width and height to fit images"
+                                    "title": "Używanie własności CSS max-width oraz height, aby dopasować obrazy"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -2667,25 +2667,25 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:C36",
-                                    "title": "Allowing for text spacing override"
+                                    "title": "Umożliwienie zmiany rozstawu odstępów między wierszami tekstu"
                                 },
                                 {
                                     "id": "TECH:C35",
-                                    "title": "Allowing for text spacing without wrapping"
+                                    "title": "Umożliwienie zmiany odstępów w tekście bez zawijania"
                                 }
                             ]},
                             {"advisory": [
                                 {
                                     "id": "TECH:C8",
-                                    "title": "Using CSS letter-spacing to control spacing within a word"
+                                    "title": "Używanie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
                                 },
                                 {
                                     "id": "TECH:C21",
-                                    "title": "Specifying line spacing in CSS"
+                                    "title": "Określanie odstępów między wierszami w CSS"
                                 },
                                 {
                                     "id": "TECH:C28",
-                                    "title": "Specifying the size of text containers using em units"
+                                    "title": "Określanie wielkości kontenerów tekstowych za pomocą jednostek em"
                                 }
                             ]},
                             {"failure": [{
@@ -2840,19 +2840,19 @@
                                     "using": [
                                         {
                                             "id": "TECH:SCR20",
-                                            "title": "Using both keyboard and other device-specific functions"
+                                            "title": "Używanie zarówno klawiatury, jak i innych funkcji specyficznych dla urządzenia"
                                         },
                                         {
                                             "id": "TECH:SCR35",
-                                            "title": "Making actions keyboard accessible by using the onclick event of anchors and buttons"
+                                            "title": "Udostępnianie działań na klawiaturze za pomocą zdarzenia onclick zakotwiczeń i przycisków"
                                         },
                                         {
                                             "id": "TECH:SCR2",
-                                            "title": "Using redundant keyboard and mouse event handlers"
+                                            "title": "Korzystanie z redundantnych programów obsługi zdarzeń klawiatury i myszy"
                                         },
                                         {
                                             "id": "TECH:SL9",
-                                            "title": "Handling Key Events to Enable Keyboard Functionality in Silverlight"
+                                            "title": "Obsługa zdarzeń klawiatury w celu włączenia funkcjonalności klawiatury w Silverlight "
                                         },
                                         {
                                             "id": "TECH:SL14",
@@ -2881,7 +2881,7 @@
                             ]},
                             {"advisory": [{
                                 "id": "TECH:SCR29",
-                                "title": "Adding keyboard-accessible actions to static HTML elements"
+                                "title": "Dodanie działań dostępnych na klawiaturze do statycznych elementów HTML"
                             }]},
                             {"failure": [
                                 {
@@ -3050,7 +3050,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If there are session time limits:",
+                                    "title": "Sytuacja A: If there are session time limits:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G133",
@@ -3063,7 +3063,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If a time limit is controlled by a script on the page:",
+                                    "title": "Sytuacja B: If a time limit is controlled by a script on the page:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G198",
@@ -3076,11 +3076,11 @@
                                         {"and": [
                                             {
                                                 "id": "TECH:SCR16",
-                                                "title": "Providing a script that warns the user a time limit is about to expire"
+                                                "title": "Zapewnienie skryptu, który ostrzega użytkownika, że limit czasu wkrótce wygaśnie"
                                             },
                                             {
                                                 "id": "TECH:SCR1",
-                                                "title": "Allowing the user to extend the default time limit"
+                                                "title": "Umożliwienie użytkownikowi przedłużenia domyślnego limitu czasowego"
                                             }
                                         ]},
                                         {
@@ -3098,7 +3098,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation C: If there are time limits on reading:",
+                                    "title": "Sytuacja C: If there are time limits on reading:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G4",
@@ -3110,11 +3110,11 @@
                                         },
                                         {
                                             "id": "TECH:SCR33",
-                                            "title": "Using script to scroll content, and providing a mechanism to pause it"
+                                            "title": "Używanie skryptu do przewijania zawartości i zapewniania mechanizmu do jej wstrzymywania"
                                         },
                                         {
                                             "id": "TECH:SCR36",
-                                            "title": "Providing a mechanism to allow users to display moving, scrolling, or auto-updating text in a static window or area"
+                                            "title": "Zapewnienie mechanizmu umożliwiającego użytkownikom wyświetlanie ruchomego, przewijanego lub automatycznego aktualizowania tekstu w statycznym oknie lub obszarze"
                                         }
                                     ]
                                 }
@@ -3197,7 +3197,7 @@
                                 },
                                 {
                                     "id": "TECH:SCR33",
-                                    "title": "Using script to scroll content, and providing a mechanism to pause it"
+                                    "title": "Używanie skryptu do przewijania zawartości i zapewniania mechanizmu do jej wstrzymywania"
                                 },
                                 {
                                     "id": "TECH:FLASH35",
@@ -3217,7 +3217,7 @@
                                 },
                                 {
                                     "id": "TECH:SCR22",
-                                    "title": "Using scripts to control blinking and stop it in five seconds or less"
+                                    "title": "Używanie skryptów do kontrolowania migotania i zatrzymywania go w ciągu pięciu sekund lub krócej"
                                 },
                                 {
                                     "id": "TECH:FLASH36",
@@ -3304,7 +3304,7 @@
                                 },
                                 {
                                     "id": "TECH:SCR14",
-                                    "title": "Using scripts to make nonessential alerts optional"
+                                    "title": "Używanie skryptów do opcjonalnych alertów nieistotnych"
                                 }
                             ]},
                             {"advisory": []},
@@ -3458,11 +3458,11 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:C39",
-                                    "title": "Using the CSS reduce-motion query to prevent motion"
+                                    "title": "Używanie zapytanie reduce-motion, aby zapobiegać ruchowi"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Gx: Allowing users to set a preference that prevents animation."
+                                    "title": "Gx: Umożliwienie użytkownikom ustawienia preferencji zapobiegających animacji"
                                 }
                             ]},
                             {"advisory": []},
@@ -3546,7 +3546,7 @@
                                         ]},
                                         {
                                             "id": "TECH:SCR28",
-                                            "title": "Using an expandable and collapsible menu to bypass block of content"
+                                            "title": "Korzystanie z rozwijanego i zwijanego menu w celu ominięcia bloku treści"
                                         },
                                         {
                                             "id": "TECH:SL29",
@@ -3557,7 +3557,7 @@
                             ]},
                             {"advisory": [{
                                 "id": "TECH:C6",
-                                "title": "Positioning content based on structural markup"
+                                "title": "Pozycjonowanie zawartości za pomocą znaczników strukturalnych"
                             }]},
                             {"failure": []}
                         ]
@@ -3629,7 +3629,7 @@
                                         },
                                         {
                                             "id": "TECH:C27",
-                                            "title": "Making the DOM order match the visual order"
+                                            "title": "Tworzenie kolejności elementów DOM zgodnie z porządkiem wizualnym"
                                         },
                                         {
                                             "id": "TECH:PDF3",
@@ -3647,15 +3647,15 @@
                                     "using": [
                                         {
                                             "id": "TECH:SCR26",
-                                            "title": "Inserting dynamic content into the Document Object Model immediately following its trigger element"
+                                            "title": "Wstawianie dynamicznej zawartości do modelu obiektów dokumentu bezpośrednio po elemencie wyzwalającym"
                                         },
                                         {
                                             "id": "TECH:SCR37",
-                                            "title": "Creating Custom Dialogs in a Device Independent Way"
+                                            "title": "Tworzenie niestandardowych okien dialogowych w sposób niezależny od urządzenia"
                                         },
                                         {
                                             "id": "TECH:SCR27",
-                                            "title": "Reordering page sections using the Document Object Model"
+                                            "title": "Zmiana kolejności sekcji strony za pomocą Obiektowego Modelu Dokumentów (DOM)"
                                         }
                                     ]
                                 }
@@ -3712,7 +3712,7 @@
                                         },
                                         {
                                             "id": "TECH:SCR30",
-                                            "title": "Using scripts to change the link text"
+                                            "title": "Używanie skryptów do zmiany tekstu linku"
                                         },
                                         {
                                             "id": "TECH:FLASH7",
@@ -3734,7 +3734,7 @@
                                         },
                                         {
                                             "id": "TECH:C7",
-                                            "title": "Using CSS to hide a portion of the link text"
+                                            "title": "Używanie CSS do ukrycia części tekstu linku"
                                         }
                                     ]
                                 },
@@ -3911,7 +3911,7 @@
                                 },
                                 {
                                     "id": "TECH:C15",
-                                    "title": "Using CSS to change the presentation of a user interface component when it receives focus"
+                                    "title": "Używanie CSS do zmiany wyglądu składnika interfejsu użytkownika, gdy otrzymuje on fokus"
                                 },
                                 {
                                     "id": "TECH:G165",
@@ -3927,7 +3927,7 @@
                                 },
                                 {
                                     "id": "TECH:SCR31",
-                                    "title": "Using script to change the background color or border of the element with focus"
+                                    "title": "Używanie skryptu do zmiany koloru tła lub obramowania elementu z fokusem"
                                 },
                                 {
                                     "id": "TECH:FLASH20",
@@ -3935,11 +3935,11 @@
                                 },
                                 {
                                     "id": "TECH:SL2",
-                                    "title": "Changing The Visual Focus Indicator in Silverlight"
+                                    "title": "Zmiana wizualnego wskaźnika fokusa w Silverlight "
                                 },
                                 {
                                     "id": "TECH:SL7",
-                                    "title": "Designing a Focused Visual State for Custom Silverlight Controls"
+                                    "title": "Projektowanie wizualnego wskaźnika oznaczenia fokusem dla własnych kontrolek Silverlight "
                                 }
                             ]},
                             {"advisory": []},
@@ -4045,7 +4045,7 @@
                                         },
                                         {
                                             "id": "TECH:SCR30",
-                                            "title": "Using scripts to change the link text"
+                                            "title": "Używanie skryptów do zmiany tekstu linku"
                                         },
                                         {
                                             "id": "TECH:FLASH7",
@@ -4058,7 +4058,7 @@
                                     "title": "Providing a supplemental description of the purpose of a link using one of the following techniques:",
                                     "using": [{
                                         "id": "TECH:C7",
-                                        "title": "Using CSS to hide a portion of the link text"
+                                        "title": "Używanie CSS do ukrycia części tekstu linku"
                                     }]
                                 },
                                 {
@@ -4462,7 +4462,7 @@
                             ]},
                             {"advisory": [{
                                 "id": "TECH:SVR5",
-                                "title": "Specifying the default language in the HTTP header"
+                                "title": "Określenie języka domyślnego w nagłówku HTTP"
                             }]},
                             {"failure": []}
                         ]
@@ -4494,7 +4494,7 @@
                                 },
                                 {
                                     "id": "TECH:SL4",
-                                    "title": "Declaring Discrete Silverlight Objects to Specify Language Parts in the HTML DOM"
+                                    "title": "Deklarowanie dyskretnych obiektów Silverlight (Discrete Silverlight Objects), aby określić części językowe (Specify Language Parts) w DOM HTML"
                                 }
                             ]},
                             {"advisory": [{
@@ -4518,7 +4518,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If the word or phrase has a unique meaning within the Web page:",
+                                    "title": "Sytuacja A: If the word or phrase has a unique meaning within the Web page:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G101",
@@ -4579,7 +4579,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If the word or phrase means different things within the same Web page:",
+                                    "title": "Sytuacja B: If the word or phrase means different things within the same Web page:",
                                     "techniques": [{
                                         "id": "TECH:G101",
                                         "title": "Zapewnienie definicji słowa lub wyrażenia użytego w nietypowy lub ograniczony sposób",
@@ -4628,7 +4628,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If the abbreviation has only one meaning within the Web page:",
+                                    "title": "Sytuacja A: If the abbreviation has only one meaning within the Web page:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G102",
@@ -4685,7 +4685,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If the abbreviation means different things within the same Web page:",
+                                    "title": "Sytuacja B: If the abbreviation means different things within the same Web page:",
                                     "techniques": [{
                                         "id": "TECH:G102",
                                         "title": "Zapewnienie rozszerzenia lub wyjaśnienia skrótu",
@@ -4869,7 +4869,7 @@
                                         },
                                         {
                                             "id": "TECH:SL10",
-                                            "title": "Implementing a Submit-Form Pattern in Silverlight"
+                                            "title": "Implementacja wzorca formularza przesyłania w Silverlight"
                                         }
                                     ]
                                 },
@@ -4879,7 +4879,7 @@
                                 },
                                 {
                                     "id": "TECH:SCR19",
-                                    "title": "Using an onchange event on a select element without causing a change of context"
+                                    "title": "Używanie zdarzenia onchange na wybranym elemencie bez powodowania zmiany kontekstu"
                                 }
                             ]},
                             {"advisory": [{
@@ -4972,18 +4972,18 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If the Web page allows automatic updates:",
+                                    "title": "Sytuacja A: If the Web page allows automatic updates:",
                                     "techniques": [{
                                         "id": "TECH:G76",
                                         "title": "Providing a mechanism to request an update of the content instead of updating automatically"
                                     }]
                                 },
                                 {
-                                    "title": "Situation B: If automatic redirects are possible:",
+                                    "title": "Sytuacja B: If automatic redirects are possible:",
                                     "techniques": [
                                         {
                                             "id": "TECH:SVR1",
-                                            "title": "Implementing automatic redirects on the server side instead of on the client side"
+                                            "title": "Implementowanie automatycznych przekierowań po stronie serwera zamiast po stronie klienta"
                                         },
                                         {
                                             "id": "TECH:G110",
@@ -4996,7 +4996,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation C: If the Web page uses pop-up windows:",
+                                    "title": "Sytuacja C: If the Web page uses pop-up windows:",
                                     "techniques": [{
                                         "id": "TECH:text",
                                         "title": "Including pop-up windows using one of the following techniques:",
@@ -5007,16 +5007,16 @@
                                             },
                                             {
                                                 "id": "TECH:SCR24",
-                                                "title": "Using progressive enhancement to open new windows on user request"
+                                                "title": "Użycie progresywnego ulepszania do otwierania nowych okien na żądanie użytkownika"
                                             }
                                         ]
                                     }]
                                 },
                                 {
-                                    "title": "Situation D: If using an onchange event on a select element:",
+                                    "title": "Sytuacja D: If using an onchange event on a select element:",
                                     "techniques": [{
                                         "id": "TECH:SCR19",
-                                        "title": "Using an onchange event on a select element without causing a change of context"
+                                        "title": "Używanie zdarzenia onchange na wybranym elemencie bez powodowania zmiany kontekstu"
                                     }]
                                 }
                             ]}]},
@@ -5080,7 +5080,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If a form contains fields for which information from the user is mandatory.",
+                                    "title": "Sytuacja A: If a form contains fields for which information from the user is mandatory.",
                                     "techniques": [
                                         {
                                             "id": "TECH:G83",
@@ -5092,7 +5092,7 @@
                                         },
                                         {
                                             "id": "TECH:SCR18",
-                                            "title": "Providing client-side validation and alert"
+                                            "title": "Zapewnienie sprawdzania poprawności i alertu po stronie klienta"
                                         },
                                         {
                                             "id": "TECH:PDF5",
@@ -5105,7 +5105,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If information provided by the user is required to be in a specific data format or of certain values.",
+                                    "title": "Sytuacja B: If information provided by the user is required to be in a specific data format or of certain values.",
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA18",
@@ -5129,11 +5129,11 @@
                                         },
                                         {
                                             "id": "TECH:SCR18",
-                                            "title": "Providing client-side validation and alert"
+                                            "title": "Zapewnienie sprawdzania poprawności i alertu po stronie klienta"
                                         },
                                         {
                                             "id": "TECH:SCR32",
-                                            "title": "Providing client-side validation and adding error text via the DOM"
+                                            "title": "Zapewnienie sprawdzania poprawności po stronie klienta i dodawania tekstu błędu przez DOM"
                                         },
                                         {
                                             "id": "TECH:FLASH12",
@@ -5257,7 +5257,7 @@
                                 },
                                 {
                                     "id": "TECH:SL8",
-                                    "title": "Displaying HelpText in Silverlight User Interfaces"
+                                    "title": "Wyświetlanie tekstu pomocy w interfejsach użytkownika Silverlight"
                                 },
                                 {
                                     "id": "TECH:G167",
@@ -5294,7 +5294,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If a mandatory field contains no information:",
+                                    "title": "Sytuacja A: If a mandatory field contains no information:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G83",
@@ -5315,7 +5315,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If information for a field is required to be in a specific data format:",
+                                    "title": "Sytuacja B: If information for a field is required to be in a specific data format:",
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA18",
@@ -5331,11 +5331,11 @@
                                         },
                                         {
                                             "id": "TECH:SCR18",
-                                            "title": "Providing client-side validation and alert"
+                                            "title": "Zapewnienie sprawdzania poprawności i alertu po stronie klienta"
                                         },
                                         {
                                             "id": "TECH:SCR32",
-                                            "title": "Providing client-side validation and adding error text via the DOM"
+                                            "title": "Zapewnienie sprawdzania poprawności po stronie klienta i dodawania tekstu błędu przez DOM"
                                         },
                                         {
                                             "id": "TECH:FLASH12",
@@ -5348,7 +5348,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation C: Information provided by the user is required to be one of a limited set of values:",
+                                    "title": "Sytuacja C: Information provided by the user is required to be one of a limited set of values:",
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA18",
@@ -5364,11 +5364,11 @@
                                         },
                                         {
                                             "id": "TECH:SCR18",
-                                            "title": "Providing client-side validation and alert"
+                                            "title": "Zapewnienie sprawdzania poprawności i alertu po stronie klienta"
                                         },
                                         {
                                             "id": "TECH:SCR32",
-                                            "title": "Providing client-side validation and adding error text via the DOM"
+                                            "title": "Zapewnienie sprawdzania poprawności po stronie klienta i dodawania tekstu błędu przez DOM"
                                         },
                                         {
                                             "id": "TECH:FLASH12",
@@ -5392,7 +5392,7 @@
                                 },
                                 {
                                     "id": "TECH:SCR18",
-                                    "title": "Providing client-side validation and alert"
+                                    "title": "Zapewnienie sprawdzania poprawności i alertu po stronie klienta"
                                 }
                             ]},
                             {"failure": []}
@@ -5429,7 +5429,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If an application causes a legal transaction to occur, such as making a purchase or submitting an income tax return:",
+                                    "title": "Sytuacja A: If an application causes a legal transaction to occur, such as making a purchase or submitting an income tax return:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G164",
@@ -5446,7 +5446,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If an action causes information to be deleted:",
+                                    "title": "Sytuacja B: If an action causes information to be deleted:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G99",
@@ -5463,7 +5463,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation C: If the Web page includes a testing application:",
+                                    "title": "Sytuacja C: If the Web page includes a testing application:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G98",
@@ -5479,7 +5479,7 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:SCR18",
-                                    "title": "Providing client-side validation and alert"
+                                    "title": "Zapewnienie sprawdzania poprawności i alertu po stronie klienta"
                                 },
                                 {
                                     "id": "TECH:SL35",
@@ -5507,7 +5507,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If a form requires text input:",
+                                    "title": "Sytuacja A: If a form requires text input:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G71",
@@ -5528,7 +5528,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If a form requires text input in an expected data format:",
+                                    "title": "Sytuacja B: If a form requires text input in an expected data format:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G89",
@@ -5698,7 +5698,7 @@
                     "techniques": [
                         {"sufficient": [{"situations": [
                             {
-                                "title": "Situation A: If using a standard user interface component in a markup language (e.g., HTML):",
+                                "title": "Sytuacja A: If using a standard user interface component in a markup language (e.g., HTML):",
                                 "techniques": [
                                     {
                                         "id": "TECH:ARIA14",
@@ -5737,7 +5737,7 @@
                                 ]
                             },
                             {
-                                "title": "Situation B: If using script or code to re-purpose a standard user interface component in a markup language:",
+                                "title": "Sytuacja B: If using script or code to re-purpose a standard user interface component in a markup language:",
                                 "techniques": [{
                                     "id": "TECH:text",
                                     "title": "Exposing the names and roles, allowing user-settable properties to be directly set, and providing notification of changes using one of the following techniques:",
@@ -5748,7 +5748,7 @@
                                 }]
                             },
                             {
-                                "title": "Situation C: If using a standard user interface component in a programming technology:",
+                                "title": "Sytuacja C: If using a standard user interface component in a programming technology:",
                                 "techniques": [{
                                     "id": "TECH:G135",
                                     "title": "Używanie funkcji API dostępności dla technologii do ujawniania nazw i ról, aby umożliwić bezpośrednie ustawienie właściwości ustawianych przez użytkownika oraz powiadamianie o zmianach",
@@ -5785,7 +5785,7 @@
                                 }]
                             },
                             {
-                                "title": "Situation D: If creating your own user interface component in a programming language:",
+                                "title": "Sytuacja D: If creating your own user interface component in a programming language:",
                                 "techniques": [{
                                     "id": "TECH:G10",
                                     "title": "Tworzenie komponentów przy użyciu technologii obsługującej powiadomianie o zmianach dotyczących dostępności",
@@ -5866,7 +5866,7 @@
                     "techniques": [
                         {"sufficient": [{"situations": [
                             {
-                                "title": "Situation A: If a status message advises on the success or results of an action, or the state of an application:",
+                                "title": "Sytuacja A: If a status message advises on the success or results of an action, or the state of an application:",
                                 "techniques": [{
                                     "id": "TECH:ARIA22",
                                     "title": "Używanie atrybutu role=status do prezentacji statusu komunikatu błędu",
@@ -5877,7 +5877,7 @@
                                 }]
                             },
                             {
-                                "title": "Situation B: If a status message conveys a suggestion, or a warning on the existence of an error:",
+                                "title": "Sytuacja B: If a status message conveys a suggestion, or a warning on the existence of an error:",
                                 "techniques": [{
                                     "id": "TECH:ARIA19",
                                     "title": "Używanie atrybutu role=alert lub role=live do identyfikacji błędów",
@@ -5906,7 +5906,7 @@
                                 }]
                             },
                             {
-                                "title": "Situation C: If a status message conveys information on the progress of a process:",
+                                "title": "Sytuacja C: If a status message conveys information on the progress of a process:",
                                 "techniques": [
                                     {
                                         "id": "TECH:ARIA23",
@@ -5948,7 +5948,7 @@
                             },
                             {
                                 "id": "TECH:SCR14",
-                                "title": "Using scripts to make nonessential alerts optional"
+                                "title": "Używanie skryptów do opcjonalnych alertów nieistotnych"
                             }
                         ]},
                         {"failure": [
