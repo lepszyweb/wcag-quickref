@@ -1,15 +1,14 @@
 ---
-title: How to Use
+title: Jak korzystać
 ---
-Select the “Filter” tab in the main menu to customize:
+Wybierz w menu głównym kartę „Filtr”, aby dostosować::
 
-- **Tags:** Shows only success criteria associated with the selected tags.
+- **Tagi:** Pokazuje tylko kryteria sukcesu związane z wybranymi tagami.
 
-- **Levels:** Shows only success criteria for the selected levels.
+- **Poziomy:** Pokazuje tylko kryteria sukcesu z zakresu wybranych poziomów.
 
-- **Technologies:** Shows only techniques for the selected technologies.
+- **Technologie:** Pokazuje tylko techniki z wybranych technologii.
 
-- **Techniques:** Shows only the types of techniques and/or failures selected.
+- **Techniki:** Pokazuje tylko wybrane typy technik i/lub błędów.
 
-The **Share this view** button provides a link to this tool with the filters you have set.
-The SHARE buttons provide links to individual success criteria.
+Przycisk **Udostępnij ten widok** zapewnia łącze do tego narzędzia z ustawionymi filtrami. Przyciski UDOSTĘPNIJ zapewniają łącza do indywidualnych kryteriów sukcesu.
