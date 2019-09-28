@@ -3378,12 +3378,6 @@
                             "handle": "Uwaga 1",
                             "text": "Przepisy dotyczące prywatności mogą wymagać wyraźnej zgody użytkownika przed uwierzytelnieniem tożsamości użytkownika i zachowaniem danych użytkownika. W przypadkach, gdy użytkownik jest nieletni, wyraźna zgoda może nie być wymagana w większości jurysdykcji, krajów lub regionów. Przy rozważaniu ochrony danych jako podejścia do spełnienia tego kryterium sukcesu zaleca się konsultacje ze specjalistami ds. prywatności i radcą prawnym. "
                         }],						
-						
-						
-						
-						
-						
-						
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3458,8 +3452,8 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Three Flashes",
-                        "title": "Web pages do not contain anything that flashes more than three times in any one second period.",
+                        "handle": "Trzy błyski",
+                        "title": "Strony internetowe nie zawierają w swojej treści niczego, co migocze częściej niż trzy razy w ciągu jednej sekundy.",
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:G19",
@@ -3475,8 +3469,8 @@
                         "num": "2.3.3",
                         "versions": ["2.1"],
                         "level": "AAA",
-                        "handle": "Animation from Interactions",
-                        "title": "Motion animation triggered by interaction can be disabled, unless the animation is essential to the functionality or the information being conveyed.",
+                        "handle": "Animacja po interakcji",
+                        "title": "Animacja ruchu wyzwalana przez interakcję może być wyłączona, chyba że animacja jest istotna dla funkcjonalności lub przekazywanych informacji.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3503,8 +3497,8 @@
                     "2.0",
                     "2.1"
                 ],
-                "handle": "Navigable",
-                "title": "Provide ways to help users navigate, find content, and determine where they are.",
+                "handle": "Możliwość nawigacji",
+                "title": "Dostarczenie narzędzi ułatwiających użytkownikowi nawigowanie, znajdowanie treści i ustalanie, gdzie się w danym momencie znajduje.",
                 "successcriteria": [
                     {
                         "id": "WCAG2:bypass-blocks",
@@ -3515,8 +3509,8 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Bypass Blocks",
-                        "title": "A mechanism is available to bypass blocks of content that are repeated on multiple Web pages.",
+                        "handle": "Możliwość pominięcia bloków",
+                        "title": "Dostępny jest mechanizm, który umożliwia pominięcie bloków treści powtarzanych na wielu stronach internetowych.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3594,8 +3588,8 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Page Titled",
-                        "title": "Web pages have titles that describe topic or purpose.",
+                        "handle": "Tytuły stron",
+                        "title": "Strony internetowe posiadają tytuły, które opisują ich cel lub przedstawiają ich temat.",
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:G88",
@@ -3630,8 +3624,8 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Focus Order",
-                        "title": "If a Web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves meaning and operability.",
+                        "handle": "Kolejność fokusa",
+                        "title": "Jeśli strona internetowa może być nawigowana sekwencyjnie, a kolejność nawigacji wpływa na zrozumienie lub funkcjonalność strony, komponenty przyjmujące fokus zachowują kolejność, dzięki której zachowany jest sens i funkcjonalność treści.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3705,8 +3699,8 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Link Purpose (In Context)",
-                        "title": "The purpose of each link can be determined from the link text alone or from the link text together with its programmatically determined link context, except where the purpose of the link would be ambiguous to users in general.",
+                        "handle": "Cel linku (w kontekście)",
+                        "title": "Cel każdego linku może wynikać z samej treści linku, lub też z treści linku powiązanej z programistycznie określonym kontekstem, poza tymi przypadkami, kiedy cel łącza i tak byłby niejasny dla użytkowników.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3845,8 +3839,8 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Multiple Ways",
-                        "title": "More than one way is available to locate a Web page within a set of Web pages except where the Web Page is the result of, or a step in, a process.",
+                        "handle": "Wiele dróg",
+                        "title": "Istnieje więcej niż jedna droga umożliwiająca zlokalizowanie strony w danym serwisie internetowym, za wyjątkiem sytuacji, kiedy dana strona jest wynikiem jakiejś procedury lub jednym z jej etapów.",
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:text",
@@ -3898,8 +3892,8 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Headings and Labels",
-                        "title": "Headings and labels describe topic or purpose.",
+                        "handle": "Nagłówki i etykiety",
+                        "title": "Nagłówki i etykiety opisują temat lub cel treści.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3924,8 +3918,8 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Focus Visible",
-                        "title": "Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible.",
+                        "handle": "Widoczny fokus",
+                        "title": "Każdy interfejs możliwy do nawigacji za pomocą klawiatury, posiada widoczny wskaźnik fokusa klawiatury.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3987,8 +3981,8 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Location",
-                        "title": "Information about the user's location within a set of Web pages is available.",
+                        "handle": "Lokalizacja",
+                        "title": "Dostępna jest informacja, w którym miejscu w danym serwisie internetowym znajduje się użytkownik. ",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -4034,8 +4028,8 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Link Purpose (Link Only)",
-                        "title": "A mechanism is available to allow the purpose of each link to be identified from link text alone, except where the purpose of the link would be ambiguous to users in general.",
+                        "handle": "Cel linku (z samego linku)",
+                        "title": "Dostępny jest mechanizm umożliwiający zidentyfikowanie celu każdego linku z samej jego treści, poza tymi przypadkami, kiedy cel łącza i tak byłby niejasny dla użytkowników.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -4138,18 +4132,18 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Section Headings",
-                        "title": "Section headings are used to organize the content.",
+                        "handle": "Nagłówki sekcji",
+                        "title": "Nagłówki sekcji są używane do porządkowania treści.",
                         "details": [
                             {
                                 "type": "note",
                                 "handle": "Uwaga 1",
-                                "text": "\"Heading\" is used in its general sense and includes titles and other ways to add a heading to different types of content."
+                                "text": "Termin „nagłówek” został tu użyty w swoim ogólnym znaczeniu, obejmując tytuły i inne sposoby przypisywania nagłówków do różnego rodzaju treści."
                             },
                             {
                                 "type": "note",
                                 "handle": "Uwaga 2",
-                                "text": "This success criterion covers sections within writing, not user interface components. User Interface components are covered under Success Criterion 4.1.2."
+                                "text": "Powyższe kryterium sukcesu dotyczy sekcji samych tekstów, a nie komponentów interfejsu użytkownika, które omawiane są osobno w ramach kryterium sukcesu 4.1.2."
                             }
                         ],
                         "techniques": [
@@ -4175,8 +4169,8 @@
                 "alt_id": [],
                 "num": "2.5",
                 "versions": ["2.1"],
-                "handle": "Input Modalities",
-                "title": "Make it easier for users to operate functionality through various inputs beyond keyboard.",
+                "handle": "Metody obsługi",
+                "title": "Ułatw użytkownikom obsługę funkcji za pomocą różnych sposobów poza klawiaturą.",
                 "successcriteria": [
                     {
                         "id": "WCAG2:pointer-gestures",
@@ -4184,8 +4178,8 @@
                         "num": "2.5.1",
                         "versions": ["2.1"],
                         "level": "A",
-                        "handle": "Pointer Gestures",
-                        "title": "All functionality that uses multipoint or path-based gestures for operation can be operated with a single pointer without a path-based gesture, unless a multipoint or path-based gesture is essential.",
+                        "handle": "Gesty wskazujące",
+                        "title": "Cała funkcjonalność wykorzystująca gesty wielopunktowe lub oparte na ścieżkach do obsługi może być obsługiwana za pomocą pojedynczego wskaźnika bez gestu opartego na ścieżce, chyba że niezbędny jest gest wielopunktowy lub oparty na ścieżce.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -4218,26 +4212,26 @@
                         "num": "2.5.2",
                         "versions": ["2.1"],
                         "level": "A",
-                        "handle": "Pointer Cancellation",
-                        "title": "For functionality that can be operated using a single pointer, at least one of the following is true:",
+                        "handle": "Anulowanie wskazania",
+                        "title": "W przypadku funkcji, które można obsługiwać za pomocą pojedynczego wskazania, co najmniej jedno z poniższych jest prawdziwe:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "No Down-Event",
-                                    "text": "The down-event of the pointer is not used to execute any part of the function;"
+                                    "handle": "Brak zdarzenia 'down'",
+                                    "text": "Zdarzenie 'down' nie jest wykorzystywane do wykonywania jakiejkolwiek części funkcji;"
                                 },
                                 {
-                                    "handle": "Abort or Undo",
-                                    "text": "Completion of the function is on the up-event, and a mechanism is available to abort the function before completion or to undo the function after completion;"
+                                    "handle": "Przerwij lub cofnij",
+                                    "text": "Ukończenie funkcji odbywa się na zdarzeniu 'up' i dostępny jest mechanizm do przerwania funkcji przed jej zakończeniem lub cofnięcia funkcji po jej zakończeniu;"
                                 },
                                 {
-                                    "handle": "Up Reversal",
-                                    "text": "The up-event reverses any outcome of the preceding down-event;"
+                                    "handle": "Odwrócenie zdarzenia 'up'",
+                                    "text": "Zdarzenie up odwraca każdy wynik poprzedniego zdarzenia 'down'"
                                 },
                                 {
-                                    "handle": "Essential",
-                                    "text": "Completing the function on the down-event is essential."
+                                    "handle": "Istotny",
+                                    "text": "Niezbędne jest ukończenie funkcji w zdarzeniu 'down'"
                                 }
                             ]
                         }],
@@ -4269,8 +4263,8 @@
                         "num": "2.5.3",
                         "versions": ["2.1"],
                         "level": "A",
-                        "handle": "Label in Name",
-                        "title": "For user interface components with labels that include text or images of text, the name contains the text that is presented visually.",
+                        "handle": "Etykieta w nazwie",
+                        "title": "W przypadku komponentów interfejsu użytkownika z etykietami zawierającymi tekst lub obrazy tekstu, nazwa zawiera tekst, który jest prezentowany wizualnie.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -4308,18 +4302,18 @@
                         "num": "2.5.4",
                         "versions": ["2.1"],
                         "level": "A",
-                        "handle": "Motion Actuation",
-                        "title": "Functionality that can be operated by device motion or user motion can also be operated by user interface components and responding to the motion can be disabled to prevent accidental actuation, except when:",
+                        "handle": "Aktywowanie ruchem",
+                        "title": "Funkcjonalność, którą można obsługiwać za pomocą ruchu urządzenia lub ruchu użytkownika, można również obsługiwać za pomocą elementów interfejsu użytkownika, a reagowanie na ruch można wyłączyć, aby zapobiec przypadkowemu uruchomieniu, z wyjątkiem sytuacji, gdy:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "Supported Interface",
-                                    "text": "The motion is used to operate functionality through an accessibility supported interface;"
+                                    "handle": "Obsługiwany interfejs",
+                                    "text": "Ruch służy do obsługi funkcjonalności poprzez interfejs obsługiwany przez dostępność;"
                                 },
                                 {
-                                    "handle": "Essential",
-                                    "text": "The motion is essential for the function and doing so would invalidate the activity."
+                                    "handle": "Istotny",
+                                    "text": "Ruch jest niezbędny dla funkcji, a to spowodowałoby unieważnienie działania."
                                 }
                             ]
                         }],
@@ -4357,26 +4351,26 @@
                         "num": "2.5.5",
                         "versions": ["2.1"],
                         "level": "AAA",
-                        "handle": "Target Size",
-                        "title": "The size of the target for pointer inputs is at least 44 by 44 CSS pixels except when:",
+                        "handle": "Rozmiar wskazywanego celu",
+                        "title": "Rozmiar celu wskaźnika dla wprowadzanych danych wynosi co najmniej 44 na 44 piksele CSS, chyba że:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "Equivalent",
-                                    "text": "The target is available through an equivalent link or control on the same page that is at least 44 by 44 CSS pixels;"
+                                    "handle": "Odpowiednik",
+                                    "text": "Cel jest dostępny za pośrednictwem równoważnego łącza lub kontroli na tej samej stronie, która ma co najmniej 44 na 44 piksele CSS;"
                                 },
                                 {
-                                    "handle": "Inline",
-                                    "text": "The target is in a sentence or block of text;"
+                                    "handle": "Śródliniowe",
+                                    "text": "Cel znajduje się w zdaniu lub bloku tekstu;"
                                 },
                                 {
-                                    "handle": "User Agent Control",
-                                    "text": "The size of the target is determined by the user agent and is not modified by the author;"
+                                    "handle": "Kontrola programu klienckiego",
+                                    "text": "Rozmiar obiektu docelowego jest określony przez proram kliencki (przeglądarkę) i nie jest modyfikowany przez autora;"
                                 },
                                 {
-                                    "handle": "Essential",
-                                    "text": "A particular presentation of the target is essential to the information being conveyed."
+                                    "handle": "Istotny",
+                                    "text": "Szczególna prezentacja celu ma zasadnicze znaczenie dla przekazywanych informacji."
                                 }
                             ]
                         }],
@@ -4413,8 +4407,8 @@
                         "num": "2.5.6",
                         "versions": ["2.1"],
                         "level": "AAA",
-                        "handle": "Concurrent Input Mechanisms",
-                        "title": "Web content does not restrict use of input modalities available on a platform except where the restriction is essential, required to ensure the security of the content, or required to respect user settings.",
+                        "handle": "Mechanizmy równoczesnego wprowadzania danych",
+                        "title": "Treści internetowe nie ograniczają możliwości korzystania z modalności wejściowych dostępnych na platformie, z wyjątkiem sytuacji, w których ograniczenie jest niezbędne, wymagane do zapewnienia bezpieczeństwa treści lub wymagane do przestrzegania ustawień użytkownika.",
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:text",
@@ -4439,8 +4433,8 @@
             "2.0",
             "2.1"
         ],
-        "handle": "Understandable",
-        "title": "Information and the operation of the user interface must be understandable.",
+        "handle": "Zrozumiałość",
+        "title": "Informacje oraz obsługa interfejsu użytkownika muszą być zrozumiałe.",
         "guidelines": [
             {
                 "id": "WCAG2:readable",
@@ -4450,8 +4444,8 @@
                     "2.0",
                     "2.1"
                 ],
-                "handle": "Readable",
-                "title": "Make text content readable and understandable.",
+                "handle": "Możliwość odczytania",
+                "title": "Treść powinna być zrozumiała i możliwa do odczytania.",
                 "successcriteria": [
                     {
                         "id": "WCAG2:language-of-page",
@@ -4462,8 +4456,8 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Language of Page",
-                        "title": "The default human language of each Web page can be programmatically determined.",
+                        "handle": "Język strony",
+                        "title": "Domyślny język naturalny każdej strony internetowej może zostać odczytany przez program komputerowy.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -4499,8 +4493,8 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Language of Parts",
-                        "title": "The human language of each passage or phrase in the content can be programmatically determined except for proper names, technical terms, words of indeterminate language, and words or phrases that have become part of the vernacular of the immediately surrounding text.",
+                        "handle": "Język części",
+                        "title": "Język naturalny każdej części lub frazy zawartej w treści może zostać odczytany przez program komputerowy, za wyjątkiem nazw własnych, wyrażeń technicznych, słów w nieokreślonym języku oraz słów i fraz, które stanowią część żargonu w bezpośrednio otaczającym je tekście.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -4536,8 +4530,8 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Unusual Words",
-                        "title": "A mechanism is available for identifying specific definitions of words or phrases used in an unusual or restricted way, including idioms and jargon.",
+                        "handle": "Nietypowe słowa",
+                        "title": "Dostępny jest mechanizm, za pomocą którego można sprawdzić definicje słów użytych w nietypowy lub ograniczony sposób, w tym idiomów i żargonu. ",
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
@@ -4646,8 +4640,8 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Abbreviations",
-                        "title": "A mechanism for identifying the expanded form or meaning of abbreviations is available.",
+                        "handle": "Skróty",
+                        "title": "Dostępny jest mechanizm, za pomocą którego można sprawdzić znaczenie skrótów w ich rozwiniętej formie.",
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
@@ -4742,8 +4736,8 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Reading Level",
-                        "title": "When text requires reading ability more advanced than the lower secondary education level after removal of proper names and titles, supplemental content, or a version that does not require reading ability more advanced than the lower secondary education level, is available.",
+                        "handle": "Poziom umiejętności czytania",
+                        "title": "Jeśli dany tekst, po usunięciu nazw własnych i tytułów, wymaga umiejętności czytania na poziomie wyższym niż poziom gimnazjalny, dostępna jest treść w formie suplementu (wyjaśniającego) lub oddzielna wersja, która nie wymaga umiejętności czytania na poziomie wyższym niż gimnazjalny.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -4780,8 +4774,8 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Pronunciation",
-                        "title": "A mechanism is available for identifying specific pronunciation of words where meaning of the words, in context, is ambiguous without knowing the pronunciation.",
+                        "handle": "Wymowa",
+                        "title": "Dostępny jest mechanizm, za pomocą którego można sprawdzić wymowę słów, których znaczenie jest niejasne w danym kontekście bez znajomości ich wymowy.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -4820,8 +4814,8 @@
                     "2.0",
                     "2.1"
                 ],
-                "handle": "Predictable",
-                "title": "Make Web pages appear and operate in predictable ways.",
+                "handle": "Przewidywalność",
+                "title": "Strony internetowe powinny otwierać się i działać w przewidywalny sposób.",
                 "successcriteria": [
                     {
                         "id": "WCAG2:on-focus",
@@ -4832,9 +4826,9 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "On Focus",
-                        "title": "When any user interface component receives focus, it does not initiate a change of context.",
-                        "sufficientNotes": ["A change of content is not always a change of context. This success criterion is automatically met if changes in content are not also changes of context."],
+                        "handle": "Po oznaczeniu fokusem",
+                        "title": "Jeśli jakikolwiek komponent jest oznaczony fokusem, nie powoduje to zmiany kontekstu.",
+                        "sufficientNotes": ["Zmiana treści nie zawsze jest zmianą kontekstu. To kryterium powodzenia jest automatycznie spełniane, jeśli zmiany treści nie są równocześnie zmianami kontekstu."],
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:G107",
@@ -4865,9 +4859,9 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "On Input",
-                        "title": "Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behavior before using the component.",
-						"sufficientNotes": ["A change of content is not always a change of context. This success criterion is automatically met if changes in content are not also changes of context."],
+                        "handle": "Podczas wprowadzania danych",
+                        "title": "Zmiana ustawień jakiegokolwiek komponentu interfejsu użytkownika nie powoduje automatycznej zmiany kontekstu, chyba, że użytkownik został poinformowany o takim działaniu zanim zaczął korzystać z komponentu.",
+						"sufficientNotes": ["Uwaga: Zmiana treści nie zawsze jest zmianą kontekstu. To kryterium powodzenia jest automatycznie spełniane, jeśli zmiany treści nie są równocześnie zmianami kontekstu."],
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -4930,8 +4924,8 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Consistent Navigation",
-                        "title": "Navigational mechanisms that are repeated on multiple Web pages within a set of Web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user.",
+                        "handle": "Konsekwentna nawigacja",
+                        "title": "Mechanizmy nawigacji, które powtarzają się na wielu stronach w serwisie internetowym, w danym porządku względnym wobec siebie, za każdym razem pojawiają się w tym samym porządku, chyba, że użytkownik sam wprowadzi zmiany.",
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:G61",
@@ -4962,8 +4956,8 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Consistent Identification",
-                        "title": "Components that have the same functionality within a set of Web pages are identified consistently.",
+                        "handle": "Konsekwentna identyfikacja",
+                        "title": "Komponenty, które posiadają tę samą funkcjonalność w danym serwisie internetowym, są w taki sam sposób zidentyfikowane.",
                         "sufficientNotes": [
                             "Text alternatives that are \u201cconsistent\u201d are not always \u201cidentical.\u201d For instance, you may have an graphical arrow at the bottom of a Web page that links to the next Web page. The text alternative may say \u201cGo to page 4.\u201d Naturally, it would not be appropriate to repeat this exact text alternative on the next Web page. It would be more appropriate to say \u201cGo to page 5\u201d. Although these text alternatives would not be identical, they would be consistent, and therefore would satisfy this Success Criterion.",
                             "A single non-text-content-item may be used to serve different functions. In such cases, different text alternatives are necessary and should be used. Examples can be commonly found with the use of icons such as check marks, cross marks, and traffic signs. Their functions can be different depending on the context of the Web page. A check mark icon may function as \u201capproved\u201d, \u201ccompleted\u201d, or \u201cincluded\u201d, to name a few, depending on the situation. Using \u201ccheck mark\u201d as text alternative across all Web pages does not help users understand the function of the icon. Different text alternatives can be used when the same non-text content serves multiple functions."
@@ -4990,8 +4984,8 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Change on Request",
-                        "title": "Changes of context are initiated only by user request or a mechanism is available to turn off such changes.",
+                        "handle": "Zmiana na żądanie",
+                        "title": "Zmiany kontekstu inicjowane są tylko na żądanie użytkownika, lub też istnieje mechanizm pozwalający na wyłączenie takich zmian.",
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
@@ -5086,8 +5080,8 @@
                     "2.0",
                     "2.1"
                 ],
-                "handle": "Input Assistance",
-                "title": "Help users avoid and correct mistakes.",
+                "handle": "Pomoc przy wprowadzaniu informacji",
+                "title": "Istnieje wsparcie dla użytkownika, by mógł uniknąć błędów lub je skorygować.",
                 "successcriteria": [
                     {
                         "id": "WCAG2:error-identification",
@@ -5098,8 +5092,8 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Error Identification",
-                        "title": "If an input error is automatically detected, the item that is in error is identified and the error is described to the user in text.",
+                        "handle": "Identyfikacja błędu",
+                        "title": "Jeśli przy wpisywaniu informacji, błąd zostanie wykryty automatycznie, system wskazuje błędny element, a użytkownik otrzymuje opis błędu w postaci tekstu. ",
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
@@ -5195,8 +5189,8 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Labels or Instructions",
-                        "title": "Labels or instructions are provided when content requires user input.",
+                        "handle": "Etykiety lub instrukcje",
+                        "title": "Pojawiają się etykiety lub instrukcje, kiedy w treści wymagane jest wprowadzenie informacji przez użytkownika.",
                         "sufficientNotes": ["The techniques at the end of the above list should be considered \u201clast resort\u201d and only used when the other techniques cannot be applied to the page. The earlier techniques are preferred because they increase accessibility to a wider user group."],
                         "techniques": [
                             {"sufficient": [
@@ -5312,8 +5306,8 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Error Suggestion",
-                        "title": "If an input error is automatically detected and suggestions for correction are known, then the suggestions are provided to the user, unless it would jeopardize the security or purpose of the content.",
+                        "handle": "Sugestie korekty błędów",
+                        "title": "Jeśli przy wpisywaniu informacji, błąd zostanie wykryty automatycznie i znane są sugestie korekty, wtedy użytkownik otrzymuje takie sugestie, chyba, że stanowiłoby to zagrożenie dla bezpieczeństwa treści lub zmieniłoby to cel treści.",
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
@@ -5430,22 +5424,22 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Error Prevention (Legal, Financial, Data)",
-                        "title": "For Web pages that cause legal commitments or financial transactions for the user to occur, that modify or delete user-controllable data in data storage systems, or that submit user test responses, at least one of the following is true:",
+                        "handle": "Zapobieganie błędom (kontekst prawny, finansowy, związany z podawaniem danych)",
+                        "title": "Dla stron internetowych, na których pojawiają się zobowiązania prawne lub transakcje finansowe, i w których użytkownik modyfikuje lub usuwa dane zawarte w systemach przechowywania danych, lub wprowadza testowe odpowiedzi, przynajmniej jedno z poniższych założeń jest prawdziwe: ",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "Reversible",
-                                    "text": "Submissions are reversible."
+                                    "handle": "Odwracalność",
+                                    "text": "Wprowadzenie danych jest odwracalne."
                                 },
                                 {
-                                    "handle": "Checked",
-                                    "text": "Data entered by the user is checked for input errors and the user is provided an opportunity to correct them."
+                                    "handle": "Sprawdzanie",
+                                    "text": "Dane wprowadzone przez użytkownika są sprawdzane pod kątem błędów, a użytkownik ma możliwość wprowadzenia poprawek."
                                 },
                                 {
-                                    "handle": "Confirmed",
-                                    "text": "A mechanism is available for reviewing, confirming, and correcting information before finalizing the submission."
+                                    "handle": "Potwierdzenie",
+                                    "text": "Dostępny jest mechanizm sprawdzania, potwierdzania oraz korekty informacji przed jej ostatecznym wysłaniem."
                                 }
                             ]
                         }],
@@ -5525,8 +5519,8 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Help",
-                        "title": "Context-sensitive help is available.",
+                        "handle": "Pomoc",
+                        "title": "Dostępna jest pomoc kontekstowa.",
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
@@ -5580,22 +5574,22 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Error Prevention (All)",
-                        "title": "For Web pages that require the user to submit information, at least one of the following is true:",
+                        "handle": "Zapobieganie błędom (wszystkim)",
+                        "title": "Dla stron internetowych, które wymagają od użytkownika podania informacji, przynajmniej jedno z poniższych założeń jest prawdziwe:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "Reversible",
-                                    "text": "Submissions are reversible."
+                                    "handle": "Odwracalność",
+                                    "text": "Wprowadzenie danych jest odwracalne."
                                 },
                                 {
-                                    "handle": "Checked",
-                                    "text": "Data entered by the user is checked for input errors and the user is provided an opportunity to correct them."
+                                    "handle": "Sprawdzanie",
+                                    "text": "Dane wprowadzone przez użytkownika są sprawdzane pod kątem błędów, a użytkownik ma możliwość wprowadzenia poprawek."
                                 },
                                 {
-                                    "handle": "Confirmed",
-                                    "text": "A mechanism is available for reviewing, confirming, and correcting information before finalizing the submission."
+                                    "handle": "Potwierdzenie",
+                                    "text": "Dostępny jest mechanizm sprawdzania, potwierdzania oraz korekty informacji przed jej ostatecznym wysłaniem."
                                 }
                             ]
                         }],
@@ -5617,8 +5611,8 @@
             "2.0",
             "2.1"
         ],
-        "handle": "Robust",
-        "title": "Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies.",
+        "handle": "Rzetelność",
+        "title": "Treść musi być solidnie opublikowana, tak, by mogła być skutecznie interpretowana przez różnego rodzaju oprogramowania użytkownika, w tym technologie wspomagające.",
         "guidelines": [{
             "id": "WCAG2:compatible",
             "alt_id": ["ensure-compat"],
@@ -5627,8 +5621,8 @@
                 "2.0",
                 "2.1"
             ],
-            "handle": "Compatible",
-            "title": "Maximize compatibility with current and future user agents, including assistive technologies.",
+            "handle": "Kompatybilność",
+            "title": "Zmaksymalizowanie kompatybilności z obecnymi oraz przyszłymi programami użytkowników, w tym z technologiami wspomagającymi.",
             "successcriteria": [
                 {
                     "id": "WCAG2:parsing",
@@ -5639,12 +5633,12 @@
                         "2.1"
                     ],
                     "level": "A",
-                    "handle": "Parsing",
-                    "title": "In content implemented using markup languages, elements have complete start and end tags, elements are nested according to their specifications, elements do not contain duplicate attributes, and any IDs are unique, except where the specifications allow these features.",
+                    "handle": "Parsowanie (Prezentacja)",
+                    "title": "W treści wprowadzonej przy użyciu języka znaczników, elementy posiadają pełne znaczniki początkowe i końcowe, elementy są zagnieżdżane według swoich specyfikacji, elementy nie posiadają zduplikowanych atrybutów oraz wszystkie ID są unikalne, za wyjątkiem przypadków, kiedy specyfikacja zezwala na wyżej wymienione cechy.",
                     "details": [{
                         "type": "note",
                         "handle": "Uwaga 1",
-                        "text": "Start and end tags that are missing a critical character in their formation, such as a closing angle bracket or a mismatched attribute value quotation mark are not complete."
+                        "text": "Początkowe i końcowe znaczniki, w których brak kluczowych znaków, takich, jak zamykający nawias ostry lub pytajnik błędnie dopasowany do atrybutu wartości, nie są uznawane za znaczniki pełne."
                     }],
                     "techniques": [
                         {"sufficient": [
@@ -5711,12 +5705,12 @@
                         "2.1"
                     ],
                     "level": "A",
-                    "handle": "Name, Role, Value",
-                    "title": "For all user interface components (including but not limited to: form elements, links and components generated by scripts), the name and role can be programmatically determined; states, properties, and values that can be set by the user can be programmatically set; and notification of changes to these items is available to user agents, including assistive technologies.",
+                    "handle": "Nazwa, rola, wartość",
+                    "title": "Dla wszystkich komponentów interfejsu użytkownika (włączając w to, ale nie ograniczając jedynie do elementów formularzy, linków oraz komponentów wygenerowanych przez skrypty) nazwa oraz rola (przeznaczenie) mogą być odczytane przez program komputerowy, a stan, właściwości oraz wartości, które mogą być ustawione przez użytkownika, mogą również być ustawione przez program komputerowy; zawiadomienie o zmianach w tych elementach dostępne jest dla programów użytkownika, w tym technologii wspomagających.",
                     "details": [{
                         "type": "note",
                         "handle": "Uwaga 1",
-                        "text": "This success criterion is primarily for Web authors who develop or script their own user interface components. For example, standard HTML controls already meet this success criterion when used according to specification."
+                        "text": "Powyższe kryterium sukcesu stosuje się głównie do autorów stron, którzy budują lub piszą swoje własne komponenty interfejsu użytkownika. Przykładowo, standardowe kontrolki HTML już spełniają to kryterium, jeśli użyte są zgodnie ze specyfikacją."
                     }],
                     "techniques": [
                         {"sufficient": [{"situations": [
@@ -5884,8 +5878,8 @@
                     "num": "4.1.3",
                     "versions": ["2.1"],
                     "level": "AA",
-                    "handle": "Status Messages",
-                    "title": "In content implemented using markup languages, status messages can be programmatically determined through role or properties such that they can be presented to the user by assistive technologies without receiving focus.",
+                    "handle": "Komunikaty o stanie",
+                    "title": "W treści zaimplementowanej przy użyciu języków znaczników komunikaty o stanie mogą być programowo określane poprzez role lub właściwości, dzięki czemu mogą być prezentowane użytkownikowi za pomocą technologii wspomagających bez uzyskiwania fokusa.",
                     "techniques": [
                         {"sufficient": [{"situations": [
                             {
