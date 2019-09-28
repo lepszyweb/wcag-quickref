@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
   var sharebox = document.createElement('div');
   addclass(sharebox, 'sharebox');
-  var shareboxtext = '<p><label>Łącze do tej sekcji:<input type="url" value="%s" readonly> Skrót do skopiowania łącza: <kbd>ctrl</kbd>+<kbd>C</kbd> <em>lub</em> <kbd>⌘</kbd><kbd>C</kbd></label></p><p><a href="mailto:?subject=Dostępność%20cyfrowa%20%E2%80%93%20Jak%20spełnić%20WCAG&amp;body=Witaj!%0AByć%może%20zainteresuje%20Cię%20ta%20sekcja%20Wytycznych%20dotyczących%20dostępności%20treści%20Content%20internetowych%20(WCAG)%3A%0A%0A%s">Wyślij e-mail z linkiem do tej sekcji</a><button>Zamknij</button></p>';
+  var shareboxtext = '<p><label>Łącze do tej sekcji:<input type="url" value="%s" readonly> Skrót do skopiowania łącza: <kbd>ctrl</kbd>+<kbd>C</kbd> <em>lub</em> <kbd>⌘</kbd><kbd>C</kbd></label></p><p><a href="mailto:?subject=Dost%C4%99pno%C5%9B%C4%87%20cyfrowa%20Jak%20spe%C5%82ni%C4%87%20WCAG&amp;body=Witaj!%20By%C4%87%20mo%C5%BCe%20zainteresuje%20Ci%C4%99%20ta%20sekcja%20Wytycznych%20dotycz%C4%85cych%20dost%C4%99pno%C5%9Bci%20tre%C5%9Bci%20internetowych%2020%20(WCAG)%3A%0A%0A%s">Wyślij e-mail z linkiem do tej sekcji</a><button>Zamknij</button></p>';
   
   
   
