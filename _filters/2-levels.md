@@ -1,13 +1,13 @@
 ---
-title: "Levels"
+title: "Poziomy"
 sort: 2
 short: levels
 type: checkbox
 filters:
 - short: a
-  title: Level A
+  title: Poziom A
 - short: aa
-  title: Level AA
+  title: Poziom AA
 - short: aaa
-  title: Level AAA
+  title: Poziom AAA
 ---

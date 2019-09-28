@@ -1,13 +1,13 @@
 ---
-title: "Techniques"
+title: "Techniki"
 sort: 4
 short: techniques
 type: checkbox
 filters:
 - short: sufficient
-  title: Sufficient Techniques
+  title: Wystarczające techniki
 - short: advisory
-  title: Advisory Techniques
+  title: Sugerowane techniki
 - short: failures
-  title: Failures
+  title: Błędy
 ---

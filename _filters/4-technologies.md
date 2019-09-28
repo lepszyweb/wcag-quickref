@@ -1,5 +1,5 @@
 ---
-title: "Technologies"
+title: "Technologie"
 sort: 3
 short: technologies
 type: checkbox
@@ -11,9 +11,9 @@ filters:
 - short: wai-aria
   title: <abbr title="Accessible Rich Internet Applications">ARIA</abbr>
 - short: js
-  title: Client-side Scripting
+  title: Skrypty po stronie klienta
 - short: server
-  title: Server-side Scripting
+  title: Skrypty po stronie serwera
 - short: smil
   title: <abbr title="Synchronized Multimedia Integration Language (SMIL)">SMIL</abbr>
 - short: pdf
