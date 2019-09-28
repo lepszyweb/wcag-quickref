@@ -294,7 +294,7 @@
                                             },
                                             {
                                                 "id": "TECH:SL18",
-                                                "title": "Zapewnienie ekwiwalentu tekstowego dla nietekstowych kontrolek Silverlight z włąsnością AutomationProperties.Name "
+                                                "title": "Zapewnienie ekwiwalentu tekstu dla kontrolek nietekstowych Silverlight za pomocą AutomationProperties.Name"
                                             },
                                             {
                                                 "id": "TECH:SL26",
@@ -557,7 +557,7 @@
                             },
                             {
                                 "id": "TECH:SL19",
-                                "title": "Zapewnienie instrukcji użytkownika z AutomationProperties.HelpText w Silverlight"
+                                "title": "Zapewnienie instrukcji użytkownika za pomocą AutomationProperties.HelpText w Silverlight"
                             }
                         ]},
                         {"failure": [
@@ -652,7 +652,7 @@
                                         },
                                         {
                                             "id": "TECH:SL17",
-                                            "title": "Providing Static Alternative Content for Silverlight Media Playing in a MediaElement"
+                                            "title": "Zapewnianie statycznej alternatywnej treści dla Silverlight w MediaElement "
                                         }
                                     ]
                                 },
@@ -669,7 +669,7 @@
                                         },
                                         {
                                             "id": "TECH:SL17",
-                                            "title": "Providing Static Alternative Content for Silverlight Media Playing in a MediaElement"
+                                            "title": "Zapewnianie statycznej alternatywnej treści dla Silverlight w MediaElement "
                                         }
                                     ]
                                 }
@@ -737,7 +737,7 @@
                                         },
                                         {
                                             "id": "TECH:SL28",
-                                            "title": "Using Separate Text-Format Text Captions for MediaElement Content"
+                                            "title": "Używanie oddzielnych napisów  w formacie tekstowym dla treści MediaElement"
                                         }
                                     ]
                                 }
@@ -782,7 +782,7 @@
                                         },
                                         {
                                             "id": "TECH:SL17",
-                                            "title": "Providing Static Alternative Content for Silverlight Media Playing in a MediaElement"
+                                            "title": "Zapewnianie statycznej alternatywnej treści dla Silverlight w MediaElement "
                                         }
                                     ]
                                 },
@@ -1122,7 +1122,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:SL17",
-                                                    "title": "Providing Static Alternative Content for Silverlight Media Playing in a MediaElement"
+                                                    "title": "Zapewnianie statycznej alternatywnej treści dla Silverlight w MediaElement "
                                                 }
                                             ]
                                         },
@@ -1342,7 +1342,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:SL20",
-                                                    "title": "Relying on Silverlight AutomationPeer Behavior to Set AutomationProperties.Name"
+                                                    "title": "Poleganie w Silverlight na zachowaniu AutomationPeer w celu ustawienia AutomationProperties.Name"
                                                 },
                                                 {
                                                     "id": "TECH:SL26",
@@ -1549,7 +1549,7 @@
                                 },
                                 {
                                     "id": "TECH:SL34",
-                                    "title": "Using the Silverlight Default Tab Sequence and Altering Tab Sequences With Properties"
+                                    "title": "Używanie domyślnej sekwencji tabulcji w Silverlight i zmienianie sekwencji tabulacji za pomocą Properties"
                                 }
                             ]},
                             {"advisory": []},
@@ -1808,7 +1808,7 @@
                                 },
                                 {
                                     "id": "TECH:SL24",
-                                    "title": "Using AutoPlay to Keep Silverlight Media from Playing Automatically"
+                                    "title": "Używanie funkcji Autoodtwarzanie, aby uniemożliwić automatyczne odtwarzanie mediów w Silverlight"
                                 },
                                 {
                                     "id": "TECH:FLASH18",
@@ -1948,7 +1948,7 @@
                                 },
                                 {
                                     "id": "TECH:SL23",
-                                    "title": "Using A Style Switcher to Increase Font Size of Silverlight Text Elements"
+                                    "title": "Używanie przełącznika stylu w celu zwiększenia rozmiaru czcionki elementów tekstowych w Silverlight"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -2070,7 +2070,7 @@
                                 },
                                 {
                                     "id": "TECH:SL31",
-                                    "title": "Using Silverlight Font Properties to Control Text Presentation"
+                                    "title": "Używanie właściwości czcionek Silverlight do sterowania prezentacją tekstu "
                                 },
                                 {
                                     "id": "TECH:C30",
@@ -2439,7 +2439,7 @@
                                 },
                                 {
                                     "id": "TECH:SL31",
-                                    "title": "Using Silverlight Font Properties to Control Text Presentation"
+                                    "title": "Używanie właściwości czcionek Silverlight do sterowania prezentacją tekstu "
                                 },
                                 {
                                     "id": "TECH:C30",
@@ -2840,7 +2840,7 @@
                                         },
                                         {
                                             "id": "TECH:SL15",
-                                            "title": "Zapewnienie skrótów klawiaturowych działających w całej aplikacji Silverlight"
+                                            "title": "Udostępnianie skrótów klawiaturowych działających w całej aplikacji Silverlight"
                                         }
                                     ]
                                 },
@@ -2866,7 +2866,7 @@
                                         },
                                         {
                                             "id": "TECH:SL14",
-                                            "title": "Zapewnianie własnej obsługi klawiszy sterujących dla funkcji klawiatury w Silverlight"
+                                            "title": "Zapewnianie własnej obsługi klawiszy sterujących w celu obsługi za pomocą klawiatury w Silverlight"
                                         }
                                     ]
                                 },
@@ -3103,7 +3103,7 @@
                                         },
                                         {
                                             "id": "TECH:SL21",
-                                            "title": "Replacing A Silverlight Timed Animation With a Nonanimated Element"
+                                            "title": "Zastąpienie animacji czasowej Silverlight elementem nieanimowanym"
                                         }
                                     ]
                                 },
@@ -3199,11 +3199,11 @@
                                 },
                                 {
                                     "id": "TECH:SL11",
-                                    "title": "Pausing or Stopping A Decorative Silverlight Animation"
+                                    "title": "Wstrzymywanie lub zatrzymywanie animacji dekoracyjnej w Silverlight"
                                 },
                                 {
                                     "id": "TECH:SL12",
-                                    "title": "Pausing, Stopping, or Playing Media in Silverlight MediaElements"
+                                    "title": "Wstrzymywanie, zatrzymywanie lub odtwarzanie multimediów w Silverlight MediaElements"
                                 },
                                 {
                                     "id": "TECH:SCR33",
@@ -3243,7 +3243,7 @@
                                 },
                                 {
                                     "id": "TECH:SL24",
-                                    "title": "Using AutoPlay to Keep Silverlight Media from Playing Automatically"
+                                    "title": "Używanie funkcji Autoodtwarzanie, aby uniemożliwić automatyczne odtwarzanie mediów w Silverlight"
                                 }
                             ]},
                             {"advisory": []},
@@ -3530,7 +3530,7 @@
                                         },
                                         {
                                             "id": "TECH:SL25",
-                                            "title": "Using Controls and Programmatic Focus to Bypass Blocks of Content in Silverlight"
+                                            "title": "Używanie kontrolek i programowego fokusa do omijania bloków treści w Silverlight"
                                         }
                                     ]
                                 },
@@ -3566,7 +3566,7 @@
                                         },
                                         {
                                             "id": "TECH:SL29",
-                                            "title": "Using Silverlight \"List\" Controls to Define Blocks that can be Bypassed"
+                                            "title": "Używanie kontrolki „Lista” w Silverlight w celu zdefiniowania bloków, które można ominąć"
                                         }
                                     ]
                                 }
@@ -3653,7 +3653,7 @@
                                         },
                                         {
                                             "id": "TECH:SL34",
-                                            "title": "Using the Silverlight Default Tab Sequence and Altering Tab Sequences With Properties"
+                                            "title": "Używanie domyślnej sekwencji tabulcji w Silverlight i zmienianie sekwencji tabulacji za pomocą Properties"
                                         }
                                     ]
                                 },
@@ -3798,7 +3798,7 @@
                                         },
                                         {
                                             "id": "TECH:SL18",
-                                            "title": "Zapewnienie ekwiwalentu tekstowego dla nietekstowych kontrolek Silverlight z włąsnością AutomationProperties.Name "
+                                            "title": "Zapewnienie ekwiwalentu tekstu dla kontrolek nietekstowych Silverlight za pomocą AutomationProperties.Name"
                                         }
                                     ]
                                 }
@@ -3955,7 +3955,7 @@
                                 },
                                 {
                                     "id": "TECH:SL7",
-                                    "title": "Projektowanie wizualnego wskaźnika oznaczenia fokusem dla własnych kontrolek Silverlight "
+                                    "title": "Projektowanie wizualnego wskaźnika oznaczenia fokusem dla własnych kontrolek Silverlight"
                                 }
                             ]},
                             {"advisory": []},
@@ -4091,7 +4091,7 @@
                                         },
                                         {
                                             "id": "TECH:SL18",
-                                            "title": "Zapewnienie ekwiwalentu tekstowego dla nietekstowych kontrolek Silverlight z włąsnością AutomationProperties.Name "
+                                            "title": "Zapewnienie ekwiwalentu tekstu dla kontrolek nietekstowych Silverlight za pomocą AutomationProperties.Name"
                                         }
                                     ]
                                 }
@@ -4515,7 +4515,7 @@
                             ]},
                             {"advisory": [{
                                 "id": "TECH:SL27",
-                                "title": "Using Language/Culture Properties as Exposed by Silverlight Applications and Assistive Technologies"
+                                "title": "Używanie właściwości języka/kultury jako wyeksponowanych przez Silverlight i technologie wspomagające"
                             }]},
                             {"failure": []}
                         ]
@@ -5116,7 +5116,7 @@
                                         },
                                         {
                                             "id": "TECH:SL35",
-                                            "title": "Using the Validation and ValidationSummary APIs to Implement Client Side Forms Validation in Silverlight"
+                                            "title": "Używanie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
                                         }
                                     ]
                                 },
@@ -5161,7 +5161,7 @@
                                         },
                                         {
                                             "id": "TECH:SL35",
-                                            "title": "Using the Validation and ValidationSummary APIs to Implement Client Side Forms Validation in Silverlight"
+                                            "title": "Używanie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
                                         }
                                     ]
                                 }
@@ -5261,7 +5261,7 @@
                                 },
                                 {
                                     "id": "TECH:SL26",
-                                    "title": "Using LabeledBy to Associate Labels and Targets in Silverlight"
+                                    "title": "Używanie LabeledBy do kojarzenia etykiet i celów w Silverlight"
                                 },
                                 {
                                     "id": "TECH:H71",
@@ -5326,7 +5326,7 @@
                                         },
                                         {
                                             "id": "TECH:SL35",
-                                            "title": "Using the Validation and ValidationSummary APIs to Implement Client Side Forms Validation in Silverlight"
+                                            "title": "Używanie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
                                         }
                                     ]
                                 },
@@ -5499,7 +5499,7 @@
                                 },
                                 {
                                     "id": "TECH:SL35",
-                                    "title": "Using the Validation and ValidationSummary APIs to Implement Client Side Forms Validation in Silverlight"
+                                    "title": "Używanie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
                                 },
                                 {
                                     "id": "TECH:G199",
@@ -5679,7 +5679,7 @@
                             },
                             {
                                 "id": "TECH:SL33",
-                                "title": "Using Well-Formed XAML to Define a Silverlight User Interface"
+                                "title": "Używanie dobrze sformatowanego XAML do zdefiniowania interfejsu użytkownika Silverlight"
                             }
                         ]},
                         {"advisory": []},
@@ -5791,11 +5791,11 @@
                                         },
                                         {
                                             "id": "TECH:SL26",
-                                            "title": "Using LabeledBy to Associate Labels and Targets in Silverlight"
+                                            "title": "Używanie LabeledBy do kojarzenia etykiet i celów w Silverlight"
                                         },
                                         {
                                             "id": "TECH:SL32",
-                                            "title": "Using Silverlight Text Elements for Appropriate Accessibility Role"
+                                            "title": "Używanie elementów tekstowych Silverlight dla odpowiedniej roli dostępności"
                                         }
                                     ]
                                 }]
@@ -5820,15 +5820,15 @@
                                         },
                                         {
                                             "id": "TECH:SL6",
-                                            "title": "Defining a UI Automation Peer for a Custom Silverlight Control"
+                                            "title": "Definiowanie elementu UI Automation Peer dla własnych kontrolek Silverlight "
                                         },
                                         {
                                             "id": "TECH:SL18",
-                                            "title": "Zapewnienie ekwiwalentu tekstowego dla nietekstowych kontrolek Silverlight z włąsnością AutomationProperties.Name "
+                                            "title": "Zapewnienie ekwiwalentu tekstu dla kontrolek nietekstowych Silverlight za pomocą AutomationProperties.Name"
                                         },
                                         {
                                             "id": "TECH:SL20",
-                                            "title": "Relying on Silverlight AutomationPeer Behavior to Set AutomationProperties.Name"
+                                            "title": "Poleganie w Silverlight na zachowaniu AutomationPeer w celu ustawienia AutomationProperties.Name"
                                         },
                                         {
                                             "id": "TECH:SL30",
