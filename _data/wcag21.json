@@ -4053,7 +4053,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Allowing the user to choose short or long link text using one of the techniques below:",
+                                    "title": "Umożliwienie użytkownikowi wybrania krótkiego lub długiego tekstu linku za pomocą jednej z poniższych technik:",
                                     "using": [
                                         {
                                             "id": "TECH:G189",
@@ -4071,7 +4071,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Providing a supplemental description of the purpose of a link using one of the following techniques:",
+                                    "title": "Zapewnienie dodatkowego opisu celu łącza za pomocą jednej z następujących technik:",
                                     "using": [{
                                         "id": "TECH:C7",
                                         "title": "Używanie CSS do ukrycia części tekstu linku"
@@ -4079,7 +4079,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Semantically indicating links using one of the following techniques:",
+                                    "title": "Semantyczne wskazywanie powiązań za pomocą jednej z następujących technik:",
                                     "using": [
                                         {
                                             "id": "TECH:PDF11",
@@ -4153,7 +4153,7 @@
                                 },
                                 {
                                     "id": "TECH:H69",
-                                    "title": "Providing heading elements at the beginning of each section of content"
+                                    "title": "Zapewnienie nagłówków na początku każdej sekcji treści"
                                 }
                             ]},
                             {"advisory": []},
@@ -4277,7 +4277,7 @@
                             ]},
                             {"advisory": [{
                                 "id": "TECH:text",
-                                "title": "@@ If an icon has no accompanying text, consider using its hover text as its accessible name"
+                                "title": "@@ Jeśli ikona nie ma towarzyszącego jej tekstu, należy rozważyć użycie jej tekstu unoszącego się nad ikoną jako dostępnej nazwy"
                             }]},
                             {"failure": [
                                 {
@@ -4286,11 +4286,11 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ Accessible name contains the visible label text, but the words of the visible label are not in the same order as they are in the visible label text"
+                                    "title": "@@ Dostępna nazwa zawiera widoczny tekst etykiety, ale słowa widocznej etykiety nie są w tej samej kolejności, co w widocznym tekście etykiety."
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ Accessible name contains the visible label text, but one or more other words are interspersed in the label"
+                                    "title": "@@ Dostępna nazwa zawiera widoczny tekst etykiety, ale jedno lub więcej innych słów w etykiecie występuje w innej kolejności"
                                 }
                             ]}
                         ]
@@ -4506,7 +4506,7 @@
                                 },
                                 {
                                     "id": "TECH:PDF19",
-                                    "title": "Specifying the language for a passage or phrase with the Lang entry in PDF documents"
+                                    "title": "Określanie języka fragmentu lub frazy za pomocą wpisu Lang w dokumentach PDF"
                                 },
                                 {
                                     "id": "TECH:SL4",
@@ -4534,7 +4534,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: If the word or phrase has a unique meaning within the Web page:",
+                                    "title": "Sytuacja A: Jeśli słowo lub fraza ma unikalne znaczenie w obrębie strony internetowej:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G101",
@@ -4595,7 +4595,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: If the word or phrase means different things within the same Web page:",
+                                    "title": "Sytuacja B: Jeśli słowo lub fraza oznacza różne rzeczy w obrębie tej samej strony internetowej:",
                                     "techniques": [{
                                         "id": "TECH:G101",
                                         "title": "Zapewnienie definicji słowa lub wyrażenia użytego w nietypowy lub ograniczony sposób",
@@ -4644,7 +4644,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: If the abbreviation has only one meaning within the Web page:",
+                                    "title": "Sytuacja A: Jeżeli skrót ma tylko jedno znaczenie w obrębie strony internetowej:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G102",
@@ -4701,7 +4701,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: If the abbreviation means different things within the same Web page:",
+                                    "title": "Sytuacja B: Jeżeli skrót oznacza różne rzeczy w obrębie tej samej strony internetowej:",
                                     "techniques": [{
                                         "id": "TECH:G102",
                                         "title": "Zapewnienie rozszerzenia lub wyjaśnienia skrótu",
@@ -4958,8 +4958,8 @@
                         "handle": "Konsekwentna identyfikacja",
                         "title": "Komponenty, które posiadają tę samą funkcjonalność w danym serwisie internetowym, są w taki sam sposób zidentyfikowane.",
                         "sufficientNotes": [
-                            "Text alternatives that are \u201cconsistent\u201d are not always \u201cidentical.\u201d For instance, you may have an graphical arrow at the bottom of a Web page that links to the next Web page. The text alternative may say \u201cGo to page 4.\u201d Naturally, it would not be appropriate to repeat this exact text alternative on the next Web page. It would be more appropriate to say \u201cGo to page 5\u201d. Although these text alternatives would not be identical, they would be consistent, and therefore would satisfy this Success Criterion.",
-                            "A single non-text-content-item may be used to serve different functions. In such cases, different text alternatives are necessary and should be used. Examples can be commonly found with the use of icons such as check marks, cross marks, and traffic signs. Their functions can be different depending on the context of the Web page. A check mark icon may function as \u201capproved\u201d, \u201ccompleted\u201d, or \u201cincluded\u201d, to name a few, depending on the situation. Using \u201ccheck mark\u201d as text alternative across all Web pages does not help users understand the function of the icon. Different text alternatives can be used when the same non-text content serves multiple functions."
+                            "Alternatywne teksty, które są „spójne”, nie zawsze są „identyczne”. Na przykład na dole strony internetowej może znajdować się strzałka graficzna, która prowadzi do następnej strony internetowej. Alternatywa tekstowa może brzmieć „Przejdź do strony 4.” Oczywiście, niewłaściwe byłoby powtarzanie tej alternatywy tekstowej na następnej stronie internetowej. Bardziej właściwe byłoby powiedzenie „Przejdź do strony 5”. Chociaż te alternatywy tekstowe nie byłyby identyczne, byłyby spójne i dlatego spełniałyby to kryterium sukcesu.",
+                            "Pojedynczy element nietekstowy może służyć do różnych funkcji. W takich przypadkach konieczne są różne alternatywy tekstowe i należy je stosować. Przykłady można często znaleźć w przypadkach stosowania ikon, takich jak fiszki (zwykle zielone haczyki), krzyżyki i znaki drogowe. Ich funkcje mogą się różnić w zależności od kontekstu strony internetowej. Ikona fiszki może działać jako „zatwierdzona”, „zakończona” lub „dołączona”, aby wymienić kilka, w zależności od sytuacji. Używanie fiszki jako alternatywy tekstowej na wszystkich stronach internetowych nie pomaga użytkownikom zrozumieć funkcji ikony. Można stosować różne alternatywy tekstowe, gdy ta sama treść nietekstowa pełni wiele funkcji."
                         ],
 
                         "techniques": [
@@ -4988,14 +4988,14 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: If the Web page allows automatic updates:",
+                                    "title": "Sytuacja A: Jeśli strona internetowa pozwala na automatyczne aktualizacje:",
                                     "techniques": [{
                                         "id": "TECH:G76",
-                                        "title": "Providing a mechanism to request an update of the content instead of updating automatically"
+                                        "title": "Zapewnienie mechanizmu żądania aktualizacji treści zamiast automatycznej aktualizacji"
                                     }]
                                 },
                                 {
-                                    "title": "Sytuacja B: If automatic redirects are possible:",
+                                    "title": "Sytuacja B: Jeśli możliwe jest automatyczne przekierowanie:",
                                     "techniques": [
                                         {
                                             "id": "TECH:SVR1",
@@ -5012,10 +5012,10 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja C: If the Web page uses pop-up windows:",
+                                    "title": "Sytuacja C: Jeśli strona internetowa korzysta z okien wyskakujących:",
                                     "techniques": [{
                                         "id": "TECH:text",
-                                        "title": "Including pop-up windows using one of the following techniques:",
+                                        "title": "Właczenie okna wyskakujacego za pomocą jednej z następujących technik:",
                                         "using": [
                                             {
                                                 "id": "TECH:H83",
@@ -5029,7 +5029,7 @@
                                     }]
                                 },
                                 {
-                                    "title": "Sytuacja D: If using an onchange event on a select element:",
+                                    "title": "Sytuacja D: Jeśli używasz zdarzenia onchange na wybranym elemencie:",
                                     "techniques": [{
                                         "id": "TECH:SCR19",
                                         "title": "Używanie zdarzenia onchange na wybranym elemencie bez powodowania zmiany kontekstu"
@@ -5096,7 +5096,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: If a form contains fields for which information from the user is mandatory.",
+                                    "title": "Sytuacja A: Jeżeli formularz zawiera pola, w których informacje od użytkownika są wymagane.",
                                     "techniques": [
                                         {
                                             "id": "TECH:G83",
@@ -5121,7 +5121,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: If information provided by the user is required to be in a specific data format or of certain values.",
+                                    "title": "Sytuacja B: Jeżeli informacje dostarczone przez użytkownika muszą być w określonym formacie danych lub mieć określone wartości.",
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA18",
@@ -5190,7 +5190,7 @@
                         "level": "A",
                         "handle": "Etykiety lub instrukcje",
                         "title": "Pojawiają się etykiety lub instrukcje, kiedy w treści wymagane jest wprowadzenie informacji przez użytkownika.",
-                        "sufficientNotes": ["The techniques at the end of the above list should be considered \u201clast resort\u201d and only used when the other techniques cannot be applied to the page. The earlier techniques are preferred because they increase accessibility to a wider user group."],
+                        "sufficientNotes": ["Techniki znajdujące się na końcu powyższej listy powinny być uważane za ostateczność i stosowane tylko wtedy, gdy inne techniki nie mogą być zastosowane na stronie. Wcześniejsze techniki są preferowane, ponieważ zwiększają one dostępność dla szerszej grupy użytkowników."],
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -5310,7 +5310,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: If a mandatory field contains no information:",
+                                    "title": "Sytuacja A: Jeżeli obowiązkowe pole nie zawiera żadnych informacji:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G83",
@@ -5331,7 +5331,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: If information for a field is required to be in a specific data format:",
+                                    "title": "Sytuacja B: Jeżeli informacje w danym polu muszą być w określonym formacie danych:",
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA18",
@@ -5364,7 +5364,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja C: Information provided by the user is required to be one of a limited set of values:",
+                                    "title": "Sytuacja C: Informacje dostarczane przez użytkownika muszą być jednym z ograniczonych zestawów wartości:",
                                     "techniques": [
                                         {
                                             "id": "TECH:ARIA18",
@@ -5445,7 +5445,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: If an application causes a legal transaction to occur, such as making a purchase or submitting an income tax return:",
+                                    "title": "Sytuacja A: Jeżeli aplikacja powoduje dokonanie czynności prawnej, takiej jak dokonanie zakupu lub złożenie zeznania podatkowego:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G164",
@@ -5462,7 +5462,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: If an action causes information to be deleted:",
+                                    "title": "Sytuacja B: Jeśli działanie powoduje usunięcie informacji:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G99",
@@ -5479,7 +5479,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja C: If the Web page includes a testing application:",
+                                    "title": "Sytuacja C: Jeśli strona internetowa zawiera aplikację do testów:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G98",
@@ -5523,7 +5523,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: If a form requires text input:",
+                                    "title": "Sytuacja A: Jeśli formularz wymaga wprowadzenia tekstu:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G71",
@@ -5544,7 +5544,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: If a form requires text input in an expected data format:",
+                                    "title": "Sytuacja B: Jeżeli formularz wymaga wprowadzenia tekstu w oczekiwanym formacie danych:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G89",
@@ -5655,7 +5655,7 @@
                             },
                             {
                                 "id": "TECH:text",
-                                "title": "Ensuring that Web pages can be parsed by using one of the following techniques:",
+                                "title": "Zapewnienie możliwości parsowania stron internetowych przy użyciu jednej z następujących technik:",
                                 "using": [
                                     {"and": [
                                         {
@@ -5714,7 +5714,7 @@
                     "techniques": [
                         {"sufficient": [{"situations": [
                             {
-                                "title": "Sytuacja A: If using a standard user interface component in a markup language (e.g., HTML):",
+                                "title": "Sytuacja A: W przypadku korzystania ze standardowego komponentu interfejsu użytkownika w języku znaczników (np. HTML):",
                                 "techniques": [
                                     {
                                         "id": "TECH:ARIA14",
@@ -5753,10 +5753,10 @@
                                 ]
                             },
                             {
-                                "title": "Sytuacja B: If using script or code to re-purpose a standard user interface component in a markup language:",
+                                "title": "Sytuacja B: W przypadku korzystania ze skryptu lub kodu w celu ponownego zastosowania standardowego komponentu interfejsu użytkownika w języku znaczników:",
                                 "techniques": [{
                                     "id": "TECH:text",
-                                    "title": "Exposing the names and roles, allowing user-settable properties to be directly set, and providing notification of changes using one of the following techniques:",
+                                    "title": "Wyeksponowanie nazw i ról, umożliwienie bezpośredniego ustawiania właściwości ustawianych przez użytkownika oraz powiadamianie o zmianach przy użyciu jednej z następujących technik:",
                                     "using": [{
                                         "id": "TECH:ARIA16",
                                         "title": "Używanie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
@@ -5764,7 +5764,7 @@
                                 }]
                             },
                             {
-                                "title": "Sytuacja C: If using a standard user interface component in a programming technology:",
+                                "title": "Sytuacja C: W przypadku stosowania standardowego komponentu interfejsu użytkownika w technologii programowania:",
                                 "techniques": [{
                                     "id": "TECH:G135",
                                     "title": "Używanie funkcji API dostępności dla technologii do ujawniania nazw i ról, aby umożliwić bezpośrednie ustawienie właściwości ustawianych przez użytkownika oraz powiadamianie o zmianach",
@@ -5801,7 +5801,7 @@
                                 }]
                             },
                             {
-                                "title": "Sytuacja D: If creating your own user interface component in a programming language:",
+                                "title": "Sytuacja D: W przypadku tworzenia własnego komponentu interfejsu użytkownika w języku programowania:",
                                 "techniques": [{
                                     "id": "TECH:G10",
                                     "title": "Tworzenie komponentów przy użyciu technologii obsługującej powiadomianie o zmianach dotyczących dostępności",
@@ -5882,7 +5882,7 @@
                     "techniques": [
                         {"sufficient": [{"situations": [
                             {
-                                "title": "Sytuacja A: If a status message advises on the success or results of an action, or the state of an application:",
+                                "title": "Sytuacja A: Jeżeli komunikat o stanie informuje o powodzeniu lub wynikach działania, lub o stanie aplikacji:",
                                 "techniques": [{
                                     "id": "TECH:ARIA22",
                                     "title": "Używanie atrybutu role=status do prezentacji statusu komunikatu błędu",
@@ -5893,7 +5893,7 @@
                                 }]
                             },
                             {
-                                "title": "Sytuacja B: If a status message conveys a suggestion, or a warning on the existence of an error:",
+                                "title": "Sytuacja B: Jeżeli komunikat o stanie przekazuje sugestię lub ostrzeżenie o istnieniu błędu:",
                                 "techniques": [{
                                     "id": "TECH:ARIA19",
                                     "title": "Używanie atrybutu role=alert lub role=live do identyfikacji błędów",
@@ -5922,7 +5922,7 @@
                                 }]
                             },
                             {
-                                "title": "Sytuacja C: If a status message conveys information on the progress of a process:",
+                                "title": "Jeżeli komunikat o stanie przekazuje informacje o postępie procesu:",
                                 "techniques": [
                                     {
                                         "id": "TECH:ARIA23",
@@ -5930,7 +5930,7 @@
                                     },
                                     {
                                         "id": "TECH:text",
-                                        "title": "Using role=\"progressbar\" (future link)"
+                                        "title": " Używanie atrybutu role=\"progressbar\" (link w przyszłości)"
                                     },
                                     {"and": [
                                         {
@@ -5948,15 +5948,15 @@
                         {"advisory": [
                             {
                                 "id": "TECH:text",
-                                "title": "Using aria-live regions with chat clients (future link)"
+                                "title": "Używanie atrybutu aria-live w obszarach z klienta czata (link w przyszłości)"
                             },
                             {
                                 "id": "TECH:text",
-                                "title": "Using role=\"marquee\" (future link)"
+                                "title": "Używanie atrybutu role=\"marquee\" (link w przyszłości)"
                             },
                             {
                                 "id": "TECH:text",
-                                "title": "Using role=\"timer\" (future link)"
+                                "title": "Używanie atrybutu role=\"timer\" (link w przyszłości)"
                             },
                             {
                                 "id": "TECH:ARIA18",
@@ -5970,11 +5970,11 @@
                         {"failure": [
                             {
                                 "id": "TECH:text",
-                                "title": "Using role=\"alert\" or aria-live=\"assertive\" on content which is not important and time-sensitive (future link)"
+                                "title": "Używanie atrybutu role=\"alert\" lub aria-live=\"assertive\" w przypadku treści, która nie jest ważna i ma znaczenie chwilowe (link w przyszłości)"
                             },
                             {
                                 "id": "TECH:text",
-                                "title": "Using a visibilitychange event to hide or display a document without switching the document's live regions between active and inactive (future link)"
+                                "title": "Używanie zmieniajacego widok zdarzenia change, aby ukryć lub wyświetlć dokument bez przełączania się między regionami aktywnymi i nieaktywnymi.(link w przyszłości)"
                             }
                         ]}
                     ]
