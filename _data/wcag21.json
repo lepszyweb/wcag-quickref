@@ -233,7 +233,7 @@
                                 }]
                             },
                             {
-                                "title": "Sytuacja C: Jeśli zawartość nietekstowa jest kontrolką lub polem wprowadzania danych przez użytkownika::",
+                                "title": "Sytuacja C: Jeśli zawartość nietekstowa jest kontrolką lub polem wprowadzania danych przez użytkownika:",
                                 "techniques": [{
                                     "id": "TECH:G82",
                                     "title": "Zapewnienie tekstu alternatywnego, który określa cel treści nietekstowej",
@@ -788,7 +788,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Linking to the alternative for time-based media using one of the following techniques",
+                                    "title": "Łączenie z alternatywą dla mediów zmiennych w czasie za pomocą jednej z następujących technik:									",
                                     "using": [{
                                         "id": "TECH:H53",
                                         "title": "Używanie ciała (zawartości) elementu object"
@@ -830,7 +830,7 @@
                                         },
                                         {
                                             "id": "TECH:text",
-                                            "title": "Using any player that supports audio and video"
+                                            "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                                         }
                                     ]
                                 },
@@ -856,7 +856,7 @@
                                         },
                                         {
                                             "id": "TECH:text",
-                                            "title": "Using any player that supports audio and video"
+                                            "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                                         }
                                     ]
                                 },
@@ -985,7 +985,7 @@
                                         },
                                         {
                                             "id": "TECH:text",
-                                            "title": "Using any player that supports audio and video"
+                                            "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                                         }
                                     ]
                                 },
@@ -1007,7 +1007,7 @@
                                         },
                                         {
                                             "id": "TECH:text",
-                                            "title": "Using any player that supports audio and video"
+                                            "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                                         }
                                     ]
                                 },
@@ -1085,7 +1085,7 @@
                                     },
                                     {
                                         "id": "TECH:text",
-                                        "title": "Using any player that supports audio and video"
+                                        "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                                     }
                                 ]
                             }]},
@@ -1128,8 +1128,7 @@
                                         },
                                         {
                                             "id": "TECH:text",
-                                            "title": "Łącze do alternatywy dla mediów zmiennych w czasie za pomocą jednej z następujących technik
-											",
+                                            "title": "Łącze do alternatywy dla mediów zmiennych w czasie za pomocą jednej z następujących technik",											",
                                             "using": [{
                                                 "id": "TECH:H53",
                                                 "title": "Używanie ciała (zawartości) elementu object"
@@ -1138,7 +1137,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: If the content is prerecorded video-only:",
+                                    "title": "Sytuacja B: Jeżeli zawartość jest wcześniej nagranym tylko wideo:",
                                     "techniques": [{
                                         "id": "TECH:G159",
                                         "title": "Zapewnienie alternatywy dla treści tylko wideo w mediach dynamicznych (zmiennych w czasie)"
@@ -1390,7 +1389,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: The technology in use does NOT provide the semantic structure to make the information and relationships conveyed through presentation programmatically determinable:",
+                                    "title": "Sytuacja B: Używana technologia NIE zapewnia semantycznej struktury umożliwiającej programowe określenie informacji i relacji przekazywanych poprzez prezentację prezentację.:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G117",
@@ -1402,7 +1401,7 @@
                                         },
                                         {
                                             "id": "TECH:text",
-                                            "title": "Making information and relationships conveyed through presentation programmatically determinable or available in text using the following techniques:",
+                                            "title": "Uczynienie informacji i relacji przekazywanych przez prezentację programowalnie możliwą do ustalenia lub dostępną w tekście za pomocą następujących technik:",
                                             "using": [
                                                 {
                                                     "id": "TECH:T1",
@@ -1511,7 +1510,7 @@
                                 {"and": [
                                     {
                                         "id": "TECH:text1",
-                                        "title": "Marking sequences in the content as meaningful"
+                                        "title": "Oznakowanie sekwencji w treści w sposób znaczący"
                                     },
                                     {
                                         "id": "TECH:G57",
@@ -1592,12 +1591,12 @@
                         "details": [{
                             "type": "note",
                             "handle": "Uwaga 1",
-                            "text": "For requirements related to color, refer to Guideline 1.4."
+                            "text": "Wymagania dotyczące koloru można znaleźć w Wytycznej 1.4."
                         }],
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:G96",
-                                "title": "Providing textual identification of items that otherwise rely only on sensory information to be understood"
+                                "title": "Zapewnienie identyfikacji tekstowej pozycji, które w inny sposób polegają wyłącznie na informacjach zmysłowych, które należy rozumieć"
                             }]},
                             {"advisory": []},
                             {"failure": [
@@ -1624,11 +1623,11 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "Using CSS to set the orientation to allow both landscape and portrait."
+                                    "title": "Używanie CSS do ustawień umożliwiajacych zarówno orientację poziomą, jak i pionową."
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Use of show/hide controls to allow access to content in different orientations."
+                                    "title": "Użyj kontrolek Pokaż/Ukryj, aby umożliwić dostęp do treści w różnych orientacjach wyświetlacza."
                                 }
                             ]},
                             {"advisory": []},
@@ -1670,21 +1669,21 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Using microdata to markup user interface components (future link)"
+                                    "title": "Używanie mikrodanych do oznaczania komponentów interfejsu użytkownika (w przyszłości link"
                                 }
                             ]},
                             {"advisory": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "Enable user agents to find the version of the content that best fits their needs."
+                                    "title": "Umożliwenie aplikacjom użytkownika znalezienia wersji treści, która najlepiej odpowiada ich potrzebom."
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Using semantics to identify important features (coga-simplification=\"simplest\")."
+                                    "title": "Używanie semantyki do identyfikowania ważnych funkcji (coga-simplification=\"simplest\")."
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Use of aria-invalid and aria-required."
+                                    "title": "Używanie attrybutów aria-invalid oraz aria-required."
                                 }
                             ]},
                             {"failure": []}
@@ -1723,7 +1722,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: If the color of particular words, backgrounds, or other content is used to indicate information:",
+                                    "title": "Sytuacja A: Jeśli kolor określonych słów, tła lub innej treści jest używany do wskazania informacji:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G14",
@@ -1744,7 +1743,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: If color is used within an image to convey information:",
+                                    "title": "Sytuacja B: Jeśli kolor jest używany w obrazie do przekazywania informacji:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G111",
@@ -1868,7 +1867,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: text is less than 18 point if not bold and less than 14 point if bold",
+                                    "title": "Sytuacja A: Tekst ma mniej niż 18 punktów, jeśli nie jest pogrubiony i mniej niż 14 punktów, jeśli jest pogrubiony",
                                     "techniques": [
                                         {
                                             "id": "TECH:G18",
@@ -1884,12 +1883,12 @@
                                         },
                                         {
                                             "id": "TECH:SL13",
-                                            "title": "Providing A Style Switcher To Switch To High Contrast"
+                                            "title": "Zapewnienie przełącznika stylu do przełączania na wysoki kontrast"
                                         }
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: text is at least 18 point if not bold and at least 14 point if bold",
+                                    "title": "Sytuacja B: tekst ma co najmniej 18 punktów, jeśli nie jest pogrubiony i co najmniej 14 punktów, jeśli jest pogrubiony",
                                     "techniques": [
                                         {
                                             "id": "TECH:G145",
@@ -1905,7 +1904,7 @@
                                         },
                                         {
                                             "id": "TECH:SL13",
-                                            "title": "Providing A Style Switcher To Switch To High Contrast"
+                                            "title": "Zapewnienie przełącznika stylu do przełączania na wysoki kontrast"
                                         }
                                     ]
                                 }
@@ -1953,7 +1952,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Ensuring that text containers resize when the text resizes AND using measurements that are relative to other measurements in the content by using one or more of the following techniques:",
+                                    "title": "Zapewnienie zmian rozmiaru kontenerów tekstowych podczas zmiany rozmiaru tekstu ORAZ za pomocą jednostek względnych za pomocą jednej lub więcej z następujących technik:",
                                     "using": [
                                         {
                                             "id": "TECH:C28",
@@ -1961,7 +1960,7 @@
                                         },
                                         {
                                             "id": "TECH:text",
-                                            "title": "Techniques for relative measurements",
+                                            "title": "Techniki pomiarów względnych",
                                             "using": [
                                                 {
                                                     "id": "TECH:C12",
@@ -1979,7 +1978,7 @@
                                         },
                                         {
                                             "id": "TECH:text",
-                                            "title": "Techniques for text container resizing",
+                                            "title": "Techniki zmiany rozmiaru kontenera tekstowego",
                                             "using": [
                                                 {
                                                     "id": "TECH:SCR34",
@@ -2142,7 +2141,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: text is less than 18 point if not bold and less than 14 point if bold",
+                                    "title": "Sytuacja A: tekst ma mniej niż 18 punktów, jeśli nie jest pogrubiony i mniej niż 14 punktów, jeśli jest pogrubiony",
                                     "techniques": [
                                         {
                                             "id": "TECH:G17",
@@ -2158,12 +2157,12 @@
                                         },
                                         {
                                             "id": "TECH:SL13",
-                                            "title": "Providing A Style Switcher To Switch To High Contrast"
+                                            "title": "Zapewnienie przełącznika stylu do przełączania na wysoki kontrast"
                                         }
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: text is as least 18 point if not bold and at least 14 point if bold",
+                                    "title": "Sytuacja B: tekst ma co najmniej 18 punktów, jeśli nie jest pogrubiony i co najmniej 14 punktów, jeśli jest pogrubiony",
                                     "techniques": [
                                         {
                                             "id": "TECH:G18",
@@ -2179,7 +2178,7 @@
                                         },
                                         {
                                             "id": "TECH:SL13",
-                                            "title": "Providing A Style Switcher To Switch To High Contrast"
+                                            "title": "Zapewnienie przełącznika stylu do przełączania na wysoki kontrast"
                                         }
                                     ]
                                 }
@@ -2276,7 +2275,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "First Requirement: Techniques to ensure foreground and background colors can be selected by the user",
+                                    "title": "Pierwsze wymaganie: techniki zapewniające użytkownikowi możliwość wyboru kolorów pierwszego planu i tła",
                                     "techniques": [
                                         {
                                             "id": "TECH:C23",
@@ -2306,7 +2305,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Second Requirement: Techniques to ensure width is no more than 80 characters or glyphs (40 if CJK)",
+                                    "title": "Drugie wymaganie: techniki zapewniające szerokość nie więcej niż 80 znaków lub glifów (40, jeśli CJK)",
                                     "techniques": [
                                         {
                                             "id": "TECH:G204",
@@ -2320,7 +2319,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Third Requirement: Techniques to ensure text is not justified (aligned to both the left and the right margins)",
+                                    "title": "Trzecie wymaganie: techniki zapewniające, że tekst nie jest justowany (wyrównany zarówno do lewego, jak i prawego marginesu)",
                                     "techniques": [
                                         {
                                             "id": "TECH:C19",
@@ -2339,7 +2338,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Fourth Requirement: Techniques to ensure line spacing (leading) is at least space-and-a-half within paragraphs, and paragraph spacing is at least 1.5 times larger than the line spacing",
+                                    "title": "Czwarte wymaganie: techniki zapewniające odstępy między wierszami (leading) wynoszą co najmniej półtora odstępu w akapitach, a odstępy między akapitami są co najmniej 1,5 razy większe niż odstępy między wierszami",
                                     "techniques": [
                                         {
                                             "id": "TECH:G188",
@@ -2353,17 +2352,17 @@
                                     ]
                                 },
                                 {
-                                    "title": "Fifth Requirement: Techniques to ensure text can be resized without assistive technology up to 200 percent in a way that does not require the user to scroll horizontally to read a line of text on a full-screen window",
+                                    "title": "Piąte wymaganie: Techniki zapewniające zmianę rozmiaru tekstu bez technologii wspomagającej do 200 procent w sposób, który nie wymaga od użytkownika przewijania w poziomie w celu odczytania wiersza tekstu w oknie pełnoekranowym",
                                     "techniques": [
                                         {
                                             "id": "TECH:text",
-                                            "title": "Not interfering with the user agent's reflow of text as the viewing window is narrowed",
+                                            "title": "Niezakłócanie przepływu tekstu przez aplikację kliencką, ponieważ okno podglądu jest zawężone",
                                             "append": "LUB"
                                         },
                                         {
                                             "id": "TECH:G146",
                                             "title": "Korzystanie z układu płynnego",
-                                            "append": "AND using measurements that are relative to other measurements in the content by",
+                                            "append": "ORAZ używanie względnych jednostek miary w treści",
                                             "using": [
                                                 {
                                                     "id": "TECH:C12",
@@ -2529,7 +2528,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ New: Using PDF/UA when creating PDFs."
+                                    "title": "@@ Nowe: Korzystanie ze standardu PDF/UA podczas tworzenia plików PDF"
                                 }
                             ]},
                             {"advisory": [
@@ -2547,21 +2546,21 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ CSS, Fitting data cells within the width of the viewport."
+                                    "title": "@@ CSS, Dopasowanie komórek danych do szerokości obszaru operacyjnego (viewport)."
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ Mechanism to allow mobile view at any time"
+                                    "title": "@@ Mechanizm umożliwiający w dowolnym momencie podgląd mobilny"
                                 }
                             ]},
                             {"failure": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ Using fixed sized containers and fixed position content (CSS)"
+                                    "title": "@@ Używanie kontenerów o stałej wielkości i stałej pozycji (CSS)"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ (HTML) Using preformatted text or excluding preformatting text as an exception to no two dimensional scrolling."
+                                    "title": "@@ (HTML) Uwzględnienie lub wyłaczenie tekstu wstępnie sformatowanego jako wyjątku od braku przewijania dwuwymiarowego."
                                 }
                             ]}
                         ]
@@ -2590,14 +2589,14 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "User Interface Component contrast",
+                                    "title": "Kontrast elementu interfejsu użytkownika",
                                     "techniques": [{
                                         "id": "TECH:G195",
                                         "title": "Korzystanie z dobrze widocznego wskaźnika fokusa dostarczonego przez autora"
                                     }]
                                 },
                                 {
-                                    "title": "Graphics with sufficient contrast",
+                                    "title": "Grafika z wystarczajacym kontrastem",
                                     "techniques": [
                                         {
                                             "id": "TECH:G207",
@@ -2610,11 +2609,11 @@
                                     ]
                                 },
                                 {
-                                    "title": "Text in or over graphics",
+                                    "title": "Tekst w grafice lub nad grafiką",
                                     "techniques": [
                                         {
                                             "id": "TECH:text",
-                                            "title": "@@ Include labels and values with the graphic (TBD)"
+                                            "title": "@@ Dołączenie do grafiki etykiet i wartości (TBD)"
                                         },
                                         {
                                             "id": "TECH:G18",
@@ -2739,11 +2738,11 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ ARIA: Using role=\"tooltip\""
+                                    "title": "@@ ARIA: Używanie atrybutu role=\"tooltip\""
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ CSS: Using hover and focus pseudo classes"
+                                    "title": "@@ CSS: Używanie pseudoklas  hover i focus"
                                 }
                             ]},
                             {"advisory": []},
@@ -2754,7 +2753,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ Failure to make content dismissable without moving pointer hover or keyboard focus"
+                                    "title": "@@ Brak możliwości odrzucenia zawartości bez przesunięcia wskaźnika myszy lub fokusa klawiatury"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -2841,7 +2840,7 @@
                                         },
                                         {
                                             "id": "TECH:SL15",
-                                            "title": "Providing Keyboard Shortcuts that Work Across the Entire Silverlight Application"
+                                            "title": "Zapewnienie skrótów klawiaturowych działających w całej aplikacji Silverlight"
                                         }
                                     ]
                                 },
@@ -2867,7 +2866,7 @@
                                         },
                                         {
                                             "id": "TECH:SL14",
-                                            "title": "Providing Custom Control Key Handling for Keyboard Functionality in Silverlight"
+                                            "title": "Zapewnianie własnej obsługi klawiszy sterujących dla funkcji klawiatury w Silverlight"
                                         }
                                     ]
                                 },
@@ -2990,17 +2989,17 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "Users have a way to turn off single-key shortcuts."
+                                    "title": "Użytkownicy mogą wyłączyć skróty jednoklawiszowe."
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "A mechanism is provided to allow users to change character-key shortcuts. The remapping mechanism includes non-printing characters. The alternative shortcuts could be longer strings of up to 25 characters that would directly serve as native speech commands for any speech engine."
+                                    "title": "Zapewniono mechanizm umożliwiający użytkownikom zmianę skrótów klawiszowych. Mechanizm mapowania obejmuje znaki niedrukowalne. Alternatywne skróty mogą być dłuższymi ciągami o długości do 25 znaków, które mogłyby bezpośrednio służyć jako natywne polecenia mowy dla dowolnego silnika mowy."
                                 }
                             ]},
                             {"advisory": []},
                             {"failure": [{
                                 "id": "TECH:text",
-                                "title": "Failure of Success Criteria 2.1.4 due to a webpage or web app that includes single-key shortcuts not including a control that allows users to turn the shortcuts off or a control that allows users to change the shortcuts to key combinations that include keys that are not upper or lower-case letters, punctuation, number, or symbol characters."
+                                "title": "Niespełnienie kryterium sukcesu 2.1.4, ponieważ strona internetowa lub aplikacj mobilna, zawiera skróty jednoklawiszowe bez elementu sterującego, który umożliwia użytkownikom wyłączenie skrótów, lub elementu sterującego, który umożliwia użytkownikom zmianę skrótów na kombinacje klawiszy zawierające klucze, które nie są wielkimi lub małymi literami, znakami interpunkcyjnymi, cyframi lub symbolami."
                             }]}
                         ]
                     }
@@ -3061,7 +3060,7 @@
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Sytuacja A: If there are session time limits:",
+                                    "title": "Sytuacja A: Jeśli istnieją ograniczenia czasowe sesji:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G133",
@@ -3074,7 +3073,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja B: If a time limit is controlled by a script on the page:",
+                                    "title": "Sytuacja B: Jeśli limit czasu jest kontrolowany przez skrypt na stronie:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G198",
@@ -3109,7 +3108,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Sytuacja C: If there are time limits on reading:",
+                                    "title": "Sytuacja C: Jeśli istnieją ograniczenia czasowe na czytanie:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G4",
@@ -3345,7 +3344,7 @@
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:text",
-                                "title": "Providing options to continue without loss of data using one of the following techniques:",
+                                "title": "Zapewnienie opcji kontynuowania bez utraty danych za pomocą jednej z następujących technik:",
                                 "using": [
                                     {
                                         "id": "TECH:G105",
@@ -3382,15 +3381,15 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "Setting a session timeout to occur following at least 20 hours of inactivity."
+                                    "title": "Ustawienie limitu czasu sesji po co najmniej 20 godzinach braku aktywności."
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Store user data for more than 20 hours."
+                                    "title": "Przechowywanie danych użytkownika przez ponad 20 godzin."
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Provide a warning of the duration of user inactivity at the start of a process."
+                                    "title": "Ostrzeganie o dopuszczalnym czasie bezczynności użytkownika na początku procesu."
                                 }
                             ]},
                             {"advisory": []},
@@ -3475,7 +3474,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:C39",
-                                    "title": "Używanie zapytanie reduce-motion, aby zapobiegać ruchowi"
+                                    "title": "Używanie zapytania reduce-motion, aby zapobiegać ruchowi (animacji)"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -3515,7 +3514,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "Creating links to skip blocks of repeated material using one of the following techniques:",
+                                    "title": "Tworzenie łączy w celu pominięcia bloków powtarzanego materiału za pomocą jednej z poniższych technik:",
                                     "using": [
                                         {
                                             "id": "TECH:G1",
@@ -3537,7 +3536,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Grouping blocks of repeated material in a way that can be skipped, using one of the following techniques:",
+                                    "title": "Grupowanie bloków powtarzanego materiału, które można pomijać, za pomocą jednej z następujących technik:",
                                     "using": [
                                         {
                                             "id": "TECH:ARIA11",
@@ -3634,7 +3633,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Giving focus to elements in an order that follows sequences and relationships within the content using one of the following techniques:",
+                                    "title": "Przenoszenie fokusa na elementach w kolejnosci sekwencyjnej i zgodnej z relacjami w obrębie treści za pomocą jednej z następujacych technik:",
                                     "using": [
                                         {
                                             "id": "TECH:H4",
@@ -3660,7 +3659,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Changing a Web page dynamically using one of the following techniques:",
+                                    "title": "Dynamiczne zmiany zawartości strony za pomocą jednej z następujących technik:",
                                     "using": [
                                         {
                                             "id": "TECH:SCR26",
@@ -3721,7 +3720,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Allowing the user to choose short or long link text using one of the techniques below:",
+                                    "title": "Umożliwienie użytkownikowi wybrania krótkiego lub długiego tekstu linku za pomocą jednej z poniższych technik:",
                                     "using": [
                                         {
                                             "id": "TECH:G189",
@@ -3743,7 +3742,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Providing a supplemental description of the purpose of a link using one of the following techniques:",
+                                    "title": "Zapewnienie dodatkowego opisu celu łącza za pomocą jednej z następujących technik:",
                                     "using": [
                                         {
                                             "id": "TECH:H33",
@@ -3757,7 +3756,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Identifying the purpose of a link using link text combined with programmatically determined link context using one of the following techniques:",
+                                    "title": "Określenie celu łącza za pomocą tekstu łącza w połączeniu z określonym programowo kontekstem łącza za pomocą jednej z następujących technik:",
                                     "using": [
                                         {
                                             "id": "TECH:ARIA7",
@@ -3844,7 +3843,7 @@
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:text",
-                                "title": "Using two or more of the following techniques:",
+                                "title": "Zastosowanie dwóch lub więcej z następujących technik:",
                                 "using": [
                                     {
                                         "id": "TECH:G125",
@@ -3940,7 +3939,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@@ Using a change of contrast ratio to provide a visible focus indicator"
+                                    "title": "@@@ Korzystanie ze zmiany współczynnika kontrastu w celu zapewnienia widocznego fokusa"
                                 },
                                 {
                                     "id": "TECH:SCR31",
