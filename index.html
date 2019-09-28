@@ -5,31 +5,31 @@ button: 1
 {% include header.html %}
 
 <div class="mainrow">
-  <button id="showhidesbsmall" data-target="#sidebar" type="button" data-toggle="collapse" aria-expanded="true" aria-controls="#sidebar" class="btn btn-default"><span class="word-show"><svg aria-hidden="true" class="i-chevron-right"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-right"></use></svg> Show</span><span class="word-hide"><svg aria-hidden="true" class="i-chevron-down"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-down"></use></svg> Hide</span> in-page navigation and filter options</button>
+  <button id="showhidesbsmall" data-target="#sidebar" type="button" data-toggle="collapse" aria-expanded="true" aria-controls="#sidebar" class="btn btn-default"><span class="word-show"><svg aria-hidden="true" class="i-chevron-right"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-right"></use></svg> Pokaż</span><span class="word-hide"><svg aria-hidden="true" class="i-chevron-down"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-down"></use></svg> Ukryj</span> in-page navigation and filter options</button>
 
   <div class="sidebar" id="sidebar">
     <div>
       <nav>
         <ul class="nav nav-tabs buttons" id="navtabs">
           <li>
-            <button id="hidesidebars" aria-expanded="true" type="button" class="btn btn-default btn-sm" aria-label="Hide Sidebar"><span><span class="word-hide"><svg aria-hidden="true" class="i-chevron-left"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-left"></use></svg> Hide</span></span></button>
+            <button id="hidesidebars" aria-expanded="true" type="button" class="btn btn-default btn-sm" aria-label="Hide Sidebar"><span><span class="word-hide"><svg aria-hidden="true" class="i-chevron-left"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-left"></use></svg> Ukryj</span></span></button>
           </li>
           <li class="active">
-            <a href="#col_overview" aria-expanded="true" data-toggle="tab" data-toggle="tab" aria-controls="col_overview"><span><svg aria-hidden="true" class="i-menu"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-menu"></use></svg> Contents</span></a>
+            <a href="#col_overview" aria-expanded="true" data-toggle="tab" data-toggle="tab" aria-controls="col_overview"><span><svg aria-hidden="true" class="i-menu"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-menu"></use></svg> Zawartość</span></a>
           </li>
           <li>
-            <a href="#col_customize"  aria-expanded="false" data-toggle="tab" data-toggle="tab" aria-controls="col_customize"><span><svg aria-hidden="true" class="i-settings"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-settings"></use></svg> Filter</span></a>
+            <a href="#col_customize"  aria-expanded="false" data-toggle="tab" data-toggle="tab" aria-controls="col_customize"><span><svg aria-hidden="true" class="i-settings"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-settings"></use></svg> Filtr</span></a>
           </li>
         </ul>
       </nav>
       <div class="tab-content">
-        <aside class="tab-pane active" id="col_overview" aria-label="Contents">
+        <aside class="tab-pane active" id="col_overview" aria-label="Zawartość">
           {% include sidenav.html tags="false" heading="false" %}
         </aside>
-        <aside class="tab-pane tags" id="col_customize" aria-label="Filter">
+        <aside class="tab-pane tags" id="col_customize" aria-label="Filtr">
           <div class="sidebar-content">
             <div class="infobox">
-              <svg aria-hidden="true" class="i-info"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-info"></use></svg> Changing filters will change the listed Success Criteria and Techniques.
+              <svg aria-hidden="true" class="i-info"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-info"></use></svg> Zmiana filtrów spowoduje zmianę wymienionych kryteriów sukcesu i technik.
             </div>
             {% include versions.html %}
             {% include tags.html show="true" %}
@@ -41,7 +41,7 @@ button: 1
   </div>
   <main>
     <div class="navrow with-expandcollapseallbutton" style="top:0;">
-      <button id="showsidebars" aria-expanded="false" hidden type="button" class="btn btn-default btn-sm"><span><svg aria-hidden="true" class="i-chevron-right"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-right"></use></svg> Show Sidebar</span></button>
+      <button id="showsidebars" aria-expanded="false" hidden type="button" class="btn btn-default btn-sm"><span><svg aria-hidden="true" class="i-chevron-right"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-right"></use></svg> Pokaż pasek</span></button>
       {% include filter-status.html button="true" %}
     </div>
       <div class="maininner">
@@ -52,7 +52,7 @@ button: 1
         <section class="principle" aria-labelledby="principle{{ principle.num }}" aria-roledescription="principle">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h2 id="principle{{ principle.num }}"><strong>Principle {{ p }}</strong> – {{principle.handle}}</h2>
+              <h2 id="principle{{ principle.num }}"><strong>Zasada {{ p }}</strong> – {{principle.handle}}</h2>
             </div>
             <div class="panel-body panel-body-principle">
               <p>{{principle.title}}</p>
@@ -70,13 +70,13 @@ button: 1
       </div>
     <hr>
     <div class="pibox" id="contribute">
-      <div class="pibox-heading">Contribute</div>
+      <div class="pibox-heading">Zaangażuj się</div>
       <div class="pibox-body">
-        <p>We welcome feedback and suggestions:</p>
+        <p>Z zadowoleniem przyjmiemy wszelkie propozycje i sugestie:</p>
         <ul>
-          <li>This resource — <a href="https://github.com/w3c/wai-wcag-quickref/issues/">report bugs</a> and contribute directly to the <a href="https://github.com/w3c/wai-wcag-quickref">Github repository</a></li>
-          <li>Techniques — contribute <a href="https://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/">new WCAG techniques</a></li>
-          <li>Other — contribute corrections, updates, or new information related to techniques, failures, or other WCAG documentation, per the <a href="https://www.w3.org/WAI/WCAG20/comments/">instructions for commenting</a></li>
+          <li>Ten zasób — <a href="https://github.com/lepszyweb/wcag-quickref/issues">zgłaszanie błedów</a> oraz współpraca bezpośrednio na  <a href="https://github.com/lepszyweb/wcag-quickref">repozytorium Github</a></li>
+          <li>Techniki — przyczyń się: <a href="https://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/">nowe techniki WCAG</a></li>
+          <li>Inne — zgłaszanie poprawek, aktualizacji lub nowych informacje związane z technikami, błędami lub inną dokumentacją WCAG, zobacz <a href="https://www.w3.org/WAI/WCAG20/comments/">instrukcje komentowania</a></li>
         </ul>
       </div>
     </div>
