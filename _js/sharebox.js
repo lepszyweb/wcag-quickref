@@ -22,14 +22,17 @@ var hasclass = function(el, className) {
 document.addEventListener('DOMContentLoaded', function(){
   var plel = document.createElement('a');
   //addclass(plel, 'permalink');
-  plel.innerHTML = '<svg aria-hidden="true" class="i-share"><use xlink:href="img/icons.svg#i-share"></use></svg> SHARE';
+  plel.innerHTML = '<svg aria-hidden="true" class="i-share"><use xlink:href="img/icons.svg#i-share"></use></svg> UDOSTĘPNIJ';
 
   var plwrapdiv = document.createElement('div')
   addclass(plwrapdiv, 'permalink');
 
   var sharebox = document.createElement('div');
   addclass(sharebox, 'sharebox');
-  var shareboxtext = '<p><label>Link to this section:<input type="url" value="%s" readonly> Shortcut to copy the link: <kbd>ctrl</kbd>+<kbd>C</kbd> <em>or</em> <kbd>⌘</kbd><kbd>C</kbd></label></p><p><a href="mailto:?subject=Web%20Accessibility%20–%20How%20to%20Meet%20WCAG&body=Hi!%0AYou%20might%20be%20interested%20in%20this%20section%20of%20the%20Web%20Content%20Accessibility%20Guidelines%20(WCAG)%3A%0A%0A%s">E-mail a link to this section</a><button>Close</button></p>';
+  var shareboxtext = '<p><label>Łącze do tej sekcji:<input type="url" value="%s" readonly> Skrót do skopiowania łącza: <kbd>ctrl</kbd>+<kbd>C</kbd> <em>lub</em> <kbd>⌘</kbd><kbd>C</kbd></label></p><p><a href="mailto:?subject=Dostępność%20cyfrowa%20%E2%80%93%20Jak%20spełnić%20WCAG&amp;body=Witaj!%0AByć%może%20zainteresuje%20Cię%20ta%20sekcja%20Wytycznych%20dotyczących%20dostępności%20treści%20Content%20internetowych%20(WCAG)%3A%0A%0A%s">Wyślij e-mail z linkiem do tej sekcji</a><button>Zamknij</button></p>';
+  
+  
+  
 
   var url = window.location.origin + window.location.pathname;
 
@@ -39,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function(){
     var cplel = plel.cloneNode(true);
     var theid = el.parentNode.parentNode.id;
     cplel.setAttribute('href', '#' + theid);
-    cplel.setAttribute('aria-label', 'Share Link to the section “' + el.parentNode.parentNode.querySelector('h4[id]').textContent + '”');
+    cplel.setAttribute('aria-label', 'Udostępnij link do tej sekcji “' + el.parentNode.parentNode.querySelector('h4[id]').textContent + '”');
 
     var csbtext = shareboxtext.replace("%s", url + '#' + theid).replace("%s", url + '#' + theid);
     var csb = sharebox.cloneNode(true);
