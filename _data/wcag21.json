@@ -1500,8 +1500,8 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Meaningful Sequence",
-                        "title": "When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.",
+                        "handle": "Zrozumiała kolejność",
+                        "title": "Jeśli kolejność, w jakiej przedstawiona jest treść, ma znaczenie dla zrozumienia treści — kolejność taka musi być możliwa do odczytania przez program komputerowy.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -1587,11 +1587,11 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Sensory Characteristics",
-                        "title": "Instructions provided for understanding and operating content do not rely solely on sensory characteristics of components such as shape, color, size, visual location, orientation, or sound.",
+                        "handle": "Właściwości zmysłowe",
+                        "title": "Instrukcje co do zrozumienia i operowania treścią nie opierają się wyłącznie na właściwościach zmysłowych, takich, jak kształt, rozmiar, wzrokowa lokalizacja, orientacja w przestrzeni lub dźwięk. ",
                         "details": [{
                             "type": "note",
-                            "handle": "Note 1",
+                            "handle": "Uwaga 1",
                             "text": "For requirements related to color, refer to Guideline 1.4."
                         }],
                         "techniques": [
@@ -1618,8 +1618,8 @@
                         "num": "1.3.4",
                         "versions": ["2.1"],
                         "level": "AA",
-                        "handle": "Orientation",
-                        "title": "Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.",
+                        "handle": "Orientacja",
+                        "title": "Zawartość nie ogranicza swojego widoku i działania do jednej orientacji wyświetlania, takiej jak pionowa lub pozioma, chyba że określona orientacja wyświetlania jest niezbędna.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -1644,13 +1644,13 @@
                         "num": "1.3.5",
                         "versions": ["2.1"],
                         "level": "AA",
-                        "handle": "Identify Input Purpose",
-                        "title": "The purpose of each input field collecting information about the user can be programmatically determined when:",
+                        "handle": "Określenie przeznaczenia wprowadzanych danych",
+                        "title": "Cel każdego pola zbierającego informacje o użytkowniku może być programowo określony, gdy",
                         "details": [{
                             "type": "ulist",
                             "items": [
-                                {"text": "The input field serves a purpose identified in the Input Purposes for User Interface Components section; and"},
-                                {"text": "The content is implemented using technologies with support for identifying the expected meaning for form input data."}
+                                {"text": "Pole wejściowe służy celowi określonemu w sekcji cele wejściowe dla komponentów interfejsu użytkownika; oraz"},
+                                {"text": "Zawartość jest implementowana przy użyciu technologii z obsługą identyfikacji oczekiwanego znaczenia dla danych wejściowych formularza."}
                             ]
                         }]
                     },
@@ -1660,8 +1660,8 @@
                         "num": "1.3.6",
                         "versions": ["2.1"],
                         "level": "AAA",
-                        "handle": "Identify Purpose",
-                        "title": "In content implemented using markup languages, the purpose of User Interface Components, icons, and regions can be programmatically determined.",
+                        "handle": "Określenie przeznaczenia",
+                        "title": "W treściach zaimplementowanych przy użyciu języków znaczników przeznaczenie komponentów interfejsu użytkownika, ikon i regionów może zostać określone programowo.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -1701,8 +1701,8 @@
                     "2.0",
                     "2.1"
                 ],
-                "handle": "Distinguishable",
-                "title": "Make it easier for users to see and hear content including separating foreground from background.",
+                "handle": "Możliwość rozróżnienia",
+                "title": "Użytkownik powinien móc dobrze widzieć bądź słyszeć treści — mieć możliwość oddzielenia informacji od tła.",
                 "successcriteria": [
                     {
                         "id": "WCAG2:use-of-color",
@@ -1713,12 +1713,12 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Use of Color",
-                        "title": "Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.",
+                        "handle": "Użycie koloru",
+                        "title": "Kolor nie jest wykorzystywany jako jedyny wizualny sposób przekazywania informacji, wskazywania czynności do wykonania lub oczekiwania na odpowiedź, czy też wyróżniania elementów wizualnych.",
                         "details": [{
                             "type": "note",
-                            "handle": "Note 1",
-                            "text": "This success criterion addresses color perception specifically. Other forms of perception are covered in Guideline 1.3 including programmatic access to color and other visual presentation coding."
+                            "handle": "Uwaga 1",
+                            "text": "To kryterium sukcesu dotyczy szczególnie percepcji koloru. Inne formy percepcji zostały omówione w Wytycznej 1.3, w tym programistyczny dostęp do koloru oraz inne rodzaje zaprogramowania prezentacji wizualnej."
                         }],
                         "techniques": [
                             {"sufficient": [{"situations": [
@@ -1786,12 +1786,12 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Audio Control",
-                        "title": "If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume independently from the overall system volume level.",
+                        "handle": "Kontrola odtwarzania dźwięku",
+                        "title": "Jeśli jakieś nagranie audio włącza się automatycznie na danej stronie i jest odtwarzane przez okres dłuższy niż 3 sekundy, dostępny jest albo mechanizm umożliwiający przerwanie lub wyłączenie nagrania, albo mechanizm kontrolujący poziom głośności niezależnie od poziomu głośności całego systemu. ",
                         "details": [{
                             "type": "note",
-                            "handle": "Note 1",
-                            "text": "Since any content that does not meet this success criterion can interfere with a user's ability to use the whole page, all content on the Web page (whether or not it is used to meet other success criteria) must meet this success criterion. See Conformance Requirement 5: Non-Interference."
+                            "handle": "Uwaga 1",
+                            "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi odczytanie całej strony, wszelkie treści na stronie (bez względu na to, czy spełniają inne kryteria sukcesu, czy nie) muszą spełnić niniejsze kryterium. Więcej informacji: Spełnienie wymagań: Brak zakłóceń: Non-Interference."
                         }],
                         "techniques": [
                             {"sufficient": [
@@ -1846,22 +1846,22 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Contrast (Minimum)",
-                        "title": "The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except for the following:",
+                        "handle": "Kontrast (minimalny)",
+                        "title": "Wizualne przedstawienie tekstu, lub obrazu tekstu posiada kontrast wynoszący przynajmniej 4,5:1, poza następującymi wyjątkami:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "Large Text",
-                                    "text": "Large-scale text and images of large-scale text have a contrast ratio of at least 3:1;"
+                                    "handle": "Duży tekst",
+                                    "text": "Duży tekst oraz grafiki takiego tekstu posiadają kontrast przynajmniej 3:1."
                                 },
                                 {
-                                    "handle": "Incidental",
-                                    "text": "Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement."
+                                    "handle": "Przypadkowość",
+                                    "text": "Nie stosuje się wymogów minimalnego kontrastu dla tekstów lub obrazu tekstu, będących elementem nieużywanych części interfejsu użytkownika, mających cel czysto dekoracyjny, nie są widoczne lub też są częścią obrazu zawierającego inne istotne treści wizualne."
                                 },
                                 {
-                                    "handle": "Logotypes",
-                                    "text": "Text that is part of a logo or brand name has no contrast requirement."
+                                    "handle": "Logo",
+                                    "text": "Nie wymaga się minimalnego kontrastu dla tekstu, który jest częścią logo lub nazwy własnej produktu (marki)."
                                 }
                             ]
                         }],
@@ -1935,8 +1935,8 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Resize text",
-                        "title": "Except for captions and images of text, text can be resized without assistive technology up to 200 percent without loss of content or functionality.",
+                        "handle": "Zmiana rozmiaru tekstu",
+                        "title": "Oprócz napisów rozszerzonych oraz tekstu w postaci grafiki, rozmiar tekstu może zostać powiększony do 200% bez użycia technologii wspomagających oraz bez utraty treści lub funkcjonalności.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -2041,26 +2041,26 @@
                             "2.1"
                         ],
                         "level": "AA",
-                        "handle": "Images of Text",
-                        "title": "If the technologies being used can achieve the visual presentation, text is used to convey information rather than images of text except for the following:",
+                        "handle": "Obrazy tekstu",
+                        "title": "Jeśli wykorzystywane technologie mogą przedstawiać treść wizualnie, do przekazywania informacji wykorzystuje się tekst, a nie tekst w postaci grafiki, za wyjątkiem następujących sytuacji:",
                         "details": [
                             {
                                 "type": "ulist",
                                 "items": [
                                     {
-                                        "handle": "Customizable",
-                                        "text": "The image of text can be visually customized to the user's requirements;"
+                                        "handle": "Możliwy do dostosowania:",
+                                        "text": "Obraz tekstu może być dostosowany wizualnie do wymagań użytkownika;"
                                     },
                                     {
-                                        "handle": "Essential",
-                                        "text": "A particular presentation of text is essential to the information being conveyed."
+                                        "handle": "Istotny",
+                                        "text": "Prezentacja tekstu w postaci graficznej jest istotna dla zrozumienia przekazywanej informacji."
                                     }
                                 ]
                             },
                             {
                                 "type": "note",
-                                "handle": "Note 1",
-                                "text": "Logotypes (text that is part of a logo or brand name) are considered essential."
+                                "handle": "Uwaga 1",
+                                "text": "Tekst, który jest częścią logo lub nazwy własnej produktu, jest w tym przypadku uznawany za istotny."
                             }
                         ],
                         "techniques": [
@@ -2120,22 +2120,22 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Contrast (Enhanced)",
-                        "title": "The visual presentation of text and images of text has a contrast ratio of at least 7:1, except for the following:",
+                        "handle": "Wzmocniony kontrast",
+                        "title": "Wizualne przedstawienie tekstu, lub obrazu tekstu, posiada kontrast wynoszący przynajmniej 7:1, poza następującymi wyjątkami:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "Large Text",
-                                    "text": "Large-scale text and images of large-scale text have a contrast ratio of at least 4.5:1;"
+                                    "handle": "Duży tekst",
+                                    "text": "Duży tekst oraz grafiki takiego tekstu posiadają kontrast przynajmniej 4,5:1;"
                                 },
                                 {
-                                    "handle": "Incidental",
-                                    "text": "Text or images of text that are part of an inactive user interface component, that are pure decoration, that are not visible to anyone, or that are part of a picture that contains significant other visual content, have no contrast requirement."
+                                    "handle": "Przypadkowość",
+                                    "text": "Nie stosuje się wymogów minimalnego kontrastu dla tekstu lub obrazu tekstu, będących elementem nieużywanych części interfejsu użytkownika, mających cel czysto dekoracyjny, nie są widoczne lub też są częścią obrazu zawierającego inne istotne treści wizualne."
                                 },
                                 {
-                                    "handle": "Logotypes",
-                                    "text": "Text that is part of a logo or brand name has no contrast requirement."
+                                    "handle": "Logo",
+                                    "text": "Nie wymaga się minimalnego kontrastu dla tekstu, który jest częścią logo lub nazwy własnej produktu (marki)."
                                 }
                             ]
                         }],
@@ -2209,22 +2209,22 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Low or No Background Audio",
-                        "title": "For prerecorded audio-only content that (1) contains primarily speech in the foreground, (2) is not an audio CAPTCHA or audio logo, and (3) is not vocalization intended to be primarily musical expression such as singing or rapping, at least one of the following is true:",
+                        "handle": "Niska głośność lub brak tła dźwiękowego",
+                        "title": "Dla nagranej treści tylko audio, która (1) na pierwszym planie zawiera głównie mowę, (2) nie jest dźwiękową CAPTCHA lub logo w postaci dźwiękowej, oraz (3) nie jest wokalizacją mającą na celu głównie ekspresję muzyczną, np. w przypadku śpiewu lub rapu, przynajmniej jedno z poniższych założeń jest spełnione:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "No Background",
-                                    "text": "The audio does not contain background sounds."
+                                    "handle": "Brak treści w tle",
+                                    "text": "Nagranie audio nie zawiera dźwięków tła."
                                 },
                                 {
-                                    "handle": "Turn Off",
-                                    "text": "The background sounds can be turned off."
+                                    "handle": "Możliwość wyłączenia",
+                                    "text": "Dźwięki tła mogą zostać wyłączone."
                                 },
                                 {
                                     "handle": "20 dB",
-                                    "text": "The background sounds are at least 20 decibels lower than the foreground speech content, with the exception of occasional sounds that last for only one or two seconds. Per the definition of \"decibel,\" background sound that meets this requirement will be approximately four times quieter than the foreground speech content."
+                                    "text": "Głośność dźwięków tła jest przynajmniej o 20 decybeli mniejsza, niż głośność mowy, która stanowi główną treść nagrania, za wyjątkiem okazyjnych, jedno– lub dwusekundowych dźwięków tła."
                                 }
                             ]
                         }],
@@ -2246,30 +2246,30 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Visual Presentation",
-                        "title": "For the visual presentation of blocks of text, a mechanism is available to achieve the following:",
+                        "handle": "Prezentacja wizualna",
+                        "title": "Dla wizualnego przedstawienia bloków tekstu, dostępny jest mechanizm, za pomocą którego można osiągnąć, co następuje:",
                         "details": [{
                             "type": "olist",
                             "items": [
                                 {
                                     "handle": "",
-                                    "text": "Foreground and background colors can be selected by the user."
+                                    "text": "Kolory na pierwszym planie oraz kolory tła mogą być zmienione przez użytkownika."
                                 },
                                 {
                                     "handle": "",
-                                    "text": "Width is no more than 80 characters or glyphs (40 if CJK)."
+                                    "text": "Szerokość nie przekracza 80 znaków (40 w przypadku alfabetów: chińskiego, japońskiego i koreańskiego)."
                                 },
                                 {
                                     "handle": "",
-                                    "text": "Text is not justified (aligned to both the left and the right margins)."
+                                    "text": "Tekst nie jest wyjustowany (tzn. wyrównany do prawego i lewego marginesu)."
                                 },
                                 {
                                     "handle": "",
-                                    "text": "Line spacing (leading) is at least space-and-a-half within paragraphs, and paragraph spacing is at least 1.5 times larger than the line spacing."
+                                    "text": "Odstępy między wierszami w akapitach wynoszą przynajmniej 1,5 wysokości linii, a odległość między akapitami jest przynajmniej 1,5 razy większa niż ta pomiędzy wierszami."
                                 },
                                 {
                                     "handle": "",
-                                    "text": "Text can be resized without assistive technology up to 200 percent in a way that does not require the user to scroll horizontally to read a line of text on a full-screen window."
+                                    "text": "Rozmiar tekstu może zostać powiększony do 200% bez użycia technologii wspomagających, nie wymagając od użytkownika, chcącego odczytać cały wiersz, przesuwania tekstu w poziomie przy zmaksymalizowanym oknie ekranu."
                                 }
                             ]
                         }],
@@ -2425,12 +2425,12 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Images of Text (No Exception)",
-                        "title": "Images of text are only used for pure decoration or where a particular presentation of text is essential to the information being conveyed.",
+                        "handle": "Obrazy tekstu (bez wyjątków)",
+                        "title": "Teksty w postaci grafiki są wykorzystywane jedynie w celach czysto dekoracyjnych lub też w przypadkach, gdy takie przedstawienie tekstu jest istotne dla przekazywanej informacji. ",
                         "details": [{
                             "type": "note",
-                            "handle": "Note 1",
-                            "text": "Logotypes (text that is part of a logo or brand name) are considered essential."
+                            "handle": "Uwaga 1",
+                            "text": "Tekst, który jest częścią logo lub nazwy własnej produktu, jest w tym przypadku uznawany za istotny."
                         }],
                         "techniques": [
                             {"sufficient": [
@@ -2486,19 +2486,19 @@
                         "num": "1.4.10",
                         "versions": ["2.1"],
                         "level": "AA",
-                        "handle": "Reflow",
-                        "title": "Content can be presented without loss of information or functionality, and without requiring scrolling in two dimensions for:",
+                        "handle": "Dopasowanie do ekranu",
+                        "title": "Treść może być prezentowana bez utraty informacji lub funkcjonalności, bez konieczności przewijania w dwóch wymiarach dla:",
                         "details": [
                             {
                                 "type": "ulist",
                                 "items": [
-                                    {"text": "Vertical scrolling content at a width equivalent to 320 CSS pixels;"},
-                                    {"text": "Horizontal scrolling content at a height equivalent to 256 CSS pixels;"}
+                                    {"text": "Pionowego przewijania zawartości o szerokości odpowiadającej 320 pikselom CSS;"},
+                                    {"text": "Poziomego przewijania zawartości na wysokości odpowiadającej 256 pikselom CSS."}
                                 ]
                             },
                             {
                                 "type": "p",
-                                "text": "Except for parts of the content which require two-dimensional layout for usage or meaning."
+                                "text": "Wyjątkiem są te części treści, które wymagają dwuwymiarowego układu ze względu na sposób używania lub znaczenie."
                             }
                         ],
                         "techniques": [
@@ -2572,18 +2572,18 @@
                         "num": "1.4.11",
                         "versions": ["2.1"],
                         "level": "AA",
-                        "handle": "Non-text Contrast",
-                        "title": "The visual presentation of the following have a contrast ratio of at least 3:1 against adjacent color(s):",
+                        "handle": "Kontrast elementów nietekstowych",
+                        "title": "Wizualna prezentacja następujących elementów ma współczynnik kontrastu co najmniej 3:1 względem sąsiednich kolorów:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "User Interface Components",
-                                    "text": "Visual information required to identify user interface components and states, except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author;"
+                                    "handle": "Elementy interfejsu użytkownika",
+                                    "text": "Informacje wizualne wymagane do identyfikacji komponentów i stanów interfejsu użytkownika, z wyjątkiem nieaktywnych składników lub gdy wygląd komponentu jest określony przez agenta użytkownika i nie jest modyfikowany przez autora;"
                                 },
                                 {
-                                    "handle": "Graphical Objects",
-                                    "text": "Parts of graphics required to understand the content, except when a particular presentation of graphics is essential to the information being conveyed."
+                                    "handle": "Obiekty graficzne",
+                                    "text": "Części grafiki wymagane do zrozumienia treści, z wyjątkiem sytuacji, gdy konkretna prezentacja grafiki ma zasadnicze znaczenie dla przekazywanych informacji."
                                 }
                             ]
                         }],
@@ -2647,21 +2647,21 @@
                         "num": "1.4.12",
                         "versions": ["2.1"],
                         "level": "AA",
-                        "handle": "Text Spacing",
-                        "title": "In content implemented using markup languages that support the following text style properties, no loss of content or functionality occurs by setting all of the following and by changing no other style property:",
+                        "handle": "Odstępy w tekście",
+                        "title": "W treści zaimplementowanej przy użyciu języków znaczników, które obsługują poniższe właściwości stylu tekstowego, nie następuje utrata treści lub funkcjonalności przez ustawienie wszystkich następujących elementów i przez zmianę żadnej innej właściwości stylu:",
                         "details": [
                             {
                                 "type": "ulist",
                                 "items": [
-                                    {"text": "Line height (line spacing) to at least 1.5 times the font size;"},
-                                    {"text": "Spacing following paragraphs to at least 2 times the font size;"},
-                                    {"text": "Letter spacing (tracking) to at least 0.12 times the font size;"},
-                                    {"text": "Word spacing to at least 0.16 times the font size."}
+                                    {"text": "Wysokość linii (odstęp między wierszami) do co najmniej 1,5-krotności rozmiaru czcionki;"},
+                                    {"text": "Rozstaw następujących akapitów co najmniej 2 razy większy od rozmiaru czcionki;"},
+                                    {"text": "Odstępy między literami (tracking) do co najmniej 0,12-krotności rozmiaru czcionki;"},
+                                    {"text": "Odstępy między wyrazami do co najmniej 0,16 wielkości czcionki."}
                                 ]
                             },
                             {
                                 "type": "p",
-                                "text": "Exception: Human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script."
+                                "text": "Wyjątek: Języki naturalne i skrypty, które nie wykorzystują jednej lub więcej z tych właściwości stylu tekstowego w tekście pisanym, mogą być zgodne przy użyciu tylko tych właściwości, które istnieją dla tej kombinacji języka i skryptu."
                             }
 						],
                         "techniques": [
@@ -2701,28 +2701,28 @@
                         "num": "1.4.13",
                         "versions": ["2.1"],
                         "level": "AA",
-                        "handle": "Content on Hover or Focus",
-                        "title": "Where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden, the following are true:",
+                        "handle": "Treść spod kursora lub fokusa",
+                        "title": "Tam, gdzie odbieranie, a następnie usuwanie wskaźnika myszy lub fokusa klawiatury powoduje wyświetlenie dodatkowej zawartości, a następnie jej ukrycie, prawdziwe są poniższe stwierdzenia:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "Dismissible",
-                                    "text": "A mechanism is available to dismiss the additional content without moving pointer hover or keyboard focus, unless the additional content communicates an input error or does not obscure or replace other content;"
+                                    "handle": "Odrzucone",
+                                    "text": "Dostępny jest mechanizm umożliwiający odrzucenie dodatkowej zawartości bez przesuwania wskaźnika myszy lub koncentracji na klawiaturze, chyba że dodatkowa treść przekazuje błąd wejściowy lub nie przesłania ani nie zastępuje innej zawartości;"
                                 },
                                 {
-                                    "handle": "Hoverable",
-                                    "text": "If pointer hover can trigger the additional content, then the pointer can be moved over the additional content without the additional content disappearing;"
+                                    "handle": "Wskazywane",
+                                    "text": "Jeśli wskaźnik myszy (hover) może wyzwolić dodatkową zawartość, wówczas wskaźnik może zostać przeniesiony na dodatkową zawartość bez znikania dodatkowej zawartości;"
                                 },
                                 {
-                                    "handle": "Persistent",
-                                    "text": "The additional content remains visible until the hover or focus trigger is removed, the user dismisses it, or its information is no longer valid."
+                                    "handle": "Trwałe",
+                                    "text": "Dodatkowa treść pozostaje widoczna do momentu usunięcia wyzwalacza aktywacji lub fokusa, użytkownik odrzuca go lub jego informacje nie są już ważne."
                                 }
                             ]
                         },
                             {
                                 "type": "p",
-                                "text": "Exception: The visual presentation of the additional content is controlled by the user agent and is not modified by the author."
+                                "text": "Wyjątek: Wizualna prezentacja dodatkowej zawartości jest kontrolowana przez agenta użytkownika i nie jest modyfikowana przez autora."
                             }
 						],
                         "techniques": [
@@ -2793,12 +2793,12 @@
                         "details": [
                             {
                                 "type": "note",
-                                "handle": "Note 1",
+                                "handle": "Uwaga 1",
                                 "text": "This exception relates to the underlying function, not the input technique. For example, if using handwriting to enter text, the input technique (handwriting) requires path-dependent input but the underlying function (text input) does not."
                             },
                             {
                                 "type": "note",
-                                "handle": "Note 2",
+                                "handle": "Uwaga 2",
                                 "text": "This does not forbid and should not discourage providing mouse input or other input methods in addition to keyboard operation."
                             }
                         ],
@@ -2913,7 +2913,7 @@
                         "title": "If keyboard focus can be moved to a component of the page using a keyboard interface, then focus can be moved away from that component using only a keyboard interface, and, if it requires more than unmodified arrow or tab keys or other standard exit methods, the user is advised of the method for moving focus away.",
                         "details": [{
                             "type": "note",
-                            "handle": "Note 1",
+                            "handle": "Uwaga 1",
                             "text": "Since any content that does not meet this success criterion can interfere with a user's ability to use the whole page, all content on the Web page (whether it is used to meet other success criteria or not) must meet this success criterion. See Conformance Requirement 5: Non-Interference."
                         }],
                         "techniques": [
@@ -3163,22 +3163,22 @@
                         },
                             {
                                 "type": "note",
-                                "handle": "Note 1",
+                                "handle": "Uwaga 1",
                                 "text": "For requirements related to flickering or flashing content, refer to Guideline 2.3."
                             },
                             {
                                 "type": "note",
-                                "handle": "Note 2",
+                                "handle": "Uwaga 2",
                                 "text": "Since any content that does not meet this success criterion can interfere with a user's ability to use the whole page, all content on the Web page (whether it is used to meet other success criteria or not) must meet this success criterion. See Conformance Requirement 5: Non-Interference."
                             },
                             {
                                 "type": "note",
-                                "handle": "Note 3",
+                                "handle": "Uwaga 3",
                                 "text": "Content that is updated periodically by software or that is streamed to the user agent is not required to preserve or present information that is generated or received between the initiation of the pause and resuming presentation, as this may not be technically possible, and in many situations could be misleading to do so."
                             },
                             {
                                 "type": "note",
-                                "handle": "Note 4",
+                                "handle": "Uwaga 4",
                                 "text": "An animation that occurs as part of a preload phase or similar situation can be considered essential if interaction cannot occur during that phase for all users and if not indicating progress could confuse users or cause them to think that content was frozen or broken."
                             }
                         ],
@@ -3405,7 +3405,7 @@
                         "title": "Web pages do not contain anything that flashes more than three times in any one second period, or the flash is below the general flash and red flash thresholds.",
                         "details": [{
                             "type": "note",
-                            "handle": "Note 1",
+                            "handle": "Uwaga 1",
                             "text": "Since any content that does not meet this success criterion can interfere with a user's ability to use the whole page, all content on the Web page (whether it is used to meet other success criteria or not) must meet this success criterion. See Conformance Requirement 5: Non-Interference."
                         }],
                         "techniques": [
@@ -4121,12 +4121,12 @@
                         "details": [
                             {
                                 "type": "note",
-                                "handle": "Note 1",
+                                "handle": "Uwaga 1",
                                 "text": "\"Heading\" is used in its general sense and includes titles and other ways to add a heading to different types of content."
                             },
                             {
                                 "type": "note",
-                                "handle": "Note 2",
+                                "handle": "Uwaga 2",
                                 "text": "This success criterion covers sections within writing, not user interface components. User Interface components are covered under Success Criterion 4.1.2."
                             }
                         ],
@@ -5621,7 +5621,7 @@
                     "title": "In content implemented using markup languages, elements have complete start and end tags, elements are nested according to their specifications, elements do not contain duplicate attributes, and any IDs are unique, except where the specifications allow these features.",
                     "details": [{
                         "type": "note",
-                        "handle": "Note 1",
+                        "handle": "Uwaga 1",
                         "text": "Start and end tags that are missing a critical character in their formation, such as a closing angle bracket or a mismatched attribute value quotation mark are not complete."
                     }],
                     "techniques": [
@@ -5693,7 +5693,7 @@
                     "title": "For all user interface components (including but not limited to: form elements, links and components generated by scripts), the name and role can be programmatically determined; states, properties, and values that can be set by the user can be programmatically set; and notification of changes to these items is available to user agents, including assistive technologies.",
                     "details": [{
                         "type": "note",
-                        "handle": "Note 1",
+                        "handle": "Uwaga 1",
                         "text": "This success criterion is primarily for Web authors who develop or script their own user interface components. For example, standard HTML controls already meet this success criterion when used according to specification."
                     }],
                     "techniques": [
