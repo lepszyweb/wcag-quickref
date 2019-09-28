@@ -233,7 +233,7 @@ jQuery(document).ready(function($) {
     });
     if($('.sc-wrapper:not(.current)').length > 0) {
       $('#hiddensc').empty();
-      $('<div class="panel-heading"><h2 style="margin: 0;">Filtered-Out Success Criteria <button class="clearall btn btn-info btn-sm" hidden="" style="display: inline-block;"><span class="glyphicon glyphicon-refresh"></span> Clear filters</button></h2></div><div class="panel-body"><p><strong>The following success criteria are not shown based on the selected version, tags, and/or filters:</strong></p></div>').appendTo('#hiddensc');
+      $('<div class="panel-heading"><h2 style="margin: 0;">Odfiltrowane kryteria sukcesu <button class="clearall btn btn-info btn-sm" hidden="" style="display: inline-block;"><span class="glyphicon glyphicon-refresh"></span> Wyczyść filtry</button></h2></div><div class="panel-body"><p><strong>Następujące kryteria sukcesu nie są wyświetlane w oparciu o wybraną wersję, tagi i/lub filtry:</strong></p></div>').appendTo('#hiddensc');
       $('<div class="panel-body hiddensc-inner">').appendTo('#hiddensc');
       var hiddenscul = $('<ul>');
       $('.sc-wrapper:not(.current) h4'). each(function(index, el) {
@@ -399,7 +399,7 @@ jQuery(document).ready(function($) {
   function excolsc() {
     var hr = $('.sc-content hr');
     hr.hide(); // hide horizontal rule
-    hr.prev().append(' <button type="button" aria-expanded="false" class="btn btn-info btn-xs"><span class="word-show"><svg aria-hidden="true" class="i-chevron-right"><use xlink:href="img/icons.svg#i-chevron-right"></use></svg> Show</span><span class="word-hide"><svg aria-hidden="true" class="i-chevron-down"><use xlink:href="img/icons.svg#i-chevron-down"></use></svg> Hide</span> full description</button>'); // Append button
+    hr.prev().append(' <button type="button" aria-expanded="false" class="btn btn-info btn-xs"><span class="word-show"><svg aria-hidden="true" class="i-chevron-right"><use xlink:href="img/icons.svg#i-chevron-right"></use></svg> Pokaż</span><span class="word-hide"><svg aria-hidden="true" class="i-chevron-down"><use xlink:href="img/icons.svg#i-chevron-down"></use></svg> Ukryj</span> cały opis</button>'); // Append button
     hr.find('~ *').hide();
     hr.prev().find('button').on('click', function(event) {
       event.preventDefault();
@@ -420,18 +420,18 @@ jQuery(document).ready(function($) {
     statusanimation();
     var tags = [],
         htags = [],
-        sctext = "all success criteria",
+        sctext = "wszystkie kryteria sukcesu",
         sctext1 = "",
         sctexthidden1 = "",
         sctext2 = "",
         sctexthidden2 = "",
-        pretechtext = "all",
-        techtext = "techniques",
+        pretechtext = "wszystkie",
+        techtext = "techniki",
         techtexthidden = "";
 
     var vertxt = $('#wcagver').val();
     if (vertxt == "2.1only") {
-      version = 'Only what’s added in WCAG 2.1:';
+      version = 'Tylko dodane w WCAG 2.1:';
     } else {
       version = 'WCAG ' + vertxt + ':';
     }
@@ -507,7 +507,7 @@ jQuery(document).ready(function($) {
     $('#status .ver').html(version);
     $('#status .sc').html(sctext);
     $('#status .tech').html(pretechtext + techtext + techtexthidden + '.');
-    if (techtext == "all techniques" && sctext == "all success criteria") {
+    if (techtext == "wszystkie techniki" && sctext == "wszystkie kryteria sukcesu") {
       $('.clearall').hide();
       $('.filter-status-row').removeClass('active');
     } else {
@@ -529,7 +529,7 @@ jQuery(document).ready(function($) {
   });
 
   $('#showalltags').on('click', function(e) {
-    var txt = $('#tags').is('.open') ? 'Show all tags' : 'Show fewer tags';
+    var txt = $('#tags').is('.open') ? 'Pokaż wszystkie tagi' : 'Pokaż mniej tagów';
     $(this).text(txt);
     $('#tags').toggleClass('open');
   });
@@ -724,11 +724,11 @@ jQuery(document).ready(function($) {
     if($(this).attr('aria-expanded') != 'true') {
       $('.collapse').collapse('show');
       $('.sc-text button').attr('aria-expanded', true).parent().find('~ *:not(hr)').toggle();
-      $(this).attr('aria-expanded', true).find('span').html('Collapse <strong>all</strong> sections');
+      $(this).attr('aria-expanded', true).find('span').html('Zwiń <strong>wszystkie</strong> sekcje');
     } else {
       $('.collapse').collapse('hide');
       $('.sc-text button').attr('aria-expanded', false).parent().find('~ *:not(hr)').toggle();
-      $(this).attr('aria-expanded', false).find('span').html('Expand <strong>all</strong> sections');
+      $(this).attr('aria-expanded', false).find('span').html('Rozwiń <strong>wszystkie</strong> sekcje');
     }
   });
 

@@ -180,7 +180,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF1",
-                                                    "title": "Applying text alternatives to images with the Alt entry in PDF documents"
+                                                    "title": "Stosowanie alternatyw tekstowych do obrazów z wpisem Alt w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:SL5",
@@ -363,7 +363,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF1",
-                                                    "title": "Applying text alternatives to images with the Alt entry in PDF documents"
+                                                    "title": "Stosowanie alternatyw tekstowych do obrazów z wpisem Alt w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:SL5",
@@ -432,7 +432,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF1",
-                                                    "title": "Applying text alternatives to images with the Alt entry in PDF documents"
+                                                    "title": "Stosowanie alternatyw tekstowych do obrazów z wpisem Alt w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:SL5",
@@ -493,7 +493,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF1",
-                                                    "title": "Applying text alternatives to images with the Alt entry in PDF documents"
+                                                    "title": "Stosowanie alternatyw tekstowych do obrazów z wpisem Alt w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:SL5",
@@ -563,43 +563,43 @@
                         {"failure": [
                             {
                                 "id": "TECH:F3",
-                                "title": "Failure of Success Criterion 1.1.1 due to using CSS to include images that convey important information"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 z powodu użycia CSS do osadzania obrazów, które przekazują ważne informacje"
                             },
                             {
                                 "id": "TECH:F13",
-                                "title": "Failure of Success Criterion 1.1.1 and 1.4.1 due to having a text alternative that does not include information that is conveyed by color differences in the image"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 i 1.4.1 ze względu na alternatywę tekstową, która nie zawiera informacji przekazywanych przez różnice kolorów w obrazie"
                             },
                             {
                                 "id": "TECH:F20",
-                                "title": "Failure of Success Criterion 1.1.1 and 4.1.2 due to not updating text alternatives when changes to non-text content occur"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 i 4.1.2 ze względu na brak aktualizacji tekstów alternatywnych w przypadku wystąpienia zmian w treści nietekstowej"
                             },
                             {
                                 "id": "TECH:F30",
-                                "title": "Failure of Success Criterion 1.1.1 and 1.2.1 due to using text alternatives that are not alternatives (e.g., filenames or placeholder text)"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 i 1.2.1 z powodu użycia alternatyw tekstowych, które nie są alternatywne (np. nazw plików lub tekstu zastępczego)"
                             },
                             {
                                 "id": "TECH:F38",
-                                "title": "Failure of Success Criterion 1.1.1 due to not marking up decorative images in HTML in a way that allows assistive technology to ignore them"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 z powodu pominięcia w HTML atrybutu alt dla treści nietekstowych wykorzystywanych wyłącznie w celach dekoracyjnych"
                             },
                             {
                                 "id": "TECH:F39",
-                                "title": "Failure of Success Criterion 1.1.1 due to providing a text alternative that is not null (e.g., alt=\"spacer\" or alt=\"image\") for images that should be ignored by assistive technology"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 ze względu na dostarczenie tekstu alternatywnego, który nie jest pusty (np. alt=\"spacja\" lub alt=\"obraz\") dla obrazów, które powinny zostać zignorowane przez technologię asystującą"
                             },
                             {
                                 "id": "TECH:F65",
-                                "title": "Failure of Success Criterion 1.1.1 due to omitting the alt attribute or text alternative on img elements, area elements, and input elements of type \"image\""
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 z powodu pominięcia atrybutu alt lub tekstu  alternatywnego w elementach img, elementach area i polach typu \"image\""
                             },
                             {
                                 "id": "TECH:F67",
-                                "title": "Failure of Success Criterion 1.1.1 and 1.2.1 due to providing long descriptions for non-text content that does not serve the same purpose or does not present the same information"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 i 1.2.1 z powodu podawania długich opisów dla treści nietekstowych, które nie służą temu samemu celowi lub nie przedstawiają tych samych informacji"
                             },
                             {
                                 "id": "TECH:F71",
-                                "title": "Failure of Success Criterion 1.1.1 due to using text look-alikes to represent text without providing a text alternative"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 ze względu na używanie symboli tekstowych w celu przedstawienia tekstu bez zapewnienia tekstu alternatywnego"
                             },
                             {
                                 "id": "TECH:F72",
-                                "title": "Failure of Success Criterion 1.1.1 due to using ASCII art without providing a text alternative"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 z powodu używania grafiki ASCII bez zapewniania tekstu alternatywnego"
                             }
                         ]}
                     ]
@@ -681,11 +681,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F30",
-                                    "title": "Failure of Success Criterion 1.1.1 and 1.2.1 due to using text alternatives that are not alternatives (e.g., filenames or placeholder text)"
+                                    "title": "Niespełnienie kryterium sukcesu 1.1.1 i 1.2.1 z powodu użycia alternatyw tekstowych, które nie są alternatywne (np. nazw plików lub tekstu zastępczego)"
                                 },
                                 {
                                     "id": "TECH:F67",
-                                    "title": "Failure of Success Criterion 1.1.1 and 1.2.1 due to providing long descriptions for non-text content that does not serve the same purpose or does not present the same information"
+                                    "title": "Niespełnienie kryterium sukcesu 1.1.1 i 1.2.1 z powodu podawania długich opisów dla treści nietekstowych, które nie służą temu samemu celowi lub nie przedstawiają tych samych informacji"
                                 }
                             ]}
                         ]
@@ -746,15 +746,15 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F8",
-                                    "title": "Failure of Success Criterion 1.2.2 due to captions omitting some dialogue or important sound effects"
+                                    "title": "Niespełnienie kryterium sukcesu 1.2.2 z powodu napisów, które pomijają niektóre dialogi lub ważne efekty dźwiękowe"
                                 },
                                 {
                                     "id": "TECH:F75",
-                                    "title": "Failure of Success Criterion 1.2.2 by providing synchronized media without captions when the synchronized media presents more information than is presented on the page"
+                                    "title": "Niespełnienie kryterium sukcesu 1.2.2 poprzez dostarczanie zsynchronizowanych mediów bez podpisów, gdy zsynchronizowane media prezentują więcej informacji niż podano na stronie"
                                 },
                                 {
                                     "id": "TECH:F74",
-                                    "title": "Failure of Success Criterion 1.2.2 and 1.2.8 due to not labeling a synchronized media alternative to text as an alternative"
+                                    "title": "Niespełnienie kryterium sukcesu 1.2.2 i 1.2.8 ze względu na brak etykietowania zsynchronizowanej alternatywy medialnej z tekstem jako alternatywą"
                                 }
                             ]}
                         ]
@@ -1150,7 +1150,7 @@
                             }]},
                             {"failure": [{
                                 "id": "TECH:F74",
-                                "title": "Failure of Success Criterion 1.2.2 and 1.2.8 due to not labeling a synchronized media alternative to text as an alternative"
+                                "title": "Niespełnienie kryterium sukcesu 1.2.2 i 1.2.8 ze względu na brak etykietowania zsynchronizowanej alternatywy medialnej z tekstem jako alternatywą"
                             }]}
                         ]
                     },
@@ -1445,47 +1445,47 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F2",
-                                    "title": "Failure of Success Criterion 1.3.1 due to using changes in text presentation to convey information without using the appropriate markup or text"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 z powodu użycia zmian w prezentacji tekstu w celu przekazania informacji bez użycia odpowiedniego znacznika lub tekstu"
                                 },
                                 {
                                     "id": "TECH:F33",
-                                    "title": "Failure of Success Criterion 1.3.1 and 1.3.2 due to using white space characters to create multiple columns in plain text content"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 i 1.3.2 z powodu użycia białych znaków do utworzenia wielu kolumn w treści tekstowej"
                                 },
                                 {
                                     "id": "TECH:F34",
-                                    "title": "Failure of Success Criterion 1.3.1 and 1.3.2 due to using white space characters to format tables in plain text content"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 i 1.3.2 ze względu na użycie znaków spacji w celu uformowania tabel za pomocą zwykłego tekstu"
                                 },
                                 {
                                     "id": "TECH:F42",
-                                    "title": "Failure of Success Criteria 1.3.1, 2.1.1, 2.1.3, or 4.1.2 when emulating links"
+                                    "title": "Niespełnienie kryteriów sukcesu 1.3.1, 2.1.1, 2.1.3 lub 4.1.2 podczas emulacji łączy"
                                 },
                                 {
                                     "id": "TECH:F43",
-                                    "title": "Failure of Success Criterion 1.3.1 due to using structural markup in a way that does not represent relationships in the content"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 z powodu używania znaczników strukturalnych w sposób, który nie odzwierciedla relacji w treści"
                                 },
                                 {
                                     "id": "TECH:F46",
-                                    "title": "Failure of Success Criterion 1.3.1 due to using th elements, layout tables"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 z powodu użycia elementów th, elementów caption lub niepustych atrybutów summary w tabelach formujących układ"
                                 },
                                 {
                                     "id": "TECH:F48",
-                                    "title": "Failure of Success Criterion 1.3.1 due to using the pre element to markup tabular information"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 ze względu na użycie elementu pre do markowania informacji tabelarycznych"
                                 },
                                 {
                                     "id": "TECH:F87",
-                                    "title": "Failure of Success Criterion 1.3.1 due to inserting non-decorative content by using :before and :after pseudo-elements and the 'content' property in CSS"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 z powodu wstawiania nieprzywijających się treści za pomocą pseudoelementów :before oraz :after i własności 'content' w CSS"
                                 },
                                 {
                                     "id": "TECH:F90",
-                                    "title": "Failure of Success Criterion 1.3.1 for incorrectly associating table headers and content via the headers and id attributes"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 dla niepoprawnego powiązania nagłówków i treści tabeli za pomocą atrybutów nagłówków i identyfikatorów"
                                 },
                                 {
                                     "id": "TECH:F91",
-                                    "title": "Failure of Success Criterion 1.3.1 for not correctly marking up table headers"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 dla nieprawidłowego oznaczania nagłówków tabeli"
                                 },
                                 {
                                     "id": "TECH:F92",
-                                    "title": "Failure of Success Criterion 1.3.1 due to the use of role presentation on content which conveys semantic information"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 ze względu na wykorzystanie roli „presentation” na treściach, które przekazują informacje semantyczne"
                                 }
                             ]}
                         ]
@@ -1556,23 +1556,23 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F34",
-                                    "title": "Failure of Success Criterion 1.3.1 and 1.3.2 due to using white space characters to format tables in plain text content"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 i 1.3.2 ze względu na użycie znaków spacji w celu uformowania tabel za pomocą zwykłego tekstu"
                                 },
                                 {
                                     "id": "TECH:F33",
-                                    "title": "Failure of Success Criterion 1.3.1 and 1.3.2 due to using white space characters to create multiple columns in plain text content"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.1 i 1.3.2 z powodu użycia białych znaków do utworzenia wielu kolumn w treści tekstowej"
                                 },
                                 {
                                     "id": "TECH:F32",
-                                    "title": "Failure of Success Criterion 1.3.2 due to using white space characters to control spacing within a word"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.2 ze względu na użycie białych znaków do kontrolowania odstępów w słowie"
                                 },
                                 {
                                     "id": "TECH:F49",
-                                    "title": "Failure of Success Criterion 1.3.2 due to using an HTML layout table that does not make sense when linearized"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.2 z powodu użycia do formowania układu tabeli HTML, która nie ma sensu po linearyzacji"
                                 },
                                 {
                                     "id": "TECH:F1",
-                                    "title": "Failure of Success Criterion 1.3.2 due to changing the meaning of content by positioning information with CSS"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.2 z powodu zmiany znaczenia treści poprzez umieszczenie informacji w CSS"
                                 }
                             ]}
                         ]
@@ -1602,11 +1602,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F14",
-                                    "title": "Failure of Success Criterion 1.3.3 due to identifying content only by its shape or location"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.3 ze względu na identyfikowanie treści tylko przez jej kształt lub lokalizację"
                                 },
                                 {
                                     "id": "TECH:F26",
-                                    "title": "Failure of Success Criterion 1.3.3 due to using a graphical symbol alone to convey information"
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.3 z powodu użycia tylko samego symbolu graficznego do przekazywania informacji"
                                 }
                             ]}
                         ]
@@ -1633,7 +1633,7 @@
                             {"advisory": []},
                             {"failure": [{
                                 "id": "TECH:F97",
-                                "title": "Failure due to locking the orientation to landscape or portrait view"
+                                "title": "Błąd spowodowany zablokowaniem orientacji do widoku poziomego lub pionowego"
                             }]}
                         ]
                     },
@@ -1763,15 +1763,15 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F13",
-                                    "title": "Failure of Success Criterion 1.1.1 and 1.4.1 due to having a text alternative that does not include information that is conveyed by color differences in the image"
+                                    "title": "Niespełnienie kryterium sukcesu 1.1.1 i 1.4.1 ze względu na alternatywę tekstową, która nie zawiera informacji przekazywanych przez różnice kolorów w obrazie"
                                 },
                                 {
                                     "id": "TECH:F73",
-                                    "title": "Failure of Success Criterion 1.4.1 due to creating links that are not visually evident without color vision"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.1 z powodu tworzenia łączy, które nie są widoczne dla osób niewidzących kolorów"
                                 },
                                 {
                                     "id": "TECH:F81",
-                                    "title": "Failure of Success Criterion 1.4.1 due to identifying required or error fields using color differences only"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.1 ze względu na oznaczanie wymaganych pól lub błędów tylko za pomocą odmiennego koloru"
                                 }
                             ]}
                         ]
@@ -1827,11 +1827,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F23",
-                                    "title": "Failure of 1.4.2 due to playing a sound longer than 3 seconds where there is no mechanism to turn it off"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.2 z powodu odtwarzania dźwięku dłuższego niż 3 sekundy, bez mechanizmu wyłączania dźwięku"
                                 },
                                 {
                                     "id": "TECH:F93",
-                                    "title": "Failure of Success Criterion 1.4.2 for absence of a way to pause or stop an HTML5 media element that autoplays"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.2 z powodu braku możliwości wstrzymania lub zatrzymania elementu HTML5, który automatycznie odtwarza"
                                 }
                             ]}
                         ]
@@ -1916,11 +1916,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F24",
-                                    "title": "Failure of Success Criterion 1.4.3, 1.4.6 and 1.4.8 due to specifying foreground colors without specifying background colors or vice versa"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.3, 1.4.6 i 1.4.8 z powodu określenia kolorów pierwszego planu bez określania kolorów tła i odwrotnie"
                                 },
                                 {
                                     "id": "TECH:F83",
-                                    "title": "Failure of Success Criterion 1.4.3 and 1.4.6 due to using background images that do not provide sufficient contrast with foreground text (or images of text)"
+                                    "title": "Niespełnienie kryteriów sukcesu 1.4.3 i 1.4.6 z powodu użycia obrazów tła, które nie zapewniają wystarczającego kontrastu z tekstem pierwszego planu (lub obrazami tekstu)"
                                 }
                             ]}
                         ]
@@ -2018,15 +2018,15 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F69",
-                                    "title": "Failure of Success Criterion 1.4.4 when resizing visually rendered text up to 200 percent causes the text, image or controls to be clipped, truncated or obscured"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.4 podczas zmiany rozmiaru wizualnie renderowanego tekstu do 200 procent powoduje przycięcie, przycięcie lub zasłonięcie tekstu, obrazu lub formantów"
                                 },
                                 {
                                     "id": "TECH:F80",
-                                    "title": "Failure of Success Criterion 1.4.4 when text-based form controls do not resize when visually rendered text is resized up to 200%"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.4, gdy formanty formularza tekstowego nie zmieniają rozmiaru, gdy wizualnie renderowany tekst jest zmieniany do 200%"
                                 },
                                 {
                                     "id": "TECH:F94",
-                                    "title": "Failure of Success Criterion 1.4.4 due to text sized in viewport units"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.4 z powodu nieprawidłowego użycia jednostek rozmiaru obszaru operacyjnego (viewport) dp zmiany rozmiaru tekstu"
                                 }
                             ]}
                         ]
@@ -2190,11 +2190,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F24",
-                                    "title": "Failure of Success Criterion 1.4.3, 1.4.6 and 1.4.8 due to specifying foreground colors without specifying background colors or vice versa"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.3, 1.4.6 i 1.4.8 z powodu określenia kolorów pierwszego planu bez określania kolorów tła i odwrotnie"
                                 },
                                 {
                                     "id": "TECH:F83",
-                                    "title": "Failure of Success Criterion 1.4.3 and 1.4.6 due to using background images that do not provide sufficient contrast with foreground text (or images of text)"
+                                    "title": "Niespełnienie kryteriów sukcesu 1.4.3 i 1.4.6 z powodu użycia obrazów tła, które nie zapewniają wystarczającego kontrastu z tekstem pierwszego planu (lub obrazami tekstu))"
                                 }
                             ]}
                         ]
@@ -2406,11 +2406,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F24",
-                                    "title": "Failure of Success Criterion 1.4.3, 1.4.6 and 1.4.8 due to specifying foreground colors without specifying background colors or vice versa"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.3, 1.4.6 i 1.4.8 z powodu określenia kolorów pierwszego planu bez określania kolorów tła i odwrotnie"
                                 },
                                 {
                                     "id": "TECH:F88",
-                                    "title": "Failure of Success Criterion 1.4.8 due to using text that is justified (aligned to both the left and the right margins)"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.8 z powodu użycia tekstu justowanego (wyrównanego do lewego i prawego marginesu)"
                                 }
                             ]}
                         ]
@@ -2636,7 +2636,7 @@
                             }]},
                             {"failure": [{
                                 "id": "TECH:F78",
-                                "title": "Failure of Success Criterion 2.4.7 due to styling element outlines and borders in a way that removes or renders non-visible the visual focus indicator"
+                                "title": "Niespełnienie kryterium sukcesu 2.4.7 ze względu na styl konturów i obramowania elementów w sposób, który usuwa lub czyni niewidocznym wizualny wskaźnik fokusa"
                             }]}
                         ]
                     },
@@ -2690,7 +2690,7 @@
                             ]},
                             {"failure": [{
                                 "id": "TECH:text",
-                                "title": "Failure of Success Criterion 1.4.12 due to not allowing for spacing override. (Future technique)"
+                                "title": "Niespełnienie kryterium sukcesu 1.4.12 z powodu niemożności zastąpienia odstępów (Przyszła technika)"
                             }]}
                         ]
                     },
@@ -2739,7 +2739,7 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F95",
-                                    "title": "Failure of Success Criterion 1.4.13 due to content shown on hover not being hoverable"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.13 z powodu braku możliwości wyświetlenia treści po najechaniu kursorem"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -2886,15 +2886,15 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F54",
-                                    "title": "Failure of Success Criterion 2.1.1 due to using only pointing-device-specific event handlers (including gesture) for a function"
+                                    "title": "Niespełnienie kryterium sukcesu 2.1.1 z powodu używania funkcji obsługi zdarzeń specyficznych tylko dla urządzenia wskazującego (w tym gestów)"
                                 },
                                 {
                                     "id": "TECH:F55",
-                                    "title": "Failure of Success Criteria 2.1.1, 2.4.7, and 3.2.1 due to using script to remove focus when focus is received"
+                                    "title": "Niespełnienie kryterium sukcesu 2.1.1, 2.4.7 i 3.2.1 z powodu użycia skryptu do usunięcia wskaźnika fokusa po otrzymaniu fokusa"
                                 },
                                 {
                                     "id": "TECH:F42",
-                                    "title": "Failure of Success Criteria 1.3.1, 2.1.1, 2.1.3, or 4.1.2 when emulating links"
+                                    "title": "Niespełnienie kryteriów sukcesu 1.3.1, 2.1.1, 2.1.3 lub 4.1.2 podczas emulacji łączy"
                                 }
                             ]}
                         ]
@@ -2929,7 +2929,7 @@
                             {"advisory": []},
                             {"failure": [{
                                 "id": "TECH:F10",
-                                "title": "Failure of Success Criterion 2.1.2 and Conformance Requirement 5 due to combining multiple content formats in a way that traps users inside one format type"
+                                "title": "Niespełnienie kryterium sukcesu 2.1.2 i wytycznej 5 ze względu na łączenie wielu formatów treści w sposób, który blokuje użytkowników w jednym formacie"
                             }]}
                         ]
                     },
@@ -3123,15 +3123,15 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F40",
-                                    "title": "Failure of Success Criterion 2.2.1 and 2.2.4 due to using meta redirect with a time limit"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.1 i 2.2.4 z powodu użycia przekierowania meta z limitem czasu"
                                 },
                                 {
                                     "id": "TECH:F41",
-                                    "title": "Failure of Success Criterion 2.2.1, 2.2.4, and 3.2.5 due to using meta refresh to reload the page"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.1, 2.2.4 i 3.2.5 z powodu użycia meta refresh w celu przeładowania strony"
                                 },
                                 {
                                     "id": "TECH:F58",
-                                    "title": "Failure of Success Criterion 2.2.1 due to using server-side techniques to automatically redirect pages after a time-out"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.1 z powodu stosowania technik po stronie serwera do automatycznego przekierowania stron po upływie limitu czasu"
                                 }
                             ]}
                         ]
@@ -3240,23 +3240,23 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F16",
-                                    "title": "Failure of Success Criterion 2.2.2 due to including scrolling content where movement is not essential to the activity without also including a mechanism to pause and restart the content"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.2 ze względu na przewijanie treści, w których ruch nie jest niezbędny do działania bez włączania mechanizmu wstrzymywania i ponownego uruchamiania treści"
                                 },
                                 {
                                     "id": "TECH:F47",
-                                    "title": "Failure of Success Criterion 2.2.2 due to using the blink element"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.2 z powodu użycia elementu migającego"
                                 },
                                 {
                                     "id": "TECH:F4",
-                                    "title": "Failure of Success Criterion 2.2.2 due to using text-decoration:blink without a mechanism to stop it in less than five seconds"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.2 z powodu używania właściwości text-decoration:blink bez mechanizmu zatrzymującego miganie, gdy trwa dłużej niż pięć sekund"
                                 },
                                 {
                                     "id": "TECH:F50",
-                                    "title": "Failure of Success Criterion 2.2.2 due to a script that causes a blink effect without a mechanism to stop the blinking at 5 seconds or less"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.2 ze względu na skrypt, który powoduje efekt migania bez mechanizmu zatrzymującego miganie, gdy trwa dłużej niż pięć sekund"
                                 },
                                 {
                                     "id": "TECH:F7",
-                                    "title": "Failure of Success Criterion 2.2.2 due to an object or applet, such as Java or Flash, for more than five seconds"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.2 z powodu obiektu lub apletu, takiego jak Java lub Flash, który miga, bez mechanizmu zatrzymującego miganie, gdy trwa dłużej niż pięć sekund"
                                 }
                             ]}
                         ]
@@ -3311,11 +3311,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F40",
-                                    "title": "Failure of Success Criterion 2.2.1 and 2.2.4 due to using meta redirect with a time limit"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.1 i 2.2.4 z powodu użycia przekierowania meta z limitem czasu"
                                 },
                                 {
                                     "id": "TECH:F41",
-                                    "title": "Failure of Success Criterion 2.2.1, 2.2.4, and 3.2.5 due to using meta refresh to reload the page"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.1, 2.2.4 i 3.2.5 z powodu użycia meta refresh w celu przeładowania strony"
                                 }
                             ]}
                         ]
@@ -3349,7 +3349,7 @@
                             {"advisory": []},
                             {"failure": [{
                                 "id": "TECH:F12",
-                                "title": "Failure of Success Criterion 2.2.5 due to having a session time limit without a mechanism re-authentication"
+                                "title": "Niespełnienie kryterium sukcesu 2.2.5 ze względu na ograniczenie czasu sesji bez mechanizmu zapisywania danych użytkownika i ponownego ustanawiania tych informacji po ponownym uwierzytelnieniu"
                             }]}
                         ]
                     },
@@ -3594,7 +3594,7 @@
                             }]},
                             {"failure": [{
                                 "id": "TECH:F25",
-                                "title": "Failure of Success Criterion 2.4.2 due to the title of a Web page not identifying the contents"
+                                "title": "Niespełnienie kryterium sukcesu 2.4.2 ze względu na tytuł strony internetowej, która nie identyfikuje treści"
                             }]}
                         ]
                     },
@@ -3664,11 +3664,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F44",
-                                    "title": "Failure of Success Criterion 2.4.3 due to using tabindex to create a tab order that does not preserve meaning and operability"
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.3 z powodu użycia tabindex do utworzenia kolejności tabulacji, która nie zachowuje znaczenia i funkcjonalności"
                                 },
                                 {
                                     "id": "TECH:F85",
-                                    "title": "Failure of Success Criterion 2.4.3 due to using dialogs or menus that are not adjacent to their trigger control in the sequential navigation order"
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.3 z powodu używania okien dialogowych lub menu, które nie sąsiadują z ich kontrolą wyzwalania w kolejności sekwencyjnej nawigacji"
                                 }
                             ]}
                         ]
@@ -3804,11 +3804,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F63",
-                                    "title": "Failure of Success Criterion 2.4.4 due to providing link context only in content that is not related to the link"
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.4 z powodu podania kontekstu łącza tylko w treści, która nie jest powiązana z linkiem"
                                 },
                                 {
                                     "id": "TECH:F89",
-                                    "title": "Failure of Success Criteria 2.4.4, 2.4.9 and 4.1.2 due to not providing an accessible name for an image which is the only content in a link"
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.4, 2.4.9 i 4.1.2 ze względu na brak podania dostępnej nazwy obrazu, który jest jedyną treścią w linku"
                                 }
                             ]}
                         ]
@@ -3946,11 +3946,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F55",
-                                    "title": "Failure of Success Criteria 2.1.1, 2.4.7, and 3.2.1 due to using script to remove focus when focus is received"
+                                    "title": "Niespełnienie kryterium sukcesu 2.1.1, 2.4.7 i 3.2.1 z powodu użycia skryptu do usunięcia wskaźnika fokusa po otrzymaniu fokusa"
                                 },
                                 {
                                     "id": "TECH:F78",
-                                    "title": "Failure of Success Criterion 2.4.7 due to styling element outlines and borders in a way that removes or renders non-visible the visual focus indicator"
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.7 ze względu na styl konturów i obramowania elementów w sposób, który usuwa lub czyni niewidocznym wizualny wskaźnik fokusa"
                                 }
                             ]}
                         ]
@@ -4097,11 +4097,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F84",
-                                    "title": "Failure of Success Criterion 2.4.9 due to using a non-specific link such as \"click here\" or \"more\" without a mechanism to change the link text to specific text."
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.9 z powodu użycia niespecyficznego linku, takiego jak \"kliknij tutaj\" lub \"więcej\", bez mechanizmu zmiany tekstu linku na konkretny tekst"
                                 },
                                 {
                                     "id": "TECH:F89",
-                                    "title": "Failure of Success Criteria 2.4.4, 2.4.9 and 4.1.2 due to not providing an accessible name for an image which is the only content in a link"
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.4, 2.4.9 i 4.1.2 ze względu na brak podania dostępnej nazwy obrazu, który jest jedyną treścią w linku"
                                 }
                             ]}
                         ]
@@ -4236,7 +4236,7 @@
                             {"advisory": []},
                             {"failure": [{
                                 "id": "TECH:text",
-                                "title": "@@ Failure of SC 2.5.3 due to activating a button on initial touch location rather than the final touch location."
+                                "title": "@@ Niespełnienie kryterium sukcesu 2.5.2 spowodowane aktywacją przycisku w początkowej, a nie ostatecznej lokalizacji dotykowej"
                             }]}
                         ]
                     },
@@ -4266,7 +4266,7 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F96",
-                                    "title": "Failure due to the accessible name not containing the visible label text"
+                                    "title": "Błąd spowodowany dostępną nazwą, która nie zawiera widocznego tekstu etykiety"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -4315,15 +4315,15 @@
                             {"failure": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "FXXX: Failure of Success Criterion 2.5.4 due to functionality that can only be activated via devicemotion events (e.g., shaking or tilting)"
+                                    "title": "FXXX: Niespełnienie kryterium sukcesu 2.5.4 ze względu na funkcjonalność, którą można aktywować tylko poprzez zdarzenia związane z poruszaniem (np. wstrząsanie lub przechylanie)"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "FXXX: Failure of Success Criterion 2.5.4 due to an inability to disable motion actuation"
+                                    "title": "FXXX: Niespełnienie kryterium sukcesu 2.5.4 z powodu niemożności wyłączenia aktywowania ruchem"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "FXXX: Failure of Success Criterion 2.5.4 due to disrupting or disabling system level features which allow the user to disable motion actuation"
+                                    "title": "FXXX: Niespełnienie kryterium sukcesu 2.5.4 z powodu zakłócania lub wyłączania na poziomie systemu  funkcji, które pozwalają użytkownikowi wyłączyć aktywowanie ruchem"
                                 }
                             ]}
                         ]
@@ -4361,25 +4361,25 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "Ensuring that touch targets are at least 44 by 44 CSS pixels."
+                                    "title": "Zapewnienie, że cele dotykowe mają co najmniej 44 na 44 piksele CSS."
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Providing a mechanism to change the size of the target independent of magnification."
+                                    "title": "Zapewnienie mechanizmu zmiany wielkości celów dotykowych niezależnie od powiększenia"
                                 }
                             ]},
                             {"advisory": [{
                                 "id": "TECH:text",
-                                "title": "Ensuring inline links provide sufficiently large activation target."
+                                "title": "Zapewnienie, że łącza śródliniowe posiadają wystarczająco duży rozmiar pola aktywacji"
                             }]},
                             {"failure": [
                                 {
                                     "id": "TECH:text",
-                                    "title": "Failure of success criterion 2.5.3 due to target size being less than 44 by 44 CSS pixels."
+                                    "title": "Niespełnienie kryterium sukcesu 2.5.5 z powodu rozmiaru celu mniejszego niż 44 na 44 piksele CSS"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Failure of success criterion 2.5.3 due to target size of a paragraph that is also a link being less than 44 x 44 CSS pixels."
+                                    "title": "Niespełnienie kryterium sukcesu 2.5.3 ze względu rozmiar akapitu, który jest również linkiem, mniejszy niż 44 x 44 pikseli CSS"
                                 }
                             ]}
                         ]
@@ -4400,7 +4400,7 @@
                             {"advisory": []},
                             {"failure": [{
                                 "id": "TECH:F98",
-                                "title": "Failure due to interactions being limited to touch-only on touchscreen devices"
+                                "title": "Błąd spowodowany interakcjami ograniczonymi do urządzeń z ekranem dotykowym"
                             }]}
                         ]
                     }
@@ -4829,7 +4829,7 @@
                             ]},
                             {"failure": [{
                                 "id": "TECH:F55",
-                                "title": "Failure of Success Criteria 2.1.1, 2.4.7, and 3.2.1 due to using script to remove focus when focus is received"
+                                "title": "Niespełnienie kryterium sukcesu 2.1.1, 2.4.7 i 3.2.1 z powodu użycia skryptu do usunięcia wskaźnika fokusa po otrzymaniu fokusa"
                             }]}
                         ]
                     },
@@ -4889,11 +4889,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F36",
-                                    "title": "Failure of Success Criterion 3.2.2 due to automatically submitting a form and given a value"
+                                    "title": "Niespełnienie kryterium sukcesu 3.2.2 z powodu automatycznego przesłania formularza i prezentacji nowej treści bez uprzedniego ostrzeżenia, gdy ostatnie pole formularza ma wartość"
                                 },
                                 {
                                     "id": "TECH:F37",
-                                    "title": "Failure of Success Criterion 3.2.2 due to launching a new window without prior warning when the selection of a radio button, check box or select list is changed"
+                                    "title": "Niespełnienie kryterium sukcesu 3.2.2 z powodu uruchomienia nowego okna bez uprzedniego ostrzeżenia po zmianie wyboru przycisku radiowego, pola wyboru lub listy wyboru"
                                 }
                             ]}
                         ]
@@ -4926,7 +4926,7 @@
                             ]},
                             {"failure": [{
                                 "id": "TECH:F66",
-                                "title": "Failure of Success Criterion 3.2.3 due to presenting navigation links in a different relative order on different pages"
+                                "title": "Niespełnienie kryterium sukcesu 3.2.3 z powodu prezentacji linków nawigacyjnych w innej kolejności na różnych stronach"
                             }]}
                         ]
                     },
@@ -4954,7 +4954,7 @@
                             {"advisory": []},
                             {"failure": [{
                                 "id": "TECH:F31",
-                                "title": "Failure of Success Criterion 3.2.4 due to using two different labels for the same function on different Web pages within a set of Web pages"
+                                "title": "Niespełnienie kryterium sukcesu 3.2.4 z powodu używania dwóch różnych etykiet dla tej samej funkcji na różnych stronach internetowych w zestawie stron internetowych"
                             }]}
                         ]
                     },
@@ -5027,27 +5027,27 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F60",
-                                    "title": "Failure of Success Criterion 3.2.5 due to launching a new window when a user enters text into an input field"
+                                    "title": "Niespełnienie kryterium sukcesu 3.2.5 z powodu uruchomienia nowego okna, gdy użytkownik wprowadza tekst do pola formularza"
                                 },
                                 {
                                     "id": "TECH:F61",
-                                    "title": "Failure of Success Criterion 3.2.5 due to complete change of main content through an automatic update that the user cannot disable from within the content"
+                                    "title": "Niespełnienie kryterium sukcesu 3.2.5 z powodu całkowitej zmiany głównej zawartości poprzez automatyczną aktualizację, której użytkownik nie może wyłączyć z treści"
                                 },
                                 {
                                     "id": "TECH:F9",
-                                    "title": "Failure of Success Criterion 3.2.5 due to changing the context when the user removes focus from a form element"
+                                    "title": "Niespełnienie kryterium sukcesu 3.2.5 z powodu zmiany kontekstu, gdy użytkownik usuwa fokus z elementu formularza"
                                 },
                                 {
                                     "id": "TECH:F22",
-                                    "title": "Failure of Success Criterion 3.2.5 due to opening windows that are not requested by the user"
+                                    "title": "Niespełnienie kryterium sukcesu 3.2.5 z powodu otwierania okien, które nie są wywoływane przez użytkownika"
                                 },
                                 {
                                     "id": "TECH:F52",
-                                    "title": "Failure of Success Criterion 3.2.1 and 3.2.5 due to opening a new window as soon as a new page is loaded"
+                                    "title": "Niespełnienie kryterium sukcesu 3.2.1 i 3.2.5 z powodu otwarcia nowego okna zaraz po załadowaniu nowej strony"
                                 },
                                 {
                                     "id": "TECH:F41",
-                                    "title": "Failure of Success Criterion 2.2.1, 2.2.4, and 3.2.5 due to using meta refresh to reload the page"
+                                    "title": "Niespełnienie kryterium sukcesu 2.2.1, 2.2.4 i 3.2.5 z powodu użycia meta refresh w celu przeładowania strony"
                                 }
                             ]}
                         ]
@@ -5276,7 +5276,7 @@
                             ]},
                             {"failure": [{
                                 "id": "TECH:F82",
-                                "title": "Failure of Success Criterion 3.3.2 by visually formatting a set of phone number fields but not including a text label"
+                                "title": "Niespełnienie kryterium sukcesu 3.3.2 poprzez wizualne sformatowanie zestawu pól numeru telefonu, ale bez etykiety tekstowej"
                             }]}
                         ]
                     },
@@ -5670,11 +5670,11 @@
                         {"failure": [
                             {
                                 "id": "TECH:F70",
-                                "title": "Failure of Success Criterion 4.1.1 due to incorrect use of start and end tags or attribute markup"
+                                "title": "Niespełnienie kryterium sukcesu 4.1.1 z powodu nieprawidłowego użycia znaczników początkowych i końcowych lub atrybutów"
                             },
                             {
                                 "id": "TECH:F77",
-                                "title": "Failure of Success Criterion 4.1.1 due to duplicate values of type ID"
+                                "title": "Niespełnienie kryterium sukcesu 4.1.1 z powodu zduplikowanych wartości typu ID"
                             }
                         ]}
                     ]
@@ -5826,31 +5826,31 @@
                         {"failure": [
                             {
                                 "id": "TECH:F59",
-                                "title": "Failure of Success Criterion 4.1.2 due to using script to make div or span a user interface control in HTML without providing a role for the control"
+                                "title": "Niespełnienie kryterium sukcesu 4.1.2 z powodu użycia skryptu do utworzenia kontrolki interfejsu użytkownika za pomocą elementu div lub span w HTML bez podawania roli tej kontrolki"
                             },
                             {
                                 "id": "TECH:F15",
-                                "title": "Failure of Success Criterion 4.1.2 due to implementing custom controls that do not use an accessibility API for the technology, or do so incompletely"
+                                "title": "Niespełnienie kryterium sukcesu 4.1.2 z powodu implementacji niestandardowych elementów sterujących, które w ogóle nie korzystają albo korzystają nie w pełni z interfejsu API dostępności dla tej technologii"
                             },
                             {
                                 "id": "TECH:F20",
-                                "title": "Failure of Success Criterion 1.1.1 and 4.1.2 due to not updating text alternatives when changes to non-text content occur"
+                                "title": "Niespełnienie kryterium sukcesu 1.1.1 i 4.1.2 ze względu na brak aktualizacji tekstów alternatywnych w przypadku wystąpienia zmian w treści nietekstowej"
                             },
                             {
                                 "id": "TECH:F68",
-                                "title": "Failure of Success Criterion 4.1.2 due to a user interface control not having a programmatically determined name"
+                                "title": "Niespełnienie kryterium 4.1.2 z powodu kontrolki interfejsu użytkownika, która nie ma programowo określonej nazwy"
                             },
                             {
                                 "id": "TECH:F79",
-                                "title": "Failure of Success Criterion 4.1.2 due to the focus state of a user interface component not being programmatically determinable or no notification of change of focus state available"
+                                "title": "Niespełnienie kryterium sukcesu 4.1.2 ze względu na stan fokusa na składniku interfejsu użytkownika, który nie jest programowo określony lub brak powiadomienia o zmianie stanu fokusa"
                             },
                             {
                                 "id": "TECH:F86",
-                                "title": "Failure of Success Criterion 4.1.2 due to not providing names for each part of a multi-part form field, such as a US telephone number"
+                                "title": "Niespełnienie kryterium sukcesu 4.1.2 ze względu na brak podawania nazw dla każdej części wieloczęściowego pola formularza, takiego jak amerykański numer telefonu"
                             },
                             {
                                 "id": "TECH:F89",
-                                "title": "Failure of Success Criteria 2.4.4, 2.4.9 and 4.1.2 due to not providing an accessible name for an image which is the only content in a link"
+                                "title": "Niespełnienie kryterium sukcesu 2.4.4, 2.4.9 i 4.1.2 ze względu na brak podania dostępnej nazwy obrazu, który jest jedyną treścią w linku"
                             }
                         ]}
                     ]
