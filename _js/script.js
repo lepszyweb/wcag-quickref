@@ -458,7 +458,7 @@ jQuery(document).ready(function($) {
       pressed.each(function(index, el) {
         tags.push($(el).attr('data-tag'));
       });
-      sctext1 = ' <strong>tagged with '+ array2prose(tags, 'or') + '</strong>';
+      sctext1 = ' <strong>oznakowany przez '+ array2prose(tags, 'lub') + '</strong>';
       var notpressed = $('#tags .btn-default');
       // if (notpressed.length>0) {
       //   notpressed.each(function(index, el) {
@@ -476,7 +476,7 @@ jQuery(document).ready(function($) {
       selected.each(function(index, el) {
         levels.push($(el).attr('value').toUpperCase());
       });
-      sctext2 = ' for <strong>levels ' + array2prose(levels, 'and') + '</strong>';
+      sctext2 = ' dla <strong>poziomów ' + array2prose(levels, 'oraz') + '</strong>';
     }
     // if (nselected.length>0) {
     //   nselected.each(function(index, el) {
@@ -496,7 +496,7 @@ jQuery(document).ready(function($) {
       selectedtechnologies.each(function(index, el) {
         technologies.push($(el).parent().text());
       });
-      techtext = ' techniques for the technologies: <strong>' + array2prose(technologies, 'and') + '</strong>';
+      techtext = ' techniki dla technologii: <strong>' + array2prose(technologies, 'oraz') + '</strong>';
     }
     // if (nselectedtechnologies.length>0) {
     //   nselectedtechnologies.each(function(index, el) {
