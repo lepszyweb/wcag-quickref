@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function(){
     var cplel = plel.cloneNode(true);
     var theid = el.parentNode.parentNode.id;
     cplel.setAttribute('href', '#' + theid);
-    cplel.setAttribute('aria-label', 'Udostępnij link do tej sekcji “' + el.parentNode.parentNode.querySelector('h4[id]').textContent + '”');
+    cplel.setAttribute('aria-label', 'Udostępnij łącze do tej sekcji “' + el.parentNode.parentNode.querySelector('h4[id]').textContent + '”');
 
     var csbtext = shareboxtext.replace("%s", url + '#' + theid).replace("%s", url + '#' + theid);
     var csb = sharebox.cloneNode(true);

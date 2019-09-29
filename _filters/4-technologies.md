@@ -5,11 +5,11 @@ short: technologies
 type: checkbox
 filters:
 - short: html
-  title: <abbr title="Hypertext Markup Language">HTML</abbr>
+  title: <abbr title="Hipertekstowy Język Znaczników">HTML</abbr>
 - short: css
-  title: <abbr title="Cascading Style Sheets (CSS)">CSS</abbr>
+  title: <abbr title="Kaskadowe arkusze stylów (CSS)">CSS</abbr>
 - short: wai-aria
-  title: <abbr title="Accessible Rich Internet Applications">ARIA</abbr>
+  title: <abbr title="Dostępne Bogate Aplikacji Internetowe">ARIA</abbr>
 - short: js
   title: Skrypty po stronie klienta
 - short: server

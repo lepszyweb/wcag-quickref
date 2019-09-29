@@ -7,7 +7,7 @@ filters:
 - short: sufficient
   title: Wystarczające techniki
 - short: advisory
-  title: Sugerowane techniki
+  title: Pomocnicze techniki
 - short: failures
-  title: Błędy
+  title: Defekty
 ---
