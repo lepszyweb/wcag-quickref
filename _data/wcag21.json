@@ -1038,7 +1038,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:G54",
-                                    "title": "Włączenie interpretera języka migowego do strumienia wideo"
+                                    "title": "Włączenie tłumaczenia na język migowy do strumienia wideo"
                                 },
                                 {
                                     "id": "TECH:G81",
@@ -2820,7 +2820,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Ensuring keyboard control by using one of the following techniques.",
+                                    "title": "Zapewnienie sterowania klawiaturą za pomocą jednej z następujących technik:",
                                     "using": [
                                         {
                                             "id": "TECH:H91",
@@ -5986,11 +5986,11 @@
                         {"failure": [
                             {
                                 "id": "TECH:text",
-                                "title": "Używanie atrybutu role=\"alert\" lub aria-live=\"assertive\" w przypadku treści, która nie jest ważna i ma znaczenie chwilowe (link w przyszłości)"
+                                "title": "Używanie atrybutu role=\"alert\" lub aria-live=\"assertive\" w przypadku treści, która nie jest ważna i ma znaczenie chwilowe. (link w przyszłości)"
                             },
                             {
                                 "id": "TECH:text",
-                                "title": "Używanie zmieniajacego widok zdarzenia change, aby ukryć lub wyświetlć dokument bez przełączania się między regionami aktywnymi i nieaktywnymi.(link w przyszłości)"
+                                "title": "Używanie zmieniajacego widok zdarzenia change, aby ukryć lub wyświetlć dokument bez przełączania się między regionami aktywnymi i nieaktywnymi. (link w przyszłości)"
                             }
                         ]}
                     ]
