@@ -458,7 +458,7 @@ jQuery(document).ready(function($) {
       pressed.each(function(index, el) {
         tags.push($(el).attr('data-tag'));
       });
-      sctext1 = ' <strong>oznakowany przez '+ array2prose(tags, 'lub') + '</strong>';
+      sctext1 = ' <strong>otagowane tagiem (-ami): '+ array2prose(tags, 'lub') + '</strong>';
       var notpressed = $('#tags .btn-default');
       // if (notpressed.length>0) {
       //   notpressed.each(function(index, el) {
@@ -485,7 +485,7 @@ jQuery(document).ready(function($) {
     //   sctexthidden2 = ' <span class="deem">(Hidden: '+array2prose(hlevels, 'and')+')</span>';
     // }
     if ((pressed.length>0) || (selected.length<all.length)) {
-      sctext = 'success criteria ' + sctext1 + sctexthidden1 + sctext2 + sctexthidden2;
+      sctext = 'Kryteria sukcesu ' + sctext1 + sctexthidden1 + sctext2 + sctexthidden2;
     }
     var technologies = [],
         htechnologies = [];
