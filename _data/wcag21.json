@@ -733,7 +733,7 @@
                                         },
                                         {
                                             "id": "TECH:SL16",
-                                            "title": "Providing Script-Embedded Text Captions for MediaElement Content"
+                                            "title": "Zapewnienie skryptu osodzajacego teksty napisów dla treści MediaElement"
                                         },
                                         {
                                             "id": "TECH:SL28",
@@ -1944,7 +1944,7 @@
                                 },
                                 {
                                     "id": "TECH:SL22",
-                                    "title": "Supporting Browser Zoom in Silverlight"
+                                    "title": "Obsługa powiększania przez przeglądarkę w Silverlight"
                                 },
                                 {
                                     "id": "TECH:SL23",
