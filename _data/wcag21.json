@@ -1105,52 +1105,52 @@
                             "2.1"
                         ],
                         "level": "AAA",
-                        "handle": "Media Alternative (Prerecorded)",
-                        "title": "An alternative for time-based media is provided for all prerecorded synchronized media and for all prerecorded video-only media.",
+                        "handle": "Alternatywa dla mediów (nagranie)",
+                        "title": "Zapewnia się alternatywę dla wszystkich mediów zmiennych w czasie — nagrań w multimediach zsynchronizowanych(dźwięk i obraz) oraz dla wszystkich nagrań tylko wideo (sam obraz).",
                         "techniques": [
                             {"sufficient": [{"situations": [
                                 {
-                                    "title": "Situation A: If the content is prerecorded synchronized media:",
+                                    "title": "Sytuacja A: Jeśli zawartość jest wcześniej nagranym medium zsynchronizowanym:",
                                     "techniques": [
                                         {
                                             "id": "TECH:G69",
-                                            "title": "Providing an alternative for time based media",
+                                            "title": "Zapewnienie alternatywy dla mediów dynamicznych (zmiennych w czasie)",
                                             "using": [
                                                 {
                                                     "id": "TECH:G58",
-                                                    "title": "Placing a link to the alternative for time-based media immediately next to the non-text content"
+                                                    "title": "Umieszczenie łącza do alternatywy dla mediów dynamicznych (zmiennych w czasie) bezpośrednio obok treści nietekstowej"
                                                 },
                                                 {
                                                     "id": "TECH:SL17",
-                                                    "title": "Providing Static Alternative Content for Silverlight Media Playing in a MediaElement"
+                                                    "title": "Zapewnianie statycznej alternatywnej treści dla Silverlight w MediaElement"
                                                 }
                                             ]
                                         },
                                         {
                                             "id": "TECH:text",
-                                            "title": "Linking to the alternative for time-based media using one of the following techniques",
+                                            "title": "Łącze do alternatywy dla mediów zmiennych w czasie za pomocą jednej z następujących technik",
                                             "using": [{
                                                 "id": "TECH:H53",
-                                                "title": "Using the body of the object element"
+                                                "title": "Używanie ciała (zawartości) elementu object"
                                             }]
                                         }
                                     ]
                                 },
                                 {
-                                    "title": "Situation B: If the content is prerecorded video-only:",
+                                    "title": "Sytuacja B: Jeżeli zawartość jest wcześniej nagranym tylko wideo:",
                                     "techniques": [{
                                         "id": "TECH:G159",
-                                        "title": "Providing an alternative for time-based media for video-only content"
+                                        "title": "Zapewnienie alternatywy dla treści tylko wideo w mediach dynamicznych (zmiennych w czasie)"
                                     }]
                                 }
                             ]}]},
                             {"advisory": [{
                                 "id": "TECH:H46",
-                                "title": "Using noembed with embed"
+                                "title": "Używanie znacznika noembed z elementami osadzonymi znacznikiem embed"
                             }]},
                             {"failure": [{
                                 "id": "TECH:F74",
-                                "title": "Failure of Success Criterion 1.2.2 and 1.2.8 due to not labeling a synchronized media alternative to text as an alternative"
+                                "title": "Niespełnienie kryterium sukcesu 1.2.2 i 1.2.8 ze względu na brak etykietowania zsynchronizowanej alternatywy medialnej z tekstem jako alternatywą"
                             }]}
                         ]
                     },
