@@ -1,24 +1,37 @@
 <footer role="contentinfo" aria-labelledby="wai_footerheading">
    <hr>
-   <h2 id="wai_footerheading" class="sr-only">Document Information</h2>
-   <p><strong>Status:</strong>{%if site.status == "draft" %}<strong> Draft.</strong>{% endif %} Updated {{ site.time | date:"%d %b %Y" }}. Version {{site.version}}.<br />
-      Lead Developer: <a href="https://www.w3.org/People/yatil/">Eric Eggert</a> (W3C). Project Lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> (W3C).<br>Previous editors and developers: Gregg Vanderheiden, Loretta Guarino Reid, Ben Caldwell, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Gez Lemon.<br>The {{ site.time | date:"%Y" }} redesign was developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>) and the Web Content Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/GL/">WCAG WG</a>),  with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, a project of the European Commission IST Programme.</p>
+   <h2 id="wai_footerheading" class="sr-only">Informacja o dokumencie</h2>
+   <p>Ta strona jest nieautoryzowaną polską wersją dokumentu W3C: <span lang="en">How meet WCAG (Quick Reference)</span>.</p>
+   <p><strong>Status:</strong>{%if site.status == "draft" %}<strong> Draft.</strong>{% endif %} Zaktualizowano {{ site.time | date:"%d %b %Y" }}. Wersja {{site.version}}.<br />
+      Główny programista: <a href="https://www.w3.org/People/yatil/">Eric Eggert</a> (W3C). Kierownik projektu: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a> (W3C).<br>Poprzedni redaktorzy i programiści: Gregg Vanderheiden, Loretta Guarino Reid, Ben Caldwell, <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Gez Lemon.<br>The {{ site.time | date:"%Y" }} redesign opracowane przez Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>) oraz Web Content Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/GL/">WCAG WG</a>), przy wsparciu <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>,  projektu programu IST Komisji Europejskiej.</p>
+ 
 
-   <nav aria-label="Footer Navigation" class="footer-nav">
+   <nav aria-label="Nawigacja w stopce" class="footer-nav"><p><strong>Odwiedź nasz serwis LepszyWeb.pl</strong></p>
       <ul>
-         <li><a href="https://www.w3.org/WAI/sitemap.html">WAI Site Map</a></li>
-         <li><a href="https://www.w3.org/WAI/sitehelp.html">Help with WAI Website</a></li>
-         <li><a href="https://www.w3.org/WAI/search.php">Search</a></li>
-         <li><a href="/WAI/contacts">Contacting WAI</a></li>
+         <li>[<a href="https://lepszyweb.pl/">Strona główna</a>]</li>
+         <li>[<a href="https://lepszyweb.pl/walidator">Walidator ALLY</a>]</li>
+		 <li>[<a href="https://raport.lepszyweb.pl">Generator raportów z oceny</a>]</li>
+         <li>[<a href="https://kontrast.lepszyweb.pl">Wyszukiwarka kontrastów</a>]</li>
+         <li>[<a href="https://przedipo.lepszyweb.pl">Przed i Po</a>] </li>
+		 <li>[<a href="https://lepszyweb.pl/szkolenia/">Szkolenia</a>]</li>
+		 <li>[<a href="https://lepszyweb.pl/audyt">Audyt</a>]</li>
+		 <li>[<a href="https://lepszyweb.pl/kontakt">Kontakt</a>]</li>
       </ul>
    </nav>
-   <section class="feedback" aria-label="Feedback">
-      <p><strong>Feedback welcome to <a href="mailto:wai-eo-editors@w3.org?subject=QuickRef_Redesign">wai-eo-editors@w3.org</a></strong> (a publicly archived list) or <a href="mailto:wai@w3.org">wai@w3.org</a> (a WAI staff-only list).</p>
+   
+   <section class="feedback" aria-label="Informacje zwrotne">
+      <p>Informacje zwrotne dotyczące polskiej adaptacji - opinie, uwagi, sugestie prosimy przesyłać na adres <a href="mailto:kontakt@lepszyweb.pl">kontakt@lepszywebb.pl</a>
+	  
+	  
+	  <strong>Feedback welcome to <a href="mailto:wai-eo-editors@w3.org?subject=QuickRef_Redesign">wai-eo-editors@w3.org</a></strong> (a publicly archived list) or <a href="mailto:wai@w3.org">wai@w3.org</a> (a WAI staff-only list).</p>
    </section>
    <!-- end footer-nav -->
-   <section class="copyright" aria-label="Copyright Notice">
-      <p>Copyright &#xA9; {{ site.time | date:"%Y" }} W3C <sup>&#xAE;</sup> (<a href="https://www.csail.mit.edu/"><abbr title="Massachusetts Institute of Technology">MIT</abbr></a>, <a href="https://www.ercim.eu/"><abbr title="European Research Consortium for Informatics and Mathematics">ERCIM</abbr></a>, <a href="https://www.keio.ac.jp/">Keio</a>, <a href="https://ev.buaa.edu.cn/">Beihang</a>) <a href="/Consortium/Legal/ipr-notice">Usage policies apply</a>.</p>
+   <section class="copyright" aria-label="Informacja o prawach autorskich">
+      <p>Copyright &#xA9; {{ site.time | date:"%Y" }} W3C <sup>&#xAE;</sup> (<a href="https://www.csail.mit.edu/"><abbr title="Massachusetts Institute of Technology">MIT</abbr></a>, <a href="https://www.ercim.eu/"><abbr title="European Research Consortium for Informatics and Mathematics">ERCIM</abbr></a>, <a href="https://www.keio.ac.jp/">Keio</a>, <a href="https://ev.buaa.edu.cn/">Beihang</a>) <a href="/Consortium/Legal/ipr-notice">Zastosowanie mają prawa użytkownia W3C</a>.</p>
+	  
+	  <p> <p>Copyright &#xA9; {{ site.time | date:"%Y" }} LepszyWeb.pl. Pracownia Dostępności Cyfrowej. Tłumaczenie wytycznych i kryteriów sukcesu dodanych w WCAG 2.1, tłumaczenie Technik i błędów oraz tłumaczenie interfejsu strony: Stefan Wajda</p>
    </section>
    <!-- end copyright -->
-
 </footer>
+
+
