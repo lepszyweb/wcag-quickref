@@ -1650,8 +1650,18 @@
                             "items": [
                                 {"text": "Pole wejściowe służy celowi określonemu w sekcji cele wejściowe dla komponentów interfejsu użytkownika; oraz"},
                                 {"text": "Zawartość jest implementowana przy użyciu technologii z obsługą identyfikacji oczekiwanego znaczenia dla danych wejściowych formularza."}
-                            ]
-                        }]
+                        ]
+                    }],
+                           "techniques": [
+                            {"sufficient": []},
+                            {"advisory": [
+							
+                                "id": "TECH:H98",
+                                "title": "Używanie atrybutu autocomplete (HTML5)"
+                            }							
+							]},
+                            {"failure": []}
+                        ]
                     },
                     {
                         "id": "WCAG2:identify-purpose",
