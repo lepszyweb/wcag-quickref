@@ -1655,6 +1655,7 @@
                            "techniques": [
                             {"sufficient": []},
                             {"advisory": [
+							{
 							
                                 "id": "TECH:H98",
                                 "title": "Używanie atrybutu autocomplete (HTML5)"
