@@ -2058,7 +2058,7 @@
                                 "type": "ulist",
                                 "items": [
                                     {
-                                        "handle": "Możliwy do dostosowania:",
+                                        "handle": "Możliwy do dostosowania",
                                         "text": "Obraz tekstu może być dostosowany wizualnie do wymagań użytkownika;"
                                     },
                                     {
@@ -2940,7 +2940,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:G21",
-                                    "title": "Zapewnienie, że użytkownicy nie zostaną uwięzieni treści"
+                                    "title": "Zapewnienie, że użytkownicy nie zostaną uwięzieni w treści"
                                 },
                                 {
                                     "id": "TECH:FLASH17",
@@ -4273,7 +4273,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ Touch events are only triggered when touch is removed from a control."
+                                    "title": "@@ Zdarzenia dotykowe są uruchamiane tylko wtedy, gdy dotyk jest usunięty z kontrolki."
                                 }
                             ]},
                             {"advisory": []},
