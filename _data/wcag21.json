@@ -796,12 +796,12 @@
                                 },
                                 {
                                     "id": "TECH:G78",
-                                    "title": "Zapewnienie drugiej, wybranej przez użytkownika ścieżki dźwiękowej, która zawiera narrację dźwiękową (audiodeskrypcję)"
+                                    "title": "Zapewnienie drugiej, wybranej przez użytkownika ścieżki dźwiękowej, która zawiera opis dźwiękowy (audiodeskrypcję)"
                                 },
                                 {"and": [
                                     {
                                         "id": "TECH:G78",
-                                        "title": "Zapewnienie drugiej, wybranej przez użytkownika ścieżki dźwiękowej, która zawiera narrację dźwiękową (audiodeskrypcję)"
+                                        "title": "Zapewnienie drugiej, wybranej przez użytkownika ścieżki dźwiękowej, która zawiera opis dźwiękowy (audiodeskrypcję)"
                                     },
                                     {
                                         "id": "TECH:SL1",
@@ -955,12 +955,12 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:G78",
-                                    "title": "Zapewnienie drugiej, wybranej przez użytkownika ścieżki dźwiękowej, która zawiera narrację dźwiękową (audiodeskrypcję)"
+                                    "title": "Zapewnienie drugiej, wybranej przez użytkownika ścieżki dźwiękowej, która zawiera opis dźwiękowy (audiodeskrypcję)"
                                 },
                                 {"and": [
                                     {
                                         "id": "TECH:G78",
-                                        "title": "Zapewnienie drugiej, wybranej przez użytkownika ścieżki dźwiękowej, która zawiera narrację dźwiękową (audiodeskrypcję)"
+                                        "title": "Zapewnienie drugiej, wybranej przez użytkownika ścieżki dźwiękowej, która zawiera opis dźwiękowy (audiodeskrypcję)"
                                     },
                                     {
                                         "id": "TECH:SL1",
@@ -1220,7 +1220,7 @@
                                         },
                                         {
                                             "id": "TECH:ARIA12",
-                                            "title": "Używanie atrybutu role=heading do identyfikacji nagłówków"
+                                            "title": "Używanie atrybutu role=heading oraz aria-level=\"#\"do identyfikacji nagłówków"
                                         },
                                         {
                                             "id": "TECH:ARIA13",
@@ -1801,7 +1801,7 @@
                         "details": [{
                             "type": "note",
                             "handle": "Uwaga 1",
-                            "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi odczytanie całej strony, wszelkie treści na stronie (bez względu na to, czy spełniają inne kryteria sukcesu, czy nie) muszą spełnić niniejsze kryterium. Więcej informacji: Spełnienie wymagań: Brak zakłóceń: Non-Interference."
+                            "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi odczytanie całej strony, wszelkie treści na stronie (bez względu na to, czy spełniają inne kryteria sukcesu, czy nie) muszą spełnić niniejsze kryterium. Więcej informacji: Wymagania zgodności: Brak zakłóceń."
                         }],
                         "techniques": [
                             {"sufficient": [
@@ -2037,7 +2037,7 @@
                                 },
                                 {
                                     "id": "TECH:F94",
-                                    "title": "Niespełnienie kryterium sukcesu 1.4.4 z powodu nieprawidłowego użycia jednostek rozmiaru obszaru operacyjnego (viewport) dp zmiany rozmiaru tekstu"
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.4 z powodu nieprawidłowego użycia jednostek rozmiaru obszaru operacyjnego (viewport) do zmiany rozmiaru tekstu"
                                 }
                             ]}
                         ]
@@ -2934,7 +2934,7 @@
                         "details": [{
                             "type": "note",
                             "handle": "Uwaga 1",
-                            "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała zawartość danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: Spełnienie wymagań: brak zakłóceń: Non-Interference."
+                            "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała zawartość danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: Wymagania zgodności: Brak zakłóceń."
                         }],
                         "techniques": [
                             {"sufficient": [
@@ -3189,7 +3189,7 @@
                             {
                                 "type": "note",
                                 "handle": "Uwaga 2",
-                                "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała zawartość danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: Spełnienie wymagań: brak zakłóceń: Non-Interference."
+                                "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała zawartość danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: Wymagania zgodności: Brak zakłóceń."
                             },
                             {
                                 "type": "note",
@@ -3432,7 +3432,7 @@
                         "details": [{
                             "type": "note",
                             "handle": "Uwaga 1",
-                            "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała zawartość danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: Spełnienie wymagań: brak zakłóceń: Non-Interference."
+                            "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała zawartość danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: Wymagania zgodności: Brak zakłóceń."
                         }],
                         "techniques": [
                             {"sufficient": [
@@ -3779,19 +3779,19 @@
                                         },
                                         {
                                             "id": "TECH:H77",
-                                            "title": "Identyfikacja celu łącza za pomocą tekstu linku w połączeniu z jego pozycją na liście"
+                                            "title": "Określenie celu łącza za pomocą tekstu linku w połączeniu z jego pozycją na liście"
                                         },
                                         {
                                             "id": "TECH:H78",
-                                            "title": "Identyfikacja celu łącza za pomocą tekstu linku w połączeniu z akapitem, w którym znajduje się łącze"
+                                            "title": "Określenie celu łącza za pomocą tekstu linku w połączeniu z akapitem, w którym znajduje się łącze"
                                         },
                                         {
                                             "id": "TECH:H79",
-                                            "title": "Identyfikacja celu łącza za pomocą tekstu linku w połączeniu z otaczającą go komórką tabeli i powiązanymi nagłówkami tabeli"
+                                            "title": "Określenie celu łącza za pomocą tekstu linku w połączeniu z otaczającą go komórką tabeli i powiązanymi nagłówkami tabeli"
                                         },
                                         {
                                             "id": "TECH:H81",
-                                            "title": "Identyfikacja celu łącza w zagnieżdżonej liście przy użyciu tekstu linku połączonego z elementem listy nadrzędnej, w którym lista jest zagnieżdżona"
+                                            "title": "Określenie celu łącza w zagnieżdżonej liście przy użyciu tekstu linku połączonego z elementem listy nadrzędnej, w którym lista jest zagnieżdżona"
                                         }
                                     ]
                                 },
@@ -4488,11 +4488,11 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:H57",
-                                    "title": "Używanie atrybutu języka dla elementu html"
+                                    "title": "Używanie atrybutu lang dla elementu html"
                                 },
                                 {
                                     "id": "TECH:FLASH13",
-                                    "title": "Użycie atrybutów języka HTML w celu określenia języka treści we Flashu"
+                                    "title": "Użycie atrybutów lang HTML w celu określenia języka treści we Flashu"
                                 },
                                 {
                                     "id": "TECH:PDF16",
@@ -4525,7 +4525,7 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:H58",
-                                    "title": "Używanie atrybut lang do wskazywania zmian w języku naturalnym"
+                                    "title": "Używanie atrybutu lang do wskazywania zmian w języku naturalnym"
                                 },
                                 {
                                     "id": "TECH:FLASH13",
@@ -5216,7 +5216,7 @@
                         ],
                         "level": "A",
                         "handle": "Etykiety lub instrukcje",
-                        "title": "Pojawiają się etykiety lub instrukcje, kiedy w treści wymagane jest wprowadzenie informacji przez użytkownika.",
+                        "title": "Etykiety lub instrukcje pojawiają się w treści, kiedy wymagane jest wprowadzenie informacji przez użytkownika.",
                         "sufficientNotes": ["Techniki znajdujące się na końcu powyższej listy powinny być uważane za ostateczność i stosowane tylko wtedy, gdy inne techniki nie mogą być zastosowane na stronie. Wcześniejsze techniki są preferowane, ponieważ zwiększają one dostępność dla szerszej grupy użytkowników."],
                         "techniques": [
                             {"sufficient": [
