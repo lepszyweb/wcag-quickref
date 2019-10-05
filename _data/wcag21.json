@@ -1643,13 +1643,13 @@
                         "num": "1.3.5",
                         "versions": ["2.1"],
                         "level": "AA",
-                        "handle": "Określenie przeznaczenia wprowadzanych danych",
+                        "handle": "Określenie pożądanej wartości",
                         "title": "Cel każdego pola zbierającego informacje o użytkowniku może być programowo określony, gdy",
                         "details": [{
                             "type": "ulist",
                             "items": [
-                                {"text": "Pole wejściowe służy celowi określonemu w sekcji cele wejściowe dla komponentów interfejsu użytkownika; oraz"},
-                                {"text": "Zawartość jest implementowana przy użyciu technologii z obsługą identyfikacji oczekiwanego znaczenia dla danych wejściowych formularza."}
+                                {"text": "Pole zbierające dane służy celowi określonemu w sekcji cele wejściowe dla komponentów interfejsu użytkownika; oraz"},
+                                {"text": "Zawartość jest implementowana przy użyciu technologii z obsługą identyfikacji oczekiwanej wartości danych wprowadzanych w polach formularza."}
                         ]
                     }],
                            "techniques": [
@@ -4328,7 +4328,8 @@
                         "num": "2.5.4",
                         "versions": ["2.1"],
                         "level": "A",
-                        "handle": "Aktywowanie ruchem",
+                        "handle": "
+						",
                         "title": "Funkcjonalność, którą można obsługiwać za pomocą ruchu urządzenia lub ruchu użytkownika, można również obsługiwać za pomocą elementów interfejsu użytkownika, a reagowanie na ruch można wyłączyć, aby zapobiec przypadkowemu uruchomieniu, z wyjątkiem sytuacji, gdy:",
                         "details": [{
                             "type": "ulist",
