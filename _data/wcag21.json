@@ -4328,8 +4328,7 @@
                         "num": "2.5.4",
                         "versions": ["2.1"],
                         "level": "A",
-                        "handle": "
-						",
+                        "handle": "Aktywowanie ruchem ",
                         "title": "Funkcjonalność, którą można obsługiwać za pomocą ruchu urządzenia lub ruchu użytkownika, można również obsługiwać za pomocą elementów interfejsu użytkownika, a reagowanie na ruch można wyłączyć, aby zapobiec przypadkowemu uruchomieniu, z wyjątkiem sytuacji, gdy:",
                         "details": [{
                             "type": "ulist",
