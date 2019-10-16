@@ -4328,7 +4328,7 @@
                         "num": "2.5.4",
                         "versions": ["2.1"],
                         "level": "A",
-                        "handle": "Aktywowanie ruchem ",
+                        "handle": "Aktywowanie ruchem",
                         "title": "Funkcjonalność, którą można obsługiwać za pomocą ruchu urządzenia lub ruchu użytkownika, można również obsługiwać za pomocą elementów interfejsu użytkownika, a reagowanie na ruch można wyłączyć, aby zapobiec przypadkowemu uruchomieniu, z wyjątkiem sytuacji, gdy:",
                         "details": [{
                             "type": "ulist",
@@ -5659,7 +5659,7 @@
                         "2.1"
                     ],
                     "level": "A",
-                    "handle": "Parsowanie (Prezentacja)",
+                    "handle": "Parsowanie",
                     "title": "W treści wprowadzonej przy użyciu języka znaczników, elementy posiadają pełne znaczniki początkowe i końcowe, elementy są zagnieżdżane według swoich specyfikacji, elementy nie posiadają zduplikowanych atrybutów oraz wszystkie ID są unikalne, za wyjątkiem przypadków, kiedy specyfikacja zezwala na wyżej wymienione cechy.",
                     "details": [{
                         "type": "note",
