@@ -1648,8 +1648,8 @@
                         "details": [{
                             "type": "ulist",
                             "items": [
-                                {"text": "Pole zbierające dane służy celowi określonemu w sekcji cele wejściowe dla komponentów interfejsu użytkownika; oraz"},
-                                {"text": "Zawartość jest implementowana przy użyciu technologii z obsługą identyfikacji oczekiwanej wartości danych wprowadzanych w polach formularza."}
+                                {"text": "Pole zbierające dane służy celowi określonemu w sekcji <a href=\"https://www.w3.org/TR/WCAG21/#input-purposes\">Przeznaczenie pól danych w komponentach interfejsu użytkownika</a>; oraz "},
+                                {"text": "Treść jest implementowana za pomocą technologii obsługującej określanie w polach formularza typu oczekiwanych danych."}
                         ]
                     }],
                            "techniques": [
