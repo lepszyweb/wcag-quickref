@@ -1648,7 +1648,7 @@
                         "details": [{
                             "type": "ulist",
                             "items": [
-                                {"text": "Pole zbierające dane służy celowi określonemu w sekcji <a href=\"https://www.w3.org/TR/WCAG21/#input-purposes\">Przeznaczenie pól danych w komponentach interfejsu użytkownika</a>; oraz "},
+                                {"text": "Pole zbierające dane służy celowi określonemu w sekcji Przeznaczenie pól danych w komponentach interfejsu użytkownika; oraz "},
                                 {"text": "Treść jest implementowana za pomocą technologii obsługującej określanie w polach formularza typu oczekiwanych danych."}
                         ]
                     }],
