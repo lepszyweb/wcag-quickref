@@ -4233,20 +4233,20 @@
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "Brak zdarzenia'",
+                                    "handle": "Brak zdarzenia",
                                     "text": "Zwolnienie wskazania nie wywołuje jakiejkolwiek części zdarzenia;"
                                 },
                                 {
-                                    "handle": "Przerwanie lub cofnięcia",
+                                    "handle": "Przerwanie lub cofnięcie",
                                     "text": "Zdarzenie wywołane wskazaniem można przerwać lub cofnąć po jego zakończeniu;"
                                 },
                                 {
                                     "handle": "Odwrócenie zdarzenia",
-                                    "text": "Zwolnienie wskazania powoduje cofnięcie wywołanego zdarzenia i prrzywraca stan sprzed zdarzenia."
+                                    "text": "Zwolnienie wskazania cofa wywołane zdarzenie i przywraca stan sprzed zdarzenia."
                                 },
                                 {
                                     "handle": "Istotne",
-                                    "text": "Zwolnienie wskazania jest niezbędne dla wywołania zdarzenia."
+                                    "text": "Zwolnienie wskazania jest niezbędne do wywołania zdarzenia."
                                 }
                               ]
                             },
