@@ -4227,26 +4227,26 @@
                         "num": "2.5.2",
                         "versions": ["2.1"],
                         "level": "A",
-                        "handle": "Anulowanie wskazania",
-                        "title": "W przypadku funkcji, które można obsługiwać za pomocą pojedynczego wskazania, co najmniej jedno z poniższych jest prawdziwe:",
+                        "handle": "Rezygnacja ze wskazania",
+                        "title": "W przypadku zdarzeń, które są wywoływane za pomocą pojedynczego wskazania, co najmniej jedno z poniższych twierdzeń jest prawdziwe:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
-                                    "handle": "Brak zdarzenia 'down'",
-                                    "text": "Zdarzenie 'down' nie jest wykorzystywane do wykonywania jakiejkolwiek części funkcji;"
+                                    "handle": "Brak zdarzenia'",
+                                    "text": "Zwolnienie wskazania nie wywołuje jakiejkolwiek części zdarzenia;"
                                 },
                                 {
-                                    "handle": "Przerwij lub cofnij",
-                                    "text": "Ukończenie funkcji odbywa się na zdarzeniu 'up' i dostępny jest mechanizm do przerwania funkcji przed jej zakończeniem lub cofnięcia funkcji po jej zakończeniu;"
+                                    "handle": "Przerwanie lub cofnięcia",
+                                    "text": "Zdarzenie wywołane wskazaniem można przerwać lub cofnąć po jego zakończeniu;"
                                 },
                                 {
-                                    "handle": "Odwrócenie zdarzenia 'up'",
-                                    "text": "Zdarzenie up odwraca każdy wynik poprzedniego zdarzenia 'down'"
+                                    "handle": "Odwrócenie zdarzenia",
+                                    "text": "Zwolnienie wskazania powoduje cofnięcie wywołanego zdarzenia i prrzywraca stan sprzed zdarzenia."
                                 },
                                 {
-                                    "handle": "Istotny",
-                                    "text": "Niezbędne jest ukończenie funkcji w zdarzeniu 'down'"
+                                    "handle": "Istotne",
+                                    "text": "Zwolnienie wskazania jest niezbędne dla wywołania zdarzenia."
                                 }
                               ]
                             },
@@ -4258,7 +4258,7 @@
                             {
                                 "type": "note",
                                 "handle": "Uwaga 2",
-                                "text": "Ten wymóg dotyczy treści internetowych, które interpretują działania wskaźnika (tj. Nie dotyczy to działań wymaganych do obsługi agenta użytkownika lub technologii wspomagającej)."
+                                "text": "Ten wymóg dotyczy treści internetowych, które interpretują działania wskaźnika (tj. nie dotyczy to działań wymaganych do obsługi programu użytkownika lub technologii wspomagającej)."
                             }
                         ],
                            "techniques": [
