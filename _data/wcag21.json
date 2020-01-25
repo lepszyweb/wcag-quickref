@@ -3246,7 +3246,7 @@
                                 },
                                 {
                                     "id": "TECH:G186",
-                                    "title": "Zapewnienie na stronie internetowej kontrolki, umożliwia zatrzymanie przesuwania, migania lub automatyczej aktualizacji treści"
+                                    "title": "Zapewnienie na stronie internetowej kontrolki, umożliwia zatrzymanie przesuwania, migania lub automatycznej aktualizacji treści"
                                 },
                                 {
                                     "id": "TECH:G191",
@@ -4422,7 +4422,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Niespełnienie kryterium sukcesu 2.5.3 ze względu rozmiar akapitu, który jest również linkiem, mniejszy niż 44 x 44 pikseli CSS"
+                                    "title": "Niespełnienie kryterium sukcesu 2.5.5 ze względu rozmiar akapitu, który jest również linkiem, mniejszy niż 44 x 44 pikseli CSS"
                                 }
                             ]}
                         ]
@@ -4433,8 +4433,8 @@
                         "num": "2.5.6",
                         "versions": ["2.1"],
                         "level": "AAA",
-                        "handle": "Mechanizmy równoczesnego wprowadzania danych",
-                        "title": "Treści internetowe nie ograniczają możliwości korzystania z modalności wejściowych dostępnych na platformie, z wyjątkiem sytuacji, w których ograniczenie jest niezbędne, wymagane do zapewnienia bezpieczeństwa treści lub wymagane do przestrzegania ustawień użytkownika.",
+                        "handle": "Równoległe mechanizmy wprowadzania danych",
+                        "title": "Treści internetowe nie ograniczają możliwości korzystania z trybów wprowadzania danych dostępnych na platformie, z wyjątkiem sytuacji, w których ograniczenie jest niezbędne, wymagane do zapewnienia bezpieczeństwa treści lub wymagane do przestrzegania ustawień użytkownika.",
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:text",
@@ -4858,7 +4858,7 @@
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:G107",
-                                "title": "Używanie raczej &bdquo;aktywuj&bdquo; niż &bdquo;focus&bdquo; jako polecenia uruchamiającego zmiany kontekstu"
+                                "title": "Stosowanie jako wyzwalacza zmiany kontekstu raczej polecenia &bdquo;aktywuj&rdquo; niż &bdquo;focus&rdquo;"
                             }]},
                             {"advisory": [
                                 {
