@@ -1618,7 +1618,7 @@
                         "versions": ["2.1"],
                         "level": "AA",
                         "handle": "Orientacja",
-                        "title": "Zawartość nie ogranicza swojego widoku i działania do jednej orientacji wyświetlania, takiej jak pionowa lub pozioma, chyba że określona orientacja wyświetlania jest niezbędna.",
+                        "title": "Treść nie ogranicza swojego widoku i działania do jednej orientacji wyświetlania, takiej jak pionowa lub pozioma, chyba że określona orientacja wyświetlania jest niezbędna.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -1644,7 +1644,7 @@
                         "versions": ["2.1"],
                         "level": "AA",
                         "handle": "Określenie pożądanej wartości",
-                        "title": "Cel każdego pola zbierającego informacje o użytkowniku może być programowo określony, gdy",
+                        "title": "Cel każdego pola zbierającego informacje o użytkowniku może być programowo określony, gdy:",
                         "details": [{
                             "type": "ulist",
                             "items": [
@@ -1749,7 +1749,7 @@
                                         },
                                         {
                                             "id": "TECH:G183",
-                                            "title": "Stosowanie współczynnika kontrastu 3:1 i dostarczanie dodatkowych wskazówek wizualnych dla fokusu łączy lub kontrolek, w których do ich identyfikacji stosowany jest sam kolor"
+                                            "title": "Stosowanie współczynnika kontrastu 3:1 i dostarczanie dodatkowych wskazówek wizualnych dla fokusa łączy lub kontrolek, w których do ich identyfikacji stosowany jest sam kolor"
                                         }
                                     ]
                                 },
@@ -2603,7 +2603,7 @@
                                     "title": "Kontrast elementu interfejsu użytkownika",
                                     "techniques": [{
                                         "id": "TECH:G195",
-                                        "title": "Korzystanie z dobrze widocznego wskaźnika fokusu dostarczonego przez autora"
+                                        "title": "Korzystanie z dobrze widocznego wskaźnika fokusa dostarczonego przez autora"
                                     }]
                                 },
                                 {
@@ -2643,11 +2643,11 @@
                             ]}]},
                             {"advisory": [{
                                 "id": "TECH:G183",
-                                "title": "Stosowanie współczynnika kontrastu 3:1 i dostarczanie dodatkowych wskazówek wizualnych dla fokusu łączy lub kontrolek, w których do ich identyfikacji stosowany jest sam kolor"
+                                "title": "Stosowanie współczynnika kontrastu 3:1 i dostarczanie dodatkowych wskazówek wizualnych dla fokusa łączy lub kontrolek, w których do ich identyfikacji stosowany jest sam kolor"
                             }]},
                             {"failure": [{
                                 "id": "TECH:F78",
-                                "title": "Niespełnienie kryterium sukcesu 2.4.7 ze względu na styl konturów i obramowania elementów w sposób, który usuwa lub czyni niewidocznym wizualny wskaźnik fokusu"
+                                "title": "Niespełnienie kryterium sukcesu 2.4.7 ze względu na styl konturów i obramowania elementów w sposób, który usuwa lub czyni niewidocznym wizualny wskaźnik fokusa"
                             }]}
                         ]
                     },
@@ -2711,8 +2711,8 @@
                         "num": "1.4.13",
                         "versions": ["2.1"],
                         "level": "AA",
-                        "handle": "Treść spod kursora lub fokusu",
-                        "title": "Tam, gdzie odbieranie, a następnie usuwanie wskaźnika myszy lub fokusu klawiatury powoduje wyświetlenie dodatkowej zawartości, a następnie jej ukrycie, prawdziwe są poniższe stwierdzenia:",
+                        "handle": "Treść spod kursora lub fokusa",
+                        "title": "Tam, gdzie odbieranie, a następnie usuwanie wskaźnika myszy lub fokusa klawiatury powoduje wyświetlenie dodatkowej zawartości, a następnie jej ukrycie, prawdziwe są poniższe stwierdzenia:",
                         "details": [{
                             "type": "ulist",
                             "items": [
@@ -2726,7 +2726,7 @@
                                 },
                                 {
                                     "handle": "Trwałe",
-                                    "text": "Dodatkowa treść pozostaje widoczna do momentu usunięcia wyzwalacza aktywacji lub fokusu, użytkownik odrzuca go lub jego informacje nie są już ważne."
+                                    "text": "Dodatkowa treść pozostaje widoczna do momentu usunięcia wyzwalacza aktywacji lub fokusa, użytkownik odrzuca go lub jego informacje nie są już ważne."
                                 }
                             ]
                         },
@@ -2764,7 +2764,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@ Brak możliwości odrzucenia zawartości bez przesunięcia wskaźnika myszy lub fokusu klawiatury"
+                                    "title": "@@ Brak możliwości odrzucenia zawartości bez przesunięcia wskaźnika myszy lub fokusa klawiatury"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -2911,7 +2911,7 @@
                                 },
                                 {
                                     "id": "TECH:F55",
-                                    "title": "Niespełnienie kryterium sukcesu 2.1.1, 2.4.7 i 3.2.1 z powodu użycia skryptu do usunięcia wskaźnika fokusu po otrzymaniu fokusu"
+                                    "title": "Niespełnienie kryterium sukcesu 2.1.1, 2.4.7 i 3.2.1 z powodu użycia skryptu do usunięcia wskaźnika fokusa po otrzymaniu fokusa"
                                 },
                                 {
                                     "id": "TECH:F42",
@@ -2991,7 +2991,7 @@
                                     "text": "Dostępny jest mechanizm zmiany mapowania skrótu w celu użycia jednego lub więcej niedrukowalnych znaków klawiatury (np. Ctrl, Alt, itp.);"
                                 },
                                 {
-                                    "handle": "Aktywny tylko po otrzymaniu fokusu",
+                                    "handle": "Aktywny tylko po otrzymaniu fokusa",
                                     "text": "Skrót klawiaturowy dla komponentu interfejsu użytkownika jest aktywny tylko wtedy, gdy ten składnik ma fokus."
                                 }
                             ]
@@ -3480,7 +3480,7 @@
                         "versions": ["2.1"],
                         "level": "AAA",
                         "handle": "Animacja po interakcji",
-                        "title": "Animacja ruchu wyzwalana przez interakcję może być wyłączona, chyba że animacja jest istotna dla funkcjonalności lub przekazywanych informacji.",
+                        "title": "Animacja ruchowa wyzwalana przez interakcję może być wyłączona, chyba że animacja jest istotna dla funkcjonalności lub przekazywanych informacji.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3541,7 +3541,7 @@
                                         },
                                         {
                                             "id": "TECH:SL25",
-                                            "title": "Używanie kontrolek i programowego fokusu do omijania bloków treści w Silverlight"
+                                            "title": "Używanie kontrolek i programowego fokusa do omijania bloków treści w Silverlight"
                                         }
                                     ]
                                 },
@@ -3634,7 +3634,7 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "Kolejność fokusu",
+                        "handle": "Kolejność fokusa",
                         "title": "Jeśli strona internetowa może być nawigowana sekwencyjnie, a kolejność nawigacji wpływa na zrozumienie lub funkcjonalność strony, komponenty przyjmujące fokus zachowują kolejność, dzięki której zachowany jest sens i funkcjonalność treści.",
                         "techniques": [
                             {"sufficient": [
@@ -3644,7 +3644,7 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Przenoszenie fokusu na elementach w kolejnosci sekwencyjnej i zgodnej z relacjami w obrębie treści za pomocą jednej z następujacych technik:",
+                                    "title": "Przenoszenie fokusa na elementach w kolejnosci sekwencyjnej i zgodnej z relacjami w obrębie treści za pomocą jednej z następujacych technik:",
                                     "using": [
                                         {
                                             "id": "TECH:H4",
@@ -3929,7 +3929,7 @@
                         ],
                         "level": "AA",
                         "handle": "Widoczny fokus",
-                        "title": "Każdy interfejs możliwy do nawigacji za pomocą klawiatury, posiada widoczny wskaźnik fokusu klawiatury.",
+                        "title": "Każdy interfejs możliwy do nawigacji za pomocą klawiatury, posiada widoczny wskaźnik fokusa klawiatury.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3942,15 +3942,15 @@
                                 },
                                 {
                                     "id": "TECH:G165",
-                                    "title": "Korzystanie z domyślnego dla platformy oznaczenia fokusu, dzięki czemu będą one przenoszone na inne platformy"
+                                    "title": "Korzystanie z domyślnego dla platformy oznaczenia fokusa, dzięki czemu będą one przenoszone na inne platformy"
                                 },
                                 {
                                     "id": "TECH:G195",
-                                    "title": "Korzystanie z dobrze widocznego wskaźnika fokusu dostarczonego przez autora"
+                                    "title": "Korzystanie z dobrze widocznego wskaźnika fokusa dostarczonego przez autora"
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "@@@ Korzystanie ze zmiany współczynnika kontrastu w celu zapewnienia widocznego fokusu"
+                                    "title": "@@@ Korzystanie ze zmiany współczynnika kontrastu w celu zapewnienia widocznego fokusa"
                                 },
                                 {
                                     "id": "TECH:SCR31",
@@ -3958,11 +3958,11 @@
                                 },
                                 {
                                     "id": "TECH:FLASH20",
-                                    "title": "Reskinning (zmiana stylistyki) komponentów Flash, aby zapewnić lepszą widoczność fokusu"
+                                    "title": "Reskinning (zmiana stylistyki) komponentów Flash, aby zapewnić lepszą widoczność fokusa"
                                 },
                                 {
                                     "id": "TECH:SL2",
-                                    "title": "Zmiana wizualnego wskaźnika fokusu w Silverlight "
+                                    "title": "Zmiana wizualnego wskaźnika fokusa w Silverlight "
                                 },
                                 {
                                     "id": "TECH:SL7",
@@ -3973,11 +3973,11 @@
                             {"failure": [
                                 {
                                     "id": "TECH:F55",
-                                    "title": "Niespełnienie kryterium sukcesu 2.1.1, 2.4.7 i 3.2.1 z powodu użycia skryptu do usunięcia wskaźnika fokusu po otrzymaniu fokusu"
+                                    "title": "Niespełnienie kryterium sukcesu 2.1.1, 2.4.7 i 3.2.1 z powodu użycia skryptu do usunięcia wskaźnika fokusa po otrzymaniu fokusa"
                                 },
                                 {
                                     "id": "TECH:F78",
-                                    "title": "Niespełnienie kryterium sukcesu 2.4.7 ze względu na styl konturów i obramowania elementów w sposób, który usuwa lub czyni niewidocznym wizualny wskaźnik fokusu"
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.7 ze względu na styl konturów i obramowania elementów w sposób, który usuwa lub czyni niewidocznym wizualny wskaźnik fokusa"
                                 }
                             ]}
                         ]
@@ -4180,7 +4180,7 @@
                 "num": "2.5",
                 "versions": ["2.1"],
                 "handle": "Metody obsługi",
-                "title": "Ułatw użytkownikom obsługę funkcji za pomocą różnych sposobów poza klawiaturą.",
+                "title": "Ułatwiaj użytkownikom obsługę funkcji za pomocą różnych sposobów poza klawiaturą.",
                 "successcriteria": [
                     {
                         "id": "WCAG2:pointer-gestures",
@@ -4188,12 +4188,12 @@
                         "num": "2.5.1",
                         "versions": ["2.1"],
                         "level": "A",
-                        "handle": "Gesty wskazujące",
-                        "title": "Cała funkcjonalność wykorzystująca gesty wielopunktowe lub oparte na ścieżkach do obsługi może być obsługiwana za pomocą pojedynczego wskaźnika bez gestu opartego na ścieżce, chyba że niezbędny jest gest wielopunktowy lub oparty na ścieżce.",
+                        "handle": "Gesty dotykowe",
+                        "title": "Wszystkie funkcje wykorzystujące do obsługi gesty wielopunktowe lub oparte na ścieżkach mogą być obsługiwane za pomocą dotyku jednopunktowego bez gestu opartego na ścieżce, chyba że niezbędny jest gest wielopunktowy lub oparty na ścieżce.",
                         "details": [{
                             "type": "note",
                             "handle": "Uwaga 1",
-                            "text": "Ten wymóg dotyczy treści internetowych, które interpretują działania wskaźnika (tj. Nie dotyczy to działań wymaganych do obsługi programu klienckiego (przeglądarki internetowej) lub technologii wspomagającej)."
+                            "text": "Ten wymóg dotyczy treści internetowych, które interpretują działania dotykowe (tj. nie dotyczy to działań wymaganych do obsługi programu użytkownika (przeglądarki internetowej) lub technologii wspomagającej)."
                         }],
                         "techniques": [
                             {"sufficient": [
@@ -4872,7 +4872,7 @@
                             ]},
                             {"failure": [{
                                 "id": "TECH:F55",
-                                "title": "Niespełnienie kryterium sukcesu 2.1.1, 2.4.7 i 3.2.1 z powodu użycia skryptu do usunięcia wskaźnika fokusu po otrzymaniu fokusu"
+                                "title": "Niespełnienie kryterium sukcesu 2.1.1, 2.4.7 i 3.2.1 z powodu użycia skryptu do usunięcia wskaźnika fokusa po otrzymaniu fokusa"
                             }]}
                         ]
                     },
@@ -5885,7 +5885,7 @@
                             },
                             {
                                 "id": "TECH:F79",
-                                "title": "Niespełnienie kryterium sukcesu 4.1.2 ze względu na stan fokusu na składniku interfejsu użytkownika, który nie jest programowo określony lub brak powiadomienia o zmianie stanu fokusu"
+                                "title": "Niespełnienie kryterium sukcesu 4.1.2 ze względu na stan fokusa na składniku interfejsu użytkownika, który nie jest programowo określony lub brak powiadomienia o zmianie stanu fokusa"
                             },
                             {
                                 "id": "TECH:F86",
@@ -5905,7 +5905,7 @@
                     "versions": ["2.1"],
                     "level": "AA",
                     "handle": "Komunikaty o stanie",
-                    "title": "W treści zaimplementowanej przy użyciu języków znaczników komunikaty o stanie mogą być programowo określane poprzez role lub właściwości, dzięki czemu mogą być prezentowane użytkownikowi za pomocą technologii wspomagających bez uzyskiwania fokusu.",
+                    "title": "W treści wprowadzonej przy użyciu języków znaczników komunikaty o stanie mogą być programowo określane poprzez role lub właściwości, dzięki czemu mogą być prezentowane użytkownikowi za pomocą technologii wspomagających bez uzyskiwania fokusa.",
                     "techniques": [
                         {"sufficient": [{"situations": [
                             {
