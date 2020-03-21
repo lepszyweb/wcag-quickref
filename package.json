@@ -30,7 +30,5 @@
     "gulp-uglify": "^1.5.4",
     "jshint": "^2.10.2"
   },
-  "dependencies": {
-    "netlify-cli": "^2.15.0"
-  }
+  "dependencies": {}
 }
