@@ -1370,7 +1370,7 @@
                                                 },
                                                 {
                                                     "id": "TECH:PDF11",
-                                                    "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury / Link w dokumentach PDF"
+                                                    "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
                                                 },
                                                 {
                                                     "id": "TECH:PDF17",
@@ -2589,7 +2589,7 @@
                             "items": [
                                 {
                                     "handle": "Elementy interfejsu użytkownika",
-                                    "text": "Informacje wizualne wymagane do identyfikacji komponentów i stanów interfejsu użytkownika, z wyjątkiem nieaktywnych składników lub gdy wygląd komponentu jest określony przez agenta użytkownika i nie jest modyfikowany przez autora;"
+                                    "text": "Informacje wizualne wymagane do identyfikacji komponentów i stanów interfejsu użytkownika, z wyjątkiem nieaktywnych składników lub gdy wygląd komponentu jest określony przez program użytkownika i nie jest modyfikowany przez autora;"
                                 },
                                 {
                                     "handle": "Obiekty graficzne",
@@ -2712,32 +2712,32 @@
                         "versions": ["2.1"],
                         "level": "AA",
                         "handle": "Treść spod kursora lub fokusa",
-                        "title": "Tam, gdzie odbieranie, a następnie usuwanie wskaźnika myszy lub fokusa klawiatury powoduje wyświetlenie dodatkowej zawartości, a następnie jej ukrycie, prawdziwe są poniższe stwierdzenia:",
+                        "title": "Tam, gdzie odbieranie, a następnie usuwanie kursora myszy lub fokusa klawiatury powoduje wyświetlenie dodatkowej treści, a następnie jej ukrycie, prawdziwe są poniższe stwierdzenia:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
                                     "handle": "Odrzucone",
-                                    "text": "Dostępny jest mechanizm umożliwiający odrzucenie dodatkowej zawartości bez przesuwania wskaźnika myszy lub koncentracji na klawiaturze, chyba że dodatkowa treść przekazuje błąd wejściowy lub nie przesłania ani nie zastępuje innej zawartości;"
+                                    "text": "Istnieje mechanizm, który  umożliwia odrzucenie dodatkowej treści bez przesuwania kursora myszy lub fokusa klawiatury, chyba że dodatkowa treść przekazuje błąd wprowadzania danych lub nie przesłania ani nie zastępuje innej treści;"
                                 },
                                 {
                                     "handle": "Wskazywane",
-                                    "text": "Jeśli wskaźnik myszy (hover) może wyzwolić dodatkową zawartość, wówczas wskaźnik może zostać przeniesiony na dodatkową zawartość bez znikania dodatkowej zawartości;"
+                                    "text": "Jeśli kursor myszy może wyzwolić dodatkową treść, wówczas kursor można przenieść na dodatkową treść i dodatkowa treść nie zniknie;"
                                 },
                                 {
                                     "handle": "Trwałe",
-                                    "text": "Dodatkowa treść pozostaje widoczna do momentu usunięcia wyzwalacza aktywacji lub fokusa, użytkownik odrzuca go lub jego informacje nie są już ważne."
+                                    "text": "Dodatkowa treść pozostaje widoczna do momentu usunięcia kursora myszy lub fokusa klawiatury, odrzuci ją użytkownik albo treść nie jest już ważne."
                                 }
                             ]
                         },
                             {
                                 "type": "p",
-                                "text": "Wyjątek: Wizualna prezentacja dodatkowej zawartości jest kontrolowana przez agenta użytkownika i nie jest modyfikowana przez autora."
+                                "text": "Wyjątek: Wizualna prezentacja dodatkowej treści jest kontrolowana przez program użytkownika i nie jest modyfikowana przez autora."
                             },
                             {
                                 "type": "note",
                                 "handle": "Uwaga 1",
-                                "text": "Przykłady dodatkowej zawartości kontrolowanej przez agenta użytkownika obejmują podpowiedzi przeglądarki utworzone przy użyciu atrybutu HTML title."
+                                "text": "Przykłady dodatkowej treści kontrolowanej przez program użytkownika obejmują podpowiedzi przeglądarki utworzone przy użyciu atrybutu HTML title."
                             },
                             {
                                 "type": "note",
@@ -2843,7 +2843,7 @@
                                         },
                                         {
                                             "id": "TECH:PDF11",
-                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury / Link w dokumentach PDF"
+                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:PDF23",
@@ -3801,11 +3801,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:PDF11",
-                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury / Link w dokumentach PDF"
+                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:PDF13",
-                                            "title": "Zapewnianie tekstu zastępczego za pomocą wpisu / Alt dla linków w dokumentach PDF"
+                                            "title": "Zapewnianie tekstu zastępczego za pomocą wpisu /Alt dla linków w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:SL18",
@@ -4094,11 +4094,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:PDF11",
-                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury / Link w dokumentach PDF"
+                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:PDF13",
-                                            "title": "Zapewnianie tekstu zastępczego za pomocą wpisu / Alt dla linków w dokumentach PDF"
+                                            "title": "Zapewnianie tekstu zastępczego za pomocą wpisu /Alt dla linków w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:SL18",
@@ -4228,25 +4228,25 @@
                         "versions": ["2.1"],
                         "level": "A",
                         "handle": "Rezygnacja ze wskazania",
-                        "title": "W przypadku zdarzeń, które są wywoływane za pomocą pojedynczego wskazania, co najmniej jedno z poniższych twierdzeń jest prawdziwe:",
+                        "title": "W przypadku funkcjonalności, które są wywoływane za pomocą dotyku jednopunktowego, co najmniej jedno z poniższych twierdzeń jest prawdziwe:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
                                     "handle": "Brak zdarzenia",
-                                    "text": "Zwolnienie wskazania nie wywołuje jakiejkolwiek części zdarzenia;"
+                                    "text": "Wciśnięcie nie wywołuje jakiejkolwiek części zdarzenia;"
                                 },
                                 {
                                     "handle": "Przerwanie lub cofnięcie",
-                                    "text": "Zdarzenie wywołane wskazaniem można przerwać lub cofnąć po jego zakończeniu;"
+                                    "text": "Zdarzenie jest zależne od zwolnienia nacisku i istnieje mechanizm, którym można je przerwać lub cofnąć po zwolnieniu nacisku;"
                                 },
                                 {
                                     "handle": "Odwrócenie zdarzenia",
-                                    "text": "Zwolnienie wskazania cofa wywołane zdarzenie i przywraca stan sprzed zdarzenia."
+                                    "text": "Zwolnienie nacisku cofa wywołane zdarzenie i przywraca stan sprzed zdarzenia."
                                 },
                                 {
                                     "handle": "Istotne",
-                                    "text": "Zwolnienie wskazania jest niezbędne do wywołania zdarzenia."
+                                    "text": "Wciśnięcie jest niezbędne do wywołania zdarzeni."
                                 }
                               ]
                             },
@@ -4258,7 +4258,7 @@
                             {
                                 "type": "note",
                                 "handle": "Uwaga 2",
-                                "text": "Ten wymóg dotyczy treści internetowych, które interpretują działania wskaźnika (tj. nie dotyczy to działań wymaganych do obsługi programu użytkownika lub technologii wspomagającej)."
+                                "text": "Ten wymóg dotyczy treści internetowych, które interpretują działania dotykowe (tj. nie dotyczy to działań wymaganych do obsługi programu użytkownika lub technologii wspomagającej)."
                             }
                         ],
                            "techniques": [
@@ -4378,21 +4378,21 @@
                         "versions": ["2.1"],
                         "level": "AAA",
                         "handle": "Rozmiar wskazywanego celu",
-                        "title": "Rozmiar celu wskaźnika dla wprowadzanych danych wynosi co najmniej 44 na 44 piksele CSS, chyba że:",
+                        "title": "Rozmiar celu punktu dotykowego wynosi co najmniej 44 na 44 piksele CSS, chyba że:",
                         "details": [{
                             "type": "ulist",
                             "items": [
                                 {
                                     "handle": "Odpowiednik",
-                                    "text": "Cel jest dostępny za pośrednictwem równoważnego łącza lub kontroli na tej samej stronie, która ma co najmniej 44 na 44 piksele CSS;"
+                                    "text": "Cel jest dostępny za pośrednictwem równoważnego łącza lub kontrolki na tej samej stronie, która ma co najmniej 44 na 44 piksele CSS;"
                                 },
                                 {
                                     "handle": "Śródliniowe",
                                     "text": "Cel znajduje się w zdaniu lub bloku tekstu;"
                                 },
                                 {
-                                    "handle": "Kontrola programu klienckiego",
-                                    "text": "Rozmiar obiektu docelowego jest określony przez proram kliencki (przeglądarkę) i nie jest modyfikowany przez autora;"
+                                    "handle": "Kontrola programu użytkownika",
+                                    "text": "Rozmiar obiektu docelowego jest określony przez program użytkownika (przeglądarkę) i nie jest modyfikowany przez autora;"
                                 },
                                 {
                                     "handle": "Istotny",
@@ -4496,7 +4496,7 @@
                                 },
                                 {
                                     "id": "TECH:PDF16",
-                                    "title": "Ustawienie domyślnego języka za pomocą wpisu / Lang w katalogu dokumentów dokumentu PDF"
+                                    "title": "Ustawienie domyślnego języka za pomocą wpisu /Lang w katalogu dokumentów dokumentu PDF"
                                 },
                                 {
                                     "id": "TECH:PDF19",
