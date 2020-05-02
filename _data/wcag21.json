@@ -29,7 +29,7 @@
                     ],
                     "level": "A",
                     "handle": "Treść nietekstowa",
-                    "title": "Wszelkie treści nietekstowe przedstawione użytkownikowi posiadają swoją tekstową alternatywę, która pełni tę samą funkcję, za wyjątkiem sytuacji opisanych poniżej.",
+                    "title": "Wszelkie treści nietekstowe przedstawione użytkownikowi posiadają swoją tekstową alternatywę, która pełni tę samą funkcję, z wyjątkiem sytuacji opisanych poniżej.",
                     "details": [{
                         "type": "ulist",
                         "items": [
@@ -627,7 +627,7 @@
                         ],
                         "level": "A",
                         "handle": "Tylko audio lub tylko wideo (nagranie)",
-                        "title": "Dla mediów nagranych w systemie tylko audio lub tylko wideo stosuje się następujące zasady, za wyjątkiem sytuacji, kiedy nagranie audio lub wideo jest alternatywą dla tekstu i w taki sposób jest oznaczone:",
+                        "title": "Dla mediów nagranych w systemie tylko audio lub tylko wideo stosuje się następujące zasady, z wyjątkiem sytuacji, kiedy nagranie audio lub wideo jest alternatywą dla tekstu i w taki sposób jest oznaczone:",
                         "details": [{
                             "type": "ulist",
                             "items": [
@@ -700,7 +700,7 @@
                         ],
                         "level": "A",
                         "handle": "Napisy rozszerzone (nagranie)",
-                        "title": "Napisy rozszerzone dołączone są do wszystkich nagrań audio w multimediach zsynchronizowanych (dźwięk i obraz), za wyjątkiem sytuacji, kiedy są one alternatywami dla tekstu i w taki sposób są oznaczone.",
+                        "title": "Napisy rozszerzone dołączone są do wszystkich nagrań audio w multimediach zsynchronizowanych (dźwięk i obraz), z wyjątkiem sytuacji, kiedy są one alternatywami dla tekstu i w taki sposób są oznaczone.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -769,7 +769,7 @@
                         ],
                         "level": "A",
                         "handle": "Audiodeskrypcja lub alternatywa dla mediów (nagranie)",
-                        "title": "Zapewnia się alternatywę dla mediów zmiennych w czasie lub audiodeskrypcję dla nagrań wideo w multimediach zsynchronizowanych (dźwięk i obraz), za wyjątkiem sytuacji, kiedy są one alternatywami dla tekstu i w taki sposób są oznaczone.",
+                        "title": "Zapewnia się alternatywę dla mediów zmiennych w czasie lub audiodeskrypcję dla nagrań wideo w multimediach zsynchronizowanych (dźwięk i obraz), z wyjątkiem sytuacji, kiedy są one alternatywami dla tekstu i w taki sposób są oznaczone.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -2052,7 +2052,7 @@
                         ],
                         "level": "AA",
                         "handle": "Obrazy tekstu",
-                        "title": "Jeśli wykorzystywane technologie mogą przedstawiać treść wizualnie, do przekazywania informacji wykorzystuje się tekst, a nie tekst w postaci grafiki, za wyjątkiem następujących sytuacji:",
+                        "title": "Jeśli wykorzystywane technologie mogą przedstawiać treść wizualnie, do przekazywania informacji wykorzystuje się tekst, a nie tekst w postaci grafiki, z wyjątkiem następujących sytuacji:",
                         "details": [
                             {
                                 "type": "ulist",
@@ -2234,7 +2234,7 @@
                                 },
                                 {
                                     "handle": "20 dB",
-                                    "text": "Głośność dźwięków tła jest przynajmniej o 20 decybeli mniejsza, niż głośność mowy, która stanowi główną treść nagrania, za wyjątkiem okazyjnych, jedno– lub dwusekundowych dźwięków tła."
+                                    "text": "Głośność dźwięków tła jest przynajmniej o 20 decybeli mniejsza, niż głośność mowy, która stanowi główną treść nagrania, z wyjątkiem okazyjnych, jedno– lub dwusekundowych dźwięków tła."
                                 }
                             ]
                         }],
@@ -3850,7 +3850,7 @@
                         ],
                         "level": "AA",
                         "handle": "Wiele dróg",
-                        "title": "Istnieje więcej niż jedna droga umożliwiająca zlokalizowanie strony w danym serwisie internetowym, za wyjątkiem sytuacji, kiedy dana strona jest wynikiem jakiejś procedury lub jednym z jej etapów.",
+                        "title": "Istnieje więcej niż jedna droga umożliwiająca zlokalizowanie strony w danym serwisie internetowym, z wyjątkiem sytuacji, kiedy dana strona jest wynikiem jakiejś procedury lub jednym z jej etapów.",
                         "techniques": [
                             {"sufficient": [{
                                 "id": "TECH:text",
@@ -4520,7 +4520,7 @@
                         ],
                         "level": "AA",
                         "handle": "Język części",
-                        "title": "Język naturalny każdej części lub frazy zawartej w treści może zostać odczytany przez program komputerowy, za wyjątkiem nazw własnych, wyrażeń technicznych, słów w nieokreślonym języku oraz słów i fraz, które stanowią część żargonu w bezpośrednio otaczającym je tekście.",
+                        "title": "Język naturalny każdej części lub frazy zawartej w treści może zostać odczytany przez program komputerowy, z wyjątkiem nazw własnych, wyrażeń technicznych, słów w nieokreślonym języku oraz słów i fraz, które stanowią część żargonu w bezpośrednio otaczającym je tekście.",
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -5660,7 +5660,7 @@
                     ],
                     "level": "A",
                     "handle": "Parsowanie",
-                    "title": "W treści wprowadzonej przy użyciu języka znaczników, elementy posiadają pełne znaczniki początkowe i końcowe, elementy są zagnieżdżane według swoich specyfikacji, elementy nie posiadają zduplikowanych atrybutów oraz wszystkie ID są unikalne, za wyjątkiem przypadków, kiedy specyfikacja zezwala na wyżej wymienione cechy.",
+                    "title": "W treści wprowadzonej przy użyciu języka znaczników, elementy posiadają pełne znaczniki początkowe i końcowe, elementy są zagnieżdżane według swoich specyfikacji, elementy nie posiadają zduplikowanych atrybutów oraz wszystkie ID są unikalne, z wyjątkiem przypadków, kiedy specyfikacja zezwala na wyżej wymienione cechy.",
                     "details": [{
                         "type": "note",
                         "handle": "Uwaga 1",
