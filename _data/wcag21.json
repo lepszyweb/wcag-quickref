@@ -1656,10 +1656,10 @@
                             {"sufficient": []},
                             {"advisory": [
 							{
-							
+
                                 "id": "TECH:H98",
                                 "title": "Używanie atrybutu autocomplete (HTML5)"
-                            }							
+                            }
 							]},
                             {"failure": []}
                         ]
@@ -2665,7 +2665,7 @@
                                 "items": [
                                     {"text": "Wysokość linii (odstęp między wierszami) do co najmniej 1,5-krotności rozmiaru czcionki;"},
                                     {"text": "Odstęp między akapitami co najmniej 2 razy większy od rozmiaru czcionki;"},
-                                    {"text": "Odstępy między literami (tracking) do co najmniej 0,12-krotności rozmiaru czcionki;,
+                                    {"text": "Odstępy między literami (tracking) do co najmniej 0,12-krotności rozmiaru czcionki;},
                                     {"text": "Odstępy między wyrazami do co najmniej 0,16 wielkości czcionki."}
                                 ]
                             },
@@ -2744,7 +2744,7 @@
                                 "handle": "Uwaga 2",
                                 "text": "Niestandardowe podpowiedzi, podmenu i inne niemodalne wyskakujące okienka wyświetlane w dymku i fokusie to przykłady dodatkowej treści objętej tym kryterium."
                             }
-                        ],					
+                        ],
                         "techniques": [
                             {"sufficient": [
                                 {
@@ -3381,12 +3381,12 @@
                         "level": "AAA",
                         "handle": "Ostrzeżenie o limicie czasu",
                         "title": "Użytkownicy muszą być ostrzeżeni o limicie czasu bezczynności użytkownika, którego przekroczenie mogłoby spowodować utratę danych, chyba że dane te są przechowywane przez ponad 20 godzin, gdy uczestnik nie podejmie żadnych działań.",
-						
+
                         "details": [{
                             "type": "note",
                             "handle": "Uwaga 1",
                             "text": "Przepisy dotyczące prywatności mogą wymagać wyraźnej zgody użytkownika przed uwierzytelnieniem tożsamości użytkownika i zachowaniem danych użytkownika. W przypadkach, gdy użytkownik jest nieletni, wyraźna zgoda może nie być wymagana w większości jurysdykcji, krajów lub regionów. Przy rozważaniu ochrony danych jako podejścia do spełnienia tego kryterium sukcesu zaleca się konsultacje ze specjalistami ds. prywatności i radcą prawnym."
-                        }],						
+                        }],
                         "techniques": [
                             {"sufficient": [
                                 {
