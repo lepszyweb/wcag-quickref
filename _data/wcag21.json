@@ -2665,7 +2665,7 @@
                                 "items": [
                                     {"text": "Wysokość linii (odstęp między wierszami) do co najmniej 1,5-krotności rozmiaru czcionki;"},
                                     {"text": "Odstęp między akapitami co najmniej 2 razy większy od rozmiaru czcionki;"},
-                                    {"text": "Odstępy między literami (tracking) do co najmniej 0,12-krotności rozmiaru czcionki;},
+                                    {"text": "Odstępy między literami (tracking) do co najmniej 0,12-krotności rozmiaru czcionki;"},
                                     {"text": "Odstępy między wyrazami do co najmniej 0,16 wielkości czcionki."}
                                 ]
                             },
