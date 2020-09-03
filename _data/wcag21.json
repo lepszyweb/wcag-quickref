@@ -3528,19 +3528,19 @@
                                     "using": [
                                         {
                                             "id": "TECH:G1",
-                                            "title": "Dodanie u góry każdej strony linku, który prowadzi bezpośrednio do głównego obszaru zawartości"
+                                            "title": "Dodanie u góry każdej strony łącza, które prowadzi bezpośrednio do obszaru treści głównej"
                                         },
                                         {
                                             "id": "TECH:G123",
-                                            "title": "Dodanie linku na początku bloku powtarzanej treści, aby przejść do końca bloku"
+                                            "title": "Dodanie na początku bloku powtarzanej treści łącza, aby przejść na koniec bloku"
                                         },
                                         {
                                             "id": "TECH:G124",
-                                            "title": "Dodawanie linków u góry strony do każdego obszaru zawartości"
+                                            "title": "Dodawanie u góry strony łączy do każdego obszaru treści"
                                         },
                                         {
                                             "id": "TECH:SL25",
-                                            "title": "Używanie kontrolek i programowego fokusu do omijania bloków treści w Silverlight"
+                                            "title": "Używanie w Silverlight kontrolek i programowego fokusu do omijania bloków treści"
                                         }
                                     ]
                                 },
@@ -3583,7 +3583,7 @@
                             ]},
                             {"advisory": [{
                                 "id": "TECH:C6",
-                                "title": "Pozycjonowanie zawartości za pomocą znaczników strukturalnych"
+                                "title": "Pozycjonowanie treści za pomocą znaczników strukturalnych"
                             }]},
                             {"failure": []}
                         ]
@@ -3708,7 +3708,7 @@
                             "2.1"
                         ],
                         "level": "A",
-                        "handle": "2.4.4 Cel łącza (w kontekście)",
+                        "handle": "Cel łącza (w kontekście)",
                         "title": "Cel każdego łącza może wynikać z samej treści łącza lub z treści tekstu powiązanego z kontekstem łącza określonym programowo, poza tymi przypadkami, kiedy cel łącza i tak byłby niejasny dla użytkowników.",
                         "techniques": [
                             {"sufficient": [
@@ -4519,7 +4519,7 @@
                         ],
                         "level": "AA",
                         "handle": "Język części",
-                        "title": "wyjątkiem nazw własnych, wyrażeń technicznych, słów w nieokreślonym języku oraz słów i fraz, które stanowią część żargonu w bezpośrednio otaczającym je tekście.",
+                        "title": "Język naturalny każdej części lub frazy zawartej w treści może zostać odczytany przez program komputerowy, z wyjątkiem nazw własnych, wyrażeń technicznych, słów w nieokreślonym języku oraz słów i fraz, które stanowią część żargonu w bezpośrednio otaczającym je tekście.",
                         "techniques": [
                             {"sufficient": [
                                 {
