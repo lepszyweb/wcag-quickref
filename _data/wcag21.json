@@ -2566,6 +2566,10 @@
                             ]},
                             {"failure": [
                                 {
+                                    "id": "TECH:F102",
+                                    "title": "Niespełnienie kryterium sukcesu 1.4.10 z powodu zniknięcia treści i niedostępności po ponownym wlaniu treści"
+                                },
+								{
                                     "id": "TECH:text",
                                     "title": "@@ Używanie kontenerów o stałej wielkości i stałej pozycji (CSS)"
                                 },
