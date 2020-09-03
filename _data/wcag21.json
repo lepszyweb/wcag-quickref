@@ -3714,11 +3714,11 @@
                             {"sufficient": [
                                 {
                                     "id": "TECH:G91",
-                                    "title": "Zapewnienie tekstu linku opisującego cel linku"
+                                    "title": "Zapewnienie tekstu łącza opisującego cel łącza"
                                 },
                                 {
                                     "id": "TECH:H30",
-                                    "title": "Zapewnienie tekstu linku opisującego cel linku dla elementów kotwiących"
+                                    "title": "Zapewnienie tekstu łącza opisującego cel łącza dla elementów kotwiących"
                                 },
                                 {
                                     "id": "TECH:H24",
@@ -3730,15 +3730,15 @@
                                 },
                                 {
                                     "id": "TECH:text",
-                                    "title": "Umożliwienie użytkownikowi wybrania krótkiego lub długiego tekstu linku za pomocą jednej z poniższych technik:",
+                                    "title": "Umożliwienie użytkownikowi wybrania krótkiego lub długiego tekstu łącza za pomocą jednej z poniższych technik:",
                                     "using": [
                                         {
                                             "id": "TECH:G189",
-                                            "title": "Zapewnienie w pobliżu początku strony internetowej kontrolki, która przenosi użytkownika na alternatywną wersję strony z tekstami linków zrozumiałymi bez kontekstu"
+                                            "title": "Zapewnienie w pobliżu początku strony internetowej kontrolki, która przenosi użytkownika na alternatywną wersję strony z tekstami łączy zrozumiałymi bez kontekstu"
                                         },
                                         {
                                             "id": "TECH:SCR30",
-                                            "title": "Używanie skryptów do zmiany tekstu linku"
+                                            "title": "Używanie skryptów do zmiany tekstu łącza"
                                         },
                                         {
                                             "id": "TECH:FLASH7",
@@ -3748,7 +3748,7 @@
                                 },
                                 {
                                     "id": "TECH:G53",
-                                    "title": "Określenie celu linku za pomocą tekstu linku w połączeniu z tekstem otaczającego zdania"
+                                    "title": "Określenie celu łącza za pomocą tekstu łącza w połączeniu z tekstem otaczającego zdania"
                                 },
                                 {
                                     "id": "TECH:text",
@@ -3756,11 +3756,11 @@
                                     "using": [
                                         {
                                             "id": "TECH:H33",
-                                            "title": "Uzupełnianie tekstu linku za pomocą atrybutu title"
+                                            "title": "Uzupełnianie tekstu łącza za pomocą atrybutu title"
                                         },
                                         {
                                             "id": "TECH:C7",
-                                            "title": "Używanie CSS do ukrycia części tekstu linku"
+                                            "title": "Używanie CSS do ukrycia części tekstu łącza"
                                         }
                                     ]
                                 },
@@ -3770,41 +3770,41 @@
                                     "using": [
                                         {
                                             "id": "TECH:ARIA7",
-                                            "title": "Używanie atrybutu aria-labelledby, aby wskazać cel linku"
+                                            "title": "Używanie atrybutu aria-labelledby, aby wskazać cel łącza"
                                         },
                                         {
                                             "id": "TECH:ARIA8",
-                                            "title": "Używanie atrybutu aria-label, aby wskazać cel linku"
+                                            "title": "Używanie atrybutu aria-label, aby wskazać cel łącza"
                                         },
                                         {
                                             "id": "TECH:H77",
-                                            "title": "Określenie celu łącza za pomocą tekstu linku w połączeniu z jego pozycją na liście"
+                                            "title": "Określenie celu łącza za pomocą tekstu łącza w połączeniu z jego pozycją na liście"
                                         },
                                         {
                                             "id": "TECH:H78",
-                                            "title": "Określenie celu łącza za pomocą tekstu linku w połączeniu z akapitem, w którym znajduje się łącze"
+                                            "title": "Określenie celu łącza za pomocą tekstu łącza w połączeniu z akapitem, w którym znajduje się łącze"
                                         },
                                         {
                                             "id": "TECH:H79",
-                                            "title": "Określenie celu łącza za pomocą tekstu linku w połączeniu z otaczającą go komórką tabeli i powiązanymi nagłówkami tabeli"
+                                            "title": "Określenie celu łącza za pomocą tekstu łącza w połączeniu z otaczającą go komórką tabeli i powiązanymi nagłówkami tabeli"
                                         },
                                         {
                                             "id": "TECH:H81",
-                                            "title": "Określenie celu łącza w zagnieżdżonej liście przy użyciu tekstu linku połączonego z elementem listy nadrzędnej, w którym lista jest zagnieżdżona"
+                                            "title": "Określenie celu łącza w zagnieżdżonej liście przy użyciu tekstu łącza połączonego z elementem listy nadrzędnej, w którym lista jest zagnieżdżona"
                                         }
                                     ]
                                 },
                                 {
                                     "id": "TECH:G91",
-                                    "title": "Zapewnienie tekstu linku opisującego cel linku",
+                                    "title": "Zapewnienie tekstu łącza opisującego cel łącza",
                                     "using": [
                                         {
                                             "id": "TECH:PDF11",
-                                            "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
+                                            "title": "Zapewnianie łączy i tekstu łączy za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:PDF13",
-                                            "title": "Zapewnianie tekstu zastępczego za pomocą wpisu /Alt dla linków w dokumentach PDF"
+                                            "title": "Zapewnianie tekstu zastępczego za pomocą wpisu /Alt dla łączy w dokumentach PDF"
                                         },
                                         {
                                             "id": "TECH:SL18",
@@ -3816,7 +3816,7 @@
                             {"advisory": [
                                 {
                                     "id": "TECH:H2",
-                                    "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
+                                    "title": "Łączenie sąsiadujących obrazów i łączy tekstowych do tego samego zasobu"
                                 },
                                 {
                                     "id": "TECH:FLASH5",
@@ -3824,17 +3824,17 @@
                                 },
                                 {
                                     "id": "TECH:H80",
-                                    "title": "Identyfikacja celu łącza za pomocą tekstu linku w połączeniu z poprzedzającym go nagłówkiem"
+                                    "title": "Identyfikacja celu łącza za pomocą tekstu łącza w połączeniu z poprzedzającym go nagłówkiem"
                                 }
                             ]},
                             {"failure": [
                                 {
                                     "id": "TECH:F63",
-                                    "title": "Niespełnienie kryterium sukcesu 2.4.4 z powodu podania kontekstu łącza tylko w treści, która nie jest powiązana z linkiem"
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.4 z powodu podania kontekstu łącza tylko w treści, która nie jest powiązana z łączem"
                                 },
                                 {
                                     "id": "TECH:F89",
-                                    "title": "Niespełnienie kryterium sukcesu 2.4.4, 2.4.9 i 4.1.2 ze względu na brak podania dostępnej nazwy obrazu, który jest jedyną treścią w linku"
+                                    "title": "Niespełnienie kryterium sukcesu 2.4.4, 2.4.9 i 4.1.2 ze względu na brak podania dostępnej nazwy obrazu, który jest jedyną treścią w łączu"
                                 }
                             ]}
                         ]
