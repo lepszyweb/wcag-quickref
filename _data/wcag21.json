@@ -4289,7 +4289,12 @@
                                 }
                             ]},
                             {"advisory": []},
-                            {"failure": [{
+                            {"failure": [
+							    {
+                                    "id": "TECH:F101",
+                                    "title": "Niespełnienie kryterium sukcesu 2.5.2 ze względu na aktywację kontrolki przez naciśnięcie"
+                                },
+							    {
                                 "id": "TECH:text",
                                 "title": "@@ Niespełnienie kryterium sukcesu 2.5.2 spowodowane aktywacją przycisku w początkowej, a nie ostatecznej lokalizacji dotykowej"
                             }]}
