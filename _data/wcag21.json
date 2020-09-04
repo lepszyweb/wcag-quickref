@@ -3012,7 +3012,12 @@
                                 }
                             ]},
                             {"advisory": []},
-                            {"failure": [{
+                            {"failure": [
+							    {
+                                    "id": "TECH:F100",
+                                    "title": "Niespełnienie kryterium sukcesu 2.1.4 z powodu zaimplementowania jednoznakowych skrótów klawiaturowych, których nie można wyłączyć ani przemapować"
+                                },
+								{
                                 "id": "TECH:text",
                                 "title": "Niespełnienie kryterium sukcesu 2.1.4, ponieważ strona internetowa lub aplikacja mobilna, zawiera skróty jednoznakowe bez elementu sterującego, który umożliwia użytkownikom wyłączenie skrótów, lub elementu sterującego, który umożliwia użytkownikom zmianę skrótów na kombinacje klawiszy zawierające klucze, które nie są wielkimi lub małymi literami, znakami interpunkcyjnymi, cyframi lub symbolami."
                             }]}
