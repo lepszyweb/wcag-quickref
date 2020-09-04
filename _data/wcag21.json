@@ -1632,6 +1632,10 @@
                             ]},
                             {"advisory": []},
                             {"failure": [{
+                                    "id": "TECH:F100",
+                                    "title": "Niespełnienie kryterium sukcesu 1.3.4 z powodu wyświetlenia komunikatu z prośbą o zmianę orientacji urządzenia"
+                                },
+							   {
                                 "id": "TECH:F97",
                                 "title": "Błąd spowodowany zablokowaniem orientacji do widoku poziomego lub pionowego"
                             }]}
@@ -3014,7 +3018,7 @@
                             {"advisory": []},
                             {"failure": [
 							    {
-                                    "id": "TECH:F100",
+                                    "id": "TECH:F99",
                                     "title": "Niespełnienie kryterium sukcesu 2.1.4 z powodu zaimplementowania jednoznakowych skrótów klawiaturowych, których nie można wyłączyć ani przemapować"
                                 },
 								{
