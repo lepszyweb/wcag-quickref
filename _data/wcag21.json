@@ -81,15 +81,15 @@
                                     "techniques": [
                                       {
                                         "id": "TECH:ARIA6",
-                                        "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
+                                        "title": "Użycie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                       },
                                       {
                                         "id": "TECH:ARIA10",
-                                        "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
+                                        "title": "Użycie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                       },
                                       {
                                         "id": "TECH:G196",
-                                        "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
+                                        "title": "Użycie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                       },
                                       {
                                         "id": "TECH:FLASH1",
@@ -105,7 +105,7 @@
                                       },
                                       {
                                         "id": "TECH:H2",
-                                        "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
+                                        "title": "Łączenie sąsiadujących obrazów i łączy tekstowych do tego samego zasobu"
                                       },
                                       {
                                         "id": "TECH:H35",
@@ -113,11 +113,11 @@
                                       },
                                       {
                                         "id": "TECH:H37",
-                                        "title": "Używanie atrybutów alt na elementach img"
+                                        "title": "Użycie atrybutów alt w elementach img"
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Używanie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (zawartości) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
@@ -151,15 +151,15 @@
                                     "techniques": [
                                       {
                                         "id": "TECH:ARIA6",
-                                        "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
+                                        "title": "Użycie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                       },
                                       {
                                         "id": "TECH:ARIA10",
-                                        "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
+                                        "title": "Użycie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                       },
                                       {
                                         "id": "TECH:G196",
-                                        "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
+                                        "title": "Użycie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                       },
                                       {
                                         "id": "TECH:FLASH1",
@@ -175,7 +175,7 @@
                                       },
                                       {
                                         "id": "TECH:H2",
-                                        "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
+                                        "title": "Łączenie sąsiadujących obrazów i łączy tekstowych do tego samego zasobu"
                                       },
                                       {
                                         "id": "TECH:H35",
@@ -183,11 +183,11 @@
                                       },
                                       {
                                         "id": "TECH:H37",
-                                        "title": "Używanie atrybutów alt na elementach img"
+                                        "title": "Użycie atrybutów alt na elementach img"
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Używanie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (zawartości) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
@@ -210,11 +210,11 @@
                                     "techniques": [
                                       {
                                         "id": "TECH:ARIA15",
-                                        "title": "Używanie atrybutu aria-describedby, aby zapewnić odpowiedniki tekstowe dla obrazów"
+                                        "title": "Użycie atrybutu aria-describedby, aby zapewnić odpowiedniki tekstowe dla obrazów"
                                       },
                                       {
                                         "id": "TECH:G73",
-                                        "title": "G73: Zapewnienie długiego opisu w innym miejscu z linkiem sąsiadującym bezpośrednio z treścią nietekstową"
+                                        "title": "Zapewnienie długiego opisu w innym miejscu z łączem sąsiadującym bezpośrednio z treścią nietekstową"
                                       },
                                       {
                                         "id": "TECH:G74",
@@ -234,11 +234,11 @@
                                       },
                                       {
                                         "id": "TECH:H45",
-                                        "title": "Używanie longdesc"
+                                        "title": "Użycie longdesc"
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Używanie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (zawartości) elementu object"
                                       },
                                       {
                                         "id": "TECH:SL8",
@@ -264,11 +264,11 @@
                                     "techniques": [
                                       {
                                         "id": "TECH:ARIA6",
-                                        "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
+                                        "title": "Użycie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                       },
                                       {
                                         "id": "TECH:ARIA9",
-                                        "title": "Używanie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
+                                        "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
                                       },
                                       {
                                         "id": "TECH:FLASH6",
@@ -292,7 +292,7 @@
                                       },
                                       {
                                         "id": "TECH:FLASH32",
-                                        "title": "Używanie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
+                                        "title": "Użycie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
                                       },
                                       {
                                         "id": "TECH:H24",
@@ -300,19 +300,19 @@
                                       },
                                       {
                                         "id": "TECH:H30",
-                                        "title": "Zapewnienie tekstu linku opisującego cel linku dla elementów kotwiących"
+                                        "title": "Zapewnienie tekstu łącza opisującego cel łącza dla elementów kotwiących"
                                       },
                                       {
                                         "id": "TECH:H36",
-                                        "title": "Używanie atrybutów alt na obrazach używanych jako przyciski przesyłania"
+                                        "title": "Użycie atrybutów alt na obrazach używanych jako przyciski przesyłania"
                                       },
                                       {
                                         "id": "TECH:H44",
-                                        "title": "Używanie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
+                                        "title": "Użycie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
                                       },
                                       {
                                         "id": "TECH:H65",
-                                        "title": "Używanie atrybutu title do identyfikacji formantów formularzy, gdy nie można użyć elementu label"
+                                        "title": "Użycie atrybutu title do identyfikacji formantów formularzy, gdy nie można użyć elementu label"
                                       },
                                       {
                                         "id": "TECH:SL18",
@@ -320,11 +320,11 @@
                                       },
                                       {
                                         "id": "TECH:SL26",
-                                        "title": "Używanie LabeledBy do kojarzenia etykiet i celów w Silverlight"
+                                        "title": "Użycie LabeledBy do kojarzenia etykiet i celów w Silverlight"
                                       },
                                       {
                                         "id": "TECH:SL30",
-                                        "title": "Używanie systemu sterowania Silverlight i własności AutomationProperties.Name"
+                                        "title": "Użycie systemu sterowania Silverlight i własności AutomationProperties.Name"
                                       }
                                     ]
                                   }
@@ -346,15 +346,15 @@
                                     "techniques": [
                                       {
                                         "id": "TECH:ARIA6",
-                                        "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
+                                        "title": "Użycie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                       },
                                       {
                                         "id": "TECH:ARIA10",
-                                        "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
+                                        "title": "Użycie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                       },
                                       {
                                         "id": "TECH:G196",
-                                        "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
+                                        "title": "Użycie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                       },
                                       {
                                         "id": "TECH:FLASH1",
@@ -370,7 +370,7 @@
                                       },
                                       {
                                         "id": "TECH:H2",
-                                        "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
+                                        "title": "Łączenie sąsiadujących obrazów i łączy tekstowych do tego samego zasobu"
                                       },
                                       {
                                         "id": "TECH:H35",
@@ -378,11 +378,11 @@
                                       },
                                       {
                                         "id": "TECH:H37",
-                                        "title": "Używanie atrybutów alt na elementach img"
+                                        "title": "Użycie atrybutów alt na elementach img"
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Używanie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (zawartości) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
@@ -403,11 +403,11 @@
                             },
                             {
                               "id": "TECH:ARIA6",
-                              "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
+                              "title": "Użycie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                             },
                             {
                               "id": "TECH:ARIA10",
-                              "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
+                              "title": "Użycie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                             },
                             {
                               "id": "TECH:G68",
@@ -419,15 +419,15 @@
                                     "techniques": [
                                       {
                                         "id": "TECH:ARIA6",
-                                        "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
+                                        "title": "Użycie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                       },
                                       {
                                         "id": "TECH:ARIA10",
-                                        "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
+                                        "title": "Użycie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                       },
                                       {
                                         "id": "TECH:G196",
-                                        "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
+                                        "title": "Użycie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                       },
                                       {
                                         "id": "TECH:FLASH1",
@@ -443,7 +443,7 @@
                                       },
                                       {
                                         "id": "TECH:H2",
-                                        "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
+                                        "title": "Łączenie sąsiadujących obrazów i łączy tekstowych do tego samego zasobu"
                                       },
                                       {
                                         "id": "TECH:H35",
@@ -451,11 +451,11 @@
                                       },
                                       {
                                         "id": "TECH:H37",
-                                        "title": "Używanie atrybutów alt na elementach img"
+                                        "title": "Użycie atrybutów alt na elementach img"
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Używanie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (zawartości) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
@@ -484,15 +484,15 @@
                                     "techniques": [
                                       {
                                         "id": "TECH:ARIA6",
-                                        "title": "Używanie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
+                                        "title": "Użycie atrybutu aria-label, aby zapewnić etykiety dla obiektów"
                                       },
                                       {
                                         "id": "TECH:ARIA10",
-                                        "title": "Używanie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
+                                        "title": "Użycie atrybutu aria-labelledby, aby zapewnić alternatywę tekstową dla treści nietekstowej"
                                       },
                                       {
                                         "id": "TECH:G196",
-                                        "title": "Używanie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
+                                        "title": "Użycie tekstu alternatywnego dla jednego elementu w grupie obrazów opisujących wszystkie elementy w grupie"
                                       },
                                       {
                                         "id": "TECH:FLASH1",
@@ -508,7 +508,7 @@
                                       },
                                       {
                                         "id": "TECH:H2",
-                                        "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
+                                        "title": "Łączenie sąsiadujących obrazów i łączy tekstowych do tego samego zasobu"
                                       },
                                       {
                                         "id": "TECH:H35",
@@ -516,11 +516,11 @@
                                       },
                                       {
                                         "id": "TECH:H37",
-                                        "title": "Używanie atrybutów alt na elementach img"
+                                        "title": "Użycie atrybutów alt na elementach img"
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Używanie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (zawartości) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
@@ -571,7 +571,7 @@
                                     "techniques": [
                                       {
                                         "id": "TECH:C9",
-                                        "title": "Używanie CSS do dodawania obrazów dekoracyjnych"
+                                        "title": "Użycie CSS do dodawania obrazów dekoracyjnych"
                                       },
                                       {
                                         "id": "TECH:FLASH3",
@@ -579,7 +579,7 @@
                                       },
                                       {
                                         "id": "TECH:H67",
-                                        "title": "Używanie pustego tekstu alternatywnego i nieużywanie atrybutu title w elementach img dla obrazów, które powinny być zignorowane przez technologię asystującą"
+                                        "title": "Użycie pustego tekstu alternatywnego i nieużywanie atrybutu title w elementach img dla obrazów, które powinny być zignorowane przez technologię wspomagającą"
                                       },
                                       {
                                         "id": "TECH:PDF4",
@@ -600,11 +600,11 @@
                   "advisory": [
                     {
                       "id": "TECH:H46",
-                      "title": "Używanie noembed z elementami osadzonymi znacznikiem embed"
+                      "title": "Użycie noembed z elementami osadzonymi znacznikiem embed"
                     },
                     {
                       "id": "TECH:C18",
-                      "title": "Używanie marginesów CSS i reguł dopełnienia zamiast obrazów odstępów w projektowaniu układu"
+                      "title": "Użycie marginesów CSS i reguł dopełnienia zamiast obrazów odstępów w projektowaniu układu"
                     },
                     {
                       "id": "TECH:SL19",
@@ -741,7 +741,7 @@
                   "advisory": [
                     {
                       "id": "TECH:H96",
-                      "title": "Używanie elementu track, aby zapewnić audiodeskrypcję"
+                      "title": "Użycie elementu track, aby zapewnić audiodeskrypcję"
                     }
                   ]
                 },
@@ -795,7 +795,7 @@
                         },
                         {
                           "id": "TECH:H95",
-                          "title": "Używanie elementu track do tworzenia napisów"
+                          "title": "Użycie elementu track do tworzenia napisów"
                         },
                         {
                           "id": "TECH:FLASH9",
@@ -807,7 +807,7 @@
                         },
                         {
                           "id": "TECH:SL28",
-                          "title": "Używanie oddzielnych napisów  w formacie tekstowym dla treści MediaElement"
+                          "title": "Użycie oddzielnych napisów  w formacie tekstowym dla treści MediaElement"
                         }
                       ]
                     }
@@ -866,7 +866,7 @@
                       "using": [
                         {
                           "id": "TECH:H53",
-                          "title": "Używanie ciała (zawartości) elementu object"
+                          "title": "Użycie ciała (zawartości) elementu object"
                         }
                       ]
                     },
@@ -908,7 +908,7 @@
                         },
                         {
                           "id": "TECH:text",
-                          "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
+                          "title": "Użycie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                         }
                       ]
                     },
@@ -934,7 +934,7 @@
                         },
                         {
                           "id": "TECH:text",
-                          "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
+                          "title": "Użycie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                         }
                       ]
                     },
@@ -948,7 +948,7 @@
                   "advisory": [
                     {
                       "id": "TECH:H96",
-                      "title": "Używanie elementu track, aby zapewnić audiodeskrypcję"
+                      "title": "Użycie elementu track, aby zapewnić audiodeskrypcję"
                     }
                   ]
                 },
@@ -1079,7 +1079,7 @@
                         },
                         {
                           "id": "TECH:text",
-                          "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
+                          "title": "Użycie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                         }
                       ]
                     },
@@ -1101,7 +1101,7 @@
                         },
                         {
                           "id": "TECH:text",
-                          "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
+                          "title": "Użycie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                         }
                       ]
                     },
@@ -1115,7 +1115,7 @@
                   "advisory": [
                     {
                       "id": "TECH:H96",
-                      "title": "Używanie elementu track, aby zapewnić audiodeskrypcję"
+                      "title": "Użycie elementu track, aby zapewnić audiodeskrypcję"
                     }
                   ]
                 },
@@ -1188,7 +1188,7 @@
                         },
                         {
                           "id": "TECH:text",
-                          "title": "Używanie jakiegoś odtwarzacza, który obsługuje audio i wideo"
+                          "title": "Użycie jakiegoś odtwarzacza, który obsługuje audio i wideo"
                         }
                       ]
                     }
@@ -1198,7 +1198,7 @@
                   "advisory": [
                     {
                       "id": "TECH:H96",
-                      "title": "Używanie elementu track, aby zapewnić audiodeskrypcję"
+                      "title": "Użycie elementu track, aby zapewnić audiodeskrypcję"
                     }
                   ]
                 },
@@ -1244,7 +1244,7 @@
                               "using": [
                                 {
                                   "id": "TECH:H53",
-                                  "title": "Używanie ciała (zawartości) elementu object"
+                                  "title": "Użycie ciała (zawartości) elementu object"
                                 }
                               ]
                             }
@@ -1267,7 +1267,7 @@
                   "advisory": [
                     {
                       "id": "TECH:H46",
-                      "title": "Używanie znacznika noembed z elementami osadzonymi znacznikiem embed"
+                      "title": "Użycie znacznika noembed z elementami osadzonymi znacznikiem embed"
                     }
                   ]
                 },
@@ -1297,7 +1297,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:G151",
-                      "title": "Zapewnienie linku do transkrypcji tekstowej przygotowanej instrukcji lub skryptu, jeśli skrypt jest przestrzegany"
+                      "title": "Zapewnienie łącza do transkrypcji tekstowej przygotowanej instrukcji lub skryptu, jeśli skrypt jest przestrzegany"
                     },
                     {
                       "id": "TECH:G150",
@@ -1348,43 +1348,43 @@
                           "techniques": [
                             {
                               "id": "TECH:ARIA11",
-                              "title": "Używanie punktów orientacyjnych ARIA do określenia istotnych obszarów strony"
+                              "title": "Użycie punktów orientacyjnych ARIA do określenia kluczowych obszarów strony"
                             },
                             {
                               "id": "TECH:ARIA12",
-                              "title": "Używanie atrybutu role=heading oraz aria-level=\"#\"do identyfikacji nagłówków"
+                              "title": "Użycie atrybutu role=heading oraz aria-level=\"#\"do identyfikacji nagłówków"
                             },
                             {
                               "id": "TECH:ARIA13",
-                              "title": "Używanie atrybutu aria-labelledby do nazywania kluczowych obszarów i punktów orientacyjnych na stronie"
+                              "title": "Użycie atrybutu aria-labelledby do nazywania kluczowych obszarów i punktów orientacyjnych na stronie"
                             },
                             {
                               "id": "TECH:ARIA16",
-                              "title": "Używanie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
+                              "title": "Użycie atrybutu aria-labelledby, aby zapewnić dostępną nazwę dla elementów sterujących interfejsem użytkownika"
                             },
                             {
                               "id": "TECH:ARIA17",
-                              "title": "Używanie ról grupowania do identyfikowania powiązanych formantów formularzy"
+                              "title": "Użycie ról grupowania do identyfikowania powiązanych formantów formularzy"
                             },
                             {
                               "id": "TECH:ARIA20",
-                              "title": "Używanie atrybutu role=region do określania obszarów na stronie"
+                              "title": "Użycie atrybutu role=region do określania obszarów na stronie"
                             },
                             {
                               "and": [
                                 {
                                   "id": "TECH:G115",
-                                  "title": "Używanie znaczników semantycznych do oznaczania struktury"
+                                  "title": "Użycie znaczników semantycznych do oznaczania struktury"
                                 },
                                 {
                                   "id": "TECH:H49",
-                                  "title": "Używanie znaczników semantycznych do oznaczenia tekstu wyróżnionego lub specjalnego"
+                                  "title": "Użycie znaczników semantycznych do oznaczenia tekstu wyróżnionego lub specjalnego"
                                 }
                               ]
                             },
                             {
                               "id": "TECH:G117",
-                              "title": "Używanie tekstu do przekazywania informacji przekazywanych przez zmiany w sposobie prezentacji tekstu"
+                              "title": "Użycie tekstu do przekazywania informacji przekazywanych przez zmiany w sposobie prezentacji tekstu"
                             },
                             {
                               "id": "TECH:G140",
@@ -1400,23 +1400,23 @@
                               "using": [
                                 {
                                   "id": "TECH:G138",
-                                  "title": "Używanie znacznika semantycznego, gdy jako wskaźnik używany jest kolor"
+                                  "title": "Użycie znacznika semantycznego, gdy jako wskaźnik używany jest kolor"
                                 },
                                 {
                                   "id": "TECH:H51",
-                                  "title": "Używanie znaczników tabel do prezentacji danych tabelarycznych"
+                                  "title": "Użycie znaczników tabel do prezentacji danych tabelarycznych"
                                 },
                                 {
                                   "id": "TECH:PDF6",
-                                  "title": "Używanie elementów tabeli do oznaczania tabel w dokumentach PDF"
+                                  "title": "Użycie elementów tabeli do oznaczania tabel w dokumentach PDF"
                                 },
                                 {
                                   "id": "TECH:PDF20",
-                                  "title": "Używanie edytora tabel Adobe Acrobat Pro do naprawiania tabel z błędami"
+                                  "title": "Użycie edytora tabel Adobe Acrobat Pro do naprawiania tabel z błędami"
                                 },
                                 {
                                   "id": "TECH:H39",
-                                  "title": "Używanie elementu caption do kojarzenia podpisów tabel danych z tabelami danych"
+                                  "title": "Użycie elementu caption do kojarzenia podpisów tabel danych z tabelami danych"
                                 },
                                 {
                                   "id": "TECH:FLASH31",
@@ -1424,7 +1424,7 @@
                                 },
                                 {
                                   "id": "TECH:H73",
-                                  "title": "Używanie atrybutu summary w celu opisu sposobu zorganizowania danych w tabelach danych"
+                                  "title": "Użycie atrybutu summary w celu opisu sposobu zorganizowania danych w tabelach danych"
                                 },
                                 {
                                   "id": "TECH:FLASH23",
@@ -1432,11 +1432,11 @@
                                 },
                                 {
                                   "id": "TECH:H63",
-                                  "title": "Używanie atrybutu scope do kojarzenia komórek nagłówka i komórek danych w tabelach danych"
+                                  "title": "Użycie atrybutu scope do kojarzenia komórek nagłówka i komórek danych w tabelach danych"
                                 },
                                 {
                                   "id": "TECH:H43",
-                                  "title": "Używanie atrybutów id i headers do kojarzenia komórek danych z komórkami nagłówków w tabelach danych"
+                                  "title": "Użycie atrybutów id i headers do kojarzenia komórek danych z komórkami nagłówków w tabelach danych"
                                 },
                                 {
                                   "id": "TECH:FLASH21",
@@ -1444,11 +1444,11 @@
                                 },
                                 {
                                   "id": "TECH:H44",
-                                  "title": "Używanie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
+                                  "title": "Użycie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
                                 },
                                 {
                                   "id": "TECH:H65",
-                                  "title": "Używanie atrybutu title do identyfikacji formantów formularzy, gdy nie można użyć elementu label"
+                                  "title": "Użycie atrybutu title do identyfikacji formantów formularzy, gdy nie można użyć elementu label"
                                 },
                                 {
                                   "id": "TECH:PDF10",
@@ -1460,7 +1460,7 @@
                                 },
                                 {
                                   "id": "TECH:FLASH32",
-                                  "title": "Używanie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
+                                  "title": "Użycie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
                                 },
                                 {
                                   "id": "TECH:FLASH29",
@@ -1480,19 +1480,19 @@
                                 },
                                 {
                                   "id": "TECH:SL26",
-                                  "title": "Używanie LabeledBy do kojarzenia etykiet i celów w Silverlight"
+                                  "title": "Użycie LabeledBy do kojarzenia etykiet i celów w Silverlight"
                                 },
                                 {
                                   "id": "TECH:H85",
-                                  "title": "Używanie OPTGROUP do grupowania elementów OPTION wewnątrz SELECT"
+                                  "title": "Użycie OPTGROUP do grupowania elementów OPTION wewnątrz SELECT"
                                 },
                                 {
                                   "id": "TECH:H48",
-                                  "title": "Używanie ol, ul i dl dla list lub grup łączy"
+                                  "title": "Użycie ol, ul i dl dla list lub grup łączy"
                                 },
                                 {
                                   "id": "TECH:H42",
-                                  "title": "Używanie znaczników h1-h6 do identyfikacji nagłówków"
+                                  "title": "Użycie znaczników h1-h6 do identyfikacji nagłówków"
                                 },
                                 {
                                   "id": "TECH:PDF9",
@@ -1500,11 +1500,11 @@
                                 },
                                 {
                                   "id": "TECH:SCR21",
-                                  "title": "Używanie funkcji modelu obiektów dokumentu (DOM) do dodawania treści do strony"
+                                  "title": "Użycie funkcji modelu obiektów dokumentu (DOM) do dodawania treści do strony"
                                 },
                                 {
                                   "id": "TECH:PDF11",
-                                  "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
+                                  "title": "Zapewnianie łączy i tekstu łączy za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
                                 },
                                 {
                                   "id": "TECH:PDF17",
@@ -1512,11 +1512,11 @@
                                 },
                                 {
                                   "id": "TECH:PDF21",
-                                  "title": "Używanie znaczników List do wykazów w dokumentach PDF"
+                                  "title": "Użycie znaczników List do wykazów w dokumentach PDF"
                                 },
                                 {
                                   "id": "TECH:H97",
-                                  "title": "Grupowanie powiązanych linkow za pomocą elementu nav"
+                                  "title": "Grupowanie powiązanych łączy za pomocą elementu nav"
                                 }
                               ]
                             }
@@ -1527,7 +1527,7 @@
                           "techniques": [
                             {
                               "id": "TECH:G117",
-                              "title": "Używanie tekstu do przekazywania informacji przekazywanych przez zmiany w sposobie prezentacji tekstu"
+                              "title": "Użycie tekstu do przekazywania informacji przekazywanych przez zmiany w sposobie prezentacji tekstu"
                             },
                             {
                               "id": "TECH:FLASH8",
@@ -1539,15 +1539,15 @@
                               "using": [
                                 {
                                   "id": "TECH:T1",
-                                  "title": "Używanie standardowych konwencji formatowania tekstu dla akapitów"
+                                  "title": "Użycie standardowych konwencji formatowania tekstu dla akapitów"
                                 },
                                 {
                                   "id": "TECH:T2",
-                                  "title": "Używanie standardowych konwencji formatowania tekstu dla list"
+                                  "title": "Użycie standardowych konwencji formatowania tekstu dla list"
                                 },
                                 {
                                   "id": "TECH:T3",
-                                  "title": "Używanie standardowych konwencji formatowania tekstu dla nagłówków"
+                                  "title": "Użycie standardowych konwencji formatowania tekstu dla nagłówków"
                                 }
                               ]
                             }
@@ -1561,7 +1561,7 @@
                   "advisory": [
                     {
                       "id": "TECH:C22",
-                      "title": "Używanie CSS do kontrolowania wizualnej prezentacji tekstu"
+                      "title": "Użycie CSS do kontrolowania wizualnej prezentacji tekstu"
                     },
                     {
                       "id": "TECH:G162",
@@ -1569,7 +1569,7 @@
                     },
                     {
                       "id": "TECH:ARIA1",
-                      "title": "Używanie właściwości aria-describedby, aby zapewnić opisową etykietę dla kontrolki interfejsu użytkownika"
+                      "title": "Użycie właściwości aria-describedby, aby zapewnić opisową etykietę dla kontrolki interfejsu użytkownika"
                     },
                     {
                       "id": "TECH:ARIA2",
@@ -1585,7 +1585,7 @@
                   "failure": [
                     {
                       "id": "TECH:F2",
-                      "title": "Niespełnienie kryterium sukcesu 1.3.1 z powodu użycia zmian w prezentacji tekstu w celu przekazania informacji bez użycia odpowiedniego znacznika lub tekstu"
+                      "title": "Niespełnienie kryterium sukcesu 1.3.1 z powodu użycia stylizacji tekstu, aby przekazać informacje bez użycia odpowiedniego znacznika lub tekstu"
                     },
                     {
                       "id": "TECH:F33",
@@ -1613,7 +1613,7 @@
                     },
                     {
                       "id": "TECH:F87",
-                      "title": "Niespełnienie kryterium sukcesu 1.3.1 z powodu wstawiania nieprzywijających się treści za pomocą pseudoelementów :before oraz :after i własności 'content' w CSS"
+                      "title": "Niespełnienie kryterium sukcesu 1.3.1 z powodu wstawiania niedekoracyjnej treści za pomocą pseudoelementów :before i :after oraz własności 'content' w CSS"
                     },
                     {
                       "id": "TECH:F90",
@@ -1661,11 +1661,11 @@
                           "using": [
                             {
                               "id": "TECH:H34",
-                              "title": "Używanie znaku Unicode od-prawej-do-lewej (RLM) lub znaku od-lewej-do-prawej (LRM) do mieszanych kierunków tekstu w wierszu"
+                              "title": "Użycie znaku Unicode od-prawej-do-lewej (RLM) lub znaku od-lewej-do-prawej (LRM) do mieszanych kierunków tekstu w wierszu"
                             },
                             {
                               "id": "TECH:H56",
-                              "title": "Używanie atrybutu dir na elementach śródwierszowych do rozwiązywania problemów z zagnieżdżonymi zmianami kierunku tekstu"
+                              "title": "Użycie atrybutu dir na elementach śródwierszowych do rozwiązywania problemów z zagnieżdżonymi zmianami kierunku tekstu"
                             },
                             {
                               "id": "TECH:C6",
@@ -1673,7 +1673,7 @@
                             },
                             {
                               "id": "TECH:C8",
-                              "title": "Używanie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
+                              "title": "Użycie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
                             }
                           ]
                         }
@@ -1693,7 +1693,7 @@
                     },
                     {
                       "id": "TECH:SL34",
-                      "title": "Używanie domyślnej sekwencji tabulcji w Silverlight i zmienianie sekwencji tabulacji za pomocą Properties"
+                      "title": "Użycie domyślnej sekwencji tabulcji w Silverlight i zmienianie sekwencji tabulacji za pomocą Properties"
                     }
                   ]
                 },
@@ -1779,7 +1779,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:text",
-                      "title": "Używanie CSS do ustawień umożliwiajacych zarówno orientację poziomą, jak i pionową."
+                      "title": "Użycie CSS do ustawień umożliwiających zarówno orientację poziomą, jak i pionową."
                     },
                     {
                       "id": "TECH:text",
@@ -1826,7 +1826,7 @@
                     {
 
                       "id": "TECH:H98",
-                      "title": "Używanie atrybutu autocomplete (HTML5)"
+                      "title": "Użycie atrybutu autocomplete (HTML5)"
                     }
                   ]
                 },
@@ -1846,11 +1846,11 @@
                   "sufficient": [
                     {
                       "id": "TECH:ARIA11",
-                      "title": "Używanie punktów orientacyjnych ARIA do określenia istotnych obszarów strony"
+                      "title": "Użycie punktów orientacyjnych ARIA do określenia kluczowych obszarów strony"
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Używanie mikrodanych do oznaczania komponentów interfejsu użytkownika (w przyszłości link"
+                      "title": "Użycie mikrodanych do oznaczania komponentów interfejsu użytkownika (w przyszłości łącze"
                     }
                   ]
                 },
@@ -1862,11 +1862,11 @@
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Używanie semantyki do identyfikowania ważnych funkcji (coga-simplification=\"simplest\")."
+                      "title": "Użycie semantyki do identyfikowania ważnych funkcji (coga-simplification=\"simplest\")."
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Używanie attrybutów aria-invalid oraz aria-required."
+                      "title": "Użycie attrybutów aria-invalid oraz aria-required."
                     }
                   ]
                 },
@@ -1936,7 +1936,7 @@
                           "techniques": [
                             {
                               "id": "TECH:G111",
-                              "title": "Używanie koloru i deseniu"
+                              "title": "Użycie koloru i deseniu"
                             },
                             {
                               "id": "TECH:G14",
@@ -1952,7 +1952,7 @@
                   "advisory": [
                     {
                       "id": "TECH:C15",
-                      "title": "Używanie CSS do zmiany wyglądu składnika interfejsu użytkownika, gdy otrzymuje on fokus"
+                      "title": "Użycie CSS do zmiany wyglądu składnika interfejsu użytkownika, gdy otrzymuje on fokus"
                     }
                   ]
                 },
@@ -2009,7 +2009,7 @@
                     },
                     {
                       "id": "TECH:SL24",
-                      "title": "Używanie funkcji Autoodtwarzanie, aby uniemożliwić automatyczne odtwarzanie mediów w Silverlight"
+                      "title": "Użycie funkcji Autoodtwarzanie, aby uniemożliwić automatyczne odtwarzanie mediów w Silverlight"
                     },
                     {
                       "id": "TECH:FLASH18",
@@ -2167,7 +2167,7 @@
                     },
                     {
                       "id": "TECH:SL23",
-                      "title": "Używanie przełącznika stylu w celu zwiększenia rozmiaru czcionki elementów tekstowych w Silverlight"
+                      "title": "Użycie przełącznika stylu w celu zwiększenia rozmiaru czcionki elementów tekstowych w Silverlight"
                     },
                     {
                       "id": "TECH:text",
@@ -2229,11 +2229,11 @@
                     },
                     {
                       "id": "TECH:C20",
-                      "title": "Używanie względnych rozmiarów do ustawiania szerokości kolumn, aby linie mogły mieć średnio 80 znaków lub mniej, gdy zmieniana jest wielkość przeglądarki"
+                      "title": "Użycie względnych rozmiarów do ustawiania szerokości kolumn, aby linie mogły mieć średnio 80 znaków lub mniej, gdy zmieniana jest wielkość przeglądarki"
                     },
                     {
                       "id": "TECH:C22",
-                      "title": "Używanie CSS do kontrolowania wizualnej prezentacji tekstu"
+                      "title": "Użycie CSS do kontrolowania wizualnej prezentacji tekstu"
                     }
                   ]
                 },
@@ -2291,15 +2291,15 @@
                   "sufficient": [
                     {
                       "id": "TECH:C22",
-                      "title": "Używanie CSS do kontrolowania wizualnej prezentacji tekstu"
+                      "title": "Użycie CSS do kontrolowania wizualnej prezentacji tekstu"
                     },
                     {
                       "id": "TECH:SL31",
-                      "title": "Używanie właściwości czcionek Silverlight do sterowania prezentacją tekstu "
+                      "title": "Użycie właściwości czcionek Silverlight do sterowania prezentacją tekstu "
                     },
                     {
                       "id": "TECH:C30",
-                      "title": "Używanie CSS do zastępowania tekstu obrazami tekstu i zapewniania przełączników interfejsu użytkownika"
+                      "title": "Użycie CSS do zastępowania tekstu obrazami tekstu i zapewniania przełączników interfejsu użytkownika"
                     },
                     {
                       "id": "TECH:G140",
@@ -2327,7 +2327,7 @@
                     },
                     {
                       "id": "TECH:C8",
-                      "title": "Używanie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
+                      "title": "Użycie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
                     },
                     {
                       "id": "TECH:C6",
@@ -2567,7 +2567,7 @@
                             },
                             {
                               "id": "TECH:C20",
-                              "title": "Używanie względnych rozmiarów do ustawiania szerokości kolumn, aby linie mogły mieć średnio 80 znaków lub mniej, gdy zmieniana jest wielkość przeglądarki"
+                              "title": "Użycie względnych rozmiarów do ustawiania szerokości kolumn, aby linie mogły mieć średnio 80 znaków lub mniej, gdy zmieniana jest wielkość przeglądarki"
                             }
                           ]
                         },
@@ -2615,7 +2615,7 @@
                             {
                               "id": "TECH:G146",
                               "title": "Korzystanie z układu płynnego",
-                              "append": "ORAZ używanie względnych jednostek miary w treści",
+                              "append": "ORAZ Użycie względnych jednostek miary w treści",
                               "using": [
                                 {
                                   "id": "TECH:C12",
@@ -2634,12 +2634,12 @@
                                 },
                                 {
                                   "id": "TECH:C24",
-                                  "title": "Używanie wartości procentowych w CSS dla rozmiarów kontenerów",
+                                  "title": "Użycie wartości procentowych w CSS dla rozmiarów kontenerów",
                                   "append": "LUB"
                                 },
                                 {
                                   "id": "TECH:FLASH33",
-                                  "title": "Używanie wartości względnych dla wymiarów obiektu Flash",
+                                  "title": "Użycie wartości względnych dla wymiarów obiektu Flash",
                                   "append": "LUB"
                                 },
                                 {
@@ -2696,15 +2696,15 @@
                   "sufficient": [
                     {
                       "id": "TECH:C22",
-                      "title": "Używanie CSS do kontrolowania wizualnej prezentacji tekstu"
+                      "title": "Użycie CSS do kontrolowania wizualnej prezentacji tekstu"
                     },
                     {
                       "id": "TECH:SL31",
-                      "title": "Używanie właściwości czcionek Silverlight do sterowania prezentacją tekstu "
+                      "title": "Użycie właściwości czcionek Silverlight do sterowania prezentacją tekstu "
                     },
                     {
                       "id": "TECH:C30",
-                      "title": "Używanie CSS do zastępowania tekstu obrazami tekstu i zapewniania przełączników interfejsu użytkownika"
+                      "title": "Użycie CSS do zastępowania tekstu obrazami tekstu i zapewniania przełączników interfejsu użytkownika"
                     },
                     {
                       "id": "TECH:G140",
@@ -2732,7 +2732,7 @@
                     },
                     {
                       "id": "TECH:C8",
-                      "title": "Używanie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
+                      "title": "Użycie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
                     },
                     {
                       "id": "TECH:C6",
@@ -2769,11 +2769,11 @@
                   "sufficient": [
                     {
                       "id": "TECH:C32",
-                      "title": "Używanie zapytań medialnych i siatki CSS do ponownego wlewania kolumn"
+                      "title": "Użycie zapytań medialnych i siatki CSS do ponownego wlewania kolumn"
                     },
                     {
                       "id": "TECH:C31",
-                      "title": "Używanie technologii CSS flexbox do ponownego wlewania treści"
+                      "title": "Użycie technologii CSS flexbox do ponownego wlewania treści"
                     },
                     {
                       "id": "TECH:C33",
@@ -2781,7 +2781,7 @@
                     },
                     {
                       "id": "TECH:C38",
-                      "title": "Używanie własności CSS width, max-width and flexbox, aby dopasować etykiety i pola formularzy"
+                      "title": "Użycie własności CSS width, max-width and flexbox, aby dopasować etykiety i pola formularzy"
                     },
                     {
                       "id": "TECH:SCR34",
@@ -2801,11 +2801,11 @@
                   "advisory": [
                     {
                       "id": "TECH:C34",
-                      "title": "Używanie zapytań medialnych do usuwania 'przypięcia' nagłówków/stopek"
+                      "title": "Użycie zapytań medialnych do usuwania 'przypięcia' nagłówków/stopek"
                     },
                     {
                       "id": "TECH:C37",
-                      "title": "Używanie własności CSS max-width oraz height, aby dopasować obrazy"
+                      "title": "Użycie własności CSS max-width oraz height, aby dopasować obrazy"
                     },
                     {
                       "id": "TECH:text",
@@ -2829,7 +2829,7 @@
                     },
                     {
                       "id": "TECH:text",
-                      "title": "@@ Używanie kontenerów o stałej wielkości i stałej pozycji (CSS)"
+                      "title": "@@ Użycie kontenerów o stałej wielkości i stałej pozycji (CSS)"
                     },
                     {
                       "id": "TECH:text",
@@ -2972,7 +2972,7 @@
                   "advisory": [
                     {
                       "id": "TECH:C8",
-                      "title": "Używanie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
+                      "title": "Użycie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
                     },
                     {
                       "id": "TECH:C21",
@@ -3040,11 +3040,11 @@
                   "sufficient": [
                     {
                       "id": "TECH:text",
-                      "title": "@@ ARIA: Używanie atrybutu role=\"tooltip\""
+                      "title": "@@ ARIA: Użycie atrybutu role=\"tooltip\""
                     },
                     {
                       "id": "TECH:text",
-                      "title": "@@ CSS: Używanie pseudoklas  hover i focus"
+                      "title": "@@ CSS: Użycie pseudoklas  hover i focus"
                     }
                   ]
                 },
@@ -3130,7 +3130,7 @@
                       "using": [
                         {
                           "id": "TECH:H91",
-                          "title": "Korzystanie z formantów formularzy HTML i linków"
+                          "title": "Korzystanie z formantów formularzy HTML i łączy"
                         },
                         {
                           "id": "TECH:PDF3",
@@ -3138,7 +3138,7 @@
                         },
                         {
                           "id": "TECH:PDF11",
-                          "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
+                          "title": "Zapewnianie łączy i tekstu łączy za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
                         },
                         {
                           "id": "TECH:PDF23",
@@ -3156,7 +3156,7 @@
                       "using": [
                         {
                           "id": "TECH:SCR20",
-                          "title": "Używanie zarówno klawiatury, jak i innych funkcji specyficznych dla urządzenia"
+                          "title": "Użycie zarówno klawiatury, jak i innych funkcji specyficznych dla urządzenia"
                         },
                         {
                           "id": "TECH:SCR35",
@@ -3461,7 +3461,7 @@
                             },
                             {
                               "id": "TECH:SCR33",
-                              "title": "Używanie skryptu do przewijania zawartości i zapewniania mechanizmu do jej wstrzymywania"
+                              "title": "Użycie skryptu do przewijania zawartości i zapewniania mechanizmu do jej wstrzymywania"
                             },
                             {
                               "id": "TECH:SCR36",
@@ -3555,11 +3555,11 @@
                     },
                     {
                       "id": "TECH:SCR33",
-                      "title": "Używanie skryptu do przewijania zawartości i zapewniania mechanizmu do jej wstrzymywania"
+                      "title": "Użycie skryptu do przewijania zawartości i zapewniania mechanizmu do jej wstrzymywania"
                     },
                     {
                       "id": "TECH:FLASH35",
-                      "title": "Używanie skryptu do przewijania zawartości Flash i zapewnienie mechanizmu do jej wstrzymania"
+                      "title": "Użycie skryptu do przewijania zawartości Flash i zapewnienie mechanizmu do jej wstrzymania"
                     },
                     {
                       "id": "TECH:G11",
@@ -3567,7 +3567,7 @@
                     },
                     {
                       "id": "TECH:G187",
-                      "title": "Używanie technologii włączającej migające treści, które można wyłączyć za pomocą aplikacji klienckiej"
+                      "title": "Użycie technologii włączającej migające treści, które można wyłączyć za pomocą aplikacji klienckiej"
                     },
                     {
                       "id": "TECH:G152",
@@ -3575,11 +3575,11 @@
                     },
                     {
                       "id": "TECH:SCR22",
-                      "title": "Używanie skryptów do kontrolowania migotania i zatrzymywania go w ciągu pięciu sekund lub krócej"
+                      "title": "Użycie skryptów do kontrolowania migotania i zatrzymywania go w ciągu pięciu sekund lub krócej"
                     },
                     {
                       "id": "TECH:FLASH36",
-                      "title": "Używanie skryptów do kontrolowania migania i zatrzymywania go za pięć sekund lub krócej"
+                      "title": "Użycie skryptów do kontrolowania migania i zatrzymywania go za pięć sekund lub krócej"
                     },
                     {
                       "id": "TECH:G186",
@@ -3587,11 +3587,11 @@
                     },
                     {
                       "id": "TECH:G191",
-                      "title": "Zapewnienie linku, przycisku lub innego mechanizmu, który odświeża stronę bez migania treści"
+                      "title": "Zapewnienie łącza, przycisku lub innego mechanizmu, który odświeża stronę bez migania treści"
                     },
                     {
                       "id": "TECH:SL24",
-                      "title": "Używanie funkcji Autoodtwarzanie, aby uniemożliwić automatyczne odtwarzanie mediów w Silverlight"
+                      "title": "Użycie funkcji Autoodtwarzanie, aby uniemożliwić automatyczne odtwarzanie mediów w Silverlight"
                     }
                   ]
                 },
@@ -3670,7 +3670,7 @@
                     },
                     {
                       "id": "TECH:SCR14",
-                      "title": "Używanie skryptów do opcjonalnych alertów nieistotnych"
+                      "title": "Użycie skryptów do opcjonalnych alertów nieistotnych"
                     }
                   ]
                 },
@@ -3854,7 +3854,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:C39",
-                      "title": "Używanie zapytania reduce-motion, aby zapobiegać ruchowi (animacji)"
+                      "title": "Użycie zapytania reduce-motion, aby zapobiegać ruchowi (animacji)"
                     },
                     {
                       "id": "TECH:text",
@@ -3912,7 +3912,7 @@
                         },
                         {
                           "id": "TECH:SL25",
-                          "title": "Używanie w Silverlight kontrolek i programowego fokusu do omijania bloków treści"
+                          "title": "Użycie w Silverlight kontrolek i programowego fokusu do omijania bloków treści"
                         }
                       ]
                     },
@@ -3922,7 +3922,7 @@
                       "using": [
                         {
                           "id": "TECH:ARIA11",
-                          "title": "Używanie punktów orientacyjnych ARIA do określenia istotnych obszarów strony"
+                          "title": "Użycie punktów orientacyjnych ARIA do określenia kluczowych obszarów strony"
                         },
                         {
                           "id": "TECH:H69",
@@ -3936,11 +3936,11 @@
                           "and": [
                             {
                               "id": "TECH:H70",
-                              "title": "Używanie elementów ramek do grupowania bloków powtarzanego materiału"
+                              "title": "Użycie elementów ramek do grupowania bloków powtarzanego materiału"
                             },
                             {
                               "id": "TECH:H64",
-                              "title": "Używanie atrybutu title do tytułowania elementów frame i iframe"
+                              "title": "Użycie atrybutu title do tytułowania elementów frame i iframe"
                             }
                           ]
                         },
@@ -3950,7 +3950,7 @@
                         },
                         {
                           "id": "TECH:SL29",
-                          "title": "Używanie kontrolki „Lista” w Silverlight w celu zdefiniowania bloków, które można ominąć"
+                          "title": "Użycie kontrolki „Lista” w Silverlight w celu zdefiniowania bloków, które można ominąć"
                         }
                       ]
                     }
@@ -4055,7 +4055,7 @@
                         },
                         {
                           "id": "TECH:SL34",
-                          "title": "Używanie domyślnej sekwencji tabulcji w Silverlight i zmienianie sekwencji tabulacji za pomocą Properties"
+                          "title": "Użycie domyślnej sekwencji tabulcji w Silverlight i zmienianie sekwencji tabulacji za pomocą Properties"
                         }
                       ]
                     },
@@ -4134,11 +4134,11 @@
                         },
                         {
                           "id": "TECH:SCR30",
-                          "title": "Używanie skryptów do zmiany tekstu łącza"
+                          "title": "Użycie skryptów do zmiany tekstu łącza"
                         },
                         {
                           "id": "TECH:FLASH7",
-                          "title": "Używanie skryptów do zmiany etykiet kontrolnych"
+                          "title": "Użycie skryptów do zmiany etykiet kontrolnych"
                         }
                       ]
                     },
@@ -4156,7 +4156,7 @@
                         },
                         {
                           "id": "TECH:C7",
-                          "title": "Używanie CSS do ukrycia części tekstu łącza"
+                          "title": "Użycie CSS do ukrycia części tekstu łącza"
                         }
                       ]
                     },
@@ -4166,11 +4166,11 @@
                       "using": [
                         {
                           "id": "TECH:ARIA7",
-                          "title": "Używanie atrybutu aria-labelledby, aby wskazać cel łącza"
+                          "title": "Użycie atrybutu aria-labelledby, aby wskazać cel łącza"
                         },
                         {
                           "id": "TECH:ARIA8",
-                          "title": "Używanie atrybutu aria-label, aby wskazać cel łącza"
+                          "title": "Użycie atrybutu aria-label, aby wskazać cel łącza"
                         },
                         {
                           "id": "TECH:H77",
@@ -4222,7 +4222,7 @@
                     },
                     {
                       "id": "TECH:H80",
-                      "title": "Identyfikacja celu łącza za pomocą tekstu łącza w połączeniu z poprzedzającym go nagłówkiem"
+                      "title": "Identyfikacja celu łącza za pomocą tekstu łącza w połączeniu z poprzedzającym je nagłówkiem"
                     }
                   ]
                 },
@@ -4256,11 +4256,11 @@
                   "sufficient": [
                     {
                       "id": "TECH:text",
-                      "title": "Zastosowanie dwóch lub więcej z następujących technik:",
+                      "title": "Użycie dwóch lub więcej z następujących technik:",
                       "using": [
                         {
                           "id": "TECH:G125",
-                          "title": "Zapewnienie linków nawigacyjnych do powiązanych stron internetowych"
+                          "title": "Zapewnienie łączy nawigacyjnych do powiązanych stron internetowych"
                         },
                         {
                           "id": "TECH:G64",
@@ -4280,7 +4280,7 @@
                         },
                         {
                           "id": "TECH:G126",
-                          "title": "Zapewnienie listy linków do wszystkich innych stron internetowych"
+                          "title": "Zapewnienie listy łączy do wszystkich innych stron internetowych"
                         },
                         {
                           "id": "TECH:G185",
@@ -4294,7 +4294,7 @@
                   "advisory": [
                     {
                       "id": "TECH:H59",
-                      "title": "Używanie elementu link i narzędzi nawigacyjnych"
+                      "title": "Użycie elementu link i narzędzi nawigacyjnych"
                     }
                   ]
                 },
@@ -4349,7 +4349,7 @@
                     },
                     {
                       "id": "TECH:C15",
-                      "title": "Używanie CSS do zmiany wyglądu składnika interfejsu użytkownika, gdy otrzymuje on fokus"
+                      "title": "Użycie CSS do zmiany wyglądu składnika interfejsu użytkownika, gdy otrzymuje on fokus"
                     },
                     {
                       "id": "TECH:G165",
@@ -4365,7 +4365,7 @@
                     },
                     {
                       "id": "TECH:SCR31",
-                      "title": "Używanie skryptu do zmiany koloru tła lub obramowania elementu z fokusem"
+                      "title": "Użycie skryptu do zmiany koloru tła lub obramowania elementu z fokusem"
                     },
                     {
                       "id": "TECH:FLASH20",
@@ -4428,7 +4428,7 @@
                       "using": [
                         {
                           "id": "TECH:H59",
-                          "title": "Używanie elementu link i narzędzi nawigacyjnych"
+                          "title": "Użycie elementu link i narzędzi nawigacyjnych"
                         }
                       ]
                     }
@@ -4465,15 +4465,15 @@
                   "sufficient": [
                     {
                       "id": "TECH:ARIA8",
-                      "title": "Używanie atrybutu aria-label, aby wskazać cel linku"
+                      "title": "Użycie atrybutu aria-label, aby wskazać cel łącza"
                     },
                     {
                       "id": "TECH:G91",
-                      "title": "Zapewnienie tekstu linku opisującego cel linku"
+                      "title": "Zapewnienie tekstu łącza opisującego cel łącza"
                     },
                     {
                       "id": "TECH:H30",
-                      "title": "Zapewnienie tekstu linku opisującego cel linku dla elementów kotwiących"
+                      "title": "Zapewnienie tekstu łącza opisującego cel łącza dla elementów kotwiących"
                     },
                     {
                       "id": "TECH:H24",
@@ -4485,19 +4485,19 @@
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Umożliwienie użytkownikowi wybrania krótkiego lub długiego tekstu linku za pomocą jednej z poniższych technik:",
+                      "title": "Umożliwienie użytkownikowi wybrania krótkiego lub długiego tekstu łącza za pomocą jednej z poniższych technik:",
                       "using": [
                         {
                           "id": "TECH:G189",
-                          "title": "Zapewnienie w pobliżu początku strony internetowej kontrolki, która przenosi użytkownika na alternatywną wersję strony z tekstami linków zrozumiałymi bez kontekstu"
+                          "title": "Zapewnienie w pobliżu początku strony internetowej kontrolki, która przenosi użytkownika na alternatywną wersję strony z tekstami łączy zrozumiałymi bez kontekstu"
                         },
                         {
                           "id": "TECH:SCR30",
-                          "title": "Używanie skryptów do zmiany tekstu linku"
+                          "title": "Użycie skryptów do zmiany tekstu łącza"
                         },
                         {
                           "id": "TECH:FLASH7",
-                          "title": "Używanie skryptów do zmiany etykiet kontrolnych"
+                          "title": "Użycie skryptów do zmiany etykiet kontrolnych"
                         }
                       ]
                     },
@@ -4507,7 +4507,7 @@
                       "using": [
                         {
                           "id": "TECH:C7",
-                          "title": "Używanie CSS do ukrycia części tekstu linku"
+                          "title": "Użycie CSS do ukrycia części tekstu łącza"
                         }
                       ]
                     },
@@ -4517,11 +4517,11 @@
                       "using": [
                         {
                           "id": "TECH:PDF11",
-                          "title": "Zapewnianie linków i tekstu linków za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
+                          "title": "Zapewnianie łączy i tekstu łączy za pomocą przypisu (adnotacji) Link i elementu struktury /Link w dokumentach PDF"
                         },
                         {
                           "id": "TECH:PDF13",
-                          "title": "Zapewnianie tekstu zastępczego za pomocą wpisu /Alt dla linków w dokumentach PDF"
+                          "title": "Zapewnianie tekstu zastępczego za pomocą wpisu /Alt dla łączy w dokumentach PDF"
                         },
                         {
                           "id": "TECH:SL18",
@@ -4535,7 +4535,7 @@
                   "advisory": [
                     {
                       "id": "TECH:H2",
-                      "title": "Łączenie sąsiadujących obrazów i linków tekstowych do tego samego zasobu"
+                      "title": "Łączenie sąsiadujących obrazów i łączy tekstowych do tego samego zasobu"
                     },
                     {
                       "id": "TECH:FLASH5",
@@ -4543,7 +4543,7 @@
                     },
                     {
                       "id": "TECH:H33",
-                      "title": "Uzupełnianie tekstu linku za pomocą atrybutu title"
+                      "title": "Uzupełnianie tekstu łącza za pomocą atrybutu title"
                     }
                   ]
                 },
@@ -4551,11 +4551,11 @@
                   "failure": [
                     {
                       "id": "TECH:F84",
-                      "title": "Niespełnienie kryterium sukcesu 2.4.9 z powodu użycia niespecyficznego linku, takiego jak \"kliknij tutaj\" lub \"więcej\", bez mechanizmu zmiany tekstu linku na konkretny tekst"
+                      "title": "Niespełnienie kryterium sukcesu 2.4.9 z powodu użycia niespecyficznego łącza, takiego jak \"kliknij tutaj\" lub \"więcej\", bez mechanizmu zmiany tekstu łącza na konkretny tekst"
                     },
                     {
                       "id": "TECH:F89",
-                      "title": "Niespełnienie kryterium sukcesu 2.4.4, 2.4.9 i 4.1.2 ze względu na brak podania dostępnej nazwy obrazu, który jest jedyną treścią w linku"
+                      "title": "Niespełnienie kryterium sukcesu 2.4.4, 2.4.9 i 4.1.2 ze względu na brak podania dostępnej nazwy obrazu, który jest jedyną treścią w łącza"
                     }
                   ]
                 }
@@ -4894,7 +4894,7 @@
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Niespełnienie kryterium sukcesu 2.5.5 ze względu rozmiar akapitu, który jest również linkiem, mniejszy niż 44 x 44 pikseli CSS"
+                      "title": "Niespełnienie kryterium sukcesu 2.5.5 ze względu rozmiar akapitu, który jest również łączem, mniejszy niż 44 x 44 pikseli CSS"
                     }
                   ]
                 }
@@ -4970,7 +4970,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:H57",
-                      "title": "Używanie atrybutu lang dla elementu html"
+                      "title": "Użycie atrybutu lang dla elementu html"
                     },
                     {
                       "id": "TECH:FLASH13",
@@ -5013,7 +5013,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:H58",
-                      "title": "Używanie atrybutu lang do wskazywania zmian w języku naturalnym"
+                      "title": "Użycie atrybutu lang do wskazywania zmian w języku naturalnym"
                     },
                     {
                       "id": "TECH:FLASH13",
@@ -5033,7 +5033,7 @@
                   "advisory": [
                     {
                       "id": "TECH:SL27",
-                      "title": "Używanie właściwości języka/kultury jako wyeksponowanych przez Silverlight i technologie wspomagające"
+                      "title": "Użycie właściwości języka/kultury jako wyeksponowanych przez Silverlight i technologie wspomagające"
                     }
                   ]
                 },
@@ -5069,21 +5069,21 @@
                                   "using": [
                                     {
                                       "id": "TECH:H40",
-                                      "title": "Używanie list definicji"
+                                      "title": "Użycie list opisów"
                                     },
                                     {
                                       "id": "TECH:H60",
-                                      "title": "Używanie elementu link do połączeń ze słownikiem"
+                                      "title": "Użycie elementu link do połączeń ze słownikiem"
                                     }
                                   ]
                                 },
                                 {
                                   "id": "TECH:G112",
-                                  "title": "Używanie definicji wbudowanych",
+                                  "title": "Użycie definicji wbudowanych",
                                   "using": [
                                     {
                                       "id": "TECH:H54",
-                                      "title": "Używanie elementu dfn do oznaczania instancji definiującej słowo"
+                                      "title": "Użycie elementu dfn do oznaczania instancji definiującej słowo"
                                     }
                                   ]
                                 }
@@ -5099,11 +5099,11 @@
                                   "using": [
                                     {
                                       "id": "TECH:H40",
-                                      "title": "Używanie list definicji"
+                                      "title": "Użycie list opisów"
                                     },
                                     {
                                       "id": "TECH:H60",
-                                      "title": "Używanie elementu link do połączeń ze słownikiem"
+                                      "title": "Użycie elementu link do połączeń ze słownikiem"
                                     }
                                   ]
                                 },
@@ -5132,21 +5132,21 @@
                                   "using": [
                                     {
                                       "id": "TECH:H40",
-                                      "title": "Używanie list definicji"
+                                      "title": "Użycie list opisów"
                                     },
                                     {
                                       "id": "TECH:H60",
-                                      "title": "Używanie elementu link do połączeń ze słownikiem"
+                                      "title": "Użycie elementu link do połączeń ze słownikiem"
                                     }
                                   ]
                                 },
                                 {
                                   "id": "TECH:G112",
-                                  "title": "Używanie definicji wbudowanych",
+                                  "title": "Użycie definicji wbudowanych",
                                   "using": [
                                     {
                                       "id": "TECH:H54",
-                                      "title": "Używanie elementu dfn do oznaczania instancji definiującej słowo"
+                                      "title": "Użycie elementu dfn do oznaczania instancji definiującej słowo"
                                     }
                                   ]
                                 }
@@ -5217,7 +5217,7 @@
                                 },
                                 {
                                   "id": "TECH:H60",
-                                  "title": "Używanie elementu link do połączeń ze słownikiem"
+                                  "title": "Użycie elementu link do połączeń ze słownikiem"
                                 },
                                 {
                                   "id": "TECH:G70",
@@ -5334,11 +5334,11 @@
                     },
                     {
                       "id": "TECH:G163",
-                      "title": "Używanie standardowych znaków diakrytycznych, które można wyłączyć"
+                      "title": "Użycie standardowych znaków diakrytycznych, które można wyłączyć"
                     },
                     {
                       "id": "TECH:H62",
-                      "title": "Używanie elementu ruby"
+                      "title": "Użycie elementu ruby"
                     }
                   ]
                 },
@@ -5428,7 +5428,7 @@
                         },
                         {
                           "id": "TECH:H84",
-                          "title": "Używanie przycisku z wybranym elementem do wykonania akcji"
+                          "title": "Użycie przycisku z wybranym elementem do wykonania akcji"
                         },
                         {
                           "id": "TECH:FLASH4",
@@ -5450,7 +5450,7 @@
                     },
                     {
                       "id": "TECH:SCR19",
-                      "title": "Używanie zdarzenia onchange na wybranym elemencie bez powodowania zmiany kontekstu"
+                      "title": "Użycie zdarzenia onchange na wybranym elemencie bez powodowania zmiany kontekstu"
                     }
                   ]
                 },
@@ -5512,7 +5512,7 @@
                   "failure": [
                     {
                       "id": "TECH:F66",
-                      "title": "Niespełnienie kryterium sukcesu 3.2.3 z powodu prezentacji linków nawigacyjnych w innej kolejności na różnych stronach"
+                      "title": "Niespełnienie kryterium sukcesu 3.2.3 z powodu prezentacji łączy nawigacyjnych w innej kolejności na różnych stronach"
                     }
                   ]
                 }
@@ -5531,7 +5531,7 @@
               "title": "Komponenty, które mają tę samą funkcjonalność w ramach jednego zestawu stron internetowych, są w taki sam sposób zidentyfikowane.",
               "sufficientNotes": [
                 "Alternatywne teksty, które są „spójne”, nie zawsze są „identyczne”. Na przykład na dole strony internetowej może znajdować się strzałka graficzna, która prowadzi do następnej strony internetowej. Alternatywa tekstowa może brzmieć „Przejdź do strony 4.” Oczywiście, niewłaściwe byłoby powtarzanie tej alternatywy tekstowej na następnej stronie internetowej. Bardziej właściwe byłoby powiedzenie „Przejdź do strony 5”. Chociaż te alternatywy tekstowe nie byłyby identyczne, byłyby spójne i dlatego spełniałyby to kryterium sukcesu.",
-                "Pojedynczy element nietekstowy może służyć do różnych funkcji. W takich przypadkach konieczne są różne alternatywy tekstowe i należy je stosować. Przykłady można często znaleźć w przypadkach stosowania ikon, takich jak fiszki (zwykle zielone haczyki), krzyżyki i znaki drogowe. Ich funkcje mogą się różnić w zależności od kontekstu strony internetowej. Ikona fiszki może działać jako „zatwierdzona”, „zakończona” lub „dołączona”, aby wymienić kilka, w zależności od sytuacji. Używanie fiszki jako alternatywy tekstowej na wszystkich stronach internetowych nie pomaga użytkownikom zrozumieć funkcji ikony. Można stosować różne alternatywy tekstowe, gdy ta sama treść nietekstowa pełni wiele funkcji."
+                "Pojedynczy element nietekstowy może służyć do różnych funkcji. W takich przypadkach konieczne są różne alternatywy tekstowe i należy je stosować. Przykłady można często znaleźć w przypadkach stosowania ikon, takich jak fiszki (zwykle zielone haczyki), krzyżyki i znaki drogowe. Ich funkcje mogą się różnić w zależności od kontekstu strony internetowej. Ikona fiszki może działać jako „zatwierdzona”, „zakończona” lub „dołączona”, aby wymienić kilka, w zależności od sytuacji. Użycie fiszki jako alternatywy tekstowej na wszystkich stronach internetowych nie pomaga użytkownikom zrozumieć funkcji ikony. Można stosować różne alternatywy tekstowe, gdy ta sama treść nietekstowa pełni wiele funkcji."
               ],
 
               "techniques": [
@@ -5541,7 +5541,7 @@
                       "and": [
                         {
                           "id": "TECH:G197",
-                          "title": "Używanie etykiet, nazw i alternatyw tekstowych w sposób spójny dla treści o takiej samej funkcjonalności"
+                          "title": "Użycie etykiet, nazw i alternatyw tekstowych w sposób spójny dla treści o takiej samej funkcjonalności"
                         }
                       ]
                     }
@@ -5611,7 +5611,7 @@
                               "using": [
                                 {
                                   "id": "TECH:H83",
-                                  "title": "Używanie atrybutu target do otwarcia nowego okna na żądanie użytkownika i wskazanie tego w tekście łącza"
+                                  "title": "Użycie atrybutu target do otwarcia nowego okna na żądanie użytkownika i wskazanie tego w tekście łącza"
                                 },
                                 {
                                   "id": "TECH:SCR24",
@@ -5626,7 +5626,7 @@
                           "techniques": [
                             {
                               "id": "TECH:SCR19",
-                              "title": "Używanie zdarzenia onchange na wybranym elemencie bez powodowania zmiany kontekstu"
+                              "title": "Użycie zdarzenia onchange na wybranym elemencie bez powodowania zmiany kontekstu"
                             }
                           ]
                         }
@@ -5711,7 +5711,7 @@
                             },
                             {
                               "id": "TECH:ARIA21",
-                              "title": "Używanie atrybutu aria-invalid do wskazania pola z błędem"
+                              "title": "Użycie atrybutu aria-invalid do wskazania pola z błędem"
                             },
                             {
                               "id": "TECH:SCR18",
@@ -5723,7 +5723,7 @@
                             },
                             {
                               "id": "TECH:SL35",
-                              "title": "Używanie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
+                              "title": "Użycie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
                             }
                           ]
                         },
@@ -5732,15 +5732,15 @@
                           "techniques": [
                             {
                               "id": "TECH:ARIA18",
-                              "title": "Używanie atrybutu aria-alertdialog do identyfikacji błędów"
+                              "title": "Użycie atrybutu aria-alertdialog do identyfikacji błędów"
                             },
                             {
                               "id": "TECH:ARIA19",
-                              "title": "Używanie atrybutu role=alert lub role=live do identyfikacji błędów"
+                              "title": "Użycie atrybutu role=alert lub role=live do identyfikacji błędów"
                             },
                             {
                               "id": "TECH:ARIA21",
-                              "title": "Używanie atrybutu aria-invalid do wskazania pola z błędem"
+                              "title": "Użycie atrybutu aria-invalid do wskazania pola z błędem"
                             },
                             {
                               "id": "TECH:G84",
@@ -5768,7 +5768,7 @@
                             },
                             {
                               "id": "TECH:SL35",
-                              "title": "Używanie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
+                              "title": "Użycie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
                             }
                           ]
                         }
@@ -5812,11 +5812,11 @@
                       "using": [
                         {
                           "id": "TECH:ARIA1",
-                          "title": "Używanie dostępnej bogatej aplikacji internetowej, opisanej jako właściwość, aby zapewnić opisową etykietę określaną programowo"
+                          "title": "Użycie dostępnej bogatej aplikacji internetowej, opisanej jako właściwość, aby zapewnić opisową etykietę określaną programowo"
                         },
                         {
                           "id": "TECH:ARIA9",
-                          "title": "Używanie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
+                          "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
                         },
                         {
                           "id": "TECH:ARIA17",
@@ -5854,11 +5854,11 @@
                     },
                     {
                       "id": "TECH:H44",
-                      "title": "Używanie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
+                      "title": "Użycie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
                     },
                     {
                       "id": "TECH:FLASH32",
-                      "title": "Używanie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
+                      "title": "Użycie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
                     },
                     {
                       "id": "TECH:FLASH29",
@@ -5874,7 +5874,7 @@
                     },
                     {
                       "id": "TECH:SL26",
-                      "title": "Używanie LabeledBy do kojarzenia etykiet i celów w Silverlight"
+                      "title": "Użycie LabeledBy do kojarzenia etykiet i celów w Silverlight"
                     },
                     {
                       "id": "TECH:H71",
@@ -5890,7 +5890,7 @@
                     },
                     {
                       "id": "TECH:G167",
-                      "title": "Używanie sąsiadującego przycisku, aby oznaczyć przeznaczenie pola"
+                      "title": "Użycie sąsiadującego przycisku, aby oznaczyć przeznaczenie pola"
                     }
                   ]
                 },
@@ -5949,7 +5949,7 @@
                             },
                             {
                               "id": "TECH:SL35",
-                              "title": "Używanie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
+                              "title": "Użycie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
                             }
                           ]
                         },
@@ -5958,7 +5958,7 @@
                           "techniques": [
                             {
                               "id": "TECH:ARIA18",
-                              "title": "Używanie atrybutu aria-alertdialog do identyfikacji błędów"
+                              "title": "Użycie atrybutu aria-alertdialog do identyfikacji błędów"
                             },
                             {
                               "id": "TECH:G85",
@@ -5991,7 +5991,7 @@
                           "techniques": [
                             {
                               "id": "TECH:ARIA18",
-                              "title": "Używanie atrybutu aria-alertdialog do identyfikacji błędów"
+                              "title": "Użycie atrybutu aria-alertdialog do identyfikacji błędów"
                             },
                             {
                               "id": "TECH:G84",
@@ -6136,7 +6136,7 @@
                     },
                     {
                       "id": "TECH:SL35",
-                      "title": "Używanie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
+                      "title": "Użycie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
                     },
                     {
                       "id": "TECH:G199",
@@ -6168,7 +6168,7 @@
                           "techniques": [
                             {
                               "id": "TECH:G71",
-                              "title": "Zapewnienie linku pomocy na każdej stronie internetowej"
+                              "title": "Zapewnienie łącza pomocy na każdej stronie internetowej"
                             },
                             {
                               "id": "TECH:G193",
@@ -6205,7 +6205,7 @@
                   "advisory": [
                     {
                       "id": "TECH:H89",
-                      "title": "Używanie atrybutu title w celu zapewnienia pomocy kontekstowej"
+                      "title": "Użycie atrybutu title w celu zapewnienia pomocy kontekstowej"
                     }
                   ]
                 },
@@ -6260,7 +6260,7 @@
         "2.0",
         "2.1"
       ],
-      "handle": "Rzetelność",
+      "handle": "Solidność",
       "title": "Twórz treści solidnie, aby mogły być skutecznie interpretowane przez różne programy użytkownika, w tym technologie wspomagające.",
       "guidelines": [
         {
@@ -6305,7 +6305,7 @@
                     },
                     {
                       "id": "TECH:H88",
-                      "title": "Używanie HTML zgodnie ze specyfikacją"
+                      "title": "Użycie HTML zgodnie ze specyfikacją"
                     },
                     {
                       "id": "TECH:text",
@@ -6335,7 +6335,7 @@
                     },
                     {
                       "id": "TECH:SL33",
-                      "title": "Używanie dobrze sformatowanego XAML do zdefiniowania interfejsu użytkownika Silverlight"
+                      "title": "Użycie dobrze sformatowanego XAML do zdefiniowania interfejsu użytkownika Silverlight"
                     }
                   ]
                 },
@@ -6386,7 +6386,7 @@
                             },
                             {
                               "id": "TECH:ARIA16",
-                              "title": "Używanie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
+                              "title": "Użycie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
                             },
                             {
                               "id": "TECH:G108",
@@ -6394,23 +6394,23 @@
                               "using": [
                                 {
                                   "id": "TECH:H91",
-                                  "title": "Korzystanie z formantów formularzy HTML i linków"
+                                  "title": "Korzystanie z formantów formularzy HTML i łączy"
                                 },
                                 {
                                   "id": "TECH:H44",
-                                  "title": "Używanie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
+                                  "title": "Użycie elementu label do kojarzenia etykiet tekstowych z formantami formularzy"
                                 },
                                 {
                                   "id": "TECH:H64",
-                                  "title": "Używanie atrybutu title do tytułowania elementów frame i iframe"
+                                  "title": "Użycie atrybutu title do tytułowania elementów frame i iframe"
                                 },
                                 {
                                   "id": "TECH:H65",
-                                  "title": "Używanie atrybutu title do identyfikacji formantów formularzy, gdy nie można użyć elementu label"
+                                  "title": "Użycie atrybutu title do identyfikacji formantów formularzy, gdy nie można użyć elementu label"
                                 },
                                 {
                                   "id": "TECH:H88",
-                                  "title": "Używanie HTML zgodnie ze specyfikacją"
+                                  "title": "Użycie HTML zgodnie ze specyfikacją"
                                 }
                               ]
                             }
@@ -6425,7 +6425,7 @@
                               "using": [
                                 {
                                   "id": "TECH:ARIA16",
-                                  "title": "Używanie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
+                                  "title": "Użycie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
                                 }
                               ]
                             }
@@ -6436,11 +6436,11 @@
                           "techniques": [
                             {
                               "id": "TECH:G135",
-                              "title": "Używanie funkcji API dostępności dla technologii do ujawniania nazw i ról, aby umożliwić bezpośrednie ustawienie właściwości ustawianych przez użytkownika oraz powiadamianie o zmianach",
+                              "title": "Użycie funkcji API dostępności dla technologii do ujawniania nazw i ról, aby umożliwić bezpośrednie ustawienie właściwości ustawianych przez użytkownika oraz powiadamianie o zmianach",
                               "using": [
                                 {
                                   "id": "TECH:FLASH32",
-                                  "title": "Używanie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
+                                  "title": "Użycie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
                                 },
                                 {
                                   "id": "TECH:FLASH29",
@@ -6460,11 +6460,11 @@
                                 },
                                 {
                                   "id": "TECH:SL26",
-                                  "title": "Używanie LabeledBy do kojarzenia etykiet i celów w Silverlight"
+                                  "title": "Użycie LabeledBy do kojarzenia etykiet i celów w Silverlight"
                                 },
                                 {
                                   "id": "TECH:SL32",
-                                  "title": "Używanie elementów tekstowych Silverlight dla odpowiedniej roli dostępności"
+                                  "title": "Użycie elementów tekstowych Silverlight dla odpowiedniej roli dostępności"
                                 }
                               ]
                             }
@@ -6475,11 +6475,11 @@
                           "techniques": [
                             {
                               "id": "TECH:G10",
-                              "title": "Tworzenie komponentów przy użyciu technologii obsługującej powiadomianie o zmianach dotyczących dostępności",
+                              "title": "Tworzenie komponentów przy użyciu technologii obsługującej powiadamianie o zmianach dotyczących dostępności",
                               "using": [
                                 {
                                   "id": "TECH:ARIA4",
-                                  "title": "Używanie atrybutu &bdquo;role&rdquo;, aby wyeksponować rolę komponentu interfejsu użytkownika"
+                                  "title": "Użycie atrybutu &bdquo;role&rdquo;, aby wyeksponować rolę komponentu interfejsu użytkownika"
                                 },
                                 {
                                   "id": "TECH:ARIA5",
@@ -6487,7 +6487,7 @@
                                 },
                                 {
                                   "id": "TECH:ARIA16",
-                                  "title": "Używanie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
+                                  "title": "Użycie atrybutu aria-labelledby, aby zapewnić nazwę dla elementów sterujących interfejsem użytkownika"
                                 },
                                 {
                                   "id": "TECH:SL6",
@@ -6503,7 +6503,7 @@
                                 },
                                 {
                                   "id": "TECH:SL30",
-                                  "title": "Używanie systemu sterowania Silverlight i własności AutomationProperties.Name"
+                                  "title": "Użycie systemu sterowania Silverlight i własności AutomationProperties.Name"
                                 }
                               ]
                             }
@@ -6542,7 +6542,7 @@
                     },
                     {
                       "id": "TECH:F89",
-                      "title": "Niespełnienie kryterium sukcesu 2.4.4, 2.4.9 i 4.1.2 ze względu na brak podania dostępnej nazwy obrazu, który jest jedyną treścią w linku"
+                      "title": "Niespełnienie kryterium sukcesu 2.4.4, 2.4.9 i 4.1.2 ze względu na brak podania dostępnej nazwy obrazu, który jest jedyną treścią w łączu"
                     }
                   ]
                 }
@@ -6566,7 +6566,7 @@
                           "techniques": [
                             {
                               "id": "TECH:ARIA22",
-                              "title": "Używanie atrybutu role=status do prezentacji statusu komunikatu błędu",
+                              "title": "Użycie atrybutu role=status do prezentacji statusu komunikatu błędu",
                               "using": [
                                 {
                                   "id": "TECH:G199",
@@ -6581,7 +6581,7 @@
                           "techniques": [
                             {
                               "id": "TECH:ARIA19",
-                              "title": "Używanie atrybutu role=alert lub role=live do identyfikacji błędów",
+                              "title": "Użycie atrybutu role=alert lub role=live do identyfikacji błędów",
                               "using": [
                                 {
                                   "id": "TECH:G83",
@@ -6612,17 +6612,17 @@
                           "techniques": [
                             {
                               "id": "TECH:ARIA23",
-                              "title": "Używanie atrybutu role=log do identyfikowania sekwencyjnych aktualizacji informacji"
+                              "title": "Użycie atrybutu role=log do identyfikowania sekwencyjnych aktualizacji informacji"
                             },
                             {
                               "id": "TECH:text",
-                              "title": " Używanie atrybutu role=\"progressbar\" (link w przyszłości)"
+                              "title": " Użycie atrybutu role=\"progressbar\" (łącze w przyszłości)"
                             },
                             {
                               "and": [
                                 {
                                   "id": "TECH:ARIA22",
-                                  "title": "Używanie atrybutu role=status do prezentacji statusu komunikatu błędu"
+                                  "title": "Użycie atrybutu role=status do prezentacji statusu komunikatu błędu"
                                 },
                                 {
                                   "id": "TECH:G193",
@@ -6640,23 +6640,23 @@
                   "advisory": [
                     {
                       "id": "TECH:text",
-                      "title": "Używanie atrybutu aria-live w obszarach z klienta czata (link w przyszłości)"
+                      "title": "Użycie atrybutu aria-live w obszarach z klienta czata (łącze w przyszłości)"
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Używanie atrybutu role=\"marquee\" (link w przyszłości)"
+                      "title": "Użycie atrybutu role=\"marquee\" (łącze w przyszłości)"
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Używanie atrybutu role=\"timer\" (link w przyszłości)"
+                      "title": "Użycie atrybutu role=\"timer\" (łącze w przyszłości)"
                     },
                     {
                       "id": "TECH:ARIA18",
-                      "title": "Używanie atrybutu aria-alertdialog do identyfikacji błędów"
+                      "title": "Użycie atrybutu aria-alertdialog do identyfikacji błędów"
                     },
                     {
                       "id": "TECH:SCR14",
-                      "title": "Używanie skryptów do opcjonalnych alertów nieistotnych"
+                      "title": "Użycie skryptów do opcjonalnych alertów nieistotnych"
                     }
                   ]
                 },
@@ -6664,11 +6664,11 @@
                   "failure": [
                     {
                       "id": "TECH:text",
-                      "title": "Używanie atrybutu role=\"alert\" lub aria-live=\"assertive\" w przypadku treści, która nie jest ważna i ma znaczenie chwilowe. (link w przyszłości)"
+                      "title": "Użycie atrybutu role=\"alert\" lub aria-live=\"assertive\" w przypadku treści, która nie jest ważna i ma znaczenie chwilowe. (łącze w przyszłości)"
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Używanie zmieniającego widok zdarzenia change, aby ukryć lub wyświetlić dokument bez przełączania się między regionami aktywnymi i nieaktywnymi. (link w przyszłości)"
+                      "title": "Użycie zmieniającego widok zdarzenia change, aby ukryć lub wyświetlić dokument bez przełączania się między regionami aktywnymi i nieaktywnymi. (łącze w przyszłości)"
                     }
                   ]
                 }
