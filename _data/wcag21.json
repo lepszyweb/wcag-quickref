@@ -862,7 +862,7 @@
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Łączenie z alternatywą dla mediów opartych na czasie za pomocą jednej z następujących technik:									",
+                      "title": "Łączenie z alternatywą dla mediów opartych na czasie za pomocą jednej z następujących technik:\t\t\t\t\t\t\t\t\t",
                       "using": [
                         {
                           "id": "TECH:H53",
@@ -1215,7 +1215,7 @@
               ],
               "level": "AAA",
               "handle": "Alternatywa dla mediów (nagranie)",
-              "title": "Zapewniona jest alternatywa dla wszystkich — nagrań w multimediach zsynchronizowanych (dźwięk i obraz) oraz dla wszystkich nagrań tylko wideo (sam obraz).",
+              "title": "Zapewniona jest alternatywa dla wszystkich nagrań w multimediach zsynchronizowanych (dźwięk i obraz) oraz dla wszystkich nagrań tylko wideo (sam obraz).",
               "techniques": [
                 {
                   "sufficient": [
@@ -1734,7 +1734,7 @@
               ],
               "level": "A",
               "handle": "Właściwości zmysłowe",
-              "title": "Instrukcje co do zrozumienia i operowania treścią nie opierają się wyłącznie na właściwościach zmysłowych, takich, jak kształt, rozmiar, wzrokowa lokalizacja, orientacja w przestrzeni lub dźwięk.",
+              "title": "Instrukcje co do zrozumienia i operowania treścią nie opierają się wyłącznie na właściwościach zmysłowych, takich jak: kształt, rozmiar, wzrokowa lokalizacja, orientacja w przestrzeni lub dźwięk.",
               "details": [
                 {
                   "type": "note",
@@ -2469,6 +2469,11 @@
                       "text": "Głośność dźwięków tła jest przynajmniej o 20 decybeli mniejsza, niż głośność mowy, która stanowi główną treść nagrania, z wyjątkiem okazyjnych, jedno– lub dwusekundowych dźwięków tła."
                     }
                   ]
+                },
+                {
+                  "type": "note",
+                  "handle": "Uwaga",
+                  "text": "Z definicji terminu „decybel” wynika, iż dźwięki tła spełniające powyższy wymóg będą 4 razy cichsze od głównej treści nagrania."
                 }
               ],
               "techniques": [
@@ -4852,7 +4857,7 @@
                     },
                     {
                       "handle": "Śródliniowe",
-                      "text": "Cel znajduje się w zdaniu lub bloku tekstu;"
+                      "text": "Cel znajduje się w zdaniu lub w bloku tekstu;"
                     },
                     {
                       "handle": "Kontrola programu użytkownika",
@@ -5276,7 +5281,7 @@
               ],
               "level": "AAA",
               "handle": "Poziom umiejętności czytania",
-              "title": "Jeśli dany tekst, po usunięciu nazw własnych i tytułów, wymaga umiejętności czytania na poziomie wyższym niż osiągany po 9 latach nauki, istnieje dodatkowa treść wyjaśniająca lub oddzielna wersja, która nie wymaga większych umiejętności czytania.",
+              "title": "Jeśli dany tekst, po usunięciu nazw własnych i tytułów, wymaga umiejętności czytania na poziomie wyższym niż poziom gimnazjalny, istnieje dodatkowa treść wyjaśniająca lub oddzielna wersja, która nie wymaga większych umiejętności czytania.",
               "techniques": [
                 {
                   "sufficient": [
