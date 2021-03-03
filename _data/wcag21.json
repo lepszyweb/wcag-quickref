@@ -1472,7 +1472,7 @@
                                 },
                                 {
                                   "id": "TECH:H71",
-                                  "title": "Zapewnienie opisu dla grup formantów formularzy przy użyciu elementów fieldset i legend"
+                                  "title": "Zapewnienie opisu dla grup kontrolek formularzy przy użyciu elementów fieldset i legend"
                                 },
                                 {
                                   "id": "TECH:SL20",
@@ -1484,7 +1484,7 @@
                                 },
                                 {
                                   "id": "TECH:H85",
-                                  "title": "Użycie OPTGROUP do grupowania elementów OPTION wewnątrz SELECT"
+                                  "title": "Użycie optgroup do grupowania elementów option wewnątrz select"
                                 },
                                 {
                                   "id": "TECH:H48",
@@ -3135,7 +3135,7 @@
                       "using": [
                         {
                           "id": "TECH:H91",
-                          "title": "Korzystanie z formantów formularzy HTML i łączy"
+                          "title": "Korzystanie z kontrolek formularzy HTML i łączy"
                         },
                         {
                           "id": "TECH:PDF3",
@@ -5883,7 +5883,7 @@
                     },
                     {
                       "id": "TECH:H71",
-                      "title": "Zapewnienie opisu dla grup formantów formularzy przy użyciu elementów fieldset i legend"
+                      "title": "Zapewnienie opisu dla grup kontrolek formularzy przy użyciu elementów fieldset i legend"
                     },
                     {
                       "id": "TECH:FLASH8",
@@ -6399,7 +6399,7 @@
                               "using": [
                                 {
                                   "id": "TECH:H91",
-                                  "title": "Korzystanie z formantów formularzy HTML i łączy"
+                                  "title": "Korzystanie z kontrolek formularzy HTML i łączy"
                                 },
                                 {
                                   "id": "TECH:H44",
