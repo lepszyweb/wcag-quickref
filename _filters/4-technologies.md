@@ -9,7 +9,7 @@ filters:
 - short: css
   title: <abbr title="Kaskadowe arkusze stylów (CSS)">CSS</abbr>
 - short: wai-aria
-  title: <abbr title="Dostępne Bogate Aplikacji Internetowe">ARIA</abbr>
+  title: <abbr title="Dostępne Bogate Aplikacje Internetowe">ARIA</abbr>
 - short: js
   title: Skrypty po stronie klienta
 - short: server

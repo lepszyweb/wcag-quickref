@@ -3,7 +3,7 @@ title: O usłudze
 ---
 Narzędzie udostępnia konfigurowalne widoki zasobów WCAG 2:
 
--   Standard sieciowy: Wytyczne dotyczące dostępności stron internetowych — [WCAG 2.1](https://www.w3.org/TR/WCAG21/), [WCAG 2.0](https://www.w3.org/TR/WCAG20/)
+-   Standard sieciowy: Wytyczne dla dostępności stron internetowych — [WCAG 2.1](https://www.w3.org/TR/WCAG21/), [WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 -   Wskazówki dotyczące wdrażania: Techniki dla WCAG
 -   Informacje uzupełniające: Zrozumieć WCAG 2
 

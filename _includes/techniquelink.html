@@ -37,7 +37,7 @@
     <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {{technique.append}} {% if forloop.last %}{% else %}<strong>ORAZ</strong>{% endif %}</span>
   {% endfor %}
   {% if include.technique.using %}
-    using one of the following techniques:
+    przy użyciu jednej z następujących technik:
     <ul>
       {% for techn in include.technique.using %}
         <li class="{% include techniqueclass.html technique=techn %}">{% include techniquelink.html technique=techn %}</li>
@@ -57,7 +57,7 @@
       <span class="{% include techniqueclass.html technique=technique %}">{% include techniquelink.html technique=technique %} {{technique.append}} {% if forloop.last %}{% else %}<strong>LUB</strong>{% endif %}</span>
     {% endfor %}
     {% if include.technique.using %}
-      using one of the following techniques:
+       przy użyciu jednej z następujących technik:
       <ul>
         {% for techniq in include.technique.using %}
           <li class="{% include techniqueclass.html technique=techniq %}">{% include techniquelink.html technique=techniq %}</li>
