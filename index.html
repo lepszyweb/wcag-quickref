@@ -49,7 +49,7 @@ button: 1
       {% for principle in site.data.wcag21.principles %}
         {% assign p = p | plus: 1 %}
         {% assign g = 0 %}
-        <section class="principle" aria-labelledby="principle{{ principle.num }}" aria-roledescription="principle">
+        <section class="principle" aria-labelledby="principle{{ principle.num }}" aria-roledescription="zasada">
           <div class="panel panel-default">
             <div class="panel-heading">
               <h2 id="principle{{ principle.num }}"><strong>Zasada {{ p }}</strong> – {{principle.handle}}</h2>
