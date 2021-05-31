@@ -8,3 +8,11 @@ updates:
   reviewers:
   - wojsmol
   - zwiastunsw
+- package-ecosystem: bundler
+  directory: "/"
+    schedule:
+      interval: daily
+  open-pull-requests-limit: 99
+  reviewers:
+  - wojsmol
+  - zwiastunsw
