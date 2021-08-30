@@ -296,7 +296,7 @@
                                       },
                                       {
                                         "id": "TECH:H24",
-                                        "title": "Zapewnienie alternatyw tekstowych dla elementów obszaru map obrazów"
+                                        "title": "Zapewnienie alternatyw tekstowych dla elementów area graficznych map odsyłaczy"
                                       },
                                       {
                                         "id": "TECH:H30",
@@ -1718,7 +1718,7 @@
                     },
                     {
                       "id": "TECH:F1",
-                      "title": "Niespełnienie kryterium sukcesu 1.3.2 z powodu zmiany znaczenia treści poprzez umieszczenie informacji w CSS"
+                      "title": "Niespełnienie kryterium sukcesu 1.3.2 z powodu zmiany znaczenia treści poprzez pozycjonowanie za pomocą CSS"
                     }
                   ]
                 }
@@ -2877,7 +2877,7 @@
                           "techniques": [
                             {
                               "id": "TECH:G195",
-                              "title": "Korzystanie z dobrze widocznego wskaźnika fokusu dostarczonego przez autora"
+                              "title": "Korzystanie z dobrze widocznego wskaźnika fokusu zapewnionego przez autora"
                             }
                           ]
                         },
@@ -3049,7 +3049,7 @@
                     },
                     {
                       "id": "TECH:text",
-                      "title": "@@ CSS: Użycie pseudoklas  hover i focus"
+                      "title": "@@ CSS: Użycie pseudoklas hover i focus"
                     }
                   ]
                 },
@@ -3798,7 +3798,7 @@
                 {
                   "type": "note",
                   "handle": "Uwaga 1",
-                  "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała treść danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: Spełnienie wymagań: Bez zakłóceń."
+                  "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała treść danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: 5 Spełnienie wymagań: Bez zakłóceń."
                 }
               ],
               "techniques": [
@@ -4123,7 +4123,7 @@
                     },
                     {
                       "id": "TECH:H24",
-                      "title": "Zapewnienie alternatyw tekstowych dla elementów obszaru map obrazów"
+                      "title": "Zapewnienie alternatyw tekstowych dla elementów area graficznych map odsyłaczy"
                     },
                     {
                       "id": "TECH:FLASH27",
@@ -4358,11 +4358,11 @@
                     },
                     {
                       "id": "TECH:G165",
-                      "title": "Korzystanie z domyślnego dla platformy oznaczenia fokusu, dzięki czemu będą one przenoszone na inne platformy"
+                      "title": "Korzystanie z domyślnego dla platformy oznaczenia fokusu, dzięki czemu będzie ono przenoszone na inne platformy"
                     },
                     {
                       "id": "TECH:G195",
-                      "title": "Korzystanie z dobrze widocznego wskaźnika fokusu dostarczonego przez autora"
+                      "title": "Korzystanie z dobrze widocznego wskaźnika fokusu zapewnionego przez autora"
                     },
                     {
                       "id": "TECH:text",
@@ -4482,7 +4482,7 @@
                     },
                     {
                       "id": "TECH:H24",
-                      "title": "Zapewnienie alternatyw tekstowych dla elementów obszaru map obrazów"
+                      "title": "Zapewnienie alternatyw tekstowych dla elementów area graficznych map odsyłaczy"
                     },
                     {
                       "id": "TECH:FLASH27",
@@ -4918,7 +4918,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:text",
-                      "title": "@@ Only using high-level, input-agnostic event handlers (focus, blur, click) in Javascript (operating systems/UAs fire these events for all input mechanisms)."
+                      "title": "@@ Używanie tylko wysokopoziomowych, niezależnych od wejścia obsługi zdarzeń (focus, blur, click) w Javascript (systemy operacyjne/agenty użytkownika uruchamiają te zdarzenia dla wszystkich mechanizmów wejściowych)"
                     }
                   ]
                 },
@@ -5825,7 +5825,7 @@
                         },
                         {
                           "id": "TECH:ARIA17",
-                          "title": "Using grouping roles to identify related form controls"
+                          "title": "Użycie ról grupowania do identyfikowania powiązanych formantów formularzy"
                         },
                         {
                           "id": "TECH:G89",
@@ -5907,7 +5907,7 @@
                     },
                     {
                       "id": "TECH:SL19",
-                      "title": "Providing User Instructions With AutomationProperties.HelpText in Silverlight"
+                      "title": "Zapewnienie użytkownikom instrukcji za pomocą AutomationProperties.HelpText w Silverlight"
                     }
                   ]
                 },
@@ -6141,7 +6141,7 @@
                     },
                     {
                       "id": "TECH:SL35",
-                      "title": "Użycie interfejsów API Validation i ValidationSummary  do implementacji walidacji formularzy po stronie klienta w Silverlight"
+                      "title": "Użycie interfejsów API Validation i ValidationSummary do implementacji walidacji formularzy po stronie klienta w Silverlight"
                     },
                     {
                       "id": "TECH:G199",
@@ -6227,7 +6227,7 @@
               ],
               "level": "AAA",
               "handle": "Zapobieganie błędom (wszystkim)",
-              "title": "Dla stron internetowych , które wymagają od użytkownika wprowadzania informacji, przynajmniej jedno z poniższych założeń jest prawdziwe:",
+              "title": "Dla stron internetowych, które wymagają od użytkownika wprowadzania informacji, przynajmniej jedno z poniższych założeń jest prawdziwe:",
               "details": [
                 {
                   "type": "ulist",
