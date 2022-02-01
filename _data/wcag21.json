@@ -1416,7 +1416,7 @@
                                 },
                                 {
                                   "id": "TECH:H39",
-                                  "title": "Użycie elementu caption do kojarzenia podpisów tabel danych z tabelami danych"
+                                  "title": "Użycie elementu caption do powiązania podpisu tabeli danych z tabelą danych"
                                 },
                                 {
                                   "id": "TECH:FLASH31",
@@ -6353,7 +6353,7 @@
                     },
                     {
                       "id": "TECH:F77",
-                      "title": "Niespełnienie kryterium sukcesu 4.1.1 z powodu zduplikowanych wartości typu ID"
+                      "title": "Niespełnienie kryterium sukcesu 4.1.1 z powodu zduplikowanych wartości ID"
                     }
                   ]
                 }
