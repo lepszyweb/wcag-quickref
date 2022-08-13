@@ -117,7 +117,7 @@
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Użycie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (treści) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
@@ -187,11 +187,11 @@
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Użycie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (treści) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
-                                        "title": "Providing text alternatives for ASCII art, emoticons, and leetspeak"
+                                        "title": "Zapewnienie tekstowych alternatyw dla sztuki ASCII, emotikonów i tekstu szyfrowanego"
                                       },
                                       {
                                         "id": "TECH:PDF1",
@@ -238,7 +238,7 @@
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Użycie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (treści) elementu object"
                                       },
                                       {
                                         "id": "TECH:SL8",
@@ -252,7 +252,7 @@
                           ]
                         },
                         {
-                          "title": "Sytuacja C: Jeśli zawartość nietekstowa jest kontrolką lub polem wprowadzania danych przez użytkownika:",
+                          "title": "Sytuacja C: Jeśli treść nietekstowa jest kontrolką lub polem wprowadzania danych przez użytkownika:",
                           "techniques": [
                             {
                               "id": "TECH:G82",
@@ -334,7 +334,7 @@
                           ]
                         },
                         {
-                          "title": "Sytuacja D: Jeżeli zawartością nietekstowa są media dynamiczne (w tym tylko wideo na żywo i tylko audio na żywo); test lub ćwiczenie, które utraciłoby swój sens, gdyby zostało przedstawione w tekście; lub miało na celu przede wszystkim stworzenie specyficznych odczuć zmysłowych:",
+                          "title": "Sytuacja D: Jeżeli treścią nietekstową są media dynamiczne (w tym tylko wideo na żywo i tylko audio na żywo); test lub ćwiczenie, które utraciłoby swój sens, gdyby zostało przedstawione w tekście; lub miało na celu przede wszystkim stworzenie specyficznych odczuć zmysłowych:",
                           "techniques": [
                             {
                               "id": "TECH:text",
@@ -382,7 +382,7 @@
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Użycie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (treści) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
@@ -455,7 +455,7 @@
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Użycie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (treści) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
@@ -476,7 +476,7 @@
                             },
                             {
                               "id": "TECH:G100",
-                              "title": "Zapewnienie zaakceptowanej nazwy lub opisowej nazwy treści nietekstowej",
+                              "title": "Zapewnienie alternatywy tekstowej będącej przyjętą lub opisową nazwą treści nietekstowej",
                               "using": [
                                 {
                                   "group": {
@@ -520,7 +520,7 @@
                                       },
                                       {
                                         "id": "TECH:H53",
-                                        "title": "Użycie ciała (zawartości) elementu object"
+                                        "title": "Użycie ciała (treści) elementu object"
                                       },
                                       {
                                         "id": "TECH:H86",
@@ -542,7 +542,7 @@
                           ]
                         },
                         {
-                          "title": "Sytuacja E: Jeśli zawartością nietekstową jest CAPTCHA:",
+                          "title": "Sytuacja E: Jeśli treścią nietekstową jest CAPTCHA:",
                           "techniques": [
                             {
                               "and": [
@@ -559,7 +559,7 @@
                           ]
                         },
                         {
-                          "title": "Sytuacja F: Jeśli zawartość nietekstowa powinna być ignorowana przez technologię wspomagającą:",
+                          "title": "Sytuacja F: Jeśli treść nietekstowa powinna być ignorowana przez technologię wspomagającą:",
                           "techniques": [
                             {
                               "id": "TECH:text",
@@ -640,7 +640,7 @@
                     },
                     {
                       "id": "TECH:F65",
-                      "title": "Niespełnienie kryterium sukcesu 1.1.1 z powodu pominięcia atrybutu alt lub tekstu  alternatywnego w elementach img, elementach area i polach typu \"image\""
+                      "title": "Niespełnienie kryterium sukcesu 1.1.1 z powodu pominięcia atrybutu alt lub tekstu alternatywnego w elementach img, elementach area i polach typu \"image\""
                     },
                     {
                       "id": "TECH:F67",
@@ -704,7 +704,7 @@
                     {
                       "situations": [
                         {
-                          "title": "Sytuacja A: Jeśli zawartość jest tylko nagraniem audio:",
+                          "title": "Sytuacja A: Jeśli treść jest tylko nagraniem audio:",
                           "techniques": [
                             {
                               "id": "TECH:G158",
@@ -717,7 +717,7 @@
                           ]
                         },
                         {
-                          "title": "Sytuacja B: Jeśli zawartość jest tylko nagraniem wideo:",
+                          "title": "Sytuacja B: Jeśli treść jest tylko nagraniem wideo:",
                           "techniques": [
                             {
                               "id": "TECH:G159",
@@ -866,7 +866,7 @@
                       "using": [
                         {
                           "id": "TECH:H53",
-                          "title": "Użycie ciała (zawartości) elementu object"
+                          "title": "Użycie ciała (treści) elementu object"
                         }
                       ]
                     },
@@ -1222,7 +1222,7 @@
                     {
                       "situations": [
                         {
-                          "title": "Sytuacja A: Jeśli zawartość jest wcześniej nagranym medium zsynchronizowanym:",
+                          "title": "Sytuacja A: Jeśli treść jest wcześniej nagranym medium zsynchronizowanym:",
                           "techniques": [
                             {
                               "id": "TECH:G69",
@@ -1244,14 +1244,14 @@
                               "using": [
                                 {
                                   "id": "TECH:H53",
-                                  "title": "Użycie ciała (zawartości) elementu object"
+                                  "title": "Użycie ciała (treści) elementu object"
                                 }
                               ]
                             }
                           ]
                         },
                         {
-                          "title": "Sytuacja B: Jeżeli zawartość jest wcześniej nagranym tylko wideo:",
+                          "title": "Sytuacja B: Jeżeli treść jest wcześniej nagranym tylko wideo:",
                           "techniques": [
                             {
                               "id": "TECH:G159",
@@ -1301,7 +1301,7 @@
                     },
                     {
                       "id": "TECH:G150",
-                      "title": "Zapewnienie tekstowych alternatyw dla zawartości dźwiekowej (tylko) na żywo"
+                      "title": "Zapewnienie tekstowych alternatyw dla treści dźwiekowej (tylko) na żywo"
                     },
                     {
                       "id": "TECH:G157",
@@ -1496,7 +1496,7 @@
                                 },
                                 {
                                   "id": "TECH:PDF9",
-                                  "title": "Zapewnianie nagłówków poprzez oznaczanie zawartości znacznikami nagłówków w dokumentach PDF"
+                                  "title": "Zapewnianie nagłówków poprzez oznaczanie treści znacznikami nagłówków w dokumentach PDF"
                                 },
                                 {
                                   "id": "TECH:SCR21",
@@ -1647,7 +1647,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:G57",
-                      "title": "Porządkowanie zawartości w znaczącej kolejności"
+                      "title": "Porządkowanie treści w znaczącej kolejności"
                     },
                     {
                       "and": [
@@ -1657,7 +1657,7 @@
                         },
                         {
                           "id": "TECH:G57",
-                          "title": "Porządkowanie zawartości w znaczącej kolejności",
+                          "title": "Porządkowanie treści w znaczącej kolejności",
                           "using": [
                             {
                               "id": "TECH:H34",
@@ -1669,7 +1669,7 @@
                             },
                             {
                               "id": "TECH:C6",
-                              "title": "Pozycjonowanie zawartości za pomocą znaczników strukturalnych"
+                              "title": "Pozycjonowanie treści za pomocą znaczników strukturalnych"
                             },
                             {
                               "id": "TECH:C8",
@@ -2331,7 +2331,7 @@
                     },
                     {
                       "id": "TECH:C6",
-                      "title": "Pozycjonowanie zawartości za pomocą znaczników strukturalnych"
+                      "title": "Pozycjonowanie treści za pomocą znaczników strukturalnych"
                     }
                   ]
                 },
@@ -2741,7 +2741,7 @@
                     },
                     {
                       "id": "TECH:C6",
-                      "title": "Pozycjonowanie zawartości za pomocą znaczników strukturalnych"
+                      "title": "Pozycjonowanie treści za pomocą znaczników strukturalnych"
                     }
                   ]
                 },
@@ -3062,7 +3062,7 @@
                     },
                     {
                       "id": "TECH:text",
-                      "title": "@@ Brak możliwości odrzucenia zawartości bez przesunięcia wskaźnika myszy lub fokusu klawiatury"
+                      "title": "@@ Brak możliwości odrzucenia treści bez przesunięcia wskaźnika myszy lub fokusu klawiatury"
                     },
                     {
                       "id": "TECH:text",
@@ -3458,7 +3458,7 @@
                           "techniques": [
                             {
                               "id": "TECH:G4",
-                              "title": "Umożliwienie zatrzymania zawartości i wznowienie jej od miejsca, w którym została wstrzymana"
+                              "title": "Umożliwienie zatrzymania treści i wznowienie jej od miejsca, w którym została wstrzymana"
                             },
                             {
                               "id": "TECH:G198",
@@ -3466,7 +3466,7 @@
                             },
                             {
                               "id": "TECH:SCR33",
-                              "title": "Użycie skryptu do przewijania zawartości i zapewniania mechanizmu do jej wstrzymywania"
+                              "title": "Użycie skryptu do przewijania treści i zapewniania mechanizmu do jej wstrzymywania"
                             },
                             {
                               "id": "TECH:SCR36",
@@ -3530,7 +3530,7 @@
                 {
                   "type": "note",
                   "handle": "Uwaga 2",
-                  "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała zawartość danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: Spełnienie wymagań: Bez zakłóceń."
+                  "text": "Ponieważ każda treść, która nie spełnia tego kryterium sukcesu może utrudnić użytkownikowi skorzystanie z całej strony, cała treść danej strony (bez względu na to, czy spełnia inne kryteria, czy nie) musi spełnić powyższe kryterium. Więcej informacji: Spełnienie wymagań: Bez zakłóceń."
                 },
                 {
                   "type": "note",
@@ -3548,7 +3548,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:G4",
-                      "title": "Umożliwienie zatrzymania zawartości i wznowienie jej od miejsca, w którym została wstrzymana"
+                      "title": "Umożliwienie zatrzymania treści i wznowienie jej od miejsca, w którym została wstrzymana"
                     },
                     {
                       "id": "TECH:SL11",
@@ -3560,15 +3560,15 @@
                     },
                     {
                       "id": "TECH:SCR33",
-                      "title": "Użycie skryptu do przewijania zawartości i zapewniania mechanizmu do jej wstrzymywania"
+                      "title": "Użycie skryptu do przewijania treści i zapewniania mechanizmu do jej wstrzymywania"
                     },
                     {
                       "id": "TECH:FLASH35",
-                      "title": "Użycie skryptu do przewijania zawartości Flash i zapewnienie mechanizmu do jej wstrzymania"
+                      "title": "Użycie skryptu do przewijania treści Flash i zapewnienie mechanizmu do jej wstrzymania"
                     },
                     {
                       "id": "TECH:G11",
-                      "title": "Tworzenie zawartości, która miga krócej niż 5 sekund"
+                      "title": "Tworzenie treści, która miga krócej niż 5 sekund"
                     },
                     {
                       "id": "TECH:G187",
@@ -3806,7 +3806,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:G19",
-                      "title": "Zapewnienie, że żaden element zawartości nie miga częściej niż trzy razy w ciągu 1 sekundy"
+                      "title": "Zapewnienie, że żaden element treści nie miga częściej niż trzy razy w ciągu 1 sekundy"
                     },
                     {
                       "id": "TECH:G176",
@@ -3814,7 +3814,7 @@
                     },
                     {
                       "id": "TECH:G15",
-                      "title": "Użycie narzędzia, aby się upewnić, że zawartość nie narusza ogólnego progu błysku ani progu czerwonego błysku"
+                      "title": "Użycie narzędzia, aby się upewnić, że treść nie narusza ogólnego progu błysku ani progu czerwonego błysku"
                     }
                   ]
                 },
@@ -3838,7 +3838,7 @@
                   "sufficient": [
                     {
                       "id": "TECH:G19",
-                      "title": "Zapewnienie, że żaden element zawartości nie błyska częściej niż trzy razy w ciągu 1 sekundy"
+                      "title": "Zapewnienie, że żaden element treści nie błyska częściej niż trzy razy w ciągu 1 sekundy"
                     }
                   ]
                 },
@@ -3935,7 +3935,7 @@
                         },
                         {
                           "id": "TECH:PDF9",
-                          "title": "Zapewnianie nagłówków poprzez oznaczanie zawartości znacznikami nagłówków w dokumentach PDF"
+                          "title": "Zapewnianie nagłówków poprzez oznaczanie treści znacznikami nagłówków w dokumentach PDF"
                         },
                         {
                           "and": [
@@ -4066,11 +4066,11 @@
                     },
                     {
                       "id": "TECH:text",
-                      "title": "Dynamiczne zmiany zawartości strony za pomocą jednej z następujących technik:",
+                      "title": "Dynamiczne zmiany treści strony za pomocą jednej z następujących technik:",
                       "using": [
                         {
                           "id": "TECH:SCR26",
-                          "title": "Wstawianie dynamicznej zawartości do modelu obiektów dokumentu bezpośrednio po elemencie wyzwalającym"
+                          "title": "Wstawianie dynamicznej treści do modelu obiektów dokumentu bezpośrednio po elemencie wyzwalającym"
                         },
                         {
                           "id": "TECH:SCR37",
@@ -5655,7 +5655,7 @@
                     },
                     {
                       "id": "TECH:F61",
-                      "title": "Niespełnienie kryterium sukcesu 3.2.5 z powodu całkowitej zmiany głównej zawartości poprzez automatyczną aktualizację, której użytkownik nie może wyłączyć z treści"
+                      "title": "Niespełnienie kryterium sukcesu 3.2.5 z powodu całkowitej zmiany głównej treści poprzez automatyczną aktualizację, której użytkownik nie może wyłączyć z treści"
                     },
                     {
                       "id": "TECH:F9",
