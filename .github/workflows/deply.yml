@@ -37,11 +37,19 @@ jobs:
         run: |
           gem install bundler jekyll
           bundle install
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+      - name: Build Jekyll Site
+        run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git clone --depth 1 --branch gh-pages https://github.com/${{ github.repository }}.git gh-pages
+          cp -a _site/. gh-pages/
+          cd gh-pages
+          git add .
+          git commit -m "Update Jekyll site"
+          git push origin gh-pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
