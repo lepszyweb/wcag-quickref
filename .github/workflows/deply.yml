@@ -29,6 +29,10 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+         ruby-version: '3.3' # Not needed with a .ruby-version file
+         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Install Jekyll and Bundler
         run: |
           gem install bundler jekyll
