@@ -41,11 +41,12 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: _site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+          domain: wcag.lepszyweb.pl
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   # Deployment job
   deploy:
