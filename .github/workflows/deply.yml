@@ -47,6 +47,9 @@ jobs:
           fqdn: wcag.lepszyweb.pl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
 
  # Deployment job
   deploy:
