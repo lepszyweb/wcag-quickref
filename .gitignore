@@ -1,0 +1,9 @@
+_site
+.sass-cache
+questions.md
+node_modules
+npm-debug.log
+.DS_Store
+/.jekyll-metadata
+Gemfile.lock
+/vendor

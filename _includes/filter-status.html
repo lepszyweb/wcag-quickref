@@ -1,0 +1,24 @@
+<div class="filter-status">
+  <div class="icon">
+    <div class="outer" aria-live="polite">
+      <span class="sr-only loading">Ładowanie</span>
+      <span class="sr-only loaded">Załadowano</span></span>
+    </div>
+  </div>
+  <div class="filter-status-row">
+    <div class="text"><span id="status" aria-live="polite" aria-atomic="true">Wybrane filtry: <strong class="ver">WCAG 2.2:</strong> <span class="sc">wszystkie kryteria sukcesu</span> i <span class="tech">wszystkie techniki.</span></span> <a id="hiddennav" href="#hiddensc">(Co usunięto z filtrów?)</a></div>
+    <div class="clear">
+    <button class="clearall btn btn-info btn-sm" hidden><svg class="i-refresh"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-refresh"></use></svg> Wyczyść filtry</button>
+    </div>
+    {% if include.button %}
+    <div>
+      <button class="btn btn-default btn-sm" id="expandcollapsalltechniques" data-expanded="false">
+        <svg aria-hidden="true" class="i-plus"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-plus"></use></svg>
+        <svg aria-hidden="true" class="i-minus"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-minus"></use></svg>
+        <span>Rozwiń <strong>wszystkie</strong> sekcje</span>
+      </button>
+    </div>
+    {% endif %}
+    <div class="permalink"><button class="btn btn-default btn-sm" id="sharethisviewbutton"><svg aria-hidden="true" class="i-share"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-share"></use></svg> Udostępnij</button><div class="sharebox"><p><label>Łącze do tego widoku z wybranymi filtrami:<input id="sharethisviewinput" value="" type="url" readonly> Skrót do skopiowania łącza: <kbd>ctrl</kbd>+<kbd>C</kbd> <em>or</em> <kbd>⌘</kbd><kbd>C</kbd></label></p><p><button>Zamknij</button></p></div></div>
+  </div>
+</div>

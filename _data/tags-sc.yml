@@ -1,0 +1,351 @@
+non-text-content:
+  dev: captcha obrazy tekst-alternatywny wideo
+  int: audio wideo przyciski karuzele captcha
+  vis: obrazy obrazy-tekstu animacje etapy-postępu tekst-alternatywny wideo
+  con: audio napisy treść obrazy przekaz-na-żywo treść-ruchoma tekst-alternatywny wideo wskazówki-wizualne przyciski
+audio-only-and-video-only-prerecorded:
+  dev: wideo tekst-alternatywny
+  int: audio wideo
+  vis: animacje tekst-alternatywny wideo
+  con: audio napisy treść treść-ruchoma tekst-alternatywny wideo
+captions-prerecorded:
+  dev: wideo tekst tekst-alternatywny
+  int: audio wideo
+  vis: animacje tekst-alternatywny wideo
+  con: audio napisy treść treść-ruchoma tekst-alternatywny wideo
+audio-description-or-media-alternative-prerecorded:
+  dev: wideo
+  int: audio wideo
+  vis: animacje wideo
+  con: treść wideo
+captions-live:
+  dev: wideo tekst tekst-alternatywny
+  int: audio wideo przekaz-strumieniowy
+  vis: animacje tekst-alternatywny wideo
+  con: audio napisy treść przekaz-na-żywo
+audio-description-prerecorded:
+  dev: wideo
+  int: audio wideo przekaz-strumieniowy
+  vis: animacje tekst-alternatywny wideo
+  con: treść przekaz-na-żywo wideo
+sign-language-prerecorded:
+  dev: wideo
+  int: audio wideo
+  vis: wideo
+  con: audio treść wideo
+extended-audio-description-prerecorded:
+  dev: wideo
+  int: audio wideo
+  vis: animacje wideo
+  con: treść wideo
+media-alternative-prerecorded:
+  dev: wideo tekst tekst-alternatywny obrazy
+  int: audio wideo
+  vis: animacje tekst-alternatywny wideo
+  con: audio treść wideo
+audio-only-live:
+  dev: tekst tekst-alternatywny
+  int: audio przekaz-strumieniowy
+  vis: tekst-alternatywny
+  con: audio przekaz-na-żywo
+info-and-relationships:
+  dev: formularze nagłówki etykiety menu znakowanie struktura tabele
+  int: przyciski karuzele zmiana-treści kontrolki błędy formularze okna-modalne nawigacja przejdź-do-treści
+  vis: treść-ukryta układ etapy-postępu struktura tabele
+  con: spójne-doświadczenie treść nagłówki treść-ukryta etapy-postępu struktura wskazówki-wizualne
+meaningful-sequence:
+  dev: formularze klawiatura struktura
+  int: przyciski karuzele kontrolki błędy fokus formularze nawigacja przejdź-do-treści kolejność-tabulacji
+  vis: treść-ukryta układ etapy-postępu struktura tabele
+  con: spójne-doświadczenie treść treść-ukryta komunikowanie etapy-postępu struktura
+sensory-characteristics:
+  dev: tekst
+  int: przyciski kontrolki błędy nawigacja
+  vis: kolor układ struktura
+  con: audio spójne-doświadczenie treść komunikowanie wskazówki-wizualne
+orientacja:
+  dev: znacznik-meta viewport mobilne
+  int: znacznik-meta viewport mobilne
+  vis: interfejs-użytkownika orientacja mobilne układ
+identify-input-purpose:
+  dev: formularze kontrolki autouzupełnianie
+  int: formularze kontrolki autouzupełnianie
+identify-purpose:
+  dev: obszary ikony komponenty kontrolki formularze
+  int: obszary ikony komponenty kontrolki formularze
+  vis: obszary ikony
+  con: obszary ikony
+use-of-color:
+  int: przyciski kontrolki błędy fokus formularze nawigacja
+  vis: kolor tekst
+  con: treść łącza komunikowanie tekst
+audio-control:
+  dev: kontrolki wideo
+  int: audio autoodtwarzanie kontrolki przekaz-strumieniowy wideo
+  con: przyciski
+contrast-minimum:
+  int: przyciski błędy fokus formularze nawigacja
+  vis: kolor kontrast obrazy-tekstu tekst
+  con: treść komunikowanie
+resize-text:
+  dev: tekst
+  vis: układ tekst powiększenie
+images-of-text:
+  dev: obrazy tekst
+  int: przyciski
+  vis: kontrast obrazy-tekstu tekst tekst-alternatywny
+  con: treść obrazy tekst tekst-alternatywny
+contrast-enhanced:
+  int: przyciski błędy fokus formularze nawigacja
+  vis: kolor kontrast obrazy-tekstu tekst
+  con: treść komunikowanie
+low-or-no-background-audio:
+  dev: captcha wideo
+  int: audio autoodtwarzanie kontrolki przekaz-strumieniowy captcha
+visual-presentation:
+  dev: kontrolki tekst
+  int: kontrolki
+  vis: kolor kontrast układ struktura tekst powiększenie
+  con: treść struktura tekst
+obrazy-tekstu-no-exception:
+  dev: obrazy tekst
+  int: przyciski
+  vis: kontrast obrazy obrazy-tekstu tekst tekst-alternatywny
+  con: spójne-doświadczenie struktura tekst
+reflow:
+  dev: zapytania-o-media rozmiar-ekranu orientacja mobilne powiększenie
+  int: zapytania-o-media rozmiar-ekranu orientacja mobilne powiększenie
+  vis: tekst rozmiar-ekranu orientacja układ mobilne ponowne-wlewanie
+  con: tekst rozmiar-ekranu orientacja ponowne-wlewanie
+non-text-contrast:
+  int: kontrast obiekty-graficzne
+  vis: kolor kontrolki kontrast obiekty-graficzne
+  con: kontrast obiekty-graficzne
+text-spacing:
+  dev: ponowne-wlewanie układ tekst
+  int: ponowne-wlewanie układ tekst
+  vis: ponowne-wlewanie tekst czytelność
+  con: ponowne-wlewanie tekst czytelność
+content-on-hover-or-fokus:
+  dev: interakcja pop-up klawiatura hover fokus nawigacja
+  int: interakcja pop-up klawiatura hover fokus nawigacja
+  vis: interakcja pop-up hover fokus nawigacja
+keyboard:
+  dev: kontrolki fokus klawiatura zdarzenia wideo
+  int: autoodtwarzanie przyciski karuzele kontrolki błędy fokus formularze zdarzenia nawigacja przekaz-strumieniowy wideo kolejność-tabulacji przejdź-do-treści
+  con: łącza komunikowanie
+no-keyboard-trap:
+  dev: kontrolki fokus klawiatura zdarzenia wideo
+  int: autoodtwarzanie przyciski karuzele kontrolki błędy fokus formularze zdarzenia nawigacja przekaz-strumieniowy wideo kolejność-tabulacji przejdź-do-treści
+keyboard-no-exception:
+  dev: kontrolki fokus klawiatura zdarzenia wideo
+  int: autoodtwarzanie przyciski karuzele kontrolki błędy fokus formularze zdarzenia nawigacja przekaz-strumieniowy wideo kolejność-tabulacji przejdź-do-treści
+character-key-shortcuts:
+  dev: fokus klawiatura
+  int: fokus klawiatura
+timing-adjustable:
+  dev: kontrolki
+  int: kontrolki limit-czasu
+pause-stop-hide:
+  dev: kontrolki wideo
+  int: audio autoodtwarzanie karuzele zmiana-treści kontrolki wideo limit-czasu
+  vis: mruganie animacje wideo
+  con: przyciski
+no-timing:
+  dev: kontrolki
+  int: kontrolki limit-czasu
+interruptions:
+  dev: kontrolki
+  int: kontrolki błędy zmiana-treści limit-czasu
+re-authenticating:
+  int: formularze limit-czasu
+  vis: tekst
+timeouts:
+  dev: kontrolki błędy zmiana-treści limit-czasu
+  int: kontrolki błędy zmiana-treści limit-czasu powiadomienia
+  vis: treść wskazówki-wizualne powiadomienia
+three-flashes-or-below-threshold:
+  vis: miganie animacje
+  con: treść wideo treść-ruchoma
+three-flashes:
+  vis: miganie animacje
+  con: treść wideo treść-ruchoma
+animacje-from-interactions:
+  dev: kontrolki animacje klawiatura fokus interakcja
+  int: kontrolki animacje klawiatura fokus interakcja
+  vis: spójne-doświadczenie wskazówki-wizualne kontrolki animacje interakcja
+bypass-blocks:
+  dev: nagłówki menu znakowanie struktura iframe
+  int: nawigacja przejdź-do-treści
+  vis: układ struktura
+  con: nagłówki
+page-titled:
+  dev: tytuł-strony
+  int: nawigacja
+  vis: struktura etapy-postępu
+  con: treść tytuł-strony struktura
+focus-order:
+  dev: błędy fokus formularze klawiatura łącza menu zdarzenia
+  int: przyciski karuzele kontrolki błędy fokus formularze okna-modalne zdarzenia nawigacja przejdź-do-treści kolejność-tabulacji
+  vis: struktura
+  con: przyciski
+link-purpose-in-context:
+  dev: łącza menu
+  int: przyciski nawigacja
+  con: treść łącza przyciski
+multiple-ways:
+  dev: menu
+  int: nawigacja
+  vis: struktura
+headings-and-labels:
+  dev: błędy formularze nagłówki etykiety menu tabele
+  int: błędy formularze nawigacja
+  vis: tekst
+  con: treść nagłówki komunikowanie
+focus-visible:
+  dev: kontrolki fokus klawiatura menu
+  int: kontrolki fokus nawigacja przejdź-do-treści kolejność-tabulacji
+  vis: kolor kontrast etapy-postępu
+  con: przyciski
+location:
+  dev: menu
+  int: nawigacja
+link-purpose-link-only:
+  dev: menu łącza
+  int: przyciski nawigacja
+  con: treść łącza przyciski
+section-headings:
+  dev: nagłówki znakowanie struktura
+  vis: struktura tekst
+  con: treść nagłówki etapy-postępu
+focus-not-obscured-minimum:
+  dev: pozycjonowanie fokus przyklejony ustalony klawiatura kontrolki menu
+  int: pozycjonowanie fokus przyklejony ustalony nawigacja kolejność-tabulacji
+  vis: fokus przyklejony ustalony
+focus-not-obscured-enhanced:
+  dev: pozycjonowanie fokus przyklejony ustalony klawiatura kontrolki menu
+  int: pozycjonowanie fokus przyklejony ustalony nawigacja kolejność-tabulacji
+  vis: fokus przyklejony ustalony
+focus-appearance:
+  dev: kontrolki fokus klawiatura menu
+  int: kontrolki fokus nawigacja przejdź-do-treści kolejność-tabulacji
+  vis: kolor kontrast etapy-postępu
+  con: przyciski  
+pointer-gestures:
+  dev: kontrolki zdarzenia mobilne
+  int: kontrolki zdarzenia mobilne
+pointer-cancellation:
+  dev: kontrolki zdarzenia mobilne
+  int: kontrolki zdarzenia mobilne
+label-in-name:
+  dev: kontrolki przyciski formularze etykiety łącza
+  int: kontrolki przyciski formularze etykiety łącza
+  vis: spójne-doświadczenie treść wskazówki-wizualne kontrolki przyciski formularze etykiety
+  con: spójne-doświadczenie treść wskazówki-wizualne kontrolki przyciski formularze etykiety
+motion-actuation:
+  dev: kontrolki klawiatura mobilne
+  int: kontrolki klawiatura mobilne
+target-size-enhanced:
+  int: przyciski kontrolki formularze mobilne
+  vis: przyciski kontrolki formularze mobilne
+concurrent-input-mechanisms:
+  dev: nawigacja łącza kontrolki zdarzenia mobilne klawiatura
+dragging-movements:
+  dev: kontrolki zdarzenia przeciągnij-i-upuść
+  int: kontrolki zdarzenia przeciągnij-i-upuść
+target-size-minimum:
+  int: przyciski kontrolki formularze mobilne
+  vis: przyciski kontrolki formularze mobilne    
+language-of-page:
+  dev: język tekst
+  vis: tekst
+language-of-parts:
+  dev: język tekst
+  vis: tekst
+unusual-words:
+  dev: tekst znakowanie
+  vis: tekst
+  con: treść
+abbreviations:
+  dev: tekst znakowanie
+  vis: tekst
+  con: treść
+reading-level:
+  vis: tekst
+  con: treść
+pronunciation:
+  vis: tekst
+  con: treść
+on-fokus:
+  dev: kontrolki fokus formularze menu zdarzenia
+  int: kontrolki formularze zdarzenia nawigacja
+on-input:
+  dev: kontrolki formularze menu zdarzenia
+  int: kontrolki formularze zdarzenia nawigacja
+consistent-navigation:
+  dev: menu
+  int: nawigacja
+  vis: układ etapy-postępu
+  con: etapy-postępu
+consistent-identification:
+  dev: kontrolki formularze menu struktura
+  int: przyciski kontrolki formularze okna-modalne nawigacja
+  vis: etapy-postępu struktura
+  con: spójne-doświadczenie treść wskazówki-wizualne przyciski
+change-on-request:
+  dev: kontrolki formularze menu zdarzenia
+  int: kontrolki formularze zdarzenia nawigacja
+consistent-help:
+  vis: pomoc
+  int: pomoc
+  con: treść
+error-identification:
+  dev: kontrolki błędy fokus formularze etykiety
+  int: kontrolki błędy fokus formularze
+  con: treść
+labels-or-instructions:
+  dev: kontrolki fokus formularze etykiety
+  int: kontrolki błędy fokus formularze
+  con: treść komunikowanie etapy-postępu wskazówki-wizualne
+error-suggestion:
+  dev: kontrolki błędy fokus formularze etykiety
+  int: kontrolki błędy fokus formularze
+  con: treść komunikowanie
+error-prevention-legal-financial-data:
+  dev: błędy formularze
+  int: błędy formularze
+  con: treść komunikowanie
+help:
+  dev: błędy formularze tekst
+  int: błędy
+  vis: tekst
+  con: treść komunikowanie
+error-prevention-all:
+  dev: błędy formularze
+  int: błędy formularze
+  con: treść
+redundant-entry:
+  dev: formularze
+  int: formularze
+  vis: formularze
+  con: formularze
+accessible-authentication-minimum:
+  dev: formularze logowanie
+  int: formularze logowanie
+  vis: formularze logowanie
+  con: formularze logowanie
+accessible-authentication-enhanced:
+  dev: formularze logowanie
+  int: formularze logowanie
+  vis: formularze logowanie
+  con: formularze logowanie
+parsing:
+  dev: znakowanie struktura
+name-role-value:
+  dev: znakowanie struktura formularze etykiety menu wideo
+  con: komunikowanie treść-ruchoma
+status-messages:
+  dev: formularze błędy
+  int: błędy formularze komunikowanie
+  vis: treść komunikowanie etapy-postępu wskazówki-wizualne
+  con: treść komunikowanie

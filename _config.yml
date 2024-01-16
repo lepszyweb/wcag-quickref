@@ -1,0 +1,58 @@
+# Site settings
+title: "Jak spełnić WCAG (Krótki przewodnik)"
+email: kontakt@lepszyweb.pl
+description: "Polska wersja poradnika W3C - Jak spełnić WCAG"
+baseurl: "./" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username: stefanwajda
+github_username:  zwiastunsw
+status: published
+version: "3.5.1"
+
+techniqueurl: https://www.w3.org/WAI/WCAG22/Techniques/
+understandingurl: https://www.w3.org/WAI/WCAG22/Understanding/
+
+port: 4099
+
+safe: true
+lsi: false
+
+# Build settings
+markdown: kramdown
+
+repository: 'lepszyweb/wcag-quickref'
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  blanklines: false
+  profile: false
+
+collections:
+  filters:
+    output: false
+  help:
+    output: false
+
+
+plugins:
+  - jekyll-github-metadata
+
+exclude:
+  - node_modules
+  - .sass-cache
+  - Gemfile.lock
+  - Gemfile
+  - gulpfile.js
+  - npm-debug.log
+  - package.json
+  - questions.md
+  - w3c.json
+  - package-lock.json
+  - text.html
+  - README.md
+  - pnpm-lock.yaml
+  - CHANGELOG.md
+  - CODE_OF_CONDUCT.md
+  - vendor

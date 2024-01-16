@@ -1,0 +1,86 @@
+---
+layout: default
+button: 1
+---
+{% include header.html %}
+
+<div class="mainrow">
+  <button id="showhidesbsmall" data-target="#sidebar" type="button" data-toggle="collapse" data-expanded="true" aria-controls="#sidebar" class="btn btn-default"><span class="word-show"><svg aria-hidden="true" class="i-chevron-right"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-right"></use></svg> Pokaż</span><span class="word-hide"><svg aria-hidden="true" class="i-chevron-down"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-down"></use></svg> Ukryj</span> nawigację na stronie i opcje filtrowania</button>
+
+  <div class="sidebar" id="sidebar">
+    <div>
+      <nav>
+        <ul class="nav nav-tabs buttons" id="navtabs">
+          <li>
+            <button id="hidesidebars" type="button" class="btn btn-default btn-sm" aria-label="Ukryj pasek boczny"><span><span class="word-hide"><svg aria-hidden="true" class="i-chevron-left"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-left"></use></svg> Ukryj</span></span></button>
+          </li>
+          <li class="active">
+            <a href="#col_overview" aria-expanded="true" data-toggle="tab" aria-controls="col_overview"><span><svg aria-hidden="true" class="i-menu"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-menu"></use></svg> Treść</span></a>
+          </li>
+          <li>
+            <a href="#col_customize"  aria-expanded="false" data-toggle="tab" aria-controls="col_customize"><span><svg aria-hidden="true" class="i-settings"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-settings"></use></svg> Filtr</span></a>
+          </li>
+        </ul>
+      </nav>
+      <div class="tab-content">
+        <aside class="tab-pane active" id="col_overview" aria-label="Treść">
+          {% include sidenav.html tags="false" heading="false" %}
+        </aside>
+        <aside class="tab-pane tags" id="col_customize" aria-label="Filtr">
+          <div class="sidebar-content">
+            <div class="infobox">
+              <svg aria-hidden="true" class="i-info"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-info"></use></svg> Zmiana filtrów spowoduje zmianę wymienionych kryteriów sukcesu i technik.
+            </div>
+            {% include versions.html %}
+            {% include tags.html show="true" %}
+            {% include filters.html %}
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+  <main>
+    <div class="navrow with-expandcollapseallbutton" style="top:0;">
+      <button id="showsidebars" hidden type="button" class="btn btn-default btn-sm"><span><svg aria-hidden="true" class="i-chevron-right"><use xlink:href="{{ "img/icons.svg" | relative_url }}#i-chevron-right"></use></svg> Pokaż pasek</span></button>
+      {% include filter-status.html button="true" %}
+    </div>
+      <div class="maininner">
+      {% assign p = 0 %}
+      {% for principle in site.data.wcag22.principles %}
+        {% assign p = p | plus: 1 %}
+        {% assign g = 0 %}
+        <section class="principle" aria-labelledby="principle{{ principle.num }}" aria-roledescription="zasada">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h2 id="principle{{ principle.num }}"><strong>Zasada {{ p }}</strong> – {{principle.handle}}</h2>
+            </div>
+            <div class="panel-body panel-body-principle">
+              <p>{{principle.title}}</p>
+            </div>
+          </div>
+          <div class="guidelines">
+            {% for guideline in principle.guidelines %}
+              {% include guideline.html %}
+            {% endfor %}
+          </div>
+        </section>
+      {% endfor %}
+      <div id="hiddensc" hidden class="panel panel-default">
+
+      </div>
+    <hr>
+    <div class="pibox" id="contribute">
+      <div class="pibox-heading">Dołącz i zaangażuj się</div>
+      <div class="pibox-body">
+        <p>Z wdzięcznością przyjmiemy wszelkie opinie, sugestie i pomoc:</p>
+        <ul>
+          <li>Ten zasób — <a href="https://github.com/lepszyweb/wcag-quickref/issues">zgłaszanie błedów</a> oraz współpraca bezpośrednio na  <a href="https://github.com/lepszyweb/wcag-quickref">repozytorium Github</a></li>
+          <li>Techniki — zaproponuj: <a href="https://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/">nowe techniki WCAG</a> (po angielsku)</li>
+          <li>Inne — zgłaszanie poprawek, aktualizacji lub nowych informacji związane z technikami, błędami lub inną dokumentacją WCAG, zobacz <a href="https://www.w3.org/WAI/WCAG20/comments/">Instrukcje komentowania dokumentów WCAG 2 (po angielsku)</a></li>
+        </ul>
+      </div>
+    </div>
+      {% include footer.html %}
+    </div>
+  </main>
+</div>
