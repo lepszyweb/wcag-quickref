@@ -56,3 +56,5 @@ exclude:
   - CHANGELOG.md
   - CODE_OF_CONDUCT.md
   - vendor
+
+destination: ./build
