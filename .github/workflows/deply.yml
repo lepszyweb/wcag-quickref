@@ -44,6 +44,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: _site
-          domain: wcag.lepszyweb.pl
+          fqdn: wcag.lepszyweb.pl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
