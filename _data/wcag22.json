@@ -1527,16 +1527,14 @@
                         {
                           "id": "TECH:F26",
                           "title": "Niespełnienie kryterium sukcesu 1.3.3 z powodu użycia tylko samego symbolu graficznego do przekazywania informacji"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
+					}]
+				}]
+			},
+			{
                   "id": "WCAG2:orientation",
                   "alt_id": [],
                   "num": "1.3.4",
-                  "versions": [ "2.1" ],
+				"versions": ["2.1", "2.2"],
                   "level": "AA",
                   "handle": "Orientacja",
                   "title": "Treść nie ogranicza swojego widoku i działania do jednej orientacji wyświetlania, takiej jak pionowa lub pozioma, chyba że określona orientacja wyświetlania jest istotna.",
@@ -1570,7 +1568,7 @@
                   "id": "WCAG2:identify-input-purpose",
                   "alt_id": [],
                   "num": "1.3.5",
-                  "versions": [ "2.1" ],
+				"versions": ["2.1", "2.2"],
                   "level": "AA",
                   "handle": "Określenie pożądanej wartości",
                   "title": "Cel każdego pola zbierającego informacje o użytkowniku może być programowo określony, gdy:",
@@ -1588,7 +1586,7 @@
                   "id": "WCAG2:identify-purpose",
                   "alt_id": [],
                   "num": "1.3.6",
-                  "versions": [ "2.1" ],
+				"versions": ["2.1", "2.2"],
                   "level": "AAA",
                   "handle": "Określenie przeznaczenia",
                   "title": "W treściach zaimplementowanych przy użyciu języków znaczników przeznaczenie komponentów interfejsu użytkownika, ikon i obszarów kluczowych może zostać określone programowo.",
@@ -1597,7 +1595,7 @@
                       "sufficient": [
                         {
                           "id": "TECH:text",
-                          "title": "Programmatically indicating the purpose of icons, regions and user interface components"
+                          "title": "Programowe wskazanie przeznaczenia ikon, obszarów i elementów interfejsu użytkownika"
                         },
                         {
                           "id": "TECH:ARIA11",
@@ -2558,7 +2556,7 @@
                   "id": "WCAG2:non-text-contrast",
                   "alt_id": [],
                   "num": "1.4.11",
-                  "versions": [ "2.1" ],
+				"versions": ["2.1", "2.2"],
                   "level": "AA",
                   "handle": "Kontrast elementów nietekstowych",
                   "title": "Wizualna prezentacja następujących elementów ma współczynnik kontrastu co najmniej 3:1 względem sąsiednich kolorów:",
@@ -2637,7 +2635,7 @@
                   "id": "WCAG2:text-spacing",
                   "alt_id": [],
                   "num": "1.4.12",
-                  "versions": [ "2.1" ],
+				"versions": ["2.1", "2.2"],
                   "level": "AA",
                   "handle": "Odstępy w tekście",
                   "title": "W treściach tworzonych za pomocą języków znaczników, umożliwiających ustawienie poniższych właściwości stylu, nie następuje utrata żadnych treści lub funkcjonalności, gdy tekst ustawiony zostanie tak, aby uwzględniał wszystkie poniższe parametry oraz gdy wprowadzone zostaną zmiany w jakiejkolwiek innej właściwości stylu:",
@@ -6622,7 +6620,7 @@
                   "id": "WCAG2:status-messages",
                   "alt_id": [],
                   "num": "4.1.3",
-                  "versions": [ "2.1" ],
+                  "versions": ["2.1", "2.2"],
                   "level": "AA",
                   "handle": "Komunikaty o stanie",
                   "title": "W treści wprowadzonej przy użyciu języka znaczników komunikaty o stanie mogą być programowo określane poprzez role lub właściwości, dzięki czemu mogą być prezentowane użytkownikowi za pomocą technologii wspomagających bez uzyskiwania fokusu.",
@@ -6739,17 +6737,10 @@
                         {
                           "id": "TECH:text",
                           "title": "Użycie atrybutu role=\"alert\" lub aria-live=\"assertive\" w przypadku treści, która nie jest ważna i ma znaczenie chwilowe. (łącze w przyszłości)"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "techniques": []
-            }
-          ]
-        }
-      ]
-    }
-  ]
+					}]
+				}]
+			}],
+			"techniques": []
+		}]
+	}]
 }
