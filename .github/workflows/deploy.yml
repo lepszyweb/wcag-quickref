@@ -1,0 +1,65 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main  # Change this to your main branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: "Checkout ${{ github.ref }} branch in ${{ github.repository }} repository."
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
+
+      - name: "Setup Ruby."
+        uses: ruby/setup-ruby@v1
+        with:
+          #ruby-version: .ruby-version # So checkout is needed.
+          bundler-cache: true
+          cache-version: 0 # Increment this number if you need to re-download cached gems.
+
+      - name: "Retrieve GitHub Pages configuration."
+        id: pages
+        uses: actions/configure-pages@v4
+
+      - name: Install Dependencies
+        run: |
+          gem install bundler
+          bundle install
+  
+      - name: "Build _site with Jekyll."
+        run: bundle exec jekyll build --trace --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: "Upload 'github-pages' artifact."
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site/
+
+
+  deploy:
+    name: "Deploy GitHub Pages Site"
+    if: github.event_name == 'push'
+    needs:
+      - build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Deploy to GitHub Pages"
+        id: deployment
+        uses: actions/deploy-pages@v4
+
