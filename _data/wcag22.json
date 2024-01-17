@@ -2697,7 +2697,7 @@
                   "id": "WCAG2:content-on-hover-or-focus",
                   "alt_id": [],
                   "num": "1.4.13",
-                  "versions": [ "2.1" ],
+				  "versions": ["2.1", "2.2"],
                   "level": "AA",
                   "handle": "Treść spod kursora lub fokusu",
                   "title": "Gdy jakaś treść staje się widoczna po otrzymaniu kursora lub fokusu klawiatury, a po ich usunięciu znika, spełnione są poniższe warunki:",
