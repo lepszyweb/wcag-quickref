@@ -41,7 +41,7 @@ jobs:
           cd gh-pages
           git add .
           git commit -m "Update Jekyll site"
-          git push origin gh-pages
-
-    env:
-      JEKYLL_ENV: production
+      - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          new_branch: gh-pages
