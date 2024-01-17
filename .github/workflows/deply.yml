@@ -5,6 +5,12 @@ on:
     branches:
       - main # Change this to your main branch
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
