@@ -1,47 +1,33 @@
-name: Build and Deploy
+name: Build and Deploy Jekyll Site
 
 on:
   push:
     branches:
-      - main # Change this to your main branch
-
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
+      - main  # Change this to your main branch name
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+    - name: Set up Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 3.0
 
-      - name: Set up Ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: 3.0 # You can change this to your required Ruby version
+    - name: Install Dependencies
+      run: |
+        gem install bundler
+        bundle install
 
-      - name: Install Jekyll and Bundler
-        run: |
-          gem install bundler jekyll
-          bundle install
+    - name: Build Jekyll Site
+      run: bundle exec jekyll build
 
-      - name: Build Jekyll Site
-        run: bundle exec jekyll build
-
-      - name: Deploy to GitHub Pages
-        run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git clone --depth 1 --branch gh-pages https://github.com/${{ github.repository }}.git gh-pages
-          cp -a _site/. gh-pages/
-          cd gh-pages
-          git add .
-          git commit -m "Update Jekyll site"
-      - uses: EndBug/add-and-commit@v9
-        with:
-          default_author: github_actions
-          new_branch: gh-pages
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site  # Change this if your build output directory is different
+        publish_branch: gh-pages
