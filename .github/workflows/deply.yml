@@ -1,47 +1,85 @@
-name: Build and Deploy
+name: "CI"
 
 on:
   push:
     branches:
-      - main # Change this to your main branch
+      - main
+  pull_request:
+    types:
+      - opened # default
+      - reopened # default
+      - synchronize # default
+      - labeled # Listen for label changes to re-run the diff job.
+      - unlabeled # Listen for label changes to re-run the diff job.
+  workflow_dispatch:
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+
+  build:
+    name: "Build GitHub Pages Site"
+
+    permissions:
+      contents: read
+
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
+
+      - name: "Checkout ${{ github.ref }} branch in ${{ github.repository }} repository."
         uses: actions/checkout@v4
-
-      - name: Set up Ruby
-        uses: actions/setup-ruby@v1
         with:
-          ruby-version: 3.0 # You can change this to your required Ruby version
+          submodules: true
 
-      - name: Install Jekyll and Bundler
+
+      - name: "Setup Ruby."
+        uses: ruby/setup-ruby@v1
+        with:
+          #ruby-version: .ruby-version # So checkout is needed.
+          bundler-cache: true
+          cache-version: 0 # Increment this number if you need to re-download cached gems.
+
+      - name: "Retrieve GitHub Pages configuration."
+        id: pages
+        uses: actions/configure-pages@v4
+
+      - name: Install Dependencies
         run: |
-          gem install bundler jekyll
+          gem install bundler
           bundle install
+  
+      - name: "Build _site with Jekyll."
+        run: bundle exec jekyll build --trace --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
 
-      - name: Build Jekyll Site
-        run: bundle exec jekyll build
+      - name: "Upload 'github-pages' artifact."
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site/
 
-      - name: Deploy to GitHub Pages
-        run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git clone --depth 1 --branch gh-pages https://github.com/${{ github.repository }}.git gh-pages
-          cp -a _site/. gh-pages/
-          cd gh-pages
-          git add .
-          git commit -m "Update Jekyll site"
-          git push origin gh-pages
 
-    env:
-      JEKYLL_ENV: production
+  deploy:
+    name: "Deploy GitHub Pages Site"
+    if: github.event_name == 'push'
+    needs:
+      - build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Deploy to GitHub Pages"
+        id: deployment
+        uses: actions/deploy-pages@v4
+
