@@ -159,7 +159,7 @@
                                       },
                                       {
                                         "id": "TECH:H37",
-                                        "title": "Użycie atrybutów alt na elementach img"
+                                        "title": "Użycie atrybutów alt w elementach img"
                                       },
                                       {
                                         "id": "TECH:H53",
@@ -228,7 +228,7 @@
                                       },
                                       {
                                         "id": "TECH:ARIA9",
-                                        "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
+                                        "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę z kilku węzłów tekstowych"
                                       },
                                       {
                                         "id": "TECH:H24",
@@ -244,11 +244,11 @@
                                       },
                                       {
                                         "id": "TECH:H44",
-                                        "title": "Użycie elementu label do kojarzenia etykiet tekstowych z kontrolkami formularzy"
+                                        "title": "Użycie elementu label do powiązania etykiet tekstowych z kontrolkami formularzy"
                                       },
                                       {
                                         "id": "TECH:H65",
-                                        "title": "Użycie atrybutu title do identyfikacji kontrolek formularzy, gdy nie można użyć elementu label"
+                                        "title": "Użycie atrybutu title do oznaczenia kontrolek formularzy, gdy nie można użyć elementu label"
                                       }
                                     ]
                                   }
@@ -290,7 +290,7 @@
                                       },
                                       {
                                         "id": "TECH:H37",
-                                        "title": "Użycie atrybutów alt na elementach img"
+                                        "title": "Użycie atrybutów alt w elementach img"
                                       },
                                       {
                                         "id": "TECH:H53",
@@ -339,7 +339,7 @@
                                       },
                                       {
                                         "id": "TECH:H37",
-                                        "title": "Użycie atrybutów alt na elementach img"
+                                        "title": "Użycie atrybutów alt w elementach img"
                                       },
                                       {
                                         "id": "TECH:H53",
@@ -388,7 +388,7 @@
                                       },
                                       {
                                         "id": "TECH:H37",
-                                        "title": "Użycie atrybutów alt na elementach img"
+                                        "title": "Użycie atrybutów alt w elementach img"
                                       },
                                       {
                                         "id": "TECH:H53",
@@ -646,7 +646,7 @@
                         },
                         {
                           "id": "TECH:H95",
-                          "title": "Użycie elementu track do tworzenia napisów"
+                          "title": "Użycie elementu track do tworzenia napisów dla niesłyszących"
                         }
                       ]
                     }
@@ -659,15 +659,15 @@
                   "failure": [
                     {
                       "id": "TECH:F8",
-                      "title": "Niespełnienie kryterium sukcesu 1.2.2 z powodu napisów, które pomijają niektóre dialogi lub ważne efekty dźwiękowe"
+                      "title": "Niespełnienie kryterium sukcesu 1.2.2 z powodu napisów dla niesłyszących, które pomijają niektóre dialogi lub ważne efekty dźwiękowe"
                     },
                     {
                       "id": "TECH:F75",
-                      "title": "Niespełnienie kryterium sukcesu 1.2.2 poprzez dostarczanie zsynchronizowanych mediów bez napisów, gdy zsynchronizowane media prezentują więcej informacji niż podano na stronie"
+                      "title": "Niespełnienie kryterium sukcesu 1.2.2 poprzez dostarczanie zsynchronizowanych mediów bez napisów dla niesłyszących, gdy zsynchronizowane media prezentują więcej informacji niż podano na stronie"
                     },
                     {
                       "id": "TECH:F74",
-                      "title": "Niespełnienie kryterium sukcesu 1.2.2 i 1.2.8 ze względu na brak etykietowania zsynchronizowanej alternatywy medialnej z tekstem jako alternatywą"
+                      "title": "Niespełnienie kryterium sukcesu 1.2.2 i 1.2.8 ze względu na brak oznaczenia zsynchronizowanego multimedium jako medialnej alternatywy dla tekstu"
                     }
                   ]
                 }
@@ -1164,7 +1164,7 @@
                             },
                             {
                               "id": "TECH:ARIA12",
-                              "title": "Użycie atrybutu role=heading oraz aria-level=\"#\"do identyfikacji nagłówków"
+                              "title": "Użycie atrybutu role=heading oraz aria-level=\"#\"do oznaczenia nagłówków"
                             },
                             {
                               "id": "TECH:ARIA13",
@@ -1244,11 +1244,11 @@
                                 },
                                 {
                                   "id": "TECH:H44",
-                                  "title": "Użycie elementu label do kojarzenia etykiet tekstowych z kontrolkami formularzy"
+                                  "title": "Użycie elementu label do powiązania etykiet tekstowych z kontrolkami formularzy"
                                 },
                                 {
                                   "id": "TECH:H65",
-                                  "title": "Użycie atrybutu title do identyfikacji kontrolek formularzy, gdy nie można użyć elementu label"
+                                  "title": "Użycie atrybutu title do oznaczenia kontrolek formularzy, gdy nie można użyć elementu label"
                                 },
                                 {
                                   "id": "TECH:PDF10",
@@ -1272,7 +1272,7 @@
                                 },
                                 {
                                   "id": "TECH:H42",
-                                  "title": "Użycie znaczników h1-h6 do identyfikacji nagłówków"
+                                  "title": "Użycie znaczników h1-h6 do oznaczenia nagłówków"
                                 },
                                 {
                                   "id": "TECH:PDF9",
@@ -1345,7 +1345,7 @@
                     },
                     {
                       "id": "TECH:ARIA1",
-                      "title": "Użycie właściwości aria-describedby, aby zapewnić opisową etykietę dla kontrolki interfejsu użytkownika"
+                      "title": "Użycie właściwości aria-describedby, aby zapewnić opisowe etykiety dla kontrolek interfejsu użytkownika"
                     },
                     {
                       "id": "TECH:ARIA2",
@@ -1426,209 +1426,234 @@
                       "id": "TECH:G57",
                       "title": "Porządkowanie treści w znaczącej kolejności"
                     },
-					{
-						"id": "TECH:G57",
-						"title": "Porządkowanie treści w znaczącej kolejności",
-						"using": [
-						{					
+                    {
+                      "id": "TECH:G57",
+                      "title": "Porządkowanie treści w znaczącej kolejności",
+                      "using": [
+                        {
 
 
-                              "id": "TECH:H34",
-                              "title": "Użycie znaku Unicode od-prawej-do-lewej (RLM) lub znaku od-lewej-do-prawej (LRM) do mieszanych kierunków tekstu w wierszu"
-                            },
-                            {
-                              "id": "TECH:H56",
-                              "title": "Użycie atrybutu dir na elementach śródwierszowych do rozwiązywania problemów z zagnieżdżonymi zmianami kierunku tekstu"
-                            },
-                            {
-                              "id": "TECH:C6",
-                              "title": "Pozycjonowanie treści za pomocą znaczników strukturalnych"
-                            },
-                            {
-                              "id": "TECH:C8",
-                              "title": "Użycie właściwości letter-spacing CSS do kontrolowania odstępów w słowach"
-						}]
-					},
-					{
-                          "id": "TECH:C27",
-                          "title": "Tworzenie kolejności elementów DOM zgodnie z porządkiem wizualnym"
+                          "id": "TECH:H34",
+                          "title": "Użycie znaku Unicode od-prawej-do-lewej (RLM) lub znaku od-lewej-do-prawej (LRM) do mieszanych kierunków tekstu w wierszu"
                         },
                         {
-                          "id": "TECH:PDF3",
-                          "title": "Zapewnienie prawidłowej kolejności tabulacji i czytania w dokumentach PDF"
-					}]
-				},
-				{
-                      "advisory": []
-                    },
-                    {
-                      "failure": [
-                        {
-                          "id": "TECH:F34",
-                          "title": "Niespełnienie kryterium sukcesu 1.3.1 i 1.3.2 ze względu na użycie znaków spacji w celu uformowania tabel za pomocą zwykłego tekstu"
+                          "id": "TECH:H56",
+                          "title": "Użycie atrybutu dir w elementach śródwierszowych do rozwiązywania problemów z zagnieżdżonymi zmianami kierunku tekstu"
                         },
                         {
-                          "id": "TECH:F33",
-                          "title": "Niespełnienie kryterium sukcesu 1.3.1 i 1.3.2 z powodu użycia białych znaków do utworzenia wielu kolumn w treści tekstowej"
+                          "id": "TECH:C6",
+                          "title": "Pozycjonowanie treści za pomocą znaczników strukturalnych"
                         },
                         {
-                          "id": "TECH:F32",
-                          "title": "Niespełnienie kryterium sukcesu 1.3.2 ze względu na użycie białych znaków do kontrolowania odstępów w słowie"
-                        },
-                        {
-                          "id": "TECH:F49",
-                          "title": "Niespełnienie kryterium sukcesu 1.3.2 z powodu użycia do formowania układu tabeli HTML, która nie ma sensu po linearyzacji"
-                        },
-                        {
-                          "id": "TECH:F1",
-                          "title": "Niespełnienie kryterium sukcesu 1.3.2 z powodu zmiany znaczenia treści poprzez pozycjonowanie za pomocą CSS"
+                          "id": "TECH:C8",
+                          "title": "Użycie właściwości CSS letter-spacing, aby określić odstępy między znakami w słowach"
                         }
                       ]
+                    },
+                    {
+                      "id": "TECH:C27",
+                      "title": "Tworzenie kolejności elementów DOM zgodnie z porządkiem wizualnym"
+                    },
+                    {
+                      "id": "TECH:PDF3",
+                      "title": "Zapewnienie prawidłowej kolejności tabulacji i czytania w dokumentach PDF"
                     }
                   ]
                 },
                 {
-                  "id": "WCAG2:sensory-characteristics",
-                  "alt_id": [ "content-structure-separation-understanding" ],
-                  "num": "1.3.3",
-                  "versions": [
-                    "2.0",
-                    "2.1",
-                    "2.2"
-                  ],
-                  "level": "A",
-                  "handle": "Właściwości zmysłowe",
-                  "title": "Instrukcje co do zrozumienia i operowania treścią nie opierają się wyłącznie na właściwościach zmysłowych, takich jak: kształt, rozmiar, wzrokowa lokalizacja, orientacja w przestrzeni lub dźwięk.",
-                  "details": [
-                    {
-                      "type": "note",
-                      "handle": "Uwaga 1",
-                      "text": "Wymagania dotyczące koloru można znaleźć w Wytycznej 1.4."
-                    }
-                  ],
-                  "techniques": [
-                    {
-                      "sufficient": [
-                        {
-                          "id": "TECH:G96",
-                          "title": "Zapewnienie tekstowego określenia elementów, które są wskazywane za pomocą informacji odwołujących się do ich właściwości zmysłowych"
-                        }
-                      ]
-                    },
-                    {
-                      "advisory": []
-                    },
-                    {
-                      "failure": [
-                        {
-                          "id": "TECH:F14",
-                          "title": "Niespełnienie kryterium sukcesu 1.3.3 ze względu na identyfikowanie treści tylko przez jej kształt lub lokalizację"
-                        },
-                        {
-                          "id": "TECH:F26",
-                          "title": "Niespełnienie kryterium sukcesu 1.3.3 z powodu użycia tylko samego symbolu graficznego do przekazywania informacji"
-					}]
-				}]
-			},
-			{
-                  "id": "WCAG2:orientation",
-                  "alt_id": [],
-                  "num": "1.3.4",
-				"versions": ["2.1", "2.2"],
-                  "level": "AA",
-                  "handle": "Orientacja",
-                  "title": "Treść nie ogranicza swojego widoku i działania do jednej orientacji wyświetlania, takiej jak pionowa lub pozioma, chyba że określona orientacja wyświetlania jest istotna.",
-                  "techniques": [
-                    {
-                      "sufficient": [
-                        {
-                          "id": "TECH:G214",
-                          "title": "Użycie kontrolki, aby umożliwić dostęp do treści w różnych orientacjach wyświetlacza."
-                        }
-                      ]
-                    },
-                    {
-                      "advisory": []
-                    },
-                    {
-                      "failure": [
-                        {
-                          "id": "TECH:F97",
-                          "title": "Błąd spowodowany zablokowaniem orientacji do widoku poziomego lub pionowego"
-                        },
-                        {
-                          "id": "TECH:F100",
-                          "title": "Niespełnienie kryterium sukcesu 1.3.4 z powodu wyświetlenia komunikatu z prośbą o zmianę orientacji urządzenia"
-                        }
-                      ]
-                    }
-                  ]
+                  "advisory": []
                 },
                 {
-                  "id": "WCAG2:identify-input-purpose",
-                  "alt_id": [],
-                  "num": "1.3.5",
-				"versions": ["2.1", "2.2"],
-                  "level": "AA",
-                  "handle": "Określenie pożądanej wartości",
-                  "title": "Cel każdego pola zbierającego informacje o użytkowniku może być programowo określony, gdy:",
-                  "details": [
+                  "failure": [
                     {
-                      "type": "ulist",
-                      "items": [
-                        { "text": "Pole zbierające dane służy celowi określonemu w sekcji Przeznaczenie pól danych w komponentach interfejsu użytkownika; oraz" },
-                        { "text": "Treść jest implementowana za pomocą technologii obsługującej określanie w polach formularza typu oczekiwanych danych." }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "id": "WCAG2:identify-purpose",
-                  "alt_id": [],
-                  "num": "1.3.6",
-				"versions": ["2.1", "2.2"],
-                  "level": "AAA",
-                  "handle": "Określenie przeznaczenia",
-                  "title": "W treściach zaimplementowanych przy użyciu języków znaczników przeznaczenie komponentów interfejsu użytkownika, ikon i obszarów kluczowych może zostać określone programowo.",
-                  "techniques": [
-                    {
-                      "sufficient": [
-                        {
-                          "id": "TECH:text",
-                          "title": "Programowe wskazanie przeznaczenia ikon, obszarów i elementów interfejsu użytkownika"
-                        },
-                        {
-                          "id": "TECH:ARIA11",
-                          "title": "Użycie punktów orientacyjnych ARIA do określenia kluczowych obszarów strony"
-                        },
-                        {
-                          "id": "TECH:text",
-                          "title": "Użycie mikrodanych do oznaczania komponentów interfejsu użytkownika (w przyszłości łącze"
-                        }
-                      ]
+                      "id": "TECH:F34",
+                      "title": "Niespełnienie kryterium sukcesu 1.3.1 i 1.3.2 ze względu na użycie znaków spacji w celu uformowania tabel za pomocą zwykłego tekstu"
                     },
                     {
-                      "advisory": [
-                        {
-                          "id": "TECH:text",
-                          "title": "Umożliwenie aplikacjom użytkownika znalezienia wersji treści, która najlepiej odpowiada ich potrzebom."
-                        },
-                        {
-                          "id": "TECH:text",
-                          "title": "Użycie semantyki do identyfikowania ważnych funkcji (coga-simplification=\"simplest\")."
-                        },
-                        {
-                          "id": "TECH:text",
-                          "title": "Użycie attrybutów aria-invalid oraz aria-required."
-                        }
-                      ]
+                      "id": "TECH:F33",
+                      "title": "Niespełnienie kryterium sukcesu 1.3.1 i 1.3.2 z powodu użycia białych znaków do utworzenia wielu kolumn w treści tekstowej"
                     },
                     {
-                      "failure": []
+                      "id": "TECH:F32",
+                      "title": "Niespełnienie kryterium sukcesu 1.3.2 ze względu na użycie białych znaków do kontrolowania odstępów w słowie"
+                    },
+                    {
+                      "id": "TECH:F49",
+                      "title": "Niespełnienie kryterium sukcesu 1.3.2 z powodu użycia do formowania układu tabeli HTML, która nie ma sensu po linearyzacji"
+                    },
+                    {
+                      "id": "TECH:F1",
+                      "title": "Niespełnienie kryterium sukcesu 1.3.2 z powodu zmiany znaczenia treści poprzez pozycjonowanie za pomocą CSS"
                     }
                   ]
                 }
               ]
+            },
+            {
+              "id": "WCAG2:sensory-characteristics",
+              "alt_id": [ "content-structure-separation-understanding" ],
+              "num": "1.3.3",
+              "versions": [
+                "2.0",
+                "2.1",
+                "2.2"
+              ],
+              "level": "A",
+              "handle": "Właściwości zmysłowe",
+              "title": "Instrukcje co do zrozumienia i operowania treścią nie opierają się wyłącznie na właściwościach zmysłowych, takich jak: kształt, rozmiar, wzrokowa lokalizacja, orientacja w przestrzeni lub dźwięk.",
+              "details": [
+                {
+                  "type": "note",
+                  "handle": "Uwaga 1",
+                  "text": "Wymagania dotyczące koloru można znaleźć w Wytycznej 1.4."
+                }
+              ],
+              "techniques": [
+                {
+                  "sufficient": [
+                    {
+                      "id": "TECH:G96",
+                      "title": "Zapewnienie tekstowego określenia elementów, które są wskazywane za pomocą informacji odwołujących się do ich właściwości zmysłowych"
+                    }
+                  ]
+                },
+                {
+                  "advisory": []
+                },
+                {
+                  "failure": [
+                    {
+                      "id": "TECH:F14",
+                      "title": "Niespełnienie kryterium sukcesu 1.3.3 ze względu na identyfikowanie treści tylko przez jej kształt lub lokalizację"
+                    },
+                    {
+                      "id": "TECH:F26",
+                      "title": "Niespełnienie kryterium sukcesu 1.3.3 z powodu użycia tylko samego symbolu graficznego do przekazywania informacji"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "WCAG2:orientation",
+              "alt_id": [],
+              "num": "1.3.4",
+              "versions": [ "2.1", "2.2" ],
+              "level": "AA",
+              "handle": "Orientacja",
+              "title": "Treść nie ogranicza swojego widoku i działania do jednej orientacji wyświetlania, takiej jak pionowa lub pozioma, chyba że określona orientacja wyświetlania jest istotna.",
+              "techniques": [
+                {
+                  "sufficient": [
+                    {
+                      "id": "TECH:G214",
+                      "title": "Użycie kontrolki, aby umożliwić dostęp do treści w różnych orientacjach wyświetlacza"
+                    }
+                  ]
+                },
+                {
+                  "advisory": []
+                },
+                {
+                  "failure": [
+                    {
+                      "id": "TECH:F97",
+                      "title": "Błąd spowodowany zablokowaniem orientacji do widoku poziomego lub pionowego"
+                    },
+                    {
+                      "id": "TECH:F100",
+                      "title": "Niespełnienie kryterium sukcesu 1.3.4 z powodu wyświetlenia komunikatu z prośbą o zmianę orientacji urządzenia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "WCAG2:identify-input-purpose",
+              "alt_id": [],
+              "num": "1.3.5",
+              "versions": [ "2.1", "2.2" ],
+              "level": "AA",
+              "handle": "Określenie pożądanej wartości",
+              "title": "Cel każdego pola zbierającego informacje o użytkowniku może być programowo określony, gdy:",
+              "details": [
+                {
+                  "type": "ulist",
+                  "items": [
+                    { "text": "Pole zbierające dane służy celowi określonemu w sekcji Przeznaczenie pól danych w komponentach interfejsu użytkownika; oraz" },
+                    { "text": "Treść jest implementowana za pomocą technologii obsługującej określanie w polach formularza typu oczekiwanych danych." }
+                  ],
+                  "techniques": [
+                    {
+                      "sufficient": [
+                        {
+                          "id": "TECH:H98",
+                          "title": "Użycie atrybutu autocomplete HTML 5.2"
+                        }
+                      ]
+                    },
+                    {
+                      "advisory": []
+                    },
+                    {
+                      "failure": [
+                        {
+                          "id": "TECH:F107",
+                          "title": "Niespełnienie kryterium sukcesu 1.3.5 z powodu niepoprawnych wartości atrybutu autocomplete"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "WCAG2:identify-purpose",
+              "alt_id": [],
+              "num": "1.3.6",
+              "versions": [ "2.1", "2.2" ],
+              "level": "AAA",
+              "handle": "Określenie przeznaczenia",
+              "title": "W treściach zaimplementowanych przy użyciu języków znaczników przeznaczenie komponentów interfejsu użytkownika, ikon i obszarów kluczowych może zostać określone programowo.",
+              "techniques": [
+                {
+                  "sufficient": [
+                    {
+                      "id": "TECH:text",
+                      "title": "Programowe wskazanie przeznaczenia ikon, obszarów i elementów interfejsu użytkownika"
+                    },
+                    {
+                      "id": "TECH:ARIA11",
+                      "title": "Użycie punktów orientacyjnych ARIA do określenia kluczowych obszarów strony"
+                    },
+                    {
+                      "id": "TECH:text",
+                      "title": "Użycie mikrodanych do oznaczania komponentów interfejsu użytkownika (w przyszłości łącze"
+                    }
+                  ]
+                },
+                {
+                  "advisory": [
+                    {
+                      "id": "TECH:text",
+                      "title": "Umożliwenie aplikacjom użytkownika znalezienia wersji treści, która najlepiej odpowiada ich potrzebom"
+                    },
+                    {
+                      "id": "TECH:text",
+                      "title": "Użycie semantyki do identyfikowania ważnych funkcji (coga-simplification=\"simplest\")"
+                    },
+                    {
+                      "id": "TECH:text",
+                      "title": "Użycie attrybutów aria-invalid oraz aria-required"
+                    }
+                  ]
+                },
+                {
+                  "failure": []
+                }
+              ]
+            }
+          ]
             },
             {
               "id": "WCAG2:distinguishable",
@@ -1708,7 +1733,7 @@
                       "advisory": [
                         {
                           "id": "TECH:C15",
-                          "title": "Stosowanie CSS do zmiany wyglądu składnika interfejsu użytkownika, gdy otrzymuje on fokus"
+                          "title": "Stosowanie CSS do zmiany wyglądu komponentu interfejsu użytkownika, gdy otrzymuje on fokus"
                         }
                       ]
                     },
@@ -1762,7 +1787,7 @@
                         },
                         {
                           "id": "TECH:G171",
-                          "title": "Odtwarzanie dźwięków tylko na żądanie użytkownika"
+                          "title": "Odtwarzanie dźwięu tylko na żądanie użytkownika"
                         }
                       ]
                     },
@@ -1824,7 +1849,7 @@
                               "techniques": [
                                 {
                                   "id": "TECH:G18",
-                                  "title": "Zapewnienie, że istnieje kontrast wynoszący co najmniej 4,5:1 między tekstem (i obrazami tekstu) a tłem pod tekstem'"
+                                  "title": "Zapewnienie, że istnieje kontrast wynoszący co najmniej 4,5:1 między tekstem (i obrazami tekstu) a tłem pod tekstem"
                                 },
                                 {
                                   "id": "TECH:G148",
@@ -1970,7 +1995,7 @@
                       "failure": [
                         {
                           "id": "TECH:F69",
-                          "title": "Niespełnienie kryterium sukcesu 1.4.4 podczas zmiany rozmiaru wizualnie renderowanego tekstu do 200 procent powoduje przycięcie, przycięcie lub zasłonięcie tekstu, obrazu lub kontrolek"
+                          "title": "Niespełnienie kryterium sukcesu 1.4.4 podczas zmiany rozmiaru wizualnie renderowanego tekstu do 200 procent powoduje przycięcie, obcięcie lub zasłonięcie tekstu, obrazu lub kontrolek"
                         },
                         {
                           "id": "TECH:F80",
@@ -2156,7 +2181,7 @@
                         },
                         {
                           "id": "TECH:F83",
-                          "title": "Niespełnienie kryteriów sukcesu 1.4.3 i 1.4.6 z powodu użycia obrazów tła, które nie zapewniają wystarczającego kontrastu z tekstem pierwszego planu (lub obrazami tekstu))"
+                          "title": "Niespełnienie kryteriów sukcesu 1.4.3 i 1.4.6 z powodu użycia obrazów tła, które nie zapewniają wystarczającego kontrastu z tekstem pierwszego planu (lub obrazami tekstu)"
                         }
                       ]
                     }
@@ -2506,7 +2531,7 @@
                         },
                         {
                           "id": "TECH:SCR34",
-                          "title": "Obliczanie rozmiaru i pozycji w sposób skalujący się z rozmiarem tekstu"
+                          "title": "Obliczanie rozmiaru i położenia w sposób skalujący się z rozmiarem tekstu"
                         },
                         {
                           "id": "TECH:G206",
@@ -2566,7 +2591,7 @@
                       "items": [
                         {
                           "handle": "Komponenty interfejsu użytkownika",
-                          "text": "Informacje wizualne wymagane do identyfikacji komponentów interfejsu użytkownika i ich stanów, z wyjątkiem nieaktywnych składników lub gdy wygląd komponentu jest określony przez agenta użytkownika i nie jest modyfikowany przez autora;"
+                          "text": "Informacje wizualne wymagane do oznaczenia komponentów interfejsu użytkownika i ich stanów, z wyjątkiem nieaktywnych składników lub gdy wygląd komponentu jest określony przez agenta użytkownika i nie jest modyfikowany przez autora;"
                         },
                         {
                           "handle": "Obiekty graficzne",
@@ -2610,7 +2635,7 @@
                                 },
                                 {
                                   "id": "TECH:G174",
-                                  "title": "Zapewnienie użytkownikom przełączników kontrastu, który umożliwiają użytkownikom przełączenie się na prezentację o wystarczającym kontraście."
+                                  "title": "Zapewnienie użytkownikom przełączników kontrastu, który umożliwiają użytkownikom przełączenie się na prezentację o wystarczającym kontraście"
                                 }
                               ]
                             }
@@ -2986,7 +3011,7 @@
                       "sufficient": [
                         {
                           "id": "TECH:G217",
-                          "title": "Zapewnienie mechanizmu umożliwiającego użytkownikom na ponowne mapowanie lub wyłączanie skrótów klawiszowych."
+                          "title": "Zapewnienie mechanizmu umożliwiającego użytkownikom na ponowne mapowanie lub wyłączanie skrótów klawiszowych"
                         }
                       ]
                     },
@@ -3397,15 +3422,15 @@
                       "sufficient": [
                         {
                           "id": "TECH:text",
-                          "title": "Ustawienie limitu czasu sesji po co najmniej 20 godzinach braku aktywności."
+                          "title": "Ustawienie limitu czasu sesji po co najmniej 20 godzinach braku aktywności"
                         },
                         {
                           "id": "TECH:text",
-                          "title": "Przechowywanie danych użytkownika przez ponad 20 godzin."
+                          "title": "Przechowywanie danych użytkownika przez ponad 20 godzin"
                         },
                         {
                           "id": "TECH:text",
-                          "title": "Ostrzeganie o dopuszczalnym czasie bezczynności użytkownika na początku procesu."
+                          "title": "Ostrzeganie o dopuszczalnym czasie bezczynności użytkownika na początku procesu"
                         }
                       ]
                     },
@@ -3570,7 +3595,7 @@
                             },
                             {
                               "id": "TECH:G123",
-                              "title": "Dodanie na początku bloku powtarzanej treści łącza, aby przejść na koniec bloku"
+                              "title": "Dodanie łącza na początku bloku powtarzającej się treści, aby przejść na koniec bloku"
                             },
                             {
                               "id": "TECH:G124",
@@ -3598,7 +3623,7 @@
                               "and": [
                                 {
                                   "id": "TECH:H70",
-                                  "title": "Użycie elementów ramek do grupowania bloków powtarzanego materiału"
+                                  "title": "Użycie elementów ramek do grupowania bloków powtarzającego się materiału"
                                 },
                                 {
                                   "id": "TECH:H64",
@@ -3697,7 +3722,7 @@
                       "sufficient": [
                         {
                           "id": "TECH:G59",
-                          "title": "Umieszczanie elementów interaktywnych w kolejności podążającej za sekwencjami i relacjami w obrębie treści"
+                          "title": "Umieszczanie elementów interaktywnych w kolejności podążającej za kolejnością i relacjami treści"
                         },
                         {
                           "id": "TECH:text",
@@ -3744,7 +3769,7 @@
                         },
                         {
                           "id": "TECH:F85",
-                          "title": "Niespełnienie kryterium sukcesu 2.4.3 z powodu używania okien dialogowych lub menu, które nie sąsiadują z ich kontrolą wyzwalania w kolejności sekwencyjnej nawigacji"
+                          "title": "Niespełnienie kryterium sukcesu 2.4.3 z powodu używania okien dialogowych lub menu, które nie sąsiadują z wyzwalającą je kontrolką kolejności nawigacji sekwencyjnej"
                         }
                       ]
                     }
@@ -3991,15 +4016,15 @@
                       "sufficient": [
                         {
                           "id": "TECH:G149",
-                          "title": "Stosowanie komponentów interfejsu użytkownika, które są wyróżniane przez program użytkownika, gdy otrzymują fokus"
+                          "title": "Stosowanie komponentów interfejsu użytkownika, które są wyróżniane po otrzymaniu fokusu przez program użytkownika"
                         },
                         {
                           "id": "TECH:C15",
-                          "title": "Stosowanie CSS do zmiany wyglądu składnika interfejsu użytkownika, gdy otrzymuje on fokus"
+                          "title": "Stosowanie CSS do zmiany wyglądu komponentu interfejsu użytkownika, gdy otrzymuje on fokus"
                         },
                         {
                           "id": "TECH:G165",
-                          "title": "Stosowanie domyślnego dla platformy oznaczenia fokusu, dzięki czemu będzie ono przenoszone na inne platformy"
+                          "title": "Stosowanie wskaźnika fokusu domyślnego dla platformy, dzięki czemu będzie on przenoszony na inne platformy"
                         },
                         {
                           "id": "TECH:G195",
@@ -4175,7 +4200,7 @@
                       "failure": [
                         {
                           "id": "TECH:F84",
-                          "title": "Niespełnienie kryterium sukcesu 2.4.9 z powodu użycia niespecyficznego łącza, takiego jak \"kliknij tutaj\" lub \"więcej\", bez mechanizmu zmiany tekstu łącza na konkretny tekst"
+                          "title": "Niespełnienie kryterium sukcesu 2.4.9 z powodu użycia niespecyficznego łącza, takiego jak „kliknij tutaj” lub „więcej”, bez mechanizmu zmiany tekstu łącza na konkretny tekst"
                         },
                         {
                           "id": "TECH:F89",
@@ -4207,6 +4232,27 @@
                       "type": "note",
                       "handle": "Uwaga 2",
                       "text": "Powyższe kryterium sukcesu dotyczy sekcji samych tekstów, a nie komponentów interfejsu użytkownika, które omawiane są osobno w ramach kryterium sukcesu 4.1.2."
+                    }
+                  ],
+                  "techniques": [
+                    {
+                      "sufficient": [
+                        {
+                          "id": "TECH:G141",
+                          "title": "Organizowanie strony za pomocą nagłówków"
+                        },
+                        {
+                          "id": "TECH:H69",
+                          "title": "Zapewnienie na początku każdej sekcji treści nagłówków"
+                        }
+                      ]
+                    },
+                      {
+                        "advisory": [] 
+
+                      },
+                    {
+                      "failure": []
                     }
                   ]
                 },
@@ -4248,7 +4294,7 @@
                       "failure": [
                         {
                           "id": "TECH:F110",
-                          "title": "Naruszenie kryterium sukcesu 2.4.12 Fokus niezakryty (minimum) z powodu przyklejonej stopki lub nagłówka, który całkowicie zakrywa element z fokusem"
+                          "title": "Niespełnienie kryterium sukcesu 2.4.12 Fokus niezakryty (minimum) z powodu przyklejonej stopki lub nagłówka, który całkowicie zakrywa element z fokusem"
                         }
                       ]
                     }
@@ -4462,11 +4508,11 @@
                         },
                         {
                           "id": "TECH:G212",
-                          "title": "Stosowanie natywnych elementów sterujących, aby zapewnić, że funkcjonalność zostanie uruchomiona w przypadku zdarzenia zwolnienia dotyku lub nacisku."
+                          "title": "Stosowanie natywnych elementów sterujących, aby zapewnić, że funkcjonalność zostanie uruchomiona w przypadku zdarzenia „w górę” lub nacisku"
                         },
                         {
                           "id": "TECH:text",
-                          "title": "Zdarzenia dotykowe są wyzwalane tylko wtedy, gdy dotyk zostanie usunięty z kontrolki (potencjalna przyszła technika)."
+                          "title": "Zdarzenia dotykowe są wyzwalane tylko wtedy, gdy dotyk zostanie usunięty z kontrolki (potencjalna przyszła technika)"
                         }
                       ]
                     },
@@ -4477,7 +4523,7 @@
                       "failure": [
                         {
                           "id": "TECH:F101",
-                          "title": "Niespełnienie kryterium sukcesu 2.5.2 ze względu na aktywację kontrolki przez naciśnięcie"
+                          "title": "Niespełnienie kryterium sukcesu 2.5.2 ze względu na aktywację kontrolki w wyniku zdarzenia „w dół”"
                         }
                       ]
                     }
@@ -4624,7 +4670,7 @@
                               "techniques": [
                                 {
                                   "id": "TECH:text",
-                                  "title": "Zapewnienie, że cele dotykowe mają co najmniej 44 na 44 piksele CSS."
+                                  "title": "Zapewnienie, że cele dotykowe mają co najmniej 44 na 44 piksele CSS"
                                 },
                                 {
                                   "id": "TECH:text",
@@ -5309,7 +5355,7 @@
                         },
                         {
                           "id": "TECH:G13",
-                          "title": "Opisywanie, co się stanie, zanim nastąpi zmiana w formancie formularza, który powoduje zmianę kontekstu"
+                          "title": "Opisywanie, co się stanie, zanim nastąpi zmiana w kontrolce formularza, który powoduje zmianę kontekstu"
                         },
                         {
                           "id": "TECH:SCR19",
@@ -5405,7 +5451,7 @@
                           "and": [
                             {
                               "id": "TECH:G197",
-                              "title": "Stosowanie etykiet, nazw i alternatyw tekstowych w sposób spójny dla treści o takiej samej funkcjonalności"
+                              "title": "Stosowanie etykiet, nazw i alternatyw tekstowych w sposób spójny dla treści o takiej samej funkcji"
                             }
                           ]
                         }
@@ -5733,11 +5779,11 @@
                           "using": [
                             {
                               "id": "TECH:ARIA1",
-                              "title": "Użycie dostępnej bogatej aplikacji internetowej, opisanej jako właściwość, aby zapewnić opisową etykietę określaną programowo"
+                              "title": "Użycie właściwości aria-describedby, aby zapewnić opisowe etykiety dla kontrolek interfejsu użytkownika"
                             },
                             {
                               "id": "TECH:ARIA9",
-                              "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
+                              "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę z kilku węzłów tekstowych"
                             },
                             {
                               "id": "TECH:ARIA17",
@@ -5775,7 +5821,7 @@
                         },
                         {
                           "id": "TECH:H44",
-                          "title": "Użycie elementu label do kojarzenia etykiet tekstowych z kontrolkami formularzy"
+                          "title": "Użycie elementu label do powiązania etykiet tekstowych z kontrolkami formularzy"
                         },
                         {
                           "id": "TECH:PDF10",
@@ -5796,7 +5842,7 @@
                       "advisory": [
                         {
                           "id": "TECH:G13",
-                          "title": "Opisywanie, co się stanie, zanim nastąpi zmiana w formancie formularza, który powoduje zmianę kontekstu"
+                          "title": "Opisywanie, co się stanie, zanim nastąpi zmiana w kontrolce formularza, który powoduje zmianę kontekstu"
                         }
                       ]
                     },
@@ -6248,11 +6294,11 @@
                       "sufficient": [
                         {
                           "id": "TECH:G218",
-                          "title": "Uwierzytelnianie linków e-mail"
+                          "title": "Uwierzytelnianie łączem e-mail"
                         },
                         {
                           "id": "TECH:H100",
-                          "title": "Zapewnienie odpowiednio oznaczonych danych wejściowych e-mail i hasła"
+                          "title": "Zapewnienie prawidłowo oznaczonych danych wejściowych e-mail i hasła"
                         },
                         {
                           "id": "TECH:text",
@@ -6275,7 +6321,7 @@
                       "failure": [
                         {
                           "id": "TECH:F109",
-                          "title": "Niespełnienie kryterium sukcesu 3.3.8 i 3.3.9 z powodu uniemożliwienia ponownego wprowadzenia hasła lub kodu w tym samym formacie."
+                          "title": "Niespełnienie kryterium sukcesu 3.3.8 i 3.3.9 z powodu uniemożliwienia ponownego wprowadzenia hasła lub kodu w tym samym formacie"
                         }
                       ]
                     }
@@ -6500,7 +6546,7 @@
                                     },
                                     {
                                       "id": "TECH:H44",
-                                      "title": "Użycie elementu label do kojarzenia etykiet tekstowych z kontrolkami formularzy"
+                                      "title": "Użycie elementu label do powiązania etykiet tekstowych z kontrolkami formularzy"
                                     },
                                     {
                                       "id": "TECH:H64",
@@ -6508,7 +6554,7 @@
                                     },
                                     {
                                       "id": "TECH:H65",
-                                      "title": "Użycie atrybutu title do identyfikacji kontrolek formularzy, gdy nie można użyć elementu label"
+                                      "title": "Użycie atrybutu title do oznaczenia kontrolek formularzy, gdy nie można użyć elementu label"
                                     },
                                     {
                                       "id": "TECH:H88",

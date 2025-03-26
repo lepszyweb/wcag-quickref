@@ -268,7 +268,7 @@
                                       },
                                       {
                                         "id": "TECH:ARIA9",
-                                        "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
+                                        "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę z kilku węzłów tekstowych"
                                       },
                                       {
                                         "id": "TECH:FLASH6",
@@ -292,7 +292,7 @@
                                       },
                                       {
                                         "id": "TECH:FLASH32",
-                                        "title": "Użycie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
+                                        "title": "Użycie automatycznego etykietowania do powiązania etykiet tekstowych z kontrolkami formularza"
                                       },
                                       {
                                         "id": "TECH:H24",
@@ -308,11 +308,11 @@
                                       },
                                       {
                                         "id": "TECH:H44",
-                                        "title": "Użycie elementu label do kojarzenia etykiet tekstowych z kontrolkami formularzy"
+                                        "title": "Użycie elementu label do powiązania etykiet tekstowych z kontrolkami formularzy"
                                       },
                                       {
                                         "id": "TECH:H65",
-                                        "title": "Użycie atrybutu title do identyfikacji kontrolek formularzy, gdy nie można użyć elementu label"
+                                        "title": "Użycie atrybutu title do oznaczenia kontrolek formularzy, gdy nie można użyć elementu label"
                                       },
                                       {
                                         "id": "TECH:SL18",
@@ -320,7 +320,7 @@
                                       },
                                       {
                                         "id": "TECH:SL26",
-                                        "title": "Użycie LabeledBy do kojarzenia etykiet i celów w Silverlight"
+                                        "title": "Użycie LabeledBy do powiązania etykiet i celów w Silverlight"
                                       },
                                       {
                                         "id": "TECH:SL30",
@@ -1352,7 +1352,7 @@
                             },
                             {
                               "id": "TECH:ARIA12",
-                              "title": "Użycie atrybutu role=heading oraz aria-level=\"#\"do identyfikacji nagłówków"
+                              "title": "Użycie atrybutu role=heading oraz aria-level=\"#\"do oznaczenia nagłówków"
                             },
                             {
                               "id": "TECH:ARIA13",
@@ -1444,11 +1444,11 @@
                                 },
                                 {
                                   "id": "TECH:H44",
-                                  "title": "Użycie elementu label do kojarzenia etykiet tekstowych z kontrolkami formularzy"
+                                  "title": "Użycie elementu label do powiązania etykiet tekstowych z kontrolkami formularzy"
                                 },
                                 {
                                   "id": "TECH:H65",
-                                  "title": "Użycie atrybutu title do identyfikacji kontrolek formularzy, gdy nie można użyć elementu label"
+                                  "title": "Użycie atrybutu title do oznaczenia kontrolek formularzy, gdy nie można użyć elementu label"
                                 },
                                 {
                                   "id": "TECH:PDF10",
@@ -1460,7 +1460,7 @@
                                 },
                                 {
                                   "id": "TECH:FLASH32",
-                                  "title": "Użycie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
+                                  "title": "Użycie automatycznego etykietowania do powiązania etykiet tekstowych z kontrolkami formularza"
                                 },
                                 {
                                   "id": "TECH:FLASH29",
@@ -1480,7 +1480,7 @@
                                 },
                                 {
                                   "id": "TECH:SL26",
-                                  "title": "Użycie LabeledBy do kojarzenia etykiet i celów w Silverlight"
+                                  "title": "Użycie LabeledBy do powiązania etykiet i celów w Silverlight"
                                 },
                                 {
                                   "id": "TECH:H85",
@@ -1492,7 +1492,7 @@
                                 },
                                 {
                                   "id": "TECH:H42",
-                                  "title": "Użycie znaczników h1-h6 do identyfikacji nagłówków"
+                                  "title": "Użycie znaczników h1-h6 do oznaczenia nagłówków"
                                 },
                                 {
                                   "id": "TECH:PDF9",
@@ -1569,7 +1569,7 @@
                     },
                     {
                       "id": "TECH:ARIA1",
-                      "title": "Użycie właściwości aria-describedby, aby zapewnić opisową etykietę dla kontrolki interfejsu użytkownika"
+                      "title": "Użycie właściwości aria-describedby, aby zapewnić opisowe etykiety dla kontrolek interfejsu użytkownika"
                     },
                     {
                       "id": "TECH:ARIA2",
@@ -2858,7 +2858,7 @@
                   "items": [
                     {
                       "handle": "Komponenty interfejsu użytkownika",
-                      "text": "Informacje wizualne wymagane do identyfikacji komponentów interfejsu użytkownika i ich stanów, z wyjątkiem nieaktywnych składników lub gdy wygląd komponentu jest określony przez agenta użytkownika i nie jest modyfikowany przez autora;"
+                      "text": "Informacje wizualne wymagane do oznaczenia komponentów interfejsu użytkownika i ich stanów, z wyjątkiem nieaktywnych składników lub gdy wygląd komponentu jest określony przez agenta użytkownika i nie jest modyfikowany przez autora;"
                     },
                     {
                       "handle": "Obiekty graficzne",
@@ -4101,7 +4101,7 @@
                     },
                     {
                       "id": "TECH:F85",
-                      "title": "Niespełnienie kryterium sukcesu 2.4.3 z powodu używania okien dialogowych lub menu, które nie sąsiadują z ich kontrolą wyzwalania w kolejności sekwencyjnej nawigacji"
+                      "title": "Niespełnienie kryterium sukcesu 2.4.3 z powodu używania okien dialogowych lub menu, które nie sąsiadują z wyzwalającą je kontrolką kolejności nawigacji sekwencyjnej"
                     }
                   ]
                 }
@@ -5475,7 +5475,7 @@
                     },
                     {
                       "id": "TECH:G13",
-                      "title": "Opisywanie, co się stanie, zanim nastąpi zmiana w formancie formularza, który powoduje zmianę kontekstu"
+                      "title": "Opisywanie, co się stanie, zanim nastąpi zmiana w kontrolce formularza, który powoduje zmianę kontekstu"
                     },
                     {
                       "id": "TECH:SCR19",
@@ -5841,11 +5841,11 @@
                       "using": [
                         {
                           "id": "TECH:ARIA1",
-                          "title": "Użycie dostępnej bogatej aplikacji internetowej, opisanej jako właściwość, aby zapewnić opisową etykietę określaną programowo"
+                          "title": "Użycie właściwości aria-describedby, aby zapewnić opisowe etykiety dla kontrolek interfejsu użytkownika"
                         },
                         {
                           "id": "TECH:ARIA9",
-                          "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę kilku węzłów tekstowych"
+                          "title": "Użycie atrybutu aria-labelledby, aby połączyć etykietę z kilku węzłów tekstowych"
                         },
                         {
                           "id": "TECH:ARIA17",
@@ -5883,11 +5883,11 @@
                     },
                     {
                       "id": "TECH:H44",
-                      "title": "Użycie elementu label do kojarzenia etykiet tekstowych z kontrolkami formularzy"
+                      "title": "Użycie elementu label do powiązania etykiet tekstowych z kontrolkami formularzy"
                     },
                     {
                       "id": "TECH:FLASH32",
-                      "title": "Użycie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
+                      "title": "Użycie automatycznego etykietowania do powiązania etykiet tekstowych z kontrolkami formularza"
                     },
                     {
                       "id": "TECH:FLASH29",
@@ -5903,7 +5903,7 @@
                     },
                     {
                       "id": "TECH:SL26",
-                      "title": "Użycie LabeledBy do kojarzenia etykiet i celów w Silverlight"
+                      "title": "Użycie LabeledBy do powiązania etykiet i celów w Silverlight"
                     },
                     {
                       "id": "TECH:H71",
@@ -5927,7 +5927,7 @@
                   "advisory": [
                     {
                       "id": "TECH:G13",
-                      "title": "Opisywanie, co się stanie, zanim nastąpi zmiana w formancie formularza, który powoduje zmianę kontekstu"
+                      "title": "Opisywanie, co się stanie, zanim nastąpi zmiana w kontrolce formularza, który powoduje zmianę kontekstu"
                     },
                     {
                       "id": "TECH:SL19",
@@ -6427,7 +6427,7 @@
                                 },
                                 {
                                   "id": "TECH:H44",
-                                  "title": "Użycie elementu label do kojarzenia etykiet tekstowych z kontrolkami formularzy"
+                                  "title": "Użycie elementu label do powiązania etykiet tekstowych z kontrolkami formularzy"
                                 },
                                 {
                                   "id": "TECH:H64",
@@ -6435,7 +6435,7 @@
                                 },
                                 {
                                   "id": "TECH:H65",
-                                  "title": "Użycie atrybutu title do identyfikacji kontrolek formularzy, gdy nie można użyć elementu label"
+                                  "title": "Użycie atrybutu title do oznaczenia kontrolek formularzy, gdy nie można użyć elementu label"
                                 },
                                 {
                                   "id": "TECH:H88",
@@ -6469,7 +6469,7 @@
                               "using": [
                                 {
                                   "id": "TECH:FLASH32",
-                                  "title": "Użycie automatycznego etykietowania do kojarzenia etykiet tekstowych z kontrolkami formularza"
+                                  "title": "Użycie automatycznego etykietowania do powiązania etykiet tekstowych z kontrolkami formularza"
                                 },
                                 {
                                   "id": "TECH:FLASH29",
@@ -6489,7 +6489,7 @@
                                 },
                                 {
                                   "id": "TECH:SL26",
-                                  "title": "Użycie LabeledBy do kojarzenia etykiet i celów w Silverlight"
+                                  "title": "Użycie LabeledBy do powiązania etykiet i celów w Silverlight"
                                 },
                                 {
                                   "id": "TECH:SL32",
