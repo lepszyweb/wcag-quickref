@@ -25,7 +25,7 @@ jobs:
 
       - name: "Retrieve GitHub Pages configuration."
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Install Dependencies
         run: |
